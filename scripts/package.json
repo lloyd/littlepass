@@ -1,0 +1,7 @@
+{
+  "author": "Lloyd Hilaiel <me@lloyd.io> (http://lloyd.io)",
+  "private": true,
+  "dependencies": {
+    "google-translate": "*"
+  }
+}
