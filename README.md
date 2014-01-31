@@ -91,8 +91,7 @@ This is just an experiment, it needs many things:
 Ideally, considerable care would be put into crafting wordlists containing words
 that kids just getting started with computers can recognize and type.  To start,
 I took several wordlists online for 3rd graders, and combined them with words from
-the english translation of The Little Prince (starting with the little prince gives
-the project soul, and seems like a reasonable start).  This resulted in a wordlist
+the english translation of The Little Prince.  This resulted in a wordlist
 of 3600 entries.  Finally, I used google's translation API (and 40 USD) to generate
 automatic translations into 70 more languages.
 
