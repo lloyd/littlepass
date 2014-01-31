@@ -57,9 +57,18 @@ strong password that they have a good chance of remembering, and an easy way to 
 
 Will it ever work?
 
+## Security of Generated Passwords?
+
+For the english list, there are 3648 words, two are chosen, and a two digit number with
+90 possible values, placed at either the beginning, middle, or end.
+
+That's 3,593,134,080 possible passwords.  and `log<sub>2</sub>(3593134080)` is ~31 bits of entropy.  With great online brute force mitigation, and 1s of server-side key-stretching and random per-user salt... An online attacker is out of luck, and an attackers who can capture your server must invest 114 years to have a 100% probability of uncovering a user's password.
+
+I think this is safe enough for my 7 year old daughter.  You?
+
 ## Contributing
 
-This is just an experiement, it needs many things:
+This is just an experiment, it needs many things:
 
 0. Better Wordlists!  This system is only as good as its wordlists.  If you
    have a good idea how to get a large set of words appropriate for 8 year olds,
