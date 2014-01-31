@@ -66,7 +66,7 @@ Will it ever work?
 For the english list, there are 3648 words, two are chosen, and a two digit number with
 90 possible values, placed at either the beginning, middle, or end.
 
-That's 3,593,134,080 possible passwords.  and log<sub>2</sub>(3593134080) is ~31 bits of entropy.  With great online brute force mitigation, and 1s of server-side key-stretching and random per-user salt... An online attacker is out of luck, and an attackers who can capture your server must invest 114 years of compute time to have a 100% probability of uncovering a user's password.  That's not all that expensive, but given we're talking about
+That's 3,593,134,080 possible passwords.  and log<sub>2</sub>(3593134080) is ~31 bits of entropy.  With great online brute force mitigation, and 1s of server-side key-stretching and random per-user salt... An online attacker is out of luck, and an attackers who can compromise your server must invest 114 years of compute time to have a 100% probability of uncovering a user's password.  That's not all that expensive, but given we're talking about
 machine generated passwords, transitive attack is mitigated.
 
 I think this is safe enough for my 7 year old daughter.  You?
