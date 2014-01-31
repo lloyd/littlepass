@@ -75,14 +75,14 @@ I think this is safe enough for my 7 year old daughter.  You?
 
 This is just an experiment, it needs many things:
 
-0. Better Wordlists!  This system is only as good as its wordlists.  If you
+0. **Better Wordlists:**  This system is only as good as its wordlists.  If you
    have a good idea how to get a large set of words appropriate for 8 year olds,
    please offer a better wordlist for the language which you speak!
-1. Testing - Do carefully constructed machine generated passwords work for kids?
-2. UX - It'd be awesome if a fantastic flow came along with this tool that showed
+1. **Kid Testing:** - Do carefully constructed machine generated passwords work for kids?
+2. **UX Recommendations:** - It'd be awesome if a fantastic flow came along with this tool that showed
    us a great way to integrate it into products.  It'd be even better if that was
    a flow that was tested on little ones.
-3. Cryptanalysis - The hypothesis is that ~32 bits of entropy combined with strong
+3. **Cryptanalysis** - The hypothesis from this crypto amateur is that ~32 bits of entropy combined with strong
    password handling gives us a good balance between usability and protection for
    kids.  It'd be nice to get some deeper analysis of the security of the system.
 
