@@ -8,11 +8,13 @@ import random
 # parse them options!
 description = "Create passwords appropriate for little ones"
 parser = OptionParser(description=description, version="0.1")
+parser.add_option("-l", "--language", dest="lang",
+                  help="specify the language to use")
 (options, args) = parser.parse_args()
 
 # get the user's language
 locale.setlocale(locale.LC_ALL, '')
-lang = locale.getlocale()[0].split('_')[0]
+lang = options.lang or locale.getlocale()[0].split('_')[0]
 defaultLang = 'en'
 
 # find and read the language appropriate strings file
