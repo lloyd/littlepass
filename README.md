@@ -2,29 +2,11 @@
 
 ## Passwords for little ones
 
-This is an experiment into helping little ones choose better passwords.
-
-Because most computer users repeatedly demonstrate that they [choose terrible passwords][], what is the best we can do to help the next generation do a little better?
-
-It seems like we've [tried][] a [hundred times][] *educating* the masses, and the results are unsatisfying.
-I don't think there's a nice clean answer how people will become safer online.
-
-  [tried]: http://www.youtube.com/watch?v=COU5T-Wafa4
-  [hundred times]: https://www.google.com/search?q=better+passwords
-
-Likely it will be a combination of things:
-higher visibility password compromise which will scare people,
-greater usage of federated identity which will reduce the number of passwords we have to remember,
-increased use of password managers further reducing this number,
-better password hygiene by service providers which reduces the required complexity of a good password,
-and perhaps widespread adoption of password alternatives which rely on multiple authentication factors.
-
-While we wait for the safer and easier world of tomorrow, maybe we can start by educating our little ones on how to cope with the world of today?
-
-This project, inspired by [dinopass][], is an experiment toward helping little ones choose better passwords.
+This project, inspired by [dinopass][], is an experiment toward helping little ones choose better passwords.  [The Little Prince][] is inside.
 
  [choose terrible passwords]: https://xato.net/passwords/more-top-worst-passwords/
  [dinopass]: http://http://www.dinopass.com/
+ [The Little Prince]: http://en.wikipedia.org/wiki/The_Little_Prince
 
 ## Usage
 
@@ -43,6 +25,25 @@ average vocabulary of an 8 year old (a 3rd grader).
     централен81пълен
 
 At time of writing, it speaks 71 language, in fact.
+
+## The Story
+
+Because most computer users repeatedly demonstrate that they [choose terrible passwords][], what is the best we can do to help the next generation do a little better?
+
+It seems like we've [tried][] a [hundred times][] *educating* the masses, and the results are unsatisfying.
+I don't think there's a nice clean answer how people will become safer online.
+
+  [tried]: http://www.youtube.com/watch?v=COU5T-Wafa4
+  [hundred times]: https://www.google.com/search?q=better+passwords
+
+Likely it will be a combination of things:
+higher visibility password compromise which will scare people,
+greater usage of federated identity which will reduce the number of passwords we have to remember,
+increased use of password managers further reducing this number,
+better password hygiene by service providers which reduces the required complexity of a good password,
+and perhaps widespread adoption of password alternatives which rely on multiple authentication factors.
+
+While we wait for the safer and easier world of tomorrow, maybe we can start by educating our little ones on how to cope with the world of today?
 
 ## Using this in a product
 
