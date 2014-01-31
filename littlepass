@@ -1,0 +1,65 @@
+#!/usr/bin/env python
+
+from optparse import OptionParser
+import locale
+import os
+import random
+
+# parse them options!
+description = "Create passwords appropriate for little ones"
+parser = OptionParser(description=description, version="0.1")
+(options, args) = parser.parse_args()
+
+# get the user's language
+locale.setlocale(locale.LC_ALL, '')
+lang = locale.getlocale()[0].split('_')[0]
+defaultLang = 'en'
+
+# find and read the language appropriate strings file
+def findLangDir():
+    # we'll for a directory in /usr/share/littlepass
+    # then in <dir of script>/share
+    langDir = '/usr/share/littlepass'
+
+    if not os.path.isdir(langDir):
+        langDir = os.path.join(os.path.dirname(__file__), 'share')
+        if not os.path.isdir(langDir):
+            return None
+
+    return os.path.abspath(langDir)
+
+# find the wordlist for the selected language
+def findLangFile(langDir, lang, defaultLang):
+    for l in lang, defaultLang:
+        langFile = os.path.join(langDir, l + ".txt")
+        if os.path.isfile(langFile):
+            return langFile
+        langFile += ".gz"
+        if os.path.isfile(langFile):
+            return langFile
+    return None
+
+def readWordList():
+    p = findLangFile(findLangDir(), lang, defaultLang)
+    if p == None:
+        raise IOError, "I can't find a suitable wordlist!"
+    contents = '';
+    if p.endswith('.gz'):
+        import gzip
+        f = gzip.open(p, 'rb')
+        contents = f.read()
+        f.close()
+    else:
+        f = open(p, 'r')
+        contents = f.read()
+        f.close()
+
+    return contents.split()
+
+def genPass():
+    wordlist = readWordList()
+    pwelems = [ random.choice(wordlist), random.choice(wordlist), random.randint(10,99) ]
+    random.shuffle(pwelems)
+    return ''.join(map(str,pwelems))
+
+print genPass()
