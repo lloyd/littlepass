@@ -1,14 +1,10 @@
 forlasita
-abashed
 povis
-abloom
 logxejoj
 pri
 supre
 abrupte
-abruptlyas
 foresto
-absentminded
 absoluta
 absurda
 abunda
@@ -72,10 +68,8 @@ aĝo
 agentejo
 agreson
 monato
-agoyou
 interkonsenti
 agrikulturo
-ah
 antaŭen
 helpo
 celo
@@ -99,8 +93,6 @@ aliancano
 almanako
 preskaŭ
 sola
-aloneall
-alonewill
 kune
 cxesigi
 jam
@@ -116,7 +108,6 @@ Ameriko
 municio
 inter
 kvanto
-amuse
 amuza
 analizi
 anarkio
@@ -129,7 +120,6 @@ anguloj
 kolera
 besto
 bestoj
-animalsi
 maleolo
 datreveno
 anonci
@@ -141,11 +131,9 @@ respondis
 formiko
 amboso
 neniu
-iu ajn
 iu
 ion
 ĉiuokaze
-ie ajn
 krom
 pardonpeti
 ŝajna
@@ -240,7 +228,6 @@ malbona
 insigno
 ekvilibro
 ekvilibra
-balderdash
 pilko
 baleto
 balono
@@ -250,7 +237,6 @@ bandaĝo
 bordo
 festeno
 baobabo
-baobabs
 trinkejo
 frizisto
 nuda
@@ -263,7 +249,6 @@ korbo
 bakaĵo
 piloj
 batalo
-bay
 estu
 plaĝo
 toleri
@@ -277,7 +262,7 @@ igis
 fariĝi
 fariĝas
 igante
-becuase
+ĉar
 lito
 abelo
 estis
@@ -322,13 +307,9 @@ birdoj
 naskiĝtagon
 bito
 mordi
-bject
 nigra
 kulpo
 kovrilo
-bleacher
-bleary
-bleed
 Blest
 blinda
 palpebrumis
@@ -339,9 +320,6 @@ baton
 Eksonigu
 batoj
 blua
-blundering
-boa
-boas
 fanfaronis
 boato
 korpo
@@ -422,7 +400,6 @@ okupita
 sed
 papilioj
 papilio
-butwhat
 aĉeti
 aĉetado
 per
@@ -451,7 +428,6 @@ kandelo
 kanono
 neniom
 baldakeno
-cant
 kapabla
 ĉefurbo
 preno
@@ -476,11 +452,10 @@ kastelo
 kasteloj
 kato
 katastrofo
-catch
 ricevilo
 urĝi
+vermoj
 raŭpoj
-caterpillarswho
 kaptis
 kaŭzo
 batalhalto
@@ -491,10 +466,12 @@ centro
 centimetro
 centraj
 jarcento
+jarcentoj
 ceremonio
 iuj
 certe
 seĝo
+seĝoj
 prezidanto
 cxambro
 ĉampiono
@@ -503,25 +480,23 @@ cxambro
 sangigantaj
 ŝanĝiĝis
 ŝanĝoj
-chap
 kapelo
 karaktero
 lignokarbo
-chare
 ŝarĝi
 ĉarma
 abako
+Leteroj
 postkuro
-cheat
 kontrolu
 kontrolis
 hurao
 ĝoja
-cheetah
 kemiaĵoj
 kemio
 kerubo
 maĉi
+maĉas
 maĉi
 kokido
 kokinoj
@@ -533,21 +508,24 @@ kamentubo
 Ĉinio
 blatoj
 elekto
+elektoj
 sufokis
 elekti
 elektis
-christmas
-chuckle
 preĝejo
+preĝejoj
 cigaro
 cirklo
+cirkloj
 cirkvito
+cirkvitoj
 cirkonferenco
 circunnavegar
-Cirque
 civitano
+civitanoj
 civitaneco
 urbo
+urboj
 civila
 civila
 Clad
@@ -556,16 +534,19 @@ Kunfrapas
 kunfrapis
 klarigi
 kolizio
+kolizioj
 klaso
+klasoj
 klasifiki
+garra
 ungegoj
 puraj
+pura
 purigis
 pureco
 evidenta
 senarbejo
 klare
-clearsighted
 klerikaro
 komizo
 klimato
@@ -575,7 +556,6 @@ horloĝo
 proksima
 fermita
 apude
-pli proksima
 fermaĵo
 ŝtofo
 vestoj
@@ -664,12 +644,9 @@ konservema
 konsideri
 konsiderinda
 konstitucio
-constrictor
-constrictors
 konstruo
 konsultis
 konsumanto
-consumingly
 kontakto
 enhavi
 ujo
@@ -688,7 +665,6 @@ konversacio
 konverti
 konvinkita
 kuiristo
-cookout
 malvarmeta
 kunlabori
 koordinatoj
@@ -704,7 +680,6 @@ kotono
 tuso
 tusis
 povis
-couldnt
 konsilantaro
 kalkuli
 lando
@@ -721,7 +696,6 @@ bovisto
 superplenigas
 akcidento
 kraŝis
-crawl
 freneza
 krei
 ekzistajxo
@@ -737,7 +711,6 @@ krokodilo
 kultivaĵoj
 transiri
 krucmilitoj
-crossexamine
 malafable
 amaso
 homplena
@@ -750,7 +723,6 @@ kubo
 kulturo
 maloportuna
 kuraci
-tuŝo de restu
 vidindaĵo
 kurioza
 kurbita
@@ -761,7 +733,6 @@ moroj
 tranĉo
 ciklo
 cilindro
-dad
 akvobaraĵo
 damaĝo
 danco
@@ -780,7 +751,6 @@ dato
 filino
 tagiĝo
 tago
-dayagain
 tagiĝo
 tagoj
 mortinta
@@ -831,7 +801,6 @@ priskribi
 priskribis
 dezerto
 dezertoj
-desertwhat
 dezajno
 deziro
 skribtablo
@@ -902,7 +871,6 @@ distribueca
 distrikto
 perturbita
 perturbas
-dive
 dividi
 dividita
 divido
@@ -919,16 +887,13 @@ dolaro
 delfeno
 donaci
 farite
-dont
 pordo
 duobla
 dubo
-doubtit
 dubojn
 kolomboj
 malsupren
 malnetoj
-draftsthat
 drako
 dramo
 trinkis
@@ -939,13 +904,10 @@ desegnoj
 desegnis
 treege
 sonĝi
-dreaming
-dreamthis
 vestita
 Drew
 trinki
 trinki
-drive
 Versxigxos
 faligis
 sekeco
@@ -954,7 +916,6 @@ drogon
 ebria
 seka
 anaso
-dug
 duno
 dum
 polvo
@@ -962,7 +923,6 @@ devo
 mortante
 ĉiu
 aglo
-plej frua
 frua
 perlabori
 fervore
@@ -991,7 +951,6 @@ efekto
 peno
 ovo
 ovojn
-eh
 ok
 oka
 EIS
@@ -1003,12 +962,9 @@ elektristo
 elektro
 eleganteco
 elemento
-elephans
 elefanto
 elefantoj
-dek unu
 alie
-embarassed
 embarasita
 ambasadejo
 embrion
@@ -1029,13 +985,10 @@ energio
 efikigi
 motoro
 inĝeniero
-enginegrease
-english
 ĝui
 sufiĉa
 eniri
 plaĉa
-entertainment
 tuta
 tute
 entrepreniston
@@ -1064,7 +1017,6 @@ eterna
 etnaj
 etiketo
 Eŭropo
-european
 taksi
 evaporaría
 eĉ
@@ -1102,7 +1054,6 @@ ekzisti
 ekzistis
 ekzisto
 ekzistas
-exp
 pligrandigi
 ekspansiiĝis
 atendi
@@ -1147,7 +1098,6 @@ sveno
 bela
 sufiĉe
 feino
-infanajn fabelojn
 fidela
 falas
 falintaj
@@ -1163,8 +1113,6 @@ fantazio
 malproksime
 bieno
 farmistoj
-farmyard
-pli malproksimen
 modo
 rapida
 enfortikigu
@@ -1180,7 +1128,6 @@ favora
 timo
 trajto
 federacia
-feed
 sentas
 piedoj
 falis
@@ -1196,10 +1143,7 @@ kelkaj
 kampo
 kampoj
 feroca
-dek kvin
 kvina
-fiftyfour
-fiftythree
 lukto
 figuro
 figuroj
@@ -1222,7 +1166,6 @@ fajraĵoj
 firmao
 firme
 unua
-firstto
 fiŝo
 persvadi
 kvin
@@ -1232,13 +1175,11 @@ flago
 flamo
 fulmilo
 fulme
-flasher
 ebena
 ebenigo
 fuĝi
 muŝoj
 flugo
-float
 ŝafaro
 inundo
 planko
@@ -1246,13 +1187,11 @@ faruno
 flui
 floro
 floroj
-flowerthe
 fluginta
 flue
 fluida
 fluoreska
 ruĝiĝis
-flushes
 flugas
 fokuso
 nebulo
@@ -1268,7 +1207,6 @@ piedo
 futbalo
 piedsigno
 piedbenketo
-footy
 cxar
 toleremeco
 malpermesi
@@ -1280,7 +1218,6 @@ frunto
 eksterlanda
 arbaro
 arbaroj
-por ĉiam
 forgesu
 forgesante
 pardoni
@@ -1292,21 +1229,18 @@ eksa
 formoj
 forlasitan
 feliĉe
-fortyfour
+kvardek
 antaŭen
 trovis
 fontano
-fountainpen
 kvar
 kvara
 vulpo
 vulpoj
-foxhis
 frakcio
 frakturo
 delikata
 bonodoro
-france
 lentuga
 senpaga
 libereco
@@ -1329,7 +1263,6 @@ frukto
 brulaĵo
 vaganto
 plena
-fumble
 amuza
 funkcio
 funde
@@ -1338,13 +1271,12 @@ amuza
 liveri
 meblita
 estonteco
-gadget
 gajni
 ludo
 ludoj
 rubo
 ĝardeno
-gardenand
+ĝardenado
 gaso
 kolekti
 kolektis
@@ -1357,7 +1289,6 @@ generado
 genocido
 afabla
 sinjoro
-gentlemans
 milde
 geografo
 geografoj
@@ -1365,14 +1296,11 @@ geografioj
 geografio
 geometria
 geranioj
-gerbil
 gesto
 akiri
-gets
 vertiĝa
 donaco
 donacoj
-giggle
 zingibro
 ĝirafo
 knabino
@@ -1385,7 +1313,6 @@ kontenta
 rigardo
 brilego
 glaso
-eltiras al la lumo
 glimas
 Glittering
 terglobo
@@ -1397,7 +1324,6 @@ iri
 oro
 ora
 orfisxo
-golf
 iritaj
 bona
 adiaŭ
@@ -1428,14 +1354,11 @@ Salutas
 Kreskis
 malĝojo
 ĉagrenu
-grind
 teron
 grupo
 kreski
 kreskanta
 grumblo
-grownup
-grownups
 kreskas
 grumblis
 garantio
@@ -1454,8 +1377,6 @@ habitato
 logxejo
 hararo
 duono
-halfconfidence
-halfsmile
 koridoro
 halti
 martelo
@@ -1465,7 +1386,6 @@ poŝtuko
 tenilo
 manoj
 bela
-hang
 pendis
 okazi
 okazis
@@ -1477,18 +1397,14 @@ malfacila
 leporo
 damagxo
 malutila
-harmfully
 severa
 rikolto
 havas
-ne havas
 rapidis
 haste
-hasyes
 ĉapelo
 malamas
 havas
-havent
 havanta
 kapo
 kapantauxe
@@ -1517,7 +1433,6 @@ tien
 ermito
 heroo
 mem
-hesitancy
 hezitis
 seslatero
 hiberna
@@ -1525,7 +1440,6 @@ kaŝi
 kaŝas
 kaŝi
 alta
-plej alta
 forrabi
 monteto
 lin
@@ -1565,7 +1479,6 @@ kiom
 tamen
 grandegan
 brakumis
-hum
 homa
 homaro
 humila
@@ -1584,7 +1497,6 @@ vundis
 edzo
 hipotezo
 glacio
-icecream
 ideo
 ideoj
 identigi
@@ -1633,7 +1545,6 @@ ja
 deŝovon
 sendependeco
 sendependa
-indian
 Hindio
 indiferenteco
 individuaj
@@ -1656,7 +1567,6 @@ senkulpa
 senefika
 demandis
 Enketo
-insane
 insekto
 necerta
 nedisigeblaj
@@ -1709,22 +1619,18 @@ inconciliable
 senrilata
 neriparebla
 neinversigebla
-irritably
 iritas
 iritita
 kolero
 estas
 insulo
 insuleto
-ne estas
 izolita
 izocela
 temo
 gxi
 lia
 mem
-iv
-ix
 malliberejo
 ektirita
 juvelo
@@ -1769,11 +1675,8 @@ tranĉilo
 frapi
 nodo
 scias
-knowa
-knowi
 sciante
 scio
-knowmy
 konata
 scias
 artejo
@@ -1787,7 +1690,6 @@ lanternistoj
 lampoj
 lando
 alteriĝis
-landform
 pejzaĝo
 lingvo
 granda
@@ -1840,14 +1742,12 @@ liberalaj
 mensogo
 mensogo
 vivo
-lifefor
 telfero
 lumo
 lumigata
 leĝere
 fulmo
 lumoj
-likable
 kiel
 ŝatis
 verŝajna
@@ -1868,7 +1768,6 @@ vivis
 vivojn
 vivanta
 ŝarĝo
-loafing
 prunto
 omaro
 lokaj
@@ -1902,8 +1801,6 @@ malsupra
 lojala
 lojaleco
 sorto
-lucky
-lugubrious
 varmeta
 luna
 tagmanĝo
@@ -1929,7 +1826,6 @@ farado
 masklo
 malica
 viro
-manhe
 mantelo
 fabrikado
 sterko
@@ -1941,7 +1837,6 @@ markon
 merkato
 edziĝinta
 kasacii
-mars
 miro
 maso
 majstro
@@ -1954,16 +1849,12 @@ matematikon
 afero
 aferoj
 matura
-may
 urbestro
 mi
 faruno
 signifas
-meanadmire
-meanephemeral
 signifo
 rimedoj
-meantame
 mezuri
 mezuron
 viando
@@ -1971,10 +1862,7 @@ mekanikisto
 amaskomunikiloj
 medicino
 meditado
-medow
 renkonti
-meetingplace
-melike
 degelon
 membro
 membroj
@@ -1983,7 +1871,6 @@ memoroj
 memoro
 viroj
 mensa
-menthat
 komercisto
 kompato
 nura
@@ -2010,7 +1897,6 @@ milicio
 lakto
 milimetro
 miliono
-millioni
 milionojn
 mimetismo
 menso
@@ -2037,12 +1923,10 @@ miksi
 miksaĵo
 ĝemo
 popolaĉo
-mobile
 modelo
 modera
 moderna
 modesta
-modestbut
 modeste
 modifi
 saturitaj
@@ -2061,13 +1945,11 @@ monatoj
 Moody
 luno
 lunlumo
-mopped
 bruna
 moralinstruo
 moralista
 pli
 mateno
-morninggood
 plej
 motelo
 patrino
@@ -2084,10 +1966,7 @@ movadoj
 movas
 filmo
 filmoj
-movingand
 multe
-muffin
-muffler
 multipliko
 panjo
 mortigo
@@ -2098,8 +1977,6 @@ muskedoj
 devas
 muzelo
 mia
-min mem
-myselfone
 misteroj
 mistera
 mistero
@@ -2115,7 +1992,6 @@ naturaj
 nature
 naturo
 navo
-navely
 navigado
 mararmeo
 proksime
@@ -2141,7 +2017,6 @@ sekvanta
 bela
 nokto
 neniu
-noeaten
 bruo
 nomumi
 renovables
@@ -2163,7 +2038,6 @@ substantivo
 nutraĵo
 nun
 nenie
-nowthat
 nuklea
 nombro
 numeralo
@@ -2190,7 +2064,6 @@ okupi
 okazis
 oceano
 oceanoj
-oclock
 oklatero
 polpo
 nepara
@@ -2203,12 +2076,9 @@ oficiala
 ofte
 oleo
 maljuna
-oldfashioned
 omnívoro
 fojon
 unu
-ones
-oneself
 nur
 malferma
 malfermis
@@ -2236,7 +2106,6 @@ nia
 forpeli
 ekster
 rezulto
-libera ĉielo
 escandalosamente
 ekstere
 ovala
@@ -2263,7 +2132,6 @@ pentristoj
 farboj
 paro
 pala
-panda
 enspiras
 papero
 paraŝuto
@@ -2305,12 +2173,10 @@ paco
 pace
 pintoj
 Peal
-peevishly
 krajono
 krajonoj
 pingveno
 moneroj
-penny
 kvinlatero
 homoj
 po
@@ -2351,15 +2217,12 @@ rozkolora
 pioniro
 pipon
 domaĝe
-pityyou
 loko
 klare
 plano
 ebeno
 planedo
 planedoj
-planetsgood
-planetssuch
 planoj
 planto
 plantejo
@@ -2373,8 +2236,6 @@ ludas
 pledo
 bonvolu
 kontenta
-pleasedraw
-pleasetame
 plezuro
 abunda
 komploto
@@ -2382,7 +2243,6 @@ desxiri
 desxiritan
 plonĝis
 pluralo
-pocked
 poŝo
 poemo
 poeto
@@ -2391,7 +2251,6 @@ punkto
 pinta
 veneno
 poluso
-poleonly
 polusoj
 polico
 politiko
@@ -2500,7 +2359,6 @@ provizi
 publika
 publikigo
 publikigi
-puff
 tiri
 tiris
 pulio
@@ -2540,7 +2398,6 @@ raso
 radaro
 brilo
 radiado
-radio
 rafano
 radiuso
 floso
@@ -2556,7 +2413,6 @@ pluvarbaro
 levi
 levis
 virŝafo
-ran
 hazarda
 seksatenco
 rapide
@@ -2572,7 +2428,6 @@ atingis
 reagi
 reakcio
 legu
-readercom
 preta
 reala
 realisma
@@ -2600,7 +2455,6 @@ rekordo
 elnombradon
 reakiri
 ruĝa
-redfaced
 redukti
 tambalea
 reflekto
@@ -2633,7 +2487,6 @@ restaĵoj
 rimarkigis
 memoras
 memoris
-rememberhow
 memorigis
 pento
 forigi
@@ -2644,7 +2497,6 @@ riparoj
 ripeti
 ripetis
 respondis
-reply
 raporto
 ripozi
 reprezenti
@@ -2659,7 +2511,6 @@ rekupero
 esploro
 simileco
 similas
-resentfulness
 rezervo
 rezervujo
 rezigni
@@ -2683,7 +2534,6 @@ ripozojn
 rezulto
 reteni
 retiriĝi
-kolere respondis
 reveno
 reuzebla
 malkaŝis
@@ -2727,30 +2577,24 @@ skuis
 raketo
 rokoj
 rulo
-rolling
 tegmento
 ĉambro
 radiko
 radikoj
 ŝnuro
 lilio
-rosebush
-rosebushes
 rozoj
 roza
 rotacia
 malglata
 ronda
 reĝa
-rub
 kaŭĉuko
 ruino
 regulo
 famo
-rumpled
 kuri
 kurado
-runs
 rompo
 kampara
 junko
@@ -2789,7 +2633,6 @@ savita
 segilo
 diru
 dirante
-saynot
 diras
 skalo
 skalenoj
@@ -2810,7 +2653,6 @@ ekrano
 skulptaĵo
 maro
 sigelon
-search
 maroj
 sezono
 segxo
@@ -2824,7 +2666,6 @@ sekureco
 vidi
 semo
 semoj
-seei
 vidante
 sercxi
 serĉante
@@ -2838,7 +2679,6 @@ kapti
 kaptis
 kapto
 mem
-selfevident
 vendi
 vendado
 rando
@@ -2863,11 +2703,9 @@ starigi
 starigis
 sep
 sepa
-seventytwo
 pluraj
 severa
 sekso
-shabby
 ombroj
 tremi
 cxu
@@ -2878,9 +2716,6 @@ akra
 akrigita
 ŝi
 ŝafo
-sheepif
-sheeps
-sheepthe
 tukon
 konko
 konkuloj
@@ -2917,7 +2752,6 @@ arbusto
 ŝultrolevo
 movante
 fermita
-kiu fermas
 Siberio
 malsana
 malsaneca
@@ -2943,8 +2777,6 @@ kantas
 kantado
 sola
 profundiĝi
-sire
-sireover
 fratino
 sidu
 ejo
@@ -2965,17 +2797,14 @@ sklavo
 sklaveco
 dormo
 dormi
-slide
 malpeza
 iomete
-slip
 malrapida
 malrapida
 malrapide
 malgranda
 malgranda
 inteligenta
-smash
 odoro
 flaris
 rideto
@@ -2986,9 +2815,7 @@ glata
 heliko
 serpento
 serpentoj
-snakesthey
 neĝo
-snuggle
 tiom
 jabonosa
 larmante
@@ -3051,14 +2878,12 @@ branĉon
 printempo
 fontoj
 aspergu
-sprinklingcan
 ŝoson
 ŝosojn
 ŝprucigis
 spiono
 kvadrato
 kvadratoj
-squatter
 sciuro
 ponardopiko
 scenejo
@@ -3107,9 +2932,7 @@ rektajn
 stranga
 stranga
 rimeno
-strategems
 strategio
-straying
 strato
 turmenta
 sekcio
@@ -3120,7 +2943,6 @@ paŝegoj
 striko
 ŝnuro
 strio
-stroller
 promeno
 forta
 strukturo
@@ -3136,7 +2958,6 @@ submarŝipo
 substanco
 anstataŭanto
 antaŭurboj
-subversion
 okazi
 sukcesis
 sukceso
@@ -3189,7 +3010,6 @@ sxvelis
 suprennagxis
 naĝado
 relŝanĝisto
-switchmans
 silabo
 silaboj
 simbolo
@@ -3207,12 +3027,10 @@ Debato
 parolis
 parolas
 alta
-plej alta
 subigi
 dresita
 Dresu
 tanko
-tardy
 blanka
 tarifo
 tasko
@@ -3243,9 +3061,7 @@ tenere
 delikateco
 streĉa
 termino
-terrarium
 terura
-terrifically
 teritorio
 teruro
 teroristaj
@@ -3255,9 +3071,6 @@ dankon
 Feliĉe
 dankon
 ke
-thatin
-thatlook
-thats
 la
 teatro
 iliaj
@@ -3265,11 +3078,9 @@ ilin
 temo
 mem
 tiam
-thenthe
 teorio
 tie
 do
-therehappy
 tiuj
 oni
 dika
@@ -3283,10 +3094,8 @@ tria
 soifo
 soifanta
 tridek
-thirtyone
 ĉi
 dornoj
-thornswhat
 funde
 tiuj
 kvankam
@@ -3303,7 +3112,6 @@ trono
 tra
 ĵeti
 dikfingroj
-thump
 tondro
 tondris
 ĵaŭdo
@@ -3314,13 +3122,10 @@ tigro
 tigroj
 tempon
 fojoj
-timewell
 timema
 stelo
 eta
 Tipler
-tippler
-tipplers
 pneŭo
 laca
 pneŭoj
@@ -3338,7 +3143,6 @@ morgaŭ
 tono
 lingvo
 ĉinokte
-tonightyou
 Tonsilo
 tro
 prenis
@@ -3353,7 +3157,6 @@ suferanta
 entute
 tuŝi
 tusxis
-tour
 rilate
 turo
 urbeto
@@ -3440,7 +3243,6 @@ kunigita
 universala
 universo
 universitato
-krom se
 malverŝajne
 malfeliĉa
 nenecesa
@@ -3467,10 +3269,9 @@ vakcino
 valo
 valora
 valoro
-vanitywhich
+vantaĵo
 vegetaĵa
 veturilo
-venusto
 verbo
 verdikto
 estonta
@@ -3482,7 +3283,6 @@ vetoo
 turmentatajn
 viktimo
 venkon
-video
 vilagxo
 vinbergxardenoj
 malobservas
@@ -3510,11 +3310,10 @@ atendante
 atendas
 vekigxis
 marŝi
-walkand
 marsxis
 piedirante
+promenas
 muro
-walland
 muroj
 vagadi
 vagas
@@ -3554,7 +3353,6 @@ surhavis
 vetero
 regas
 ttt
-weed
 herbaĉoj
 semajno
 semajnfino
@@ -3569,21 +3367,16 @@ okcidento
 malseka
 malsekejo
 kio
-kio ajn
 tritiko
 rado
 radoj
 kiam
-el kie
-kiam ajn
 kie
-kie ajn
 ĉu
 kio
 dum
 blanka
 kiuj
-kiu ajn
 tuta
 kiujn
 ajn
@@ -3591,7 +3384,6 @@ kial
 larĝa
 edzino
 sovaĝa
-wildfire
 volas
 volonte
 gajni
@@ -3615,7 +3407,6 @@ atestanto
 vekis
 lupo
 virino
-won
 miraklo
 mirinda
 scivolante
@@ -3638,7 +3429,6 @@ malbona
 malbona
 valoras
 farus
-wouldnt
 vundo
 ŝiprompiĝo
 restoj
@@ -3651,7 +3441,6 @@ jardo
 oscedas
 oscedis
 oscedanta
-yawns
 jaro
 cxiujara
 jaroj
@@ -3663,13 +3452,9 @@ tien
 vi
 junuloj
 via
-youre
-la via
 mem
 mem
 junulara
-youthe
-youve
 Zelando
 zebro
 nulo

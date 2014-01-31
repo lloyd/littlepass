@@ -6,9 +6,7 @@ mājvietām
 par
 iepriekš
 pēkšņi
-abruptlyas
 trūkums
-absentminded
 absolūts
 absurds
 bagātīgs
@@ -18,7 +16,6 @@ akceptēt
 pieņemts
 nejaušība
 uzgavilēt
-saskaņā ar
 konts
 precīzs
 apvainot
@@ -72,11 +69,9 @@ vecums
 aģentūra
 agresija
 pirms
-agoyou
 piekrist
 lauksaimniecība
 ak
-uz priekšu
 palīdzība
 mērķis
 gaisa
@@ -84,7 +79,6 @@ lidmašīna
 lidmašīnas
 lidosta
 signalizācija
-ak vai
 albums
 alkohols
 algebrisks
@@ -99,13 +93,10 @@ sabiedrotais
 kalendārs
 gandrīz
 tikai
-aloneall
-alonewill
 kopā
 nomaļus
 jau
 arī
-kaut gan
 kopā
 vienmēr
 izbrīns
@@ -129,7 +120,6 @@ leņķi
 dusmīgs
 dzīvnieks
 dzīvnieki
-animalsi
 potīte
 gadadiena
 paziņot
@@ -143,8 +133,6 @@ lakta
 jebkurš
 kāds
 ikviens
-kaut kas
-katrā ziņā
 jebkur
 atsevišķi
 atvainoties
@@ -168,7 +156,6 @@ ir
 platība
 strīdēties
 aritmētika
-arizona
 roka
 ierocis
 armija
@@ -219,7 +206,6 @@ apmeklēt
 uzmanība
 atribūti
 revīzija
-rīta blāzma
 Austrālija
 autors
 pilnvaras
@@ -277,7 +263,7 @@ jo
 kļūt
 kļūst
 kļūstot
-becuase
+jo
 gulta
 bite
 ir
@@ -306,7 +292,6 @@ oga
 blakus
 turklāt
 vislabāk
-kļūt neuzticīgam
 labāk
 starp
 apmulsis
@@ -319,15 +304,12 @@ miljards
 bioloģija
 putns
 putni
-dzimšanas diena
 bits
 kodums
-bject
 melns
 vainot
 sega
 balinātājs
-bleary
 asiņot
 laimīgs
 akls
@@ -339,8 +321,6 @@ trieciens
 aizelsies
 sitieniem
 zils
-blundering
-boa
 boa
 lepojās
 laiva
@@ -351,7 +331,6 @@ bumba
 kauls
 asakains
 grāmata
-grāmatu skapis
 grāmatas
 Boomtown
 apmale
@@ -422,7 +401,6 @@ aizņemts
 bet
 tauriņi
 tauriņš
-butwhat
 nopirkt
 pērk
 līdz
@@ -479,8 +457,8 @@ katastrofa
 loms
 ķērējs
 ķeršanai
+kāpurs
 kāpuri
-caterpillarswho
 nozvejotas
 cēlonis
 pamiers
@@ -491,10 +469,12 @@ centrs
 centimetrs
 galvenais
 gadsimts
+gadsimtu
 ceremonija
 drošs
 protams
 krēsls
+krēsli
 priekšsēdētājs
 kamera
 čempions
@@ -507,12 +487,13 @@ sasprēgāt
 kapela
 raksturs
 kokogles
-chare
 maksa
 burvīgs
 diagramma
+diagrammas
 pakaļdzīšanās
 pievilt
+Mīklas
 pārbaude
 pārbaudīts
 uzmundrināt
@@ -533,21 +514,25 @@ skurstenis
 Ķīna
 mikroshēmas
 izvēle
+izvēles
 robežstāvokļa
 izvēlēties
+izvēlētais
 izvēlējās
 Ziemassvētki
 nosmieties
 baznīca
+baznīcas
 cigarete
 aplis
-circuit
+apļi
+shēmas
 apkārtmērs
-apbraukt apkārt
-Cirque
 pilsonis
+pilsoņi
 pilsonība
 pilsēta
+pilsētām
 pilsoņu
 civilpersona
 plaķēti
@@ -556,16 +541,19 @@ aplaudēt
 uzsita
 noskaidrot
 sadursme
+sadursmes
 klase
+klases
 klasificēt
+nags
 spīles
 tīrs
+Attīra
 iztīrīt
 tīrīšana
 skaidrs
 noskaidrošana
 skaidri
-clearsighted
 garīdznieks
 darbinieks
 klimats
@@ -611,7 +599,6 @@ komiteja
 kopīgs
 sazināties
 kopiena
-commutative
 pavadoņi
 kompānija
 salīdzināt
@@ -665,11 +652,9 @@ apsvērt
 ievērojams
 konstitūcija
 žņaugs
-constrictors
 būvniecība
 apspriedusies
 patērētājs
-consumingly
 kontakts
 saturēt
 konteiners
@@ -688,7 +673,6 @@ saruna
 pārvērst
 pārliecināts
 pavārs
-cookout
 atdzist
 sadarboties
 koordinātas
@@ -702,9 +686,7 @@ cena
 kostīms
 kokvilna
 klepus
-coughed
 varētu
-couldnt
 padome
 skaitīt
 valsts
@@ -737,7 +719,6 @@ krokodils
 kultūras
 šķērsot
 šķērsoja
-crossexamine
 dusmīgi
 pūlis
 pārpildīts
@@ -750,7 +731,6 @@ kubs
 kultūra
 apgrūtinošs
 izārstēt
-vakara zvans
 ziņkārība
 ziņkārīgs
 krokainajām
@@ -769,7 +749,6 @@ dejoja
 briesmas
 bīstams
 bīstami
-dangling
 uzdrīkstēties
 neuzdrošinājās
 tumšs
@@ -780,7 +759,6 @@ datums
 meita
 ausma
 diena
-dayagain
 rītausma
 dienas
 miris
@@ -808,7 +786,6 @@ pakāpe
 nomāktība
 aizkavēšana
 delegāts
-delta
 pieprasījums
 pieprasīja
 demokrātija
@@ -831,7 +808,6 @@ aprakstīt
 aprakstīts
 tuksnesis
 tuksneši
-desertwhat
 dizains
 vēlēšanās
 rakstāmgalds
@@ -857,7 +833,6 @@ uzturs
 atšķirība
 atšķirīgs
 grūti
-dig
 karsējot
 gremošana
 rakšana
@@ -886,7 +861,6 @@ atklājums
 diskriminācija
 apspriest
 slimība
-disheartened
 atlaist
 nepaklausība
 nepaklausīt
@@ -894,7 +868,6 @@ izkliedēšana
 vienreizējās
 strīds
 sagraušana
-citādi domājošs cilvēks
 attālums
 atšķirt
 izcils
@@ -906,7 +879,6 @@ nirt
 dalīt
 dalīts
 nodaļa
-do
 ārsts
 dokuments
 nav
@@ -919,16 +891,12 @@ dolārs
 delfīns
 ziedot
 gatavots
-dont
 durvis
 divkāršs
 šaubas
-doubtit
 šaubas
 baloži
-uz leju
 dambrete
-draftsthat
 pūķis
 drāma
 dzēra
@@ -939,9 +907,6 @@ zīmējumi
 sastādīts
 briesmīgi
 sapnis
-dreaming
-dreamthis
-dressed
 Drew
 dzēriens
 dzeršana
@@ -981,7 +946,6 @@ viegli
 ēdamais
 atbalss
 piebalsoja
-echolocation
 ekoloģija
 ekonomija
 ekosistēma
@@ -991,7 +955,6 @@ efekts
 pūles
 ola
 olas
-eh
 astoņi
 astotais
 EIS
@@ -1001,9 +964,7 @@ vēlēšanas
 elektrības
 elektriķis
 elektrība
-elegance
 elements
-elephans
 zilonis
 ziloņi
 vienpadsmit
@@ -1029,7 +990,6 @@ enerģija
 uzspiest
 dzinējs
 inženieris
-enginegrease
 angļu
 baudīt
 pietiekami
@@ -1079,7 +1039,6 @@ visur
 pierādījums
 ļaunums
 precīzs
-tieši tā
 pārbaudīt
 izskatīšanu
 piemērs
@@ -1102,7 +1061,6 @@ pastāvēt
 pastāvēja
 esamība
 pastāv
-exp
 izvērst
 paplašināts
 gaidīt
@@ -1127,7 +1085,6 @@ paplašināt
 izmiris
 dzēšana
 nodzēsts
-extra
 neparasts
 ekstrēms
 ļoti
@@ -1180,7 +1137,6 @@ favorīts
 bailes
 iezīme
 federālā
-feed
 justies
 pēdas
 samazinājās
@@ -1198,8 +1154,6 @@ lauki
 nikns
 piecpadsmit
 piektais
-fiftyfour
-fiftythree
 cīņa
 skaitlis
 skaitļi
@@ -1222,7 +1176,6 @@ uguņošana
 firma
 stingri
 pirmais
-firstto
 zivs
 piemērots
 pieci
@@ -1232,7 +1185,6 @@ karogs
 liesma
 zibspuldze
 atlaidinātas
-flasher
 dzīvoklis
 izlīdzināšanās
 bēgt
@@ -1246,7 +1198,6 @@ milti
 plūsma
 zieds
 ziedi
-flowerthe
 jālido
 tekoši
 šķidrums
@@ -1260,14 +1211,11 @@ salocīt
 folklora
 sekot
 seko
-fond
 pārtika
 muļķis
 dumjš
 pēda
 futbols
-pēdas nospiedums
-kāju ķeblītis
 Footy
 par
 atturība
@@ -1280,7 +1228,6 @@ piere
 ārzemju
 mežs
 meži
-uz visiem laikiem
 aizmirst
 aizmirstot
 piedot
@@ -1292,16 +1239,13 @@ bijušais
 veidi
 pamests
 laimīgi
-fortyfour
-uz priekšu
+četrdesmit
 dibināt
 strūklaka
-fountainpen
 četri
 ceturtais
 lapsa
 lapsas
-foxhis
 daļa
 lūzums
 trausls
@@ -1344,7 +1288,7 @@ spēle
 spēles
 atkritumi
 dārzs
-gardenand
+dārzkopība
 gāze
 savākt
 pulcējās
@@ -1361,10 +1305,8 @@ Gentlemans
 maigi
 ģeogrāfs
 ģeogrāfi
-ģeogrāfisko teritoriju
 ģeogrāfija
 ģeometrisks
-geraniums
 Smilšu
 žests
 nokļūt
@@ -1396,7 +1338,6 @@ iet
 notiek
 zelts
 zelta
-zelta zivtiņa
 golfs
 pazudis
 labs
@@ -1404,13 +1345,11 @@ ardievas
 labsirdība
 preces
 zoss
-got
 valdīt
 valdība
 grācija
 pakāpe
 grauds
-grainfields
 gramatika
 grandiozs
 granīts
@@ -1434,8 +1373,6 @@ grupa
 augt
 audzēšana
 ņurdēt
-grownup
-vasaras nometnēs
 aug
 kurnēja
 galvojums
@@ -1443,19 +1380,15 @@ sargs
 partizānu
 uzminēt
 nojauta
-guessing
 virzīt
 ceļveži
 vainīgs
 lielgabals
 pistoles
 ieradums
-dzīves vieta
 mājoklis
 mati
 puse
-halfconfidence
-halfsmile
 gaitenis
 piestātne
 āmurs
@@ -1464,7 +1397,6 @@ roka
 kabatlakats
 rokturis
 rokas
-handsomest
 pakārt
 drapērijas
 notikt
@@ -1484,11 +1416,9 @@ ir
 nav
 steidzās
 steidzīgi
-hasyes
 cepure
 ienīst
 būt
-havent
 ņemot
 vadītājs
 pārsteidzīgi
@@ -1506,7 +1436,6 @@ debesis
 debesis
 smags
 augstums
-held
 helikopters
 palīdzēt
 puslode
@@ -1543,7 +1472,6 @@ caurumi
 brīvdiena
 svēts
 mājas
-Skumjas pēc mājām
 godīgs
 medus
 gods
@@ -1637,7 +1565,6 @@ Indijas
 Indies
 vienaldzība
 indivīds
-indulgently
 rūpniecība
 neefektīvs
 inficēt
@@ -1674,11 +1601,9 @@ instrumenti
 nepakļāvība
 izolators
 apvainojums
-vesels skaitlis
 intelekts
 gudrs
 intensīvs
-savstarpēja atkarība
 procenti
 ieinteresēts
 interesants
@@ -1709,7 +1634,6 @@ nesamierināms
 nenozīmīgs
 nelabojams
 neatgriežams
-irritably
 kairināt
 iekaisušas
 iekaisums
@@ -1723,17 +1647,13 @@ izdevums
 tā
 tā
 pats
-iv
-ix
 cietums
-jerked
 dārgakmens
 darbs
 pievienoties
 locītava
 joks
 brauciens
-ar prieku
 tiesnesis
 tiesāti
 spriežot
@@ -1760,7 +1680,6 @@ veids
 laipnība
 karalis
 karaļvalsts
-kings
 skūpsts
 kaķēns
 ceļi
@@ -1769,11 +1688,8 @@ nazis
 klauvēt
 mezgls
 zināt
-knowa
-knowi
 zinot
 zināšanas
-knowmy
 zināms
 zina
 stilbs
@@ -1782,18 +1698,14 @@ laboratorija
 trūkums
 ezers
 lampa
-lampu aizdedzējs
-lamplighters
 lampas
 zeme
 nolaidies
-landform
 ainava
 valoda
 liels
 lielāks
 laso
-pēdējo reizi
 ilga
 ilgst
 vēlu
@@ -1806,7 +1718,6 @@ smejošs
 smejas
 smiekli
 sākt
-veļas mazgātava
 likums
 nolikt
 slinks
@@ -1825,7 +1736,6 @@ kreisi
 likumīgs
 leģenda
 likumdošanas
-likumdevēja vara
 kājas
 atpūta
 aizdot
@@ -1833,14 +1743,11 @@ garums
 mazāk
 mācība
 ļaut
-lets
 vēstule
 līmenis
 liberālis
 meli
-lies
 dzīve
-lifefor
 lifts
 gaisma
 izgaismotas
@@ -1868,7 +1775,6 @@ dzīvoja
 dzīve
 dzīvs
 slodze
-loafing
 aizdevums
 omārs
 vietējs
@@ -1918,7 +1824,6 @@ pārspīlēt
 pasts
 galvenais
 saglabāt
-majestātisks cēls
 majestātiski
 varenība
 lielākais
@@ -1929,7 +1834,6 @@ izgatavošana
 vīrietis
 ļaunprātīgs
 vīrietis
-manhe
 apvalks
 ražošana
 mēsli
@@ -1959,11 +1863,8 @@ mērs
 mani
 maltīte
 nozīmēt
-meanadmire
-meanephemeral
 nozīmē
 līdzeklis
-meantame
 pasākums
 mērīšana
 gaļa
@@ -1971,10 +1872,8 @@ mehāniķis
 mediji
 medicīna
 pārdomas
-medow
 apmierināt
 MeetingPlace
-melike
 kausējums
 biedrs
 locekļi
@@ -1983,20 +1882,17 @@ atmiņas
 atmiņa
 cilvēki
 garīgs
-menthat
 tirgotājs
 žēlsirdība
 tikai
 tikai
 nopelns
 ziņa
-met
 metāls
 metālisks
 skaitītāji
 metode
 mikroskops
-midair
 vidus
 pusnakts
 varētu
@@ -2010,7 +1906,6 @@ milicija
 piens
 milimetrs
 miljons
-millioni
 miljoniem
 mīmikrija
 prāts
@@ -2026,7 +1921,6 @@ protokols
 brīnumains
 spogulis
 nelaimēm
-palaist garām
 raķešu
 pazudis
 kļūda
@@ -2036,13 +1930,11 @@ pārpratumi
 sajaukt
 maisījums
 vaidēja
-mob
 mobils
 modelis
 mērens
 mūsdienu
 pieticīgs
-modestbut
 pieticīgi
 modificēt
 samitrināts
@@ -2060,14 +1952,11 @@ mēnesis
 mēnešiem
 kaprīzs
 mēness
-mēness gaisma
-mopped
 morēna
 morāls
 morālists
 vairāk
 rīts
-morninggood
 visvairāk
 motelis
 māte
@@ -2084,7 +1973,6 @@ kustības
 pārceļas
 filma
 kino
-movingand
 daudz
 kēkss
 kaklauts
@@ -2099,7 +1987,6 @@ nepieciešams
 purns
 mans
 pats
-myselfone
 noslēpumi
 noslēpumains
 noslēpums
@@ -2115,9 +2002,7 @@ dabas
 dabiski
 daba
 joms
-navely
 navigācija
-jūras kara flote
 netālu
 nepieciešams
 nepieciešamība
@@ -2141,7 +2026,6 @@ nākamais
 jauks
 nakts
 neviens
-noeaten
 troksnis
 izvirzīt
 neatjaunojamo
@@ -2154,7 +2038,6 @@ deguni
 nav
 notācija
 piezīme
-piezīmju grāmatiņa
 piezīmes
 nekas
 paziņojums
@@ -2163,7 +2046,6 @@ lietvārds
 barība
 tagad
 nekur
-nowthat
 kodola
 numurs
 cipars
@@ -2190,7 +2072,6 @@ ieņemt
 notika
 okeāns
 okeāni
-oclock
 astoņstūris
 astoņkājis
 nepāra
@@ -2203,7 +2084,6 @@ oficiāls
 bieži
 eļļa
 vecs
-oldfashioned
 visēdājs
 reiz
 viens
@@ -2212,7 +2092,6 @@ sevi
 tikai
 atvērts
 atvērts
-opera
 darboties
 darbība
 domas
@@ -2237,7 +2116,6 @@ izspiest
 ārā
 iznākums
 ārā
-outrageously
 ārpus
 ovāls
 vairāk
@@ -2248,7 +2126,6 @@ gāzt
 parādā
 pūce
 paša
-pieder valstij
 īpašnieks
 pieder
 vērši
@@ -2263,8 +2140,6 @@ mākslinieki
 krāsas
 pāris
 bāls
-panda
-panted
 papīrs
 izpletnis
 parāde
@@ -2273,7 +2148,6 @@ paralēle
 paralelograms
 apžēlot
 vecāks
-apaļās iekavas
 parks
 parlaments
 pētersīļi
@@ -2289,7 +2163,6 @@ caurlaide
 nodots
 pasažieris
 pasažieri
-paviršs paziņa
 caurlaides
 iet
 pase
@@ -2305,11 +2178,9 @@ miers
 mierīgi
 virsotnes
 rībēt
-peevishly
 zīmulis
 zīmuļi
 pingvīns
-pennies
 penijs
 Pentagons
 cilvēki
@@ -2321,7 +2192,6 @@ aromatizēti
 varbūt
 perimetrs
 periods
-iet bojā
 pastāvīgs
 atļauja
 atļauja
@@ -2343,7 +2213,6 @@ attēli
 gabals
 gabali
 cūka
-piled
 tablete
 tabletes
 pilots
@@ -2351,15 +2220,12 @@ sārts
 pionieris
 caurule
 Žēl
-pityyou
 vieta
 klaji
 plāns
 plakne
 planēta
 planētas
-planetsgood
-planetssuch
 plāni
 iekārta
 stādījums
@@ -2368,21 +2234,16 @@ plastmasa
 spēlēt
 spēlēta
 jautrs
-spēļu laukums
 spēlē
 lūgums
 lūdzu
 priecīgs
-pleasedraw
-pleasetame
 prieks
 daudz
 gabals
 iekšas
 noplūktas
-plunged
 daudzskaitlis
-pocked
 kabata
 dzejolis
 dzejnieks
@@ -2391,7 +2252,6 @@ punkts
 smails
 inde
 stabs
-poleonly
 stabi
 policija
 politika
@@ -2427,17 +2287,14 @@ jauda
 spēcīgs
 prērija
 slavēt
-skaitīt lūgšanas
 sludinātājs
 iepriekšējais
 vērtīgs
 precīzs
 precīzi
 precizitāte
-predator
 prognozēt
 paredzamu
-grūtniecības stāvoklī
 preparāti
 sagatavot
 gatavots
@@ -2455,7 +2312,6 @@ profilakse
 upuris
 cena
 lepnums
-prime
 pirmatnējs
 princis
 prinči
@@ -2466,10 +2322,8 @@ prizma
 cietums
 privāts
 balva
-droši vien
 problēma
 problēmas
-process
 ražot
 ražotājs
 produkts
@@ -2478,13 +2332,11 @@ profesija
 profesors
 peļņa
 programma
-progress
 projekts
 solījums
 ātri
 pierādījums
 pierādījumi
-propaganda
 pienācīgs
 pienācīgi
 īpašums
@@ -2540,7 +2392,6 @@ rase
 radars
 mirdzums
 starojums
-radio
 redīss
 rādiuss
 plosts
@@ -2556,7 +2407,6 @@ Rainforest
 paaugstināt
 izvirzīts
 auns
-ran
 nejaušs
 izvarošana
 ātri
@@ -2572,7 +2422,6 @@ sasniedza
 reaģēt
 reakcija
 lasīt
-readercom
 gatavs
 reāls
 reālistisks
@@ -2600,7 +2449,6 @@ ieraksts
 atstāstīt
 atgūt
 sarkans
-redfaced
 samazināt
 tīšanas
 pārdomas
@@ -2633,7 +2481,6 @@ atliekas
 atzīmēja
 atcerēties
 atcerējās
-rememberhow
 atgādināja
 nožēla
 noņemt
@@ -2659,10 +2506,8 @@ glābšana
 pētniecība
 līdzība
 līdzināties
-resentfulness
 rezerve
 rezervuārs
-atkāpties no amata
 pretoties
 apņēmīgs
 rezolūcija
@@ -2670,7 +2515,6 @@ skanēja
 resursi
 cieņa
 cienījams
-ar cieņu
 atbildēja
 atbilde
 atbildība
@@ -2685,7 +2529,6 @@ saglabāt
 aiziet
 atcirta
 atgriešanās
-atkārtoti lietojamu
 atklāja
 sapņojums
 Atdzīvinot
@@ -2747,7 +2590,6 @@ gumija
 pazudināt
 noteikums
 baumas
-rumpled
 palaist
 skriešana
 iet
@@ -2755,7 +2597,6 @@ plīsums
 lauku
 steiga
 steidzās
-rushing
 Krievija
 sarūsējis
 sabotāža
@@ -2773,11 +2614,9 @@ sāls
 salūts
 sveicināja
 sveicieniem
-tas pats
 smiltis
 smiltis
 nogrima
-sat
 satelīts
 satīns
 apmierināts
@@ -2789,21 +2628,17 @@ glābšana
 zāģis
 teikt
 sakot
-saynot
 saka
 mērogs
-scalene
 tikko
 nobijies
 šalle
-spilgti sarkans
 atbaidošs
 pazinējs
 zinātnieki
 skola
 zinātne
 zinātnieki
-scorned
 skorpions
 spiegšana
 ekrāns
@@ -2824,7 +2659,6 @@ drošība
 redzēt
 sēkla
 sēklas
-seei
 redzēšana
 meklēt
 meklē
@@ -2838,7 +2672,6 @@ konfiscēt
 konfiscēti
 krampji
 pats
-selfevident
 pārdot
 pārdošana
 mala
@@ -2863,7 +2696,6 @@ nokārtot
 pastāvīgo
 septiņi
 septītais
-seventytwo
 vairāki
 smags
 dzimums
@@ -2878,9 +2710,7 @@ ass
 uzasināti
 viņa
 aita
-sheepif
 Aitas
-sheepthe
 lapa
 apvalks
 čaumalas
@@ -2914,8 +2744,6 @@ rāda
 parādīts
 sarauties
 krūms
-paraustīt plecus
-shrugging
 slēgts
 aizveras
 Sibīrija
@@ -2944,7 +2772,6 @@ dziedāšana
 viens
 izlietne
 majestāte
-sireover
 māsa
 sēdēt
 vietā
@@ -2964,7 +2791,6 @@ debesis
 vergs
 verdzība
 miegs
-sleeping
 slidkalniņš
 viegls
 viegli
@@ -2980,13 +2806,11 @@ smarža
 smaržoja
 smaids
 pasmaidīja
-smiling
 dūmu
 gluds
 gliemezis
 čūska
 čūskas
-snakesthey
 sniegs
 pieglausties
 tā
@@ -3006,11 +2830,8 @@ atrisināt
 daži
 kāds
 kāds
-someones
-kaut kas
 dažreiz
 nedaudz
-kaut kur
 dēls
 dziesma
 drīz
@@ -3051,14 +2872,12 @@ zariņš
 pavasaris
 atsperes
 apkaisīt
-sprinklingcan
 asns
 kāposti
 šņāca
 spiegs
 kvadrātveida
 kvadrātu
-squatter
 vāvere
 sadurt
 posms
@@ -3067,7 +2886,6 @@ stāvēt
 stāvoklis
 zvaigzne
 noraudzījās
-stargazer
 Pagaidām
 sākums
 sākās
@@ -3107,7 +2925,6 @@ taisni
 dīvains
 Savādā
 siksna
-strategems
 stratēģija
 klaiņojošus
 iela
@@ -3156,11 +2973,9 @@ vasara
 summas
 saule
 svētdiena
-saules gaisma
 saullēkts
 saulriets
 saulrieti
-saules gaisma
 uzraudzīt
 piegāde
 atbalsts
@@ -3174,7 +2989,6 @@ pārpalikums
 pārsteigums
 pārsteigts
 padošanās
-surround
 pārdzīvot
 aizdomīgs
 apturēt
@@ -3189,7 +3003,6 @@ viļņošanās
 peldēt
 peldēšana
 pārmijnieks
-switchmans
 zilbe
 zilbes
 simbols
@@ -3245,30 +3058,23 @@ saspringts
 termiņš
 terāriju
 šausmīgs
-terrifically
 teritorija
 terors
 terorists
 pārbaude
 nekā
 paldies
-par laimi
 paldies
 ka
-thatin
-thatlook
-thats
 teātris
 viņu
 viņiem
 tēma
 paši
 tad
-thenthe
 teorija
 tur
 tāpēc
-therehappy
 šī
 viņi
 biezs
@@ -3282,10 +3088,8 @@ trešais
 slāpes
 izslāpis
 trīsdesmit
-thirtyone
 šī
 ērkšķiem
-thornswhat
 pamatīgi
 tās
 tomēr
@@ -3297,11 +3101,9 @@ draudēt
 trīs
 izmeta
 zelt
-throbs
 tronis
 caur
 mest
-thumbs
 pukstēt
 pērkons
 dārdēja
@@ -3313,13 +3115,10 @@ tīģeris
 tīģeri
 laiks
 reizes
-timewell
 kautrīgs
 vizulis
 niecīgs
-tipler
 žūpa
-tipplers
 riepa
 noguris
 riepas
@@ -3337,7 +3136,6 @@ rīt
 tonis
 mēle
 šovakar
-tonightyou
 mandele
 pārāk
 ņēma
@@ -3348,7 +3146,6 @@ tops
 mokas
 ieplīsis
 spīdzināšana
-tossed
 kopsumma
 pieskarties
 pieskārās
@@ -3397,8 +3194,6 @@ karaspēks
 tropu
 nepatikšanas
 pamiers
-kravas automašīna
-trudged
 patiess
 patiesi
 uzticība
@@ -3406,7 +3201,6 @@ patiesība
 mēģināt
 mēģinot
 caurule
-tundra
 turku
 kārta
 Izrādījās
@@ -3424,7 +3218,6 @@ neglīts
 ultraskaņa
 nedroši
 neērts
-saskaņā ar
 zem
 saprast
 saprašana
@@ -3439,8 +3232,6 @@ vienots
 universāls
 visums
 universitāte
-ja vien
-maz ticams
 nelaimīgs
 nevajadzīgs
 noskrūvēt
@@ -3450,7 +3241,6 @@ augšup
 pēc
 taisnīgs
 sajukums
-uz augšu
 pilsētas
 mudināt
 steidzams
@@ -3466,24 +3256,18 @@ vakcīna
 ieleja
 vērtīgs
 vērtība
-vanitywhich
+iedomība
 dārzeņu
-transporta līdzeklis
-venusto
-darbības vārds
 spriedums
 zizlis
 īsts
 versija
 virsotne
 ļoti
-veto
 moka
 upuris
 uzvara
-video
 ciems
-vīna dārzi
 pārkāpt
 vardarbība
 vīza
@@ -3509,11 +3293,11 @@ gaidīšana
 gaida
 pamodos
 staigāt
-walkand
 staigāja
+gājējs
 iešana
+pastaigas
 siena
-Walland
 sienas
 klīst
 Vanderss
@@ -3536,7 +3320,6 @@ pulksteņi
 dzirdina
 laistīšanas
 ūdeņi
-watt
 vilnis
 viļņains
 viļņi
@@ -3551,12 +3334,8 @@ valkāt
 nogurums
 nogurdinošs
 laiks
-weathervane
-web
 nezāle
-sēru tērps
 nedēļa
-nedēļas nogale
 raudošs
 nosvērt
 gaidīts
@@ -3573,8 +3352,6 @@ kvieši
 ritenis
 riteņi
 kad
-no kurienes
-kad vien
 kur
 kur
 vai
@@ -3582,18 +3359,14 @@ kurš
 kamēr
 balts
 kurš
-lai kas
 viss
 kuram
-whomever
 kāpēc
 plašs
 sieva
 mežonīgs
-skrejoša uguns
 griba
 gatavs
-win
 vējš
 logs
 logi
@@ -3637,7 +3410,6 @@ sliktāk
 vissliktākais
 vērts
 būtu
-wouldnt
 brūce
 vraks
 vraks
@@ -3650,26 +3422,17 @@ pagalms
 žāvas
 nožāvājās
 žāvāšanās
-yawns
 gads
-katru gadu
 gadu
 dzeltens
 jā
 vakar
 vēl
-tas tur
 jums
 jauns
 jūsu
-youre
 tavs
 sevi
 sev
 jaunatne
-youthe
-youve
-zealand
-zebra
 nulle
-zooloģiskais dārzs

@@ -6,8 +6,6 @@ demeures
 sur
 au-dessus
 brusquement
-abruptlyas
-absence
 distrait
 absolu
 absurde
@@ -16,7 +14,6 @@ abus
 abîme
 accepter
 acceptée
-accident
 acclamation
 selon
 compte
@@ -25,30 +22,22 @@ accuser
 réalisation
 connaissance
 connaissance
-à travers
 acte
-action
 actes
 actif
 militant
 acteur
-en fait
 aigu
 adapter
-adaptation
 ajouter
 ajoutée
-addition
 rajusté
 administrer
-administration
-admiration
 admirer
 admirateur
 admirateurs
 admettre
 adopter
-adoption
 adorer
 ornement
 adulte
@@ -57,10 +46,8 @@ avantage
 aventures
 afficher
 conseiller
-au loin
 affaire
 affecter
-affection
 peur
 Afrique
 africain
@@ -71,21 +58,14 @@ contre
 âge
 agence
 agression
-Il ya
-agoyou
-se mettre d'accord
-agriculture
-ah
 devant
 aide
 objectif
-air
 avion
 avions
 aéroport
 alarme
 hélas
-album
 alcool
 algébrique
 algorithme
@@ -93,20 +73,14 @@ descendre
 même
 vivant
 tout
-alligator
 permettre
 allié
 almanach
 presque
 seul
-aloneall
-alonewill
-le long de
 distant
 déjà
 aussi
-bien que
-tout à fait
 toujours
 stupéfaction
 ambassadeur
@@ -116,7 +90,6 @@ Amérique
 munitions
 entre
 montant
-amuse
 amusant
 analyser
 anarchie
@@ -124,12 +97,7 @@ ancêtre
 ancien
 et
 colère
-angle
-angles
-en colère
-animal
 animaux
-animalsi
 cheville
 anniversaire
 annoncer
@@ -144,12 +112,7 @@ tout
 personne
 personne
 rien
-de toute façon
-n'importe où
-à part
 s'excuser
-apparent
-apparition
 appel
 apparaître
 apparence
@@ -163,7 +126,6 @@ approximatif
 tablier
 aqueduc
 archéologie
-architecture
 sont
 région
 soutenir
@@ -179,16 +141,13 @@ arrêté
 arrivée
 arriver
 arrivé
-art
 artificiel
 artillerie
 comme
 cendre
 honteux
-de côté
 interroger
 demandé
-de travers
 demander
 demande
 endormi
@@ -207,7 +166,6 @@ astronaute
 astronome
 astronomique
 astronomie
-en morceaux
 asile
 mangé
 atmosphère
@@ -215,15 +173,11 @@ atome
 joindre
 attaque
 tentative
-assister à
-attention
 attributs
-audit
 aurore
 Australie
 auteur
 autorité
-automobile
 automne
 disponible
 moyenne
@@ -237,31 +191,22 @@ maladroit
 bébé
 arrière
 mauvais
-badge
 équilibre
 équilibré
 balivernes
 balle
-ballet
 ballon
 scrutin
 interdire
-bandage
 banque
-banquet
-baobab
-baobabs
-bar
 coiffeur
 nu
 négocier
 baril
 barrière
-base
 base-ball
 panier
 lot
-batteries
 bataille
 baie
 être
@@ -272,19 +217,15 @@ battre
 battement
 beau
 beauté
-est devenu
-parce que
 devenir
 devient
 devenir
-becuase
 lit
 abeille
 été
 abeilles
 avant
 mendier
-a commencé
 commencer
 début
 commence
@@ -303,18 +244,14 @@ fléchissement
 avantageux
 courbé
 baie
-à côté de
 outre
 meilleur
 trahir
 mieux
 entre
 perplexe
-au-delà de
 grand
-plus gros
 vélo
-projet de loi
 milliard
 biologie
 oiseau
@@ -322,7 +259,6 @@ oiseaux
 anniversaire
 peu
 mordre
-bject
 noir
 blâme
 couverture
@@ -331,7 +267,6 @@ chassieux
 saigner
 béni
 aveugle
-cligné des yeux
 bloc
 sang
 fleur
@@ -340,8 +275,6 @@ gonflé
 coups
 bleu
 maladroit
-boa
-boas
 vantée
 bateau
 corps
@@ -353,13 +286,11 @@ osseux
 livre
 bibliothèque
 livres
-ville en plein essor
 frontière
 s'ennuyer
 alésages
 né
 emprunter
-tous les deux
 gêne
 bouteille
 bouteilles
@@ -368,22 +299,18 @@ acheté
 boîte
 boîtes
 garçon
-boycott
 garçons
-bracelet
 cerveau
 branche
 courageux
 pain
 pause
 panne
-petit déjeuner
 rupture
 respirer
 respiré
 brise
 brique
-de mariée
 pont
 bref
 clair
@@ -399,7 +326,6 @@ brun
 bulle
 seau
 bourgeon
-budget
 construire
 bâtiment
 construit
@@ -413,24 +339,18 @@ brûlé
 terrier
 rafale
 enterrer
-bus
 buissons
 entreprise
-homme d'affaires
-les hommes d'affaires
 occupé
 mais
 papillons
 papillon
-butwhat
 acheter
 achat
 par
 chou
 choux
 cabine
-cabinet
-cactus
 gâteau
 calculer
 calculs
@@ -439,22 +359,14 @@ appelé
 calmer
 venu
 chameau
-appareil photo
-camouflage
-camp
 campagne
 boîte
 annuler
-cancer
 candidat
 bougie
 canon
-ne peut pas
 dais
 pente
-capable
-capital
-capture
 voiture
 caravane
 carbone
@@ -463,7 +375,6 @@ carrière
 prudent
 soigneusement
 négligemment
-carnivore
 tapis
 transport
 réalisé
@@ -475,12 +386,11 @@ jeter
 château
 châteaux
 chat
-catastrophe
 prise
 receveur
 contagieux
+chenille
 chenilles
-caterpillarswho
 pris
 raison
 cessez-le-
@@ -489,39 +399,34 @@ cave
 cellules
 centre
 centimètre
-central
 siècle
+siècles
 cérémonie
-certain
 assurément
 chaise
+chaises
 président
 chambre
-champion
-chance
 changement
-changeable
 modifié
 changements
-chap
 chapelle
 caractère
-charbon de bois
-Cette technologie innovante
 charger
 charmant
 graphique
+graphiques
 chasse
 tricher
+astuces
 vérifier
-à carreaux
 acclamation
 gai
 guépard
-produits chimiques
 chimie
 chérubin
 mâcher
+mâche
 mâcher
 poulet
 poulets
@@ -531,24 +436,25 @@ enfants
 cheminée
 chimpanzé
 porcelaine
-chips
+choix
 choix
 étranglée
 choisir
+choisie
 choisir
 Noël
 rire
+rires
 église
-cigarette
+églises
 cercle
-circuit
+cercles
 circonférence
-le tour
-cirque
 citoyen
+ressortissants
 citoyenneté
 ville
-civil
+villes
 civil
 habillé
 revendication
@@ -556,16 +462,19 @@ tape
 applaudi
 clarifier
 choc
+affrontements
 classe
+cours
 classer
+griffe
 griffes
 propre
+nettoie
 nettoyé
 nettoyage
 clair
 clairière
 clairement
-clairvoyante
 clergé
 greffier
 climat
@@ -575,13 +484,11 @@ horloge
 proche
 fermé
 étroitement
-plus près
 fermeture
 chiffon
 vêtements
 nuage
 charbon
-coalition
 côte
 côtier
 café
@@ -590,7 +497,6 @@ froid
 effondrement
 collègue
 recueillir
-collection
 collège
 colonie
 couleur
@@ -611,13 +517,10 @@ comité
 commun
 communiquer
 communauté
-commutative
 compagnons
 entreprise
 comparer
 boussole
-compatible
-compensation
 rivaliser
 concurrence
 compléter
@@ -626,7 +529,6 @@ complètement
 complexe
 compliqué
 composer
-composite
 compréhension
 compromis
 calculs
@@ -635,25 +537,19 @@ vaniteux
 concentré
 préoccupation
 concerné
-conclusion
 condamner
-condition
-conditions
 conduite
 conducteur
 cône
 conférence
 confesser
 avoué
-confession
 confié
 confiance
-confidences
 confirmer
 conflit
 affrontement
 embrouiller
-confusion
 féliciter
 congrès
 conforme
@@ -663,28 +559,19 @@ conséquence
 conservateur
 envisager
 considérable
-constitution
-constrictor
 constricteurs
-construction
 consulté
 consommateur
-consumingly
 Contact
 contenir
 conteneur
-contemplation
 teneur
-continent
-continents
 continuer
 continue
 continuité
 contraire
 contrôle
 pratique
-convention
-conversation
 convertir
 convaincu
 cuisinier
@@ -696,24 +583,17 @@ copie
 coquette
 maïs
 coin
-correct
-corruption
 coût
-costume
 coton
 toux
 toussa
 pourrait
-nous ne pouvions pas
 conseil
 compter
 pays
-courage
 cours
 tribunal
 courtoisement
-cousin
-les cousins
 couverture
 couvert
 vache
@@ -721,7 +601,6 @@ cow-boy
 entassés
 accident
 écrasé
-crawl
 fou
 créer
 créature
@@ -729,15 +608,12 @@ créatures
 crédit
 équipage
 s'écria
-crime
 criminel
 crise
 critiquer
-crocodile
 cultures
 traverser
 barré
-crossexamine
 humeur
 foule
 bondé
@@ -746,8 +622,6 @@ couronne
 broyeur
 cri
 pleurs
-cube
-culture
 lourd
 guérison
 couvre-feu
@@ -759,14 +633,12 @@ courant
 coutume
 douane
 coupe
-cycle
 cylindre
 papa
 barrage
 dommage
 danse
 dansé
-danger
 dangereux
 dangereusement
 ballants
@@ -776,11 +648,9 @@ sombre
 sombre
 obscurité
 données
-date
 fille
 aube
 jour
-dayagain
 aube
 journées
 mort
@@ -808,7 +678,6 @@ degré
 abattement
 retard
 délégué
-delta
 demande
 exigé
 démocratie
@@ -831,7 +700,6 @@ décrire
 décrit
 désert
 déserts
-desertwhat
 conception
 désir
 bureau
@@ -851,7 +719,6 @@ diamant
 dictateur
 dictionnaire
 fait
-n'a pas
 mourir
 régime
 différence
@@ -859,15 +726,12 @@ autre
 difficile
 creuser
 digérer
-digestion
 creusement
 chiffre
 fossette
 dîner
 diplomate
-direct
 dirigée
-direction
 saleté
 inconvénient
 disparaître
@@ -877,13 +741,11 @@ désappointé
 désarmer
 dérangé
 catastrophe
-discipline
 découragé
 découvrir
 découvert
 découvre
 découverte
-discrimination
 discuter
 maladie
 découragé
@@ -894,42 +756,29 @@ dispersion
 jetable
 différend
 perturbation
-dissident
-distance
 distinguer
 distingué
 distributif
-district
 perturbé
 inquiétant
 plongeon
 fracture
 divisé
-division
 faire
 médecin
-document
 ne
-ne pas
 chien
 chiens
 faire
 poupée
-dollar
 dauphin
 donner
-done
 n'avez
 porte
-double
 doute
-doubtit
 doutes
 colombes
-vers le bas
 brouillons
-draftsthat
-dragon
 drame
 bu
 tirer
@@ -940,7 +789,6 @@ tiré
 épouvantablement
 rêver
 rêver
-dreamthis
 habillé
 Drew
 boisson
@@ -955,22 +803,18 @@ ivre
 sec
 canard
 creusés
-dune
 pendant
 poussière
 devoir
 mourant
 chaque
 aigle
-plus tôt
 tôt
 gagner
 sérieusement
 ouïe
 terre
-tremblement de terre
 terres
-ver de terre
 facilité
 facilement
 est
@@ -988,14 +832,11 @@ mange
 bord
 éducation
 effet
-effort
 œuf
 œufs
 hein
 huit
 huitième
-eis
-non plus
 élus
 élection
 électrique
@@ -1003,7 +844,6 @@ non plus
 électricité
 élégance
 élément
-elephans
 éléphant
 éléphants
 onze
@@ -1022,14 +862,12 @@ vide
 enchantement
 rencontres
 fin
-en voie de disparition
 supporter
 ennemi
 énergie
 imposer
 moteur
 ingénieur
-enginegrease
 Anglais
 jouir
 assez
@@ -1038,7 +876,6 @@ divertissement
 divertissement
 tout
 entièrement
-entrepreneur
 entrée
 environnement
 éphémère
@@ -1059,7 +896,6 @@ essentiel
 établir
 établi
 estimation
-estimation
 éternel
 ethnique
 étiquette
@@ -1072,18 +908,14 @@ soirée
 événement
 jamais
 tous
-tout le monde
-tout le monde
 tous
 partout
 preuve
 mal
-exact
 exactement
 examiner
 examen
 exemple
-excellent
 sauf
 échange
 excité
@@ -1091,8 +923,6 @@ excitation
 passionnant
 s'écrier
 s'écria
-exclusion
-excuse
 exécuter
 exécutif
 exercice
@@ -1100,9 +930,7 @@ exercice
 exil
 exister
 existé
-existence
 existe
-exp
 développer
 étendu
 attendre
@@ -1110,8 +938,6 @@ l'expectative
 expulser
 expérience
 expérience
-expert
-experts
 expliquer
 expliqué
 expliquant
@@ -1122,10 +948,8 @@ explorateur
 explorateurs
 exportation
 exprimer
-expression
 étendre
 éteint
-extinction
 éteint
 supplémentaire
 extraordinaire
@@ -1134,7 +958,6 @@ extrêmement
 extrémiste
 œil
 yeux
-face
 visages
 parement
 fait
@@ -1147,7 +970,6 @@ délavé
 juste
 équitablement
 fée
-contes de fées
 fidèle
 tomber
 déchu
@@ -1158,23 +980,16 @@ familier
 familles
 famille
 célèbre
-fan
 fantaisie
 loin
 ferme
 agriculteurs
-cour de ferme
-plus loin
 mode
 rapide
 attachez
 graisse
-fatal
 père
-fatigue
-la faute
 favoriser
-favorable
 favori
 favori
 peur
@@ -1183,13 +998,10 @@ fédéral
 alimentation
 sentir
 pieds
-est tombé
 homme
 feutre
 femelle
 clôture
-fertile
-festival
 fièvre
 fébrile
 peu
@@ -1198,14 +1010,10 @@ champs
 féroce
 quinze
 cinquième
-fiftyfour
-cinquante-trois
 bataille
-figure
 chiffres
 remplir
 rempli
-film
 finale
 enfin
 financier
@@ -1218,11 +1026,9 @@ finition
 fini
 feu
 incendies
-feu d'artifice
 entreprise
 fermement
 première
-firstto
 poisson
 s'adapter
 cinq
@@ -1230,7 +1036,6 @@ fixer
 fixation
 drapeau
 flamme
-flash
 flashé
 clignotant
 plat
@@ -1246,18 +1051,14 @@ farine
 s'écouler
 fleur
 fleurs
-flowerthe
-en vol
 couramment
 fluide
-fluorescent
 rincé
 bouffées
 voler
 centre
 brouillard
 plier
-folklore
 suivre
 suit
 amoureux
@@ -1265,15 +1066,12 @@ nourriture
 tromper
 stupide
 pied
-football
 empreinte
 tabouret
-footy
 pour
 abstention
 interdire
 interdiction
-force
 forcé
 prévision
 front
@@ -1292,7 +1090,7 @@ ancien
 formes
 abandonné
 heureusement
-fortyFour
+quarante
 avant
 trouvé
 fontaine
@@ -1301,10 +1099,6 @@ quatre
 quatrième
 renard
 renards
-foxhis
-fraction
-fracture
-fragile
 parfum
 France
 rousseur
@@ -1322,10 +1116,8 @@ effrayé
 effraie
 affreux
 grenouille
-à partir de
 avant
 gelé
-fruit
 carburant
 fugitif
 plein
@@ -1338,13 +1130,12 @@ drôle
 fournir
 meublé
 avenir
-gadget
 gagner
 jeu
 jeux
 ordures
 jardin
-gardenand
+jardinage
 gaz
 recueillir
 recueillies
@@ -1357,7 +1148,6 @@ génération
 génocide
 doux
 gentilhomme
-gentlemans
 doucement
 géographe
 géographes
@@ -1372,7 +1162,6 @@ obtient
 étourdi
 cadeau
 cadeaux
-pouffer de rire
 gingembre
 girafe
 fille
@@ -1382,13 +1171,11 @@ donné
 donne
 donnant
 heureux
-coup d'oeil
 éblouissement
 verre
 briller
 lueurs
 scintillement
-globe
 objectif
 chèvre
 dieu
@@ -1396,11 +1183,8 @@ va
 aller
 or
 d'or
-poisson rouge
-golf
 disparu
 bon
-au revoir
 bonté
 marchandises
 oie
@@ -1408,27 +1192,20 @@ obtenu
 gouverner
 gouvernement
 grâce
-grade
-grain
-champs de céréales
 grammaire
 grandiose
 granit
 graphique
 herbe
-grave
 gravement
 gris
 grand
-plus grand
 plus
 considérablement
 vert
 saluer
-a augmenté
 douleur
 deuil
-grind
 sol
 groupe
 croître
@@ -1445,21 +1222,14 @@ deviner
 deviné
 deviner
 guider
-guides
 coupable
 pistolet
-armes à feu
 habitude
-habitat
-habitation
 cheveux
 moitié
-halfconfidence
-halfsmile
 couloir
 arrêt
 marteau
-hamster
 main
 mouchoir
 traiter
@@ -1468,7 +1238,6 @@ beau
 coup
 suspendu
 arriver
-des événements
 passe
 heureux
 heureusement
@@ -1481,18 +1250,14 @@ détériorer
 sévère
 récolte
 a
-a pas
 hâté
 hâtivement
-hasyes
 chapeau
 haine
 avoir
 nai
 ayant
 tête
-la tête la première
-siège social
 guérir
 santé
 entendre
@@ -1503,15 +1268,12 @@ cœur
 chaleur
 chauffage
 ciel
-mon Dieu
 lourd
 hauteur
-en attente
 hélicoptère
 aider
 hémisphère
 son
-herbivore
 troupeau
 ici
 ermite
@@ -1525,7 +1287,6 @@ cacher
 peaux
 dissimulation
 haut
-le plus haut
 détournement
 colline
 lui
@@ -1549,12 +1310,10 @@ miel
 honneur
 espoir
 cornes
-horrible
 horreur
 cheval
 hôpital
 otage
-hostile
 chaud
 hôtel
 chaud
@@ -1568,17 +1327,14 @@ cependant
 bourdonnement
 humain
 humanité
-humble
 humour
 cent
-des centaines
 faim
 avide
 chasse
 chasseur
 chasseurs
 pressé
-se dépêcher
 presser
 blessé
 mari
@@ -1589,7 +1345,6 @@ idée
 idées
 identifier
 identité
-au repos
 ignorer
 illégal
 illisible
@@ -1597,94 +1352,67 @@ illicite
 analphabète
 illogique
 illustrer
-image
-imagination
 imaginer
 jeune
 incommensurable
 immédiat
 immensité
-immigrant
 immigrer
-immobile
-immoral
 immeuble
 impénétrable
 importation
-importance
-important
-impossible
 imprenable
 impressionner
 impressionnant
-improbable
 améliorer
 amélioré
 dans
 inexacte
 pouce
 pouces
-incident
 inciter
 comprendre
 incompatible
 augmenter
-en effet
 échancrure
 indépendance
 indépendant
 Indien
-indies
 indifférence
 individuel
-avec indulgence
 industrie
 inefficace
 infecter
 inférer
 infesté
-inflation
 rayonnement
 informer
-information
 habitants
 habitée
 injecter
 blesser
 encre
-innocent
 inopérant
 demanda
 enquête
 fou
 insecte
-peu sûr
 inséparable
-à l'intérieur
 insisté
 inspecter
-inspection
 inspirant
 exemple
-instant
 immédiatement
 plutôt
-instrument
-instruments
-insubordination
 isolant
 insulte
 entier
-intelligence
-intelligent
-intense
 interdépendance
 intérêt
 intéressé
 intéressant
 intérêts
 interférer
-international
 Internet
 interrompu
 sécante
@@ -1695,36 +1423,27 @@ ivre
 envahir
 inventer
 inventé
-invention
-inverse
 investir
 enquêter
-invisible
 inviter
 impliquer
 fer
-irr
 irrationnel
 irréconciliable
-sans importance
 irréparable
 irréversible
 irritation
 irriter
 irrité
-irritation
 est
 île
 îlot
-est pas
 isolé
 isocèle
 question
 il
 sa
 lui-même
-iv
-ix
 prison
 saccadé
 bijou
@@ -1741,17 +1460,13 @@ judiciaire
 saut
 sauté
 sauteur
-jungle
 Jupiter
 juridiction
-jury
 juste
-justice
 kangourou
 garder
 conservé
 clé
-coup de pied
 enlèvement
 tuer
 assassiné
@@ -1769,11 +1484,8 @@ couteau
 frapper
 nœud
 savoir
-Knowa
-Knowi
 connaissance
 connaissance
-knowmy
 connu
 sait
 articulation
@@ -1782,23 +1494,16 @@ laboratoire
 manque
 lac
 lampe
-allumeur de réverbères
-allumeurs de réverbères
 lampes
 terre
-a atterri
 relief
 paysage
 langue
 grand
-plus grande
-lasso
 dernier
 duré
 dure
 tard
-plus tard
-latitude
 rire
 ridicule
 ri
@@ -1825,7 +1530,6 @@ gauche
 juridique
 légende
 législatif
-corps législatif
 jambes
 loisir
 prêter
@@ -1840,7 +1544,6 @@ libéral
 mensonge
 mensonges
 vie
-lifefor
 soulever
 lumière
 éclairé
@@ -1853,9 +1556,7 @@ aimé
 probable
 limite
 ligne
-linger
 lien
-lion
 lèvres
 liquide
 liste
@@ -1871,30 +1572,22 @@ chargement
 paresse
 prêt
 homard
-local
 emplacement
 bloquer
 serrures
-locomotive
 logique
 solitaire
-long
 plus
-longitude
 regarder
 regardé
 recherche
-en vrac
 desserré
 perdre
 perdu
-lot
 beaucoup
 fort
-plus fort
 amour
 aimé
-plus belle
 charmant
 amours
 faible
@@ -1908,9 +1601,7 @@ tiède
 lunaire
 déjeuner
 mensonge
-machine
 fabriqué
-magazine
 magie
 magnétique
 magnifique
@@ -1953,17 +1644,13 @@ mathématicien
 mathématiques
 question
 questions
-mature
 peut
 maire
 moi
 repas
 signifier
-meanadmire
-meanephemeral
 sens
 moyens
-meantame
 mesurer
 mesures
 viande
@@ -1971,10 +1658,7 @@ mécanicien
 médias
 médecine
 méditation
-medow
 rencontrer
-meetingplace
-melike
 fusion
 membre
 membres
@@ -1982,52 +1666,37 @@ mémorial
 souvenirs
 mémoire
 hommes
-mental
-menthat
 commerçant
 miséricorde
 simple
 seulement
 mérite
-message
 rencontré
 métal
 métallique
 mètres
 méthode
-microscope
-en plein ciel
 milieu
 minuit
 puissance
 émigrer
-migration
-mile
-miles
-militant
 militaire
 milice
 lait
 millimètre
-million
 Millioni
-des millions
 mimétisme
 esprit
-mine
 minéral
-miniature
 ministre
 mineur
 minorité
 cathédrale
-minute
 procès-verbal
 miraculeux
 miroir
 malheurs
 manquer
-missile
 manquant
 erreur
 erreurs
@@ -2037,18 +1706,15 @@ mélanger
 mélange
 gémit
 foule
-mobile
 modèle
 modéré
 moderne
 modeste
-modestbut
 modestement
 modifier
 humidifié
 humidité
 fondu
-moment
 monarque
 argent
 singe
@@ -2058,18 +1724,12 @@ monotonie
 monstre
 mois
 mois
-de mauvaise humeur
 lune
-clair de lune
 épongé
-moraine
-moral
 moraliste
 plus
 matin
-morninggood
 plus
-motel
 mère
 mouvement
 immobile
@@ -2081,25 +1741,19 @@ déménagement
 déplacé
 mouvement
 mouvements
-se déplace
 film
 films
-movingand
 beaucoup
-muffin
 silencieux
-multiplication
 maman
 assassiner
 murmura
 champignon
 musique
 mousquet
-il faut
 museau
 ma
 moi-même
-myselfone
 mystères
 mystérieux
 mystère
@@ -2108,17 +1762,11 @@ nommé
 noms
 étroit
 nasale
-nation
-national
 indigène
 naturel
 naturellement
-nature
 nef
-navely
-navigation
 marine
-près de
 nécessaire
 nécessité
 cou
@@ -2141,29 +1789,22 @@ suivant
 agréable
 nuit
 personne
-noeaten
 bruit
 nommer
-non renouvelable
 midi
 ni
-normal
 nord
 nez
 nez
 pas
-notation
 Note
 cahier
-notes
 rien
 délai
 remarquant
 nom
 nourriture
 maintenant
-nulle part
-nowthat
 nucléaire
 nombre
 chiffre
@@ -2178,24 +1819,18 @@ objecté
 objets
 obligé
 obscur
-observation
 observer
 obstruée
 obtus
 évidemment
-occasion
-occupation
 occupé
 occuper
-eu lieu
 océan
 océans
-oclock
 octogone
 poulpe
 impair
 de
-offensive
 proposition
 bureau
 officier
@@ -2204,8 +1839,6 @@ souvent
 huile
 vieux
 démodé
-omnivore
-une fois
 un
 ceux
 soi-même
@@ -2215,11 +1848,9 @@ ouvert
 opéra
 fonctionner
 opération
-opinion
 s'opposer
 opposé
 opprimer
-orange
 orbite
 ordre
 ordonné
@@ -2236,9 +1867,7 @@ notre
 évincer
 dehors
 résultat
-à l'extérieur
 outrageusement
-à l'extérieur
 ovale
 sur
 surmonter
@@ -2248,12 +1877,10 @@ renversement
 devoir
 hibou
 propre
-en propriété
 propriétaire
 posséder
 bœufs
 pacifique
-page
 douleur
 douloureusement
 laborieux
@@ -2263,15 +1890,11 @@ peintres
 peintures
 paire
 pâle
-panda
 haletait
 papier
-parachute
-parade
 paragraphe
 parallèle
 parallélogramme
-pardon
 mère
 parenthèses
 parc
@@ -2280,7 +1903,6 @@ persil
 partie
 partiel
 particule
-les parties
 partenaire
 perdrix
 parties
@@ -2290,31 +1912,23 @@ passé
 passager
 passagers
 passant
-passes
 passage
 passeport
 passé
 brevet
 chemin
-patience
-patient
 motif
-pause
 payer
 paix
 pacifiquement
 pics
 carillonner
-peevishly
 crayon
 crayons
 manchot
-pennies
-penny
 Pentagone
 personnes
 par
-pour cent
 parfait
 effectuer
 parfumé
@@ -2322,7 +1936,6 @@ peut-être
 périmètre
 période
 périr
-permanent
 autorisation
 permis
 perpendiculaire
@@ -2334,7 +1947,6 @@ pétition
 ouf
 photo
 photosynthèse
-phrase
 physique
 physique
 choisi
@@ -2351,30 +1963,20 @@ rose
 pionnier
 tuyau
 pitié
-pityyou
 lieu
 clairement
 plan
-plan
 planète
 planètes
-planetsgood
-planetssuch
-plans
 usine
-plantation
 plantes
 plastique
 jouer
 joué
 espiègle
-cour de récréation
 jouer
 appel
-s'il vous plaît
 heureux
-pleasedraw
-pleasetame
 plaisir
 beaucoup
 terrain
@@ -2382,18 +1984,13 @@ courage
 pincées
 plongé
 pluriel
-pocked
 poche
 poème
 poète
 poétique
-point
 pointu
-poison
 pôle
-poleonly
 pôles
-police
 politique
 poliment
 politique
@@ -2406,17 +2003,9 @@ piscine
 pauvres
 coquelicots
 populaire
-population
-porridge
-port
-portrait
-portraits
-position
 posséder
 possédé
-possible
 poste
-postal
 reporter
 livre
 livres
@@ -2425,7 +2014,6 @@ versé
 pauvreté
 puissance
 puissant
-prairie
 louange
 priez
 prédicateur
@@ -2457,13 +2045,10 @@ prix
 fierté
 premier
 primitif
-prince
-princes
 princesse
 principe
 avant
 prisme
-prison
 privé
 prix
 probablement
@@ -2474,7 +2059,6 @@ produire
 producteur
 produit
 produits
-profession
 professeur
 bénéfice
 programme
@@ -2492,13 +2076,10 @@ proposer
 proposé
 protéger
 protéger
-protection
 protestation
 fier
 prouver
 fournir
-public
-publication
 publier
 feuilletée
 tirer
@@ -2518,61 +2099,39 @@ poursuivre
 poussoir
 pressé
 mettre
-puts
-putting
 perplexe
 pyramide
-quadrant
 qualité
 bizarre
 trempe
-question
-des questions
 rapide
 rapidement
 calme
-tout à fait
 citation
-quotient
 lapin
-raton laveur
 course
-radar
 éclat
-radiation
-radio
 radis
 rayon
 radeau
 chiffon
-rage
-raid
 garde-corps
-chemin de fer
-chemin de fer
 pluie
-arc en ciel
-forêt tropicale
 augmenter
 relevé
 bélier
-ran
 aléatoire
 viol
 rapidement
-rare
 rarement
-rat
 taux
 plutôt
-ration
 rayon
 atteindre
 atteint
 réagir
 réaction
 lire
-readercom
 prêt
 réel
 réaliste
@@ -2596,11 +2155,9 @@ considérants
 reconnaître
 reconnaît
 souvenirs
-record
 raconter
 récupérer
 rouge
-redfaced
 réduire
 dévidage
 réflexion
@@ -2625,15 +2182,12 @@ rapports
 relations
 détente
 libération
-sans relâche
-religion
 rester
 resté
 restes
 remarqué
 rappeler
 souvenir
-rememberhow
 rappelé
 remords
 supprimer
@@ -2659,7 +2213,6 @@ sauvetage
 recherche
 ressemblance
 ressembler
-resentfulness
 réserve
 réservoir
 démissionner
@@ -2668,7 +2221,6 @@ résolu
 résolution
 résonné
 ressource
-respect
 respecté
 respectueusement
 répondu
@@ -2676,13 +2228,11 @@ réponse
 responsabilité
 responsable
 reste
-restaurant
 retenir
 restreindre
 restes
 résultat
 conserver
-prendre sa retraite
 rétorqua
 retour
 réutilisables
@@ -2691,13 +2241,10 @@ rêverie
 renaissante
 révolte
 révolution
-revolver
 rembobiner
 rhumatisme
 riz
 riche
-plus riche
-plus riche
 débarrasser
 énigmes
 tour
@@ -2712,8 +2259,6 @@ anneau
 augmenter
 risque
 risques
-rite
-rites
 rivière
 rivières
 route
@@ -2722,7 +2267,6 @@ grondement
 rugissant
 voler
 peignoir
-rock
 bercé
 fusée
 roches
@@ -2733,16 +2277,11 @@ chambre
 racine
 racines
 corde
-rose
 rosier
 rosiers
-roses
 rosé
-rotation
 rugueux
 tour
-royal
-rub
 caoutchouc
 ruine
 règle
@@ -2751,15 +2290,9 @@ froissé
 courir
 fonctionnement
 pistes
-rupture
-rural
-rush
 précipité
-se précipiter
 Russie
 rouillé
-sabotage
-sacrifice
 triste
 triste
 tristement
@@ -2775,11 +2308,8 @@ salué
 salut
 même
 sable
-plage de sable
 coulé
 sam.
-satellite
-satin
 satisfait
 satisfaire
 samedi
@@ -2789,11 +2319,9 @@ enregistré
 scie
 dire
 dire
-saynot
 dit
 échelle
 scalène
-à peine
 peur
 écharpe
 écarlate
@@ -2801,13 +2329,10 @@ effrayant
 savant
 chercheurs
 école
-science
 scientifiques
 méprisé
-scorpion
 crier
 écran
-sculpture
 mer
 phoque
 recherche
@@ -2817,9 +2342,6 @@ siège
 assis
 deuxième
 secondes
-secret
-secrets
-section
 sécurité
 voir
 semence
@@ -2833,12 +2355,10 @@ semblait
 semble
 vu
 voit
-segment
 saisir
 saisis
 saisie
 soi
-selfevident
 vendre
 vente
 lisières
@@ -2846,7 +2366,6 @@ sénat
 envoyer
 envoie
 sens
-sensible
 phrase
 séparé
 séquence
@@ -2854,9 +2373,7 @@ série
 grave
 sérieusement
 gravité
-sermon
 servir
-service
 ensemble
 réglage
 régler
@@ -2878,14 +2395,11 @@ net
 aiguisée
 elle
 mouton
-sheepif
 moutons
-sheepthe
 feuille
 coquille
 coquilles
 abri
-à l'abri
 chatoiement
 éclat
 brille
@@ -2899,10 +2413,8 @@ secoua
 tourner
 pousses
 boutique
-shopping
 boutiques
 court
-le plus court
 coup
 devrait
 épaules
@@ -2914,10 +2426,7 @@ projection
 montré
 rétrécir
 arbuste
-haussement d'épaules
-haussant les épaules
 fermer
-se ferme
 Sibérie
 malade
 maladif
@@ -2926,14 +2435,11 @@ côté
 soupir
 soupira
 signe
-signal
-silence
 silencieux
 soie
 idiot
 argent
 similaire
-simple
 simplicité
 simplifié
 simplement
@@ -2943,15 +2449,10 @@ chanter
 chant
 unique
 évier
-sire
-sireover
 sœur
 s'asseoir
-site
 siège
 séance
-situation
-six
 sixième
 taille
 squelette
@@ -2970,12 +2471,8 @@ mince
 légèrement
 glissement
 lentement
-le plus lent
 lentement
 petit
-plus petit
-plus intelligent
-smash
 odeur
 sentait
 sourire
@@ -2986,14 +2483,12 @@ lisse
 escargot
 serpent
 serpents
-snakesthey
 neige
 câlin
 si
 savonneux
 sanglotant
 football
-social
 société
 doux
 doucement
@@ -3001,16 +2496,12 @@ sol
 vendu
 soldat
 solide
-solution
 résoudre
 certains
 quelqu'un
 quelqu'un
 quelqu'un
-quelque chose
 parfois
-un peu
-quelque part
 fils
 chanson
 bientôt
@@ -3021,7 +2512,6 @@ désolé
 sorte
 sortes
 son
-source
 sud
 espace
 parler
@@ -3029,7 +2519,6 @@ parlant
 spécial
 espèce
 spécifiquement
-spectacle
 discours
 vitesse
 rapide
@@ -3042,23 +2531,19 @@ dépit
 magnifique
 scission
 Interviennent
-sport
 place
 pulvériser
 propagation
-spreads
 brin
 printemps
 ressorts
 saupoudrer
-sprinklingcan
 pousse
 choux
 pulvérisé
 espion
 carré
 carrés
-squatter
 écureuil
 poignarder
 étape
@@ -3077,8 +2562,6 @@ affamer
 majestueux
 Etats
 statique
-station
-statue
 rester
 séjourné
 régulièrement
@@ -3090,7 +2573,6 @@ mesures
 bâton
 encore
 remué
-stock
 estomac
 pierre
 noyaux
@@ -3107,7 +2589,6 @@ droit
 étrange
 étrange
 sangle
-stratagèmes
 stratégie
 s'égarer
 rue
@@ -3123,43 +2604,32 @@ bande
 poussette
 ambulant
 fort
-structure
 lutte
 collé
 études
 étude
 stupide
-style
 sujet
 sujets
 sous-marin
-substance
 substitut
-de banlieue
-subversion
 réussir
 réussi
 succès
 réussi
 tel
 soudain
-tout à coup
 souffrir
 souffert
 souffrance
 sucre
 suggérer
-suggestion
-suicide
 somme
 été
 sommes
 soleil
 dimanche
 soleil
-lever du soleil
-coucher du soleil
-couchers de soleil
 ensoleillement
 superviser
 alimentation
@@ -3168,17 +2638,13 @@ supposer
 supprimer
 sûr
 sûrement
-surface
 chirurgien
 excédent
-surprise
 étonné
 cession
 entourer
 survivre
-suspect
 suspendre
-suspicion
 avaler
 avalement
 jurer
@@ -3189,7 +2655,6 @@ houle
 natation
 piscine
 aiguilleur
-switchmans
 syllabe
 syllabes
 symbole
@@ -3197,7 +2662,6 @@ symétrique
 symétrie
 sympathie
 système
-table
 prendre
 pris
 prend
@@ -3207,7 +2671,6 @@ parler
 parlé
 parlant
 haut
-plus haut
 apprivoiser
 apprivoisé
 dompte
@@ -3235,7 +2698,6 @@ télescope
 télévision
 dire
 température
-temples
 temporaire
 dix
 tendance
@@ -3243,21 +2705,15 @@ tendrement
 tendresse
 tendu
 terme
-terrarium
-terrible
 terriblement
 territoire
 terreur
 terroriste
-test
 que
 merci
 heureusement
 merci
 que
-QUE, lors de
-thatlook
-des thats
 la
 théâtre
 leur
@@ -3265,11 +2721,9 @@ les
 thème
 eux-mêmes
 puis
-thenthe
 théorie
 là
 donc
-therehappy
 ces
 ils
 épais
@@ -3283,13 +2737,10 @@ troisième
 soif
 assoiffé
 trente
-Trente et
 ce
 épines
-thornswhat
 complètement
 ceux
-bien que
 pensée
 pensées
 mille
@@ -3314,7 +2765,6 @@ tigre
 tigres
 temps
 fois
-timewell
 timide
 clinquant
 minuscule
@@ -3337,23 +2787,17 @@ tolérée
 demain
 ton
 langue
-ce soir
-tonightyou
 amygdale
 trop
-a pris
 outil
 outils
 dent
 haut
 tourment
 déchiré
-torture
 ballotté
-total
 toucher
 touché
-tour
 vers
 tour
 ville
@@ -3362,15 +2806,11 @@ jouet
 voie
 rails
 commerce
-tradition
 traditionnel
 trafic
 tragédie
 tragique
-train
-trains
 traduction
-transport
 transport
 piège
 Voyage
@@ -3389,24 +2829,20 @@ tremblé
 tremblante
 énorme
 procès
-tribal
 tribu
 tour
 essayé
 voyage
 troupes
-tropical
 difficulté
 trêve
 camion
-trudged
 vrai
 vraiment
 confiance
 vérité
 essayer
 essayer
-tube
 toundra
 turc
 tour
@@ -3416,15 +2852,12 @@ tortue
 tuteur
 douze
 vingt
-deux fois
 crépuscule
 retors
 deux
-type
 laid
 ultrason
 incertitude
-mal à l'aise
 sous
 dessous
 comprendre
@@ -3433,19 +2866,16 @@ comprend
 entendu
 malheureusement
 malheureux
-unique
 unité
 unir
 uni
 universel
 univers
 université
-à moins que
 improbable
 malchanceux
 inutile
 dévisser
-jusqu'à ce que
 mensonge
 jusqu'à
 sur
@@ -3454,7 +2884,6 @@ bouleversé
 ascendant
 urbain
 exhorter
-urgent
 nous
 utiliser
 usé
@@ -3467,31 +2896,22 @@ vaccin
 vallée
 précieux
 valeur
-vanitywhich
+vanité
 légume
 véhicule
-Venusto
 verbe
-verdict
 bord
 véritable
-version
 sommet
 très
-veto
 vexé
 victime
 victoire
 vidéo
-village
 vignobles
 violer
-violence
-visa
-vision
 visite
 visite
-vocal
 voix
 volcanique
 volcan
@@ -3499,7 +2919,6 @@ volcans
 volumineux
 bénévole
 vomi
-vote
 bon
 voyelle
 vautour
@@ -3510,11 +2929,11 @@ attente
 attend
 réveillé
 marcher
-walkand
 marché
+marcheur
 marche
+promenades
 mur
-walland
 murs
 errer
 Wanders
@@ -3537,7 +2956,6 @@ eau
 arrosée
 arrosage
 eaux
-watt
 vague
 agité
 flots
@@ -3554,33 +2972,24 @@ porter
 temps
 girouette
 toile
-mauvaise herbe
-les mauvaises herbes
 semaine
-weekend
 pleurer
 peser
 accueil
 bien
 puits
-est allé
 étaient
 ouest
 humide
-zones humides
 que
-tout ce que
 blé
 roue
 roues
 quand
 d'où
-chaque fois que
 où
-partout où
 si
 qui
-tandis que
 blanc
 qui
 quiconque
@@ -3591,7 +3000,6 @@ pourquoi
 large
 femme
 sauvage
-une traînée de poudre
 volonté
 prêt
 gagner
@@ -3615,19 +3023,16 @@ témoin
 réveillé
 loup
 femme
-won
 étonnant
 merveilleux
 demande
 coutume
 bois
-des bois
 mot
 paroles
 portait
 travail
 travaillé
-de travail
 monde
 mondes
 usé
@@ -3638,7 +3043,6 @@ pire
 pire
 valeur
 voudrais
-wouldnt
 plaie
 épave
 débris
@@ -3663,14 +3067,9 @@ là-haut
 vous
 jeune
 votre
-vous êtes
-la vôtre
 vous-même
 vous-mêmes
 jeunes
-youthe
-que vous avez
 zélande
 zèbre
 zéro
-zoo

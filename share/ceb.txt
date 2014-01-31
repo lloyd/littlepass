@@ -1,16 +1,8 @@
 mibiya
-abashed
 makahimo
-abloom
-nga puloy-anan
-mahitungod sa
-sa ibabaw
 kalit
-abruptlyas
 wala
-absentminded
 hingpit
-absurd
 daghan
 pag-abuso
 bung-aw
@@ -19,185 +11,109 @@ gidawat
 aksidente
 gidayeg
 sumala
-account
 tukma
 batok
-achievement
 kaila
 nakaila
-sa tibuok
 buhat
 aksyon
-mga buhat
 aktibo
 aktibista
-actor
-sa pagkatinuod
-acute
 mopahiangay
-adaptation
-sa pagdugang
-dugang pa
-Dugang pa
 bag-ong
 pagpangalagad
 administrasyon
 pagdayeg
 gidayeg
 kaayog
-admirers
 dawaton
 pagsagop
 pagsagop
 pagsimba
 dayandayan
-sa hamtong
-advances
 bentaha
 panimpalad
 imantala
-advise sa
-sa layo
 kalihokan
 makaapekto
 pagbati
 nahadlok
-africa
-nga African
-human sa
 hapon
 pag-usab
-batok sa
 edad
-sa kabubut-on
 agresyon
-ago
-agoyou
 mouyon
 agrikultura
-ah
-sa unahan
 tabang
 tumong
 hangin
-nga eroplano
 eroplano
-airport
 pagpagubok
 alaut
-album
 alkohol
-algebraic
-algorithm
 motugpa
 managsama
 buhi
-sa tanan nga mga
 buaya
-sa pagtugot
 alyado
 Almanac
 hapit
-nga mag-inusara
-aloneall
-alonewill
 sa
 nanagpahalayo
 na
 usab
-bisan tuod
-sa hingpit gayud
-sa kanunay
 katingala
-ambassador
 usbon
-amendment
 Amerika
-mga bala
-sa taliwala
-nga kantidad
 molingaw
 makalingaw
 analisar
 kagubot
 katigulangan
-sa karaang
 ug
 kasuko
 anggulo
 anggulo
 nasuko
-nga mananap
-mga mananap
-animalsi
-ankle
-nga anibersaryo
 ipahibalo
-annoy
 maglagot
-sa lain
 tubag
 mitubag
 hulmigas
-anvil
-sa bisan unsa nga
 kinsa
-bisan kinsa
-bisan unsa nga butang
-anyway
-bisan asa
 gawas
 pasaylo
 dayag
 abat
 apelar
-makita sa
 panagway
 mipakita
 makita
-sa apple
 pagtudlo
-approach
 mouyon
 banabana
-apron
-agianan sa tubig
 arkiyolohiya
 arkitektura
-ang mga
-area
 makiglalis
 aritmetik
-arizona
 bukton
-mga bukton
-panon sa kasundalohan
-sa tibuok
 nakapukaw
 aresto
 -aresto
 pag-abot
 moabot
 miabot
-art
 artipisyal
 armas
-ingon nga
 abo
 maulaw
 gawas
 mangutana
 nangutana
-askew
-sa pagpangutana
 nangutana
 natulog
 katilingban
-sa pagtabang
-assistance
-nakig uban
 nagpasalig
-asteroid
 asteroid
 nahibulong
 kahibulong
@@ -205,10 +121,7 @@ nahibulong
 astrolohiya
 Space
 astronomo
-dako kaayong
 astronomiya
-sa duruha
-asylum
 mikaon
 kahimtang
 atomo
@@ -218,71 +131,34 @@ pagsulay
 motambong
 pagtagad
 hiyas
-audit
-aurora
 Australia
-author
-nga awtoridad
 kotse
-tingdagdag sa
 anaa
-average
-paglikay sa
 pagmata
 pagpukaw
 nahigmata
-award
 sa
 bakikaw
-baby
 balik
-dili maayo
-badge
 balanse
 balanse
-balderdash
 bola
-ballet
-balloon
 balota
-ban
-bandage
 bangko
 kombira
-baobab
-baobabs
-bar
 barbero
 nag-anak
-bargain
-barrel
 babag
-base
-baseball
-basket
-batch
-batteries
 gubat
-bay
 nga
-beach
-an sa
-mapintas nga mananap
-beat
 pagbunal
-nindot nga
 katahum
 nahimong
-tungod kay
 mahimong
 mahimong
-nga mahimong
-becuase
 higdaanan
-Bee sa
 nga
 putyokan
-sa wala pa
 Nangaliyupo
 nagsugod
 magsugod
@@ -290,76 +166,41 @@ nagsugod
 nagsugod
 magsugod
 kinaiya
-sa luyo
 nga
 nagtuo
 mituo
-maong campanilla
 iya
 iya
 iya
-sa ubos
-bending
-mapuslanon nga
 binawog
-Berry sa
 tupad
-labut pa sa
-labing maayo
 magluib
-mas maayo
-sa taliwala sa
 naglibog
-sa unahan
-dako nga
-mas dako
-bike
-bill
-billion
 Biology
 langgam
-mga langgam
-adlaw nga natawhan
 gamay
 mopaak
-bject
-itom nga
 pagbasol
 habol
-bleacher
-bleary
-agas sa dugo
 pagkabulahan
 buta
-blinked
-block
 dugo
 mamulak
 hampak
-hinuyop sa
 pagbunal
-sa azul
-blundering
 maayong
 maayong
 nanghambog
 sakayan
 lawas
 hubag
-bolt
 bomba
 bukog
 kusganon
 basahon
-estante sa mga libro
-mga libro
-boomtown
 utlanan
-bored
-bores
 natawo
 manghulam
-ang duha
 samok
 botelya
 botelya
@@ -367,71 +208,36 @@ ubos
 gipalit
 kahon
 kahon
-bata nga lalaki
-boycott
-mga batang lalaki
 bakulo
 utok
-branch
 isog
-sa tinapay
-break
 pagkahugno
 pamahaw
-breaking
 man
 miginhawa
-breeze
 tisa
-bridal
-bridge
 mubo
-mahayag nga
-nga masilaw
 dad-a
-broadcast
 gigun
 on
-igsoon nga lalake
-mga igsoon
 gidala
-brown
 Bubble
 balde
 mamutot
-budget
 pagtukod
-building
 gitukod
-bulky
-bullet
 bantal
 palas-anon
 gilubong
-sa pagsunog sa
 gisunog
 lungag
-gilugtas ko
-sa paglubong
-bus
-nga mga bushes
 negosyo
 negosyante
 negosyante
-busy
 apan
 alibangbang
-butterfly
-butwhat
 pagpalit
-buying
 sa
-cabbage
-cabbages
-cabin
-cabinet
-cactus
-book nga malingin nga
 pagkalkulo
 kalkulasyon
 tawag
@@ -439,133 +245,84 @@ gitawag
 kalinaw
 miabut
 kamelyo
-camera
-camouflage
 kampo
 kampanya
 mahimo
 Cancel
-cancer
 kandidato
 kandila
 kanyon
 dili
-canopy
 gatus
 makahimo
-capital
-capture
 sakyanan
-caravan
-carbon
 pag-atiman
-career
 pag-amping
 pag-ayo
-sa walay pagtagad
-carnivore
-carpet
 carro
 gidala
 dad-on
-nga nagdala
 kabhang
 kaso
 isalikway
 kastilyo
 kastilyo
-cat
 katalagman
 isda
-catcher
-catching
 ulod
-caterpillarswho
 masakpan
 hinungdan
 hunong-buto
-pagsaulog sa
-cellar
 selula
-center
-centimeter
-central
 siglo
-ceremony
-sa pipila ka mga
-sa pagkatinuod
-chair
-chairman
+lingkuranan
 lawak
-champion
 higayon
 kausaban
 mabalhinon
 -usab
-mga kausaban
 kap
-chapel
 kinaiya
 uling
-chare
 sugoon
-maanyag nga
-chart
-chase
+tsart
 manikas
-check
 gisusi
 Pagmaya
 malipayon
-cheetah
 kemikal
-chemistry
 querubin
 magausap
+nagapangusap
 usap
 manok
 manok
-pangulo sa mga
 bata
-mga anak
 panghaw
 aliwas
-china
-chips
+pagpili
 pagpili
 nangalumos
 pagpili
 gipili
-christmas
-chuckle
 simbahan
 sigarilyo
 lingin
-circuit
+sirkito
 sirkumperensiya
-circumnavigate
-Cirque
-citizen
-citizenship
-sa siyudad
 sibil
-sibilyan nga
 sininaan
 pag-angkon
-minglabay nagapakpak sa
 gipakpak
 maklaro
 panagsangka
 klase
 pagklasipikar
-claws
-nga mahinlo
+pagahinloan
 gilimpyohan
 pagpanglimpyo
 tin-aw
-clearing
 tin-aw
-clearsighted
 klero
 klerk
 klima
@@ -575,296 +332,185 @@ orasan
 suod
 sirado
 pag-ayo
-mas duol
 pagsira
 panapton
 bisti
 panganod
-coal
 koalisyon
 baybayon
-coastal
 kape
-coil
 bugnaw
-collapse
-kauban sa trabaho
 pagkolekta
-collection
-sa kolehiyo
 kolonya
 kolor
-kolor nga
-mga kolor
 kombinasyon
-combine
 moabut
 moabut
 kahupayan
 komportable
-nga malipayon sa
 ginalipay
-sa pag-abut
 sugo
-comment
-committee
 komon
 -estorya
 komunidad
-commutative
 kauban
-sa kompanya
 itandi
 kompas
-compatible
 bayad
 makigkompetensiya
 kompetisyon
-bug-os nga
 mahuman
 bug-os
-complex
 komplikado
-naglangkob sa
-composite
 pagsabot
 pagkompromiso
 kwentada
-computer
 mapahitas-
 nakakonsentra
 kabalaka
-natungdan nga
 konklusyon
-pagahukman sa silot
 kahimtang
-kahimtang sa
 pagpahigayon
 konduktor
 balisungsong
-ang komperensya
 isugid
 misugid
 pagsugid
 gisalig
 pagsalig
-pagsalig nga
 pamatud-an
 panagbangi
 komprontasyon
-confuse
 kalibog
 gipahalipayan
-congress
 úngà
 Sumpaysumpaya
 koneksyon
 sangputanan
 konserbatibo
-hunahunaa ang
 igo
 konstitusyon
-constrictor
-constrictors
 pagtukod
 gikonsulta
-consumer
-consumingly
-contact
 naglakip
-nga sudlanan
 pagpamalandong
 sulod
 kontinente
-mga kontinente
-magpadayon sa
 nagpadayon
 pagpadayon
 sukwahi
-control
 sayon
 kombensiyon
 -istoryahanay
 kinabig
 kombinsido
-cook
-cookout
-cool
 kooperar
-coordinates
 kopya
-coquettish
 mais
 pamag
-husto nga
 korapsyon
 gasto
-costume
 gapas
 ubo
-coughed
 mahimo
-couldnt
-council
 -isip
 nasud
 kaisug
-nga kurso
 korte
-sa maabiabihon
 ig-agaw
 ig-agaw
-cover
 gitabonan
 baka
-cowboy
 naghuot
-crash
 nahagsa
 nagakamang
 buang
 paghimo
 binuhat
-mga binuhat
-credit
-crew
 misinggit
 krimen
-kriminal nga
 krisis
 mosaway
 buaya
 tanom
 pagtabok
 mitabok
-crossexamine
-crossly
-panon sa katawhan
 puno
 purongpurong
-crush
-crusher
 pagtu-aw
 naghilak
-cube
 kultura
 hasol
 tambal
-curfew
 kakuryuso
-talagsaon nga
-curled
-curls
 kasamtangan
 batasan
 kostumbre
-cut
-cycle
 silindro
 papa
-dam
 kadaot
 sayaw
 misayaw
 kakuyaw
-kuyaw nga
-dangerously
-nagbitay nga
 mangahas
 mangahas
-mangitngit nga
 mangitngit
 kangitngit
-data
-date
-anak nga babaye
-sa kaadlawon
 adlaw
-dayagain
 kaadlawon
-mga adlaw
 patay
 bungol
-deal
-minahal nga
 kamatayon
-debate
 utang
 modesisyon
 nakahukom
-decimal
 ipahayag
 bugkosan
 pagkunhod
-mga buhat
-lawom nga
 pag-ayo
 osa
 kapildihan
-sa pagpanalipod sa
-deficit
 nagpaila
-degree
 kasubo
 paglangan
 delegado
-delta
-demand
 gipangayo
 demokrasya
 pagpakita
 demonstrasyon
 isumbong
 Densidad
-dental
 molimud
 pagbiya
 nagsalig
-deplore
 sang
 deposito
 depresyon
 kahiladman
 kuha
 kaliwat
-paghulagway sa
 gihulagway
 kamingawan
 disyerto
-desertwhat
-design
 tinguha
-desk
-sa paglaglag
 detalye
 detalye
-sa paghawid
 pagtino
 makadaot
-sa pagpalambo og
 og
-device
-mohalad sa
-diagram
 diametro
 diamante
 diktador
-dictionary
-sa gibuhat
 wala
 mamatay
 pagkaon
 kalainan
-sa lain-laing
-lisud nga
 pagkalot
 nagahilis
 paghilis
 pagkalot
-digit
 Dimple
 panihapon
-diplomat
 direkta
 mimando
 direksyon
@@ -875,8 +521,6 @@ pagkahanaw
 nawala
 nasagmuyo
 dis-armahan
-disarranged
-disaster
 disiplina
 kadasig
 madiskobrehan
@@ -884,209 +528,108 @@ nadiskobrehan
 nakadiskobre
 nadiskobrehan
 diskriminasyon
-sa paghisgot sa
 sakit
 maluya
 papaulia
 pagkadili-masinugtanon
 mosupak
-dispersal
-disposable
-dispute
-makapaigo sa galastuhan
 nagprotesta
 gilay-on
 -ila
-inila nga
-distributive
 distrito
-ang kabalaka
-sa makuyaw nga
-dive
 bahinon
 gibahin
-division
-sa pagbuhat sa
 doktor
 dokumento
 ang
 dili
 iro
 iro
-sa pagbuhat sa
 monyeka
 dolyar
-dolphin
 pagdonar
 buhaton
 dili
 pultahan
-double
 pagduha-duha
-doubtit
-mga pagduha-duha
-mga salampati
 sa
-drafts
-draftsthat
-dragon
-drama
 miinum
 -drawing
-drawer
-drawing
 drowing
-inibut nga
-dreadfully
 damgo
 nanagdamgo
-dreamthis
-nga nagsul-ob
 nakadani
 ilimnon
 pag-inom
-drive
-drop
-nagpatulo sa
 hulaw
 malumos
-drug
-ming-inum sa
-nga mamala
 itik
 gikalot
 dal-as
-sa panahon sa
 abug
 katungdanan
 himalatyon
-ang matag usa
 agila
 unang
-sa sayo
 og
-sa dakung kakugi
-mga igdulungog
 yuta
 linog
 yuta
-earthworm
-mopagaan sa
-dali ra
-sa silangan
 sayon
-sa pagkaon sa
 kan-on
 pagkaon
 nagakaon
 lanog
-nga gipalanog
-sa kwaknit
-ecology
 ekonomiya
-ecosystem
 ngilit
 edukasyon
 epekto
 paningkamot
 itlog
 itlog
-eh
-walo ka
-ikawalo ka
-, ania karon,
 bisan
 pinili
-election
-electric
-electrician
 elektrisidad
-elegance
 elemento
-elephans
 elepante
 elepante
-napulo ug usa ka
 laing
-embarassed
 Naulaw
 embahada
-embryo
-mitunga sa
-emergency
 emosyon
 paggamit
-ug gibubo
 moagos
-nga walay sulod
 pagdiwata
 engkwentro
 katapusan
-endangered
 molahutay
 kaaway
 enerhiya
-pagpatuman sa
-engine
-engineer
-enginegrease
 Iningles
 malingaw
 igo
 makasulod
 makalingaw
 kalingawan
-bug-os nga
-sa hingpit
-entrepreneur
-entry
-environment
 magdugay
-patas nga
 talaid
-equator
 tumbaslíd
-mga ekipo
-erasable
-ermine
-erratic
 sayop
-mga sayop
 pagbuto
 ikyas
-ilabi na
-importante nga
 -on
-malig-on sa
 banabana
 pagbana-bana
-nga walay katapusan
-ethnic
 pamatasan
 Europe
 Europe
-sa pagtimbang-timbang
-evaporate
-bisan pa
 gabii
-nga panghitabo
-sa walay katapusan
-ang tanan nga
-sa tanan
-ang tanan
-sa tanang mga butang
-bisan asa
 ebidensya
 dautan
-tukma nga
-sa tukma gayud
 susihon
 pagsusi
 panig-ingnan
-sa labing maayo nga
 gawas
-exchange
-excited
 kahinam
 kulbahinam
 pagsinggit
@@ -1094,7 +637,6 @@ miingon
 eksepsiyon
 rason
 ipakanaug
-executive
 ehersisyo
 gikapoy
 hininginlan
@@ -1102,28 +644,18 @@ anaa
 naglungtad
 pagkaanaa
 anaa
-exp
 pagpalapad
-expanded
-nga ang
 nagpaabut
-expel
 kasinatian
 eksperimento
 eksperto
-mga eksperto
-pagpatin-aw sa
 mipasabut
-nga nagpatin-aw
 katin-awan
 mobuto
 -usisa
 eksplorador
 explorer
-export
-pagpahayag sa
 ekspresyon
-extend
 nangawala
 mapuo
 mapalong
@@ -1131,41 +663,21 @@ dugang
 talagsaon
 grabeng
 hilabihan
-extremist
 mata
-mga mata
 nawong
-mga nawong
-nga nag-atubang
 kamatuoran
 hinungdan
 pabrika
-faded
 mapakyas
 kapakyasan
 gikapuyan
-fair
 kaangayan
-fairy
-fairytales
 matinud-anon
 mahulog
-hulog nga
 pagkahulog
 busay
-bakak nga mga
-sa mga
-mga pamilya
-sa pamilya
-bantog nga
-fan
 lamiang
-sa halayo
-farm
-mga mag-uuma
-farmyard
 unahan
-fashion
 pagpuasa
 ihigot
 tambok
@@ -1179,370 +691,213 @@ paborito
 paborito
 kahadlok
 bahin
-federal
-feed
 mobati
-mga tiil
 nahulog
-kauban sa
 gibati
-babaye nga
 koral
-tabunok nga
-festival
 hilanat
-feverish
-pipila ka
 kapatagan
 kaumahan
 mabangis
-napulo ug lima ka
 ikalima
-fiftyfour
-fiftythree
-fight
-nga numero
 numero
 pun-on
 Puno
 pelikula
-final
-sa katapusan
-pinansyal nga
-sa pagpangita
 makakaplag
-sa lino nga fino
 tudlo
-mga tudlo
-finish
 nahuman
 kalayo
 sunog
-fireworks
 lig-on
 lig-ong
 una
-firstto
 isda
-mohaum sa
-lima ka
 ayo
-fixture
-flag
-siga sa kalayo
-flash
 dali
-flasher
 patag
-flattening
 mokalagiw
 langaw
 pagkalagiw
-float
-panon sa mga carnero
 baha
 salog
-nga harina
 modagayday
 bulak
 bulak
-flowerthe
-flown
 larinong
-fluid
-fluorescent
 nakong
-flushes
 molupad
-focus
 gabon
 pilo
 kasugiran
 mosunod
 mosunod
-fond
 kalan-on
 buang
 buang-buang
 tiil
-football
 tunob
-tumbanan sa tiil
 rugby
 sa
 kalomo
 nagadili
 nagdili
-force
 napugos
-forecast
 agtang
-mga langyaw
 kalasangan
 kalasangan
-sa walay katapusan
-malimot sa
 nalimot
 mopasaylo
 kapasayloan
 nakalimot
 hikalimtan
-nga porma
 kanhi
-mga porma
 gibiyaan
 maayo
-fortyfour
-sa unahan
 nakit-an
 tuboran
-fountainpen
-upat ka
 ikaupat
-fox
 milo
-foxhis
 tipik
-fracture
 mahuyang
 kahumot
 France
-freckle
-free
 kagawasan
-freeze
 lab-as
 mabag-o
-friday
 higala
-mga higala
 panaghigalaay
 paghadlok
 nahadlok
 Frightens
 makalilisang
 baki
-gikan sa
 atubangan
-frozen
 bunga
-fuel
 magalaaglaag
-nga puno
-fumble
 makalingaw
-function
 batakan
 paglubong
-funny
 magsangkap
 naghatag
-sa umaabot
-gadget
-makaangkon og
-game
 dula
 basura
 tanaman
-gardenand
-gas
 tigumon
 nagtigum
 mihatag
 mitutok
 kinatibuk-
 opinyon
-sa kinatibuk-
 kaliwatan
-genocide
 malumo
-gentleman
-gentlemans
 kalumo
 geograpo
 geograpo
-geographies
 geograpiya
-geometric
-geraniums
-gerbil
 lihok
 og
-gets
 matuhutuhuon
 gasa
-mga gasa
 moagik-ik
-ginger
 hirapa
 babaye
-mga babaye
-sa paghatag
-nga gihatag
 naghatag
-sa paghatag
 nalipay
 tan-aw
-glare
 bildo
 hulagway
-gleams
 kilat
 kalibutan
 tumong
-kanding nga lake
 dios
 moadto
 na
 bulawan
-nga bulawan
-goldfish
-golf
 na
-maayo nga
-goodbye
 kaayo
-mga butang
-goose
 na
 pagdumala
-sa gobyerno
 grasya
 grado
-sa trigo
 kaumahan
 gramarya
-grand
-granite
 grapika
 balili
 lubnganan
 grabeng
-gray
 dakung
-mas dako nga
-labing dako
 pag-ayo
-green
 Nangumusta
 mitubo
 kaguol
-magapasubo sa
 magagaling
 yuta
 grupo
-nga motubo
 nagtubo
 mongulob
-grownup
-grownups
 motubo
 nagbagulbol
 garantiya
-guard
 gerilya
 tag-ana
 Nakatag-an
-ang pagtag-an
-sa paggiya
 giya
 sad-an
-gun
 pusil
 kinaiya
 pinuy-anan
 puloy-anan
 buhok
-ang katunga
-halfconfidence
-halfsmile
-hallway
-mga pungkol
 martilyo
-hamster
 kamot
 panyo
 pagdumala
-mga kamot
-handsomest
 ibitay
 nagbitay
 mahitabo
 nahitabo
 nahitabo
-mas malipayon
 malipayong
 malipayon
-lisud nga
 liebre
-nga kadaot
-makadaot nga
-harmfully
 mapintas
 pag-ani
 adunay
 wala
-midali sa paglakaw
 madali
-hasyes
 kalo
 nagadumot
 adunay
-havent
 nga
 ulo
-mahimong pakyas
-headquarters
-sa pag-ayo
-sa panglawas
 makabati
 nakadungog
-sa pagkadungog
 Maminaw
 kasingkasing
 kainit
-pagpainit sa
-sa langit
 langit
 bug-at
 gitas-on
-held
-helicopter
-sa pagtabang sa
-bahin sa kalibutan
-sa iyang
-herbivore
-panon sa mga vaca
 dinhi
 ermitanyo
 bayani
-sa iyang kaugalingon
 -ukon-ukon
 Nagduha-duha
 heksagon
-hibernate
-sa pagtago sa
 nagtago
 nagtago
-nga hatag-as
 kinatas-an
-moilog sa sakyanan
 bungtod
 kaniya
-sa iyang kaugalingon
 Timaan
-hippopotamus
-sa iyang
 kasaysayan
 naigo
 ipakayab
 naghupot
 naghupot
 lungag
-mga buslot
-holiday
 balaan
-sa balay
 gimingaw
 matinud-anon
 dugos
@@ -1553,28 +908,16 @@ makalilisang
 kalisang
 kabayo
 ospital
-hostage
 kaaway
-mainit nga
-hotel
-ang kainit
-oras nga
-ka oras
 balay
-sa unsa nga paagi
 Apan
 dakong
 Gigakos
 mapai
-sa tawo
 katawhan
-mapainubsanon nga
 pasiaw
-ka gatus ka
-gatusan ka
 kagutom
 gigutom
-hunt
 mangangayam
 mangangayam
 midali
@@ -1584,98 +927,51 @@ masakitan
 bana
 pangagpas
 yelo
-icecream
 ideya
-mga ideya
-sa pag-ila
 pagkatawo
-walay pulos nga
 ibaliwala
-illegal
-illegible
-sa gidili nga
-makamaong mobasa ug mosulat
 makataronganon
--ilustrar sa
-image
 hunahuna
 mahanduraw
-immature
 masukod
-diha-diha nga
 kadako
-immigrant
 paglalin
-immobile
 imoral
-dili matarug
-pagkadili madawaton
-import
 importansya
 importante
 imposible
 -mapukan
-impress
 impresibo
-walay kalagmitan
-pagpalambo sa
 mas
 sa
-dili tukma
 pulgada
 pulgada
 insidente
-sa pagdasig
-naglakip sa
 sukwahi
-sa pagdugang sa
-sa pagkatinuod
-indentation
 kagawasan
 independente
 Indian
 Indies
-pagkawalay pagtagad
-tagsa-tagsa nga
-indulgently
 industriya
-inefficient
-infect
 gihunahuna
 gihugpaan
-inflation
 impluwensya
 pagpahibalo
 impormasyon
 pumoluyo
 gipuy-an
-inject
-sa pagpasakit
 tinta
-walay sala
 ki-
 nangutana
 pagpangutana
 mabuang
 insekto
-insecure
-dili mabulag
-sa sulod
 miinsister
 inspeksyon
-inspection
-makapadasig nga
 Pananglitan
-instant
 dayon
-sa baylo
 instrumento
-mga instrumento
-insubordination
-insulator
 insulto
-integer
-intelligence
 intelihenteng
 grabe
 pagsinaligay
@@ -1684,13 +980,9 @@ interesado
 makapaikag
 interes
 makabalda
-international
-internet
 nabalda
-intersecting
 mangilabot
 suod
-ngadto sa
 hubog
 mosulong
 nagamugna
@@ -1698,61 +990,31 @@ nagamugna
 imbensyon
 balion
 mamuhunan
-sa pagsusi
-dili makita
-pagdapit sa
-naglakip sa
 puthaw
 IRR
-walay buot, nangatawo
-irreconcilable
-irrelevant
-irreparable
 mabakwi
-irritably
-irritate
 maglagot
-irritation
-mao ang
 isla
-isla sikbit sa isla
 dili
 hilit
-isosceles
 isyu
 kini
-sa iyang
-sa iyang kaugalingon
-iv
-ix
-jail
-jerked
 mutya
 trabaho
 apil
 hiniusang
-joke
 panaw
 malipayon
 maghuhukom
 pagahukman
 paghukom
-judicial
-jump
 milukso
-sa paglukso
 lasang
 Jupiter
 hurisdiksyon
-jury
 lang
 hustisya
-kangaroo
-sa pagbantay sa
-nagbantay sa
 yawe
-kick
-kidnap
 pagpatay
 gipatay
 kilometro
@@ -1760,230 +1022,120 @@ matang
 kalolot
 hari
 gingharian
-mga hari
-kiss
 kuting
-mga tuhod
 nasayud
 kutsilyo
 pagtuktok
 gikasal
 mahibalo
-knowa
-knowi
-nga nahibalo
 kahibalo
-knowmy
 nailhan
 nahibalo
 lutahan
-labor
-laboratory
 kakulang
 linaw
 lamparahan
-lamplighter
-lamplighters
-mga lamparahan
 yuta
 mitugpa
-landform
-landscape
 pinulongan
 dako
-mas dako
-lasso
-sa milabay nga
 milungtad
 molungtad
-ulahing bahin sa
-sa ulahi
-latitude
 nangatawa
-kataw-anan mga
 mikatawa
 pagkatawa
 mikatawa
 katawa
 paglusad
-laundry
 balaod
 ibutang
 tapulan
 dad-
-leak
 milukso
 makakat-on
 nakakat-on
 pagkat-on
-labing gamay
 panit
 mobiya
-sa pagbiya sa
-lecture
 wala
-legal
 leyenda
-legislative
 magbabalaod
-mga bitiis
-sa kalingawan
 magpahulam
 gitas-on
-dili kaayo
 leksyon
 ang
-lets
 sulat
-level
-liberal
 bakak
-mga bakak
-sa kinabuhi
-lifefor
-lift
 kahayag
 gidagkutan
-lightly
 kilat
-mga suga
-seguradong maangayan
-sama sa
 Ganahan
 lagmit
 utlanan
 linya
-nga nagpabiling
-link
 leon
-mga ngabil
-liquid
-list
 maminaw
 naminaw
 literatura
-gamay nga
 mabuhi
 nagpuyo
 kinabuhi
 buhi
-load
-loafing
-loan
-lobster
-sa lokal nga
 lokasyon
 Lock
 buhok
-locomotive
 makatarunganon
 nag-inusara
-ang gitas-
 na
-longitude
 tan-awon
 mitan-aw
-sa pagtan-aw
-loose
-loosened
-mawad-an sa
-nawad-an sa
 daghan
-lots
 makusog
 kusog
 gugma
 nahigugma
-maanindot nga
 matahum
 gugma
 ubos
-ubos nga
 maunongon
 pagkamaunongon
-luck
-lucky
-lugubrious
 mainit-init
-lunar
-sa paniudto
-nga bakakon
-machine
 gihimo
 magasin
-magic
-magnetic
 maanindot
-pagpalambo sa
-mail
 nag-unang
-pagpadayon sa
 halangdon
-nga halangdon
 pagkahalangdon
-mga mayor nga
 kadaghanan
-sa paghimo
 naghimo
-making
-nga lalake
 malisyoso
 tawo
-manhe
 kupo
 paghimo
-hugaw sa
-sa daghan nga mga
-map
 marmol
 martsa
-mark
 merkado
 minyo
 magminyo
-mars
 kahibulong
 -masa
 agalon
-obra maestra
-match
 kapikas
-materyal nga
 matematiko
 matematika
 butang
-mga butang
-hamtong nga
 aron
-mayor
 kanako
-nga kalan-on
-kahulogan sa
-meanadmire
-meanephemeral
 kahulogan
 paagi
-meantame
 pagsukod
 pagsukod
 kalan-on
 mekaniko
-media
 medisina
 pagpamalandong
-medow
-sa pagsugat
-meetingplace
-melike
 matunaw
-nga miyembro
-sa mga miyembro sa
-handumanan sa
-mga handumanan
 panumdoman
-mga tawo
-mental
-menthat
 magpapatigayon
 kalooy
 lamang
@@ -1991,90 +1143,48 @@ lamang
 merito
 mensahe
 nahimamat
-metal
-metallic
 metros
 pamaagi
 mikroskopyo
 lukso
 tunga-tunga
-tungang gabii
 unta
 paglalin
-migration
 milya
 milya
 militante
 militar
 milisya
 gatas
-millimeter
-milyon nga
-millioni
-sa minilyon
-mimicry
 hunahuna
 akong
-mineral
-miniature
-sa pag-alagad
-minor
 minoriya
-minster
 minuto
 minutos
 milagroso
 salamin
-misfortunes
 magbasol
-missile
 nawala
 sayop
 sayop
-nasaypan og sabut ang
 pagsinabtanay
-nga mix
-sagol nga
-moaned
-manggugubot nga panon
-mobile
-model
 kasarangan
-sa modernong
-tarung nga
-modestbut
-og tarung
 pag-usab
 magaumog
 kaumog
-tinunaw nga
-nga higayon
 hari
 salapi
 unggoy
-monolith
-monotonous
-monotony
 mangtas
 bulan
-ka bulan
 Moody
 bulan
 Moonlight
 gitrapohan
-moraine
-sa moral
-moralist
-labaw pa
 buntag
-morninggood
 labing
-motel
 inahan
-motion
-wala maglihok
 bukid
-mga bukid
 nagbangutan
 baba
 lakang
@@ -2082,307 +1192,176 @@ mibalhin
 kalihokan
 lihok
 nagalihok
-movie
-mga salida sa sine
-movingand
 daghan
-muffin
 tambutso
-multiplication
 mama
-murder
 nagbagulbol
 uhong
-music
-musket
 kinahanglan
-muzzle
-ang akong
-sa akong kaugalingon
-myselfone
 misteryo
 misteryoso
 misteryo
 ngalan
 ginganlan
-mga ngalan
-pig-ot nga
-sa ilong
 nasud
-national
-lumad nga
-natural
-natural nga
 kinaiyahan
 Nave
-navely
 tabok-tabok
-navy
 duol
 gikinahanglan
 kinahanglan
 liog
-neckties
 kinahanglan
 dagom
-mga panginahanglan
-napasagdan nga
 negosasyon
-negro
 silingan
 kasilinganan
 ni
-neutral
-dili gayud
-bisan pa niana
-bag-o nga
 balita
 sunod
-nice
 gabii
 walay
-noeaten
 kasaba
 moduso
-nonrenewable
 udto
 ni
-normal
 amihanan
 ilong
 ilong
 dili
 notasyon
-Mubo nga sulat sa
-notebook
-mubo nga mga sulat
-walay bisan unsa nga
 pahibalo
 namatikdan
-noun
 pagkaon
 karon
 wala
-nowthat
 nukleyar
 gidaghanon
 numero
 gidaghanon
-nursing
 sustansiya
 pagkamasulundon
-mosunod sa
 nagtuman
 butang
 misupak
-mga butang
 obligado
 mailhi
 obserbasyon
 pagtuman
-nakabalda sa
-obtuse
-klaro nga
 okasyon
-pangita sa kinabuhi
 okupar
 -okupar
 nahitabo
 kadagatan
 kadagatan
-oclock
 Octagon
-octopus
 katingalahan
 sa
 opensiba
 tanyag
-office
-officer
-opisyal nga
-sa kanunay
 lana
-ang panuigon
-oldfashioned
-omnivore
 makausa
-sa usa ka
 mga
-sa kaugalingon
 lamang
-open
 giablihan
-opera
-operate
-operation
 opinyon
 misupak
 atbang
 magdaugdaug
-orange
 libot
 aron
 mimando
 sugo
-sa ordinaryo nga
 organismo
 -organisar
-ilo nga
-sa uban nga mga
-sa uban
 kinahanglan
 onsa
-sa atong
 palagpoton
 sa
 resulta
 gawas
 pagdaot
-sa gawas
-oval
-sa ibabaw sa
-sa pagbuntog sa
 pagbuntog
 makaapas
 pagkapukan
 utang
 ngiw-ngiw
-kaugalingon nga
-nga gipanag-iya
 tag-iya
 iya
 vaca
-pacific
-page
 kasakit
 kaha
-malimbasugon nga
-nagpintal sa
 pintor
 pintor
 pintura
 pares
 luspad
-panda
 nagahangus
 papel
 parakayda
-parade
 parapo
-parallel
 ambasbúyon
-ug kapasayloan
 ginikanan
 parentesis
-park
 parlamento
-parsley
 bahin
-partial
 tipik
 partido
-partner
-buntog magalumlom sa
 bahin
-party
 nga
 milabay
 pasahero
 pasahero
 lumalabay
-passes
-passing
-passport
-sa miagi
-patent
 dalan
 pailub
 pasyente
 sumbanan
 hunong
 pagbayad
-sa kalinaw
-nga malinawon
 kinatumyan
 pagbagting
-peevishly
 lapis
 lapis
 pengwin
 barato
 Penny
 gimá
-mga tawo
-sa matag
 porsyento
-hingpit nga
-sa pagbuhat sa
 humot
 tingali
-perimeter
 panahon
 malaglag
 permanente
 pagtugot
-permit
 tindog
 nalibog
 tawo
 pagdani
-petals
-petition
-phew
 litrato
-photosynthesis
-hugpong sa mga pulong
 pisikal
-physics
 napilian
 litrato
-mga hulagway
 tipik
-mga tipik
 baboy
-gipahaluna pag-ayo
 pildora
-pills
-pilot
-pink
-pioneer
-pipe
 kalooy
-pityyou
 dapit
-sa yano
 plano
 eroplano
 planeta
 planeta
-planetsgood
-planetssuch
 plano
-sa tanom
 plantasyon
-mga tanom
-plastic
-play
 nanaghoni
-playful
-playground
-sa pagdula
 hangyo
 palihug
 nahimuot
-pleasedraw
-pleasetame
 kalipay
 daghang
 luna
 ibta
 giibut
-plunged
-plural
-pocked
 bulsa
 balak
 magbabalak
@@ -2390,47 +1369,29 @@ balaknon
 punto
 talinis
 hilo
-sa bandila
-poleonly
 poste
-police
 palisiya
 matinahurong
 politika
-pollinator
 hugawan
 dagíway
-pond
 namalandong
-pool
 kabus
-poppies
-popular
 populasyon
-porridge
-port
 hulagway
-portraits
 posisyon
 -iya
 gipanag-iya
-posible nga
-post
-postal
 i-uswag
-pound
 libra
 ibubo
 gibubo
-poverty
 gahum
 gamhanan
 Prairie
 pagdayeg
 -ampo
 magwawali
-nga nag-una
-bililhon nga
 tukma
 tukma
 katukma
@@ -2439,140 +1400,82 @@ pagtagna
 matagna
 mabdos
 pagpangandam
-sa pag-andam
 nag-andam
 atubangan
 karon
 presentasyon
 gipresentar
 presidente
-press
-pressure
 -ingnon
-pretty
-sa pagpugong sa
-prevention
 tukbonon
 bili
 garbo
-prime
-primeval
 principe
-mga principe
 prinsesa
-nga baruganan
-sa wala pa
-prism
 bilanggoan
-pribado nga
-prize
 tingali
 problema
-mga problema
 proseso
 og
-producer
 produkto
-mga produkto
 propesyon
 propesor
-profit
-nga programa
 pag-uswag
 proyekto
 saad
 dayon
 pamatuod
 pagpamatuod
-propaganda
-tukma nga
-sa husto nga paagi
 kabtangan
-mosugyot nga
 gisugyot
 pagpanalipod
-sa pagpanalipod sa
-sa pagpanalipod sa
 protesta
 mapahitas-on
 pamatud-an
-paghatag og
-sa publiko
 publikasyon
-sa pagmantala sa
-puff
 pagagub-
 gibira
-pulley
 nagbira
-pump
-pumpkin
-puncture
 silotan
 itoy
 pagpalit
-nga putli
 purpura
 katuyoan
 paglutos
-push
 giduso
 gibutang
 Magapatibulaag
 pagbutang
 Naglibug
-pyramid
-quadrant
-kalidad nga
-queer
 makapalong
 pangutana
-mga pangutana
 dali
-sa madali
 hilum
 na
-nga kinutlo
-quotient
 koneho
 milo
 lumba
-radar
 kahayag
-radiation
 radyo
-radish
 radyos
 balsa
-rag
 kasuko
 reyd
-sa pagtamay
 tren
-railway
 ulan
 balangaw
-rainforest
-pagpataas sa
 gibanhaw
-ka carnero nga lake
 midalagan
-random
-rape
 paspas
 talagsaong
-panagsa ra
 ilaga
-rate
 hinoon
 rasyon
-ray
 pagkab-ot
 -abot
 reaksiyon
 reaksyon
 mabasa
-readercom
 andam
 tinuod
 Magmarealistiko
@@ -2582,101 +1485,62 @@ gayud
 rason
 makatarunganon
 pangatarungan
-mga rason
-sa pagpasalig
 gipasaligan
 rebelde
-recall
 makadawat
 nakadawat
-makadawat og
-bag-o nga
 ekonomiya
 recital
-pag-ila sa
 -ila
-tanang mga handumanan
 rekord
-nagsaysay pagbalik
-pagbawi sa
-pula nga
-redfaced
 pagpakunhod
-pagsamparay sa atubangan
 pagpamalandong
 pamalandong
-reflective
 reporma
-refugee
 dili
 dili
 pagtagad
 rehiyon
-regional
-register
 magmahay
 magbasul
-regular nga
-regulated
 paghari
 isalikway
 gisalikway
 relasyon
 relasyon
 kalingawan
-release
-walay hunong
 relihiyon
 magpabilin
 nagpabilin
-patayng lawas
 miingon
 hinumdumi
 nahinumdum
-rememberhow
 gipahinumdoman
 pagbasol
-sa pagpapahawa
-renewable
 pag-ayo
 -ayo
 -ayo
-repeat
-balik-balik nga
 mitubag
-reply
-report
 pamahulay
 nagrepresentar
 magpugong
 pagpakaulaw
-paghuwad sa
 reputasyon
 hangyo
 nagkinahanglan
 nagkinahanglan
-rescue
-research
 kaamgiran
-resemble
-resentfulness
 reserba
-reservoir
-resign
-pagsukol sa
 determinado
 resolusyon
 mikurog
-resource
 pagtahud
 gitahod
-sa matinahorong
 mitubag
 tubag
 responsibilidad
 responsable
 uban
-restaurant
 magapugong
 idili
 anaa
@@ -2685,27 +1549,15 @@ magpabilin
 moretiro
 mitubag
 pagbalik
-reusable
 gipadayag
-reverie
-bag-ong kinabuhi
 alsa
 rebolusyon
-revolver
-tuyokon pag-usab
-rheumatism
 bugas
 dato
-labing dato gayud
 adunahan
 Isalikway
-mga tigmo
-ride
 tagaytay
 kataw-anan
-rifle
-sa tuo
-Husto ang
 katungod
 singsing
 kagubot
@@ -2713,55 +1565,27 @@ mobangon
 risgo
 risgo
 seremonyas
-rites
 suba
 suba
 dalan
-mga dalan
-mosinggit sa makusog
 pagngulob
 diay
 kupo
 bato
 gitay
-rocket
-mga bato
-roll
-rolling
 atop
 lawak
 gamut
-mga gamot
 pisi
 rosas
-rosebush
-rosebushes
 rosas
-rosy
-rotation
-bagis apan mosangpot
-round
 harianong
-rub
-rubber
 kalaglagan
-sa pagmando sa
-mga balita
-rumpled
-run
-running
 midagan
 busgak
-rural
-rush
 gidala
-nga pagkanuos
 Russia
-rusty
 pagsabotahe
-sa halad
-sad
-labing makapaguol
 makasusubo
 kasubo
 luwas
@@ -2770,75 +1594,44 @@ miingon
 layag
 marinero
 asin
-salute
 nangumosta
 nangumosta
-sama nga
 balas
 balas
 nalunod
 Sat
-satellite
-satin
 matagbaw
 makatagbaw
-saturday
-sa pagluwas sa
 maluwas
-sa pagluwas sa
 nakita
 -ingon
-sa pag-ingon
-saynot
 nag-ingon
-scale
-scalene
 halos
 Nahadlok
-scarf
 mapula
 makahadlok
-nga eskolar
 eskolar
-school
 siyensiya
 siyentipiko
 gitamay
 tanga
 singgit
-screen
 pagkulit
 dagat
 silyo
-search
 kadagatan
 panahon
 -pagpasig-uli
 naglingkod
 ikaduha
-seconds
-tinago nga
-mga tinago
 seksyon
-security
-tan-awa ang
-sa binhi
-mga liso
-seei
-sa pagtan-aw
 pagpangita
-sa pagpangita
 daw
 daw
 daw
 nakita
-makakita sa
-segment
 ilogon
 nasakmit
-seizure
-sa kaugalingon
-selfevident
 ibaligya
 pagbaligya
 ngilit
@@ -2848,73 +1641,34 @@ nagpadala
 pagbati
 makataronganon
 hukom
-lain nga
-nga ay
-sunod-sunod nga
-seryoso nga
 seryoso
 kaseryoso
 wali
-sa pag-alagad
-nga pag-alagad
-set
 kahimtang
-paghusay sa
 mipuyo
-sa pito ka
 ikapito
-seventytwo
-sa pipila ka mga
-grabe nga
-sex
-di maayong
 landong
-magapapahawa sa
 ang
 porma
-share
-shark
-hait nga
 Ginabaid
 siya
-sa mga carnero
-sheepif
-sheeps
-sheepthe
-sheet
 kabhang
-shells
-shelter
-sheltered
-shimmer
--ag sa
 nagadan-ag
 barko
--ungaw sa
-shirt
-shock
 nakugang
 sapatos
 nangauyog
-shoot
 saha
-shop
-shopping
 tindahan
 mubo
 kinamub
-shot
 kinahanglan
 abaga
 singgit
-show
 nagpakita
 ulan
-showing
 gipakita
 mobiya
-shrub
-manumbaling sa
 panumbalinga
 -um
 magasira
@@ -2926,54 +1680,32 @@ kiliran
 pagpanghupaw
 Nanghupaw
 ilhanan
-signal
 kahilom
 hilom
 seda
-nga buangbuang
 salapi
-susama nga mga
-yano nga
 kayano
 simple
-sa yano
 sukad
-sinsero nga
 -awit
-ang pag-awit
-single
 unlod
-sire
-sireover
-igsoon nga babaye
 paglingkod
-site
 naglingkod
-nga naglingkod
 sitwasyon
-unom ka
 ikaunom
 gidak-on
 eskeleton
-sketch
 kahanas
 panit
 sidsid
 Skirting
 langit
 ulipon
-sa pagkaulipon
 pagkatulog
 natulog
-slide
-gamay nga
 gamay
-slip
 hinay
-slowest
 hinay-hinay
-gamay nga
-labing gagmay
 maghikay
 dugmokon
 baho
@@ -2982,18 +1714,9 @@ pahiyom
 mipahiyom
 nagpahiyum
 manigarilyo
-mahinlo nga
-snail
 bitin
 bitin
-snakesthey
 nieve
-snuggle
-mao nga
-nga dunay sabon
-naghilak nga
-soccer
-social
 katilingban
 humok
 hinay
@@ -3003,147 +1726,86 @@ sundalo
 lig-on
 solusyon
 pagsulbad
-ang uban
 tawo
-usa ka tawo
-someones
-usa ka butang
 usahay
 medyo
 dapit
-anak nga lalake
-song
-sa dili madugay
-soothes
 kasubo
 kasub-anan
-sorry
 matang
 matang
 paminawon
 tinubdan
-sa habagatan
-nga luna
 pagsulti
-sa pagsulti
-espesyal nga
-mga matang
 ilabi
 talan-awon
 pakigpulong
-speed
 paspas
 mogahin
 dapit
-balay sa kaka nga
-spill
 espiritu
-bisan pa
-nindot nga
-split
 misulti
-sport
-spot
-spray
 mikaylap
 spread
-sprig
 tingpamulak
-mga tubod
 isablig
-sprinklingcan
 turok
-sprouts
-sputtered
 espiya
-square
 plasa
-squatter
-squirrel
 dinunggaban
-stage
 hagdanan
-nga nagatindog sa
-nga kahimtang
 bitoon
 mitutok
-stargazer
-mga bitoon
 pagsugod
 nagsugod
 sugod
 gutom
 estado
-sa harianong
 nag-ingon
 mihunong
-station
 estatwa
 magpabilin
 nagpabilin
 makanunayon
 mangawat
 alisngaw
-steel
 lakang
-mga lakang
 sungkod
 pa
 gipukaw
-stock
 tiyan
 bato
-mga bato
 mitindog
 mohunong
 mihunong
 tindahan
-gitipigan sa
-mga istorya
 bagyo
 istorya
-stove
 tul-id
-sa lain nga
 katingalahang
 higot
-strategems
 estratehiya
-nahisalaag nga
 dalan
 tensiyonado
 Tuy-ora
 od
-stretcher
-hugot nga
 tikang
-strike
 hilo
-huboon mo
-stroller
 -suroy
 lig-on
-structure
 pakigbisog
-nga giugbok
 pagtuon
 pagtuon
 mananapon
-style
-subject
-mga sakop
 submarino
 bahandi
 puli
-suburban
 pagkalaglag
 molampus
 milampos
 kalampusan
 malampuson
-sa maong
 kalit
-sa kalit
 -antus
 nag-antus
 pag-antos
@@ -3151,33 +1813,21 @@ asukar
 mosugyot
 sugyot
 paghikog
-igo nga gidaghanon
 ting-init
 kantidad
 adlaw
-sunday
-kahayag sa adlaw
-pagsubang sa adlaw
-pagsalop sa adlaw
-pagsalop sa adlaw
-kahayag sa adlaw
 pagdumala
-supply
 suporta
 magdahum
 sumpoon
 sigurado
-sa pagkatinuod
 nawong
-surgeon
 sobra
 katingala
 natingala
-surrender
 palibotan
 mabuhi
 suspek
-pagsuspenso sa
 katahap
 makatulon
 pagtulon
@@ -3185,151 +1835,88 @@ manumpa
 matam-is
 Nimo
 katam-is
-swell
-swim
-swimming
-switchman
-switchmans
 silaba
 silaba
 simbolo
-symmetric
 pagkabagay
 simpatiya
-nga sistema
 lamesa
 pagkuha
 gikuha
-nga makakuha
 nga
-tale
 pakigpulong
 nakigsulti
 -istorya
-ang gitas-on
 kinatas
 maayo
-tamed
-tames
-tank
-langayan nga
-target
 taripa
 tahas
 buluhaton
 lami
 nagtudlo
-tax
 tsa
 pagtudlo
 magtutudlo
-team
 gision
-mga luha
-technical
 teknolohiya
-tedious
 ngipon
-sa telepono
 teleskopyo
 telebisyon
 pagsulti
 temperatura
-mga templo
 temporaryo
-sa napulo ka
 -atiman
 mabination
 kalumo
-tense
-term
-terrarium
 makalilisang
-terrifically
 teritoryo
-ang kahadlok
 terorista
-test
 kay
-thank
-salamat nga
 pasalamat
 nga
-thatin
-thatlook
 nakaangkon
 ang
 teatro
-ang ilang mga
 kanila
 tema
-sa ilang kaugalingon
 unya
-thenthe
 teorya
 didto
 busa
-therehappy
-kini nga mga
 sila
-ang gibag-
 mabaga
-nga manipis
-nga butang
-mga butang
 hunahuna
 naghunahuna
 ikatulo
 kauhaw
 giuhaw
 katloan
-thirtyone
 kini
 tunok
-thornswhat
-nga hingpit gayud sa
-sa mga
 bisan
 hunahuna
 hunahuna
-ka libo ka
-mga linibo
 naghulga
-tulo ka
 gilabay
 mabuhi
-throbs
 trono
-pinaagi sa
 paglabay
-thumbs
-thump
 dalugdog
 mipadalogdog
 Huwebes
-sa ingon
 ihigot
-ties
 Tiger
 tigre
 panahon
-sa mga panahon
-timewell
 maulawong
 pagilak-gilak
 gamay
-tipler
-tippler
-tipplers
 ligid
 gikapoy
 ligid
 mabudlay
 sa
-toaster
 karon
-tudlo sa tiil
-sa tingub
 magbudlay
 kasilyas
 misulti
@@ -3337,96 +1924,55 @@ nagtugot
 ugma
 tono
 dila
-karong gabii
-tonightyou
-tonsil
 usab
 gikuha
 himan
-nga galamiton
 ngipon
-top
 pag-antus
 magwatas-watas
 pagtortyur
 giitsa
-total
-maghikap sa
 natandog
-tour
 sa
 torre
 lungsod
-mga lungsod
-toy
-track
-tracks
-trade
 tradisyon
-tradisyonal nga
-sa trapiko
 trahedya
 makalilisang
 tren
 tren
-sa paghubad
 transportasyon
 transportasyon
 lit-ag
-travel
 mibiyahe
-mga magpapanaw
 pagbiyahe
 pagbudhi
 bahandi
-pagtagad sa
 pagtratar
 pagtambal
-treaty
 kahoy
-mga kahoy
 mikurog
 pagkurog
 dakong
 pagsulay
 tribo
 nga-banay
-limbong, tikas
 misulay
-trip
-mga tropa
-tropical
 kasamok
-nga makuling kalinaw
-truck
 pagbaklay
-tinuod nga
-sa pagkatinuod
 pagsalig
 kamatuoran
-sa pagsulay
 naningkamot
-tube
-mga dapit
-turkish
-turn
 mibalik
 milingi
 tokmo
 magtutudlo
-napulo ug duha ka
 kaluhaan
 makaduha
 pagkabanag-banag
 linubid
-duha ka
-type
 mangil-ad
-ultrasound
 pagduhaduha
-dili komportable
-ubos sa
-sa ilalum
 makasabut
 pagsabut
 nakasabot
@@ -3434,75 +1980,45 @@ nasabtan
 Subo
 malipayon
 talagsaon
-unit
-paghiusa sa
-nagkahiusa nga
-universal
 uniberso
 unibersidad
-gawas kon
-dili tingali
 malas
-wala kinahanglana nga
-unscrew
 hangtud
 kabakakan
 sa
 sa
 matul-id
 masuko
-ngadto sa itaas
-urban
 -awhag
 dinalian
 kanato
-sa paggamit sa
 gigamit
 mapuslanon
-usher
-sa naandan
 kasagaran
-vacation
 bakuna
 walog
 bililhon
 bili
-vanitywhich
+kakawangan
 utanon
 sakyanan
-venusto
-verb
 hukom
-verge
-tinuod nga
-version
-vertex
 kaayo
-veto
 ginasakit
 biktima
 kadaugan
-video
 balangay
 kaparrasan
-molapas sa
 pagpanlupig
-visa
 panan-awon
 pagbisita
-visiting
-vocal
 tingog
 bolkan
 bulkan
 bolkan
-voluminous
-volunteer
 sinuka
 boto
-voucher
 bokales
-langgam nga mananagit
 suhol
 maghulat
 naghulat
@@ -3510,87 +2026,53 @@ naghulat
 nagahulat
 gipukaw
 paglakaw
-walkand
 naglakaw
 naglakaw
+nagalakaw
 kuta
-walland
-mga kuta
 mahisalaag
-nagasuroysuroy sa
 gusto
 gusto
-gusto nga
 gubat
 pakiggubat
-mainit nga
 pagpasidaan
 mao
-pagalabhan niya ang
-washer
-awa-aw nga
 -usik
-motan-aw sa
-nagtan-aw sa
 pagbantay
-sa tubig
 gipainum
-ang watering
 tubig
-watt
-nga halad
 gitabyog
 balud
-nga paagi
-mga paagi
 kita
-huyang nga
 bahandi
 hinagiban
-mga hinagiban
 magsul-ob
 kakapoy
 nagsul-ob
-sa panahon
-weathervane
-web
 sagbot
 sagbot
 semana
 semana
 paghilak
-nga timbangon
-welcome
 pag-ayo
-mga atabay
 miadto
 mga
-sa kasadpan
 basa
 agosan
-unsa ang
-sa bisan unsa nga
 trigo
 ligid
 ligid
-sa diha nga ang
 diin
-sa matag higayon nga
 diin
-bisan asa
 kon
 nga
 samtang
-puti nga
 nga
-bisan kinsa nga
 tibuok
 nga
-bisan kinsa
 ngano
 halapad
 asawa
-ihalas nga
 sunog
 ang
 andam
@@ -3598,79 +2080,45 @@ modaog
 hangin
 bintana
 tamboanan
-mga pako
-panahon sa tingtugnaw
-wire
 kaalam
-maalamon nga
 buot
 buot
-mga pangandoy
 mao
-uban sa
 mobiya
-sa sulod
-sa walay
 saksi
 gipukaw
 lobo
 babaye
 Won
 katingalahan
-talagsaon nga
 nahibulong
-adunay batasan
 kahoy
-woodland
 pulong
-mga pulong
 nagsul-ob
 buhat
 nagtrabaho
 nagtrabaho
 kalibutan
-mga kalibutan
 gisul-ob
 nabalaka
 kabalaka
 kabalaka
-mas grabe
 labing
 bili
 buot
-wouldnt
 samad
 pagkalunod
-wreckage
-wrinkle
 isulat
 gisulat
 sayop
 misulat
 nataran
 manglanghab
-yawned
-yawning
-yawns
 tuig
-matag tuig
-ka tuig
-yellow
 oo
 kagahapon
 pa
-didto sa unahan
-kamo sa
-batan-on nga
-ang inyong
-sa inyong
-sa imong
-sa imong kaugalingon
-kamo sa inyong kaugalingon
-mga kabatan-onan
-youthe
-youve
+ikaw
+ikaw
 Zealand
 sebra
-zero
-zoo

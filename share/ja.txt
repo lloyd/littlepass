@@ -6,7 +6,6 @@
 約
 上記
 突然
-abruptlyas
 不在
 ボヤボヤ
 絶対的な
@@ -72,7 +71,6 @@ abruptlyas
 代理店
 侵略
 前に
-agoyou
 同意する
 農業
 アー
@@ -99,8 +97,6 @@ agoyou
 アルマナック
 ほとんど
 一人で
-aloneall
-alonewill
 に沿って
 離れて
 すでに
@@ -129,7 +125,6 @@ alonewill
 怒った
 動物
 動物
-animalsi
 足首
 記念日
 発表する
@@ -277,7 +272,7 @@ animalsi
 になる
 になる
 になってきて
-becuase
+なぜなら
 ベッド
 蜂
 き
@@ -322,7 +317,6 @@ becuase
 誕生日
 ビット
 かむ
-bject
 黒
 非難
 毛布
@@ -422,7 +416,6 @@ BOAS
 しかし
 蝶
 蝶
-butwhat
 買う
 買収
 バイ
@@ -480,7 +473,7 @@ butwhat
 キャッチャー
 キャッチング
 毛虫
-caterpillarswho
+毛虫
 キャッチ
 原因
 停戦
@@ -491,9 +484,11 @@ caterpillarswho
 センチ
 セントラル
 世紀
+何世紀にも
 式典
 特定の
 確かに
+椅子
 椅子
 会長
 室
@@ -507,12 +502,13 @@ caterpillarswho
 礼拝堂
 キャラクター
 木炭
-chare
 充電
 魅力的な
 チャート
+チャート
 チェイス
 カンニング
+攻略
 チェック
 チェックを
 応援
@@ -522,6 +518,7 @@ chare
 化学
 ケルビム
 かむ
+チューズ
 そしゃく
 チキン
 鶏
@@ -533,20 +530,27 @@ chare
 中国
 チップ
 選択
+選択肢
 詰まった
 選ぶ
+選択済み
 選んだ
 クリスマス
 含み笑い
+笑う
+教会
 教会
 たばこ
 サークル
+サークル
+回路
 回路
 円周
 迂回する
-圏谷
 市民
+住民
 市民権
+都市
 都市
 市民の
 民間人
@@ -556,16 +560,19 @@ chare
 拍手
 明確にする
 衝突
+衝突
+クラス
 クラス
 分類する
 爪
+爪
 クリーン
+クリーンを
 清掃
 クリーニング
 明確な
 決済
 はっきりと
-clearsighted
 聖職者
 店員
 気候
@@ -669,7 +676,6 @@ clearsighted
 建設
 相談
 消費者
-consumingly
 連絡
 含む
 コンテナ
@@ -737,7 +743,6 @@ couldntの
 作物
 クロス
 交差した
-crossexamine
 不機嫌に
 群衆
 混雑した
@@ -780,7 +785,6 @@ crossexamine
 娘
 夜明け
 日
-dayagain
 夜明け
 日
 死んだ
@@ -831,7 +835,6 @@ dayagain
 記載され
 砂漠
 砂漠
-desertwhat
 デザイン
 欲望
 デスク
@@ -923,12 +926,10 @@ desertwhat
 ドア
 ダブル
 疑問
-doubtit
 疑問
 ハト
 ダウン
 チェッカー
-draftsthat
 ドラゴン
 ドラマ
 飲んだ
@@ -940,7 +941,6 @@ draftsthat
 ものすごく
 夢
 夢
-dreamthis
 身なり
 ドリュー
 飲み物
@@ -1003,7 +1003,6 @@ EIS
 電気
 エレガンス
 要素
-elephans
 象
 ゾウ
 11
@@ -1029,7 +1028,6 @@ elephans
 施行する
 エンジン
 エンジニア
-enginegrease
 英語
 楽しむ
 十分な
@@ -1198,8 +1196,6 @@ EXP
 激しい
 15
 第5
-fiftyfour
-fiftythree
 戦い
 図
 統計
@@ -1222,7 +1218,6 @@ fiftythree
 会社
 しっかりと
 最初の
-第1乃至
 魚
 フィット
 5
@@ -1246,7 +1241,6 @@ fiftythree
 流れ
 花
 花
-flowerthe
 飛行
 流暢に
 流体
@@ -1292,7 +1286,7 @@ flowerthe
 フォーム
 見捨てられた
 幸いにも
-fortyfour
+40
 フォワード
 発見
 噴水
@@ -1301,7 +1295,6 @@ fortyfour
 第4
 キツネ
 キツネ
-foxhis
 分数
 骨折
 壊れやすい
@@ -1344,7 +1337,7 @@ foxhis
 ゲーム
 ごみ
 庭
-gardenand
+ガーデニング
 ガス
 集まる
 集まった
@@ -1434,7 +1427,6 @@ gardenand
 成長する
 成長
 うなり声
-grownup
 大人たち
 成長
 不平
@@ -1454,8 +1446,6 @@ grownup
 居住
 髪
 半分
-halfconfidence
-halfsmile
 廊下
 停止
 ハンマー
@@ -1464,7 +1454,6 @@ halfsmile
 ハンカチ
 ハンドル
 手
-handsomest
 ハング
 絞首刑
 起こる
@@ -1484,7 +1473,6 @@ handsomest
 いないいます
 急いで
 急いで
-hasyes
 帽子
 嫌い
 持っている
@@ -1723,8 +1711,6 @@ IRR
 それ
 その
 自体
-4
-9
 刑務所
 ギュッ
 宝石
@@ -1769,11 +1755,8 @@ IRR
 ノック
 結び目
 知っている
-knowa
-knowi
 知っている
 知識
-knowmy
 既知の
 知っている
 ナックル
@@ -1783,7 +1766,6 @@ knowmy
 湖
 ランプ
 ランプライター
-lamplighters
 ランプ
 土地
 着陸
@@ -1840,7 +1822,6 @@ lamplighters
 うそ
 嘘
 生活
-lifefor
 リフト
 光
 点灯
@@ -1929,7 +1910,6 @@ lifefor
 男性
 悪意のある
 男
-manhe
 マントル
 製造
 肥料
@@ -1959,11 +1939,8 @@ manhe
 私に
 食事
 平均
-meanadmire
-meanephemeral
 意味
 手段
-meantame
 測定
 測定
 肉
@@ -1971,10 +1948,8 @@ meantame
 メディア
 薬
 瞑想
-medow
 大会
 MeetingPlaceの
-melike
 メルト
 メンバー
 メンバー
@@ -1983,7 +1958,6 @@ melike
 メモリ
 人々
 メンタル
-menthat
 商人
 慈悲
 単なる
@@ -2010,7 +1984,6 @@ menthat
 ミルク
 ミリメートル
 100万
-millioni
 無数
 擬態
 心
@@ -2031,7 +2004,6 @@ millioni
 不足している
 間違い
 ミス
-mistook
 誤解
 ミックス
 混合物
@@ -2042,7 +2014,6 @@ mistook
 適度な
 現代の
 控えめな
-modestbut
 控えめに
 修正する
 湿らせた
@@ -2067,7 +2038,6 @@ modestbut
 モラリスト
 もっと
 朝
-morninggood
 最も
 モーテル
 母
@@ -2084,7 +2054,6 @@ morninggood
 移動
 映画
 映画の
-movingand
 ずっと
 マフィン
 マフラー
@@ -2099,7 +2068,6 @@ movingand
 銃口
 私の
 私自身
-myselfone
 奥義
 神秘的な
 謎
@@ -2115,7 +2083,6 @@ myselfone
 自然に
 自然
 身廊
-navely
 ナビゲーション
 ネイビー
 近く
@@ -2141,7 +2108,6 @@ navely
 すてきな
 夜
 だれも
-noeaten
 ノイズ
 指名する
 再生できない
@@ -2163,7 +2129,6 @@ noeaten
 栄養
 今
 どこにも
-nowthat
 核の
 数
 数字
@@ -2203,7 +2168,6 @@ nowthat
 しばしば
 オイル
 古い
-oldfashioned
 雑食動物
 一度
 1
@@ -2351,15 +2315,12 @@ oldfashioned
 パイオニア
 パイプ
 同情
-pityyou
 場所
 はっきりと
 計画
 飛行機
 惑星
 惑星
-planetsgood
-planetssuch
 予定
 植物
 農園
@@ -2373,8 +2334,6 @@ planetssuch
 嘆願
 どうぞ
 喜んで
-pleasedraw
-pleasetame
 喜び
 たくさん
 プロット
@@ -2391,7 +2350,6 @@ pleasetame
 先のとがった
 毒
 ポール
-poleonly
 ポール
 警察
 ポリシー
@@ -2572,7 +2530,6 @@ RAN
 反応する
 反応
 読む
-readercom
 レディー
 リアル
 現実的
@@ -2600,7 +2557,6 @@ readercom
 再集計
 回復する
 赤
-redfaced
 減らす
 繰糸
 リフレクション
@@ -2633,7 +2589,6 @@ redfaced
 述べ
 覚えている
 思い出した
-rememberhow
 思い出した
 自責の念
 削除する
@@ -2659,7 +2614,6 @@ rememberhow
 研究
 類似
 似ている
-resentfulness
 準備
 貯水池
 辞職する
@@ -2735,7 +2689,6 @@ resentfulness
 ロープ
 ローズ
 バラの木
-rosebushes
 バラ
 バラ色の
 回転
@@ -2789,7 +2742,6 @@ rosebushes
 のこぎり
 言う
 言うこと
-saynot
 言う
 スケール
 斜角筋
@@ -2824,7 +2776,6 @@ saynot
 見る
 シード
 シーズ
-seei
 見ること
 求める
 求める
@@ -2838,7 +2789,6 @@ seei
 押収
 発作
 自己
-selfevident
 売る
 販売
 耳
@@ -2863,7 +2813,6 @@ selfevident
 落ち着いた
 7
 第7
-seventytwo
 いくつかの
 厳しい
 セックス
@@ -2878,9 +2827,7 @@ seventytwo
 シャープに
 彼女
 羊
-sheepif
 羊
-sheepthe
 シート
 シェル
 シェル
@@ -2944,7 +2891,6 @@ sheepthe
 シングル
 シンク
 種馬
-sireover
 姉妹
 座る
 サイト
@@ -2986,7 +2932,6 @@ sireover
 カタツムリ
 ヘビ
 ヘビ
-snakesthey
 雪
 スナッグル
 そう
@@ -3051,7 +2996,6 @@ snakesthey
 春
 スプリングス
 振りかける
-sprinklingcan
 もやし
 もやし
 スパッタされた
@@ -3107,7 +3051,6 @@ sprinklingcan
 奇妙な
 奇妙な
 ストラップ
-strategems
 戦略
 はぐれ
 ストリート
@@ -3189,7 +3132,6 @@ strategems
 泳ぐ
 水泳
 SwitchManに
-switchmans
 音節
 音節
 シンボル
@@ -3210,7 +3152,6 @@ switchmans
 最も高い
 飼いならす
 飼いならさ
-tames
 タンク
 遅刻
 ターゲット
@@ -3245,7 +3186,6 @@ tames
 言葉
 テラリウム
 ひどい
-terrifically
 領土
 テロ
 テロリスト
@@ -3255,8 +3195,6 @@ terrifically
 感謝して
 感謝
 その
-thatin
-thatlook
 ザッツ
 ザ·
 劇場
@@ -3265,11 +3203,9 @@ thatlook
 テーマ
 自分自身
 その後
-thenthe
 理論
 そこ
 従って
-therehappy
 これらの
 彼ら
 厚い
@@ -3283,10 +3219,8 @@ therehappy
 渇き
 喉が渇いた
 30
-thirtyone
 この
 とげ
-thornswhat
 徹底的に
 それらの
 しかし
@@ -3314,7 +3248,6 @@ thornswhat
 阪神タイガース
 時間
 回
-timewell
 臆病な
 ティンセル
 小さな
@@ -3338,7 +3271,6 @@ timewell
 トーン
 舌
 今夜
-tonightyou
 へんとう腺
 あまりに
 かかった
@@ -3399,7 +3331,6 @@ tonightyou
 トラブル
 休戦
 トラック
-trudged
 真
 本当に
 信頼
@@ -3467,10 +3398,9 @@ trudged
 谷
 貴重
 値
-vanitywhich
+虚栄心
 野菜
 車両
-venusto
 動詞
 評決
 寸前
@@ -3510,11 +3440,11 @@ venusto
 待機
 ウェイクアップ
 歩く
-walkand
 歩いた
+ウォーカー
 ウォーキング
+歩く
 壁
-ウォールランド
 城壁
 さまよう
 ワンダース
@@ -3663,13 +3593,12 @@ wouldntの
 あなた
 若い
 あなたの
-youreの
 あなた
+あなたがしている
 あなた自身
 あなたたち自身
 若さ
-youthe
-ホード
+あなたました
 ニュージーランド
 シマウマ
 ゼロ

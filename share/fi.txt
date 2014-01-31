@@ -1,14 +1,10 @@
 hylätty
 hämillään
 pystyy
-abloom
-abodes
 noin
 edellä
 äkillisesti
-abruptlyas
 poissaolo
-absentminded
 absoluuttinen
 järjetön
 runsas
@@ -47,7 +43,7 @@ ihailla
 ihailija
 ihailijoita
 myöntää
-hyväksyä
+omaksua
 hyväksyminen
 jumaloida
 koriste
@@ -75,7 +71,6 @@ sitten
 sittenYou
 suostua
 maanviljely
-ah
 eteenpäin
 tuki
 tavoite
@@ -99,8 +94,6 @@ liittolainen
 almanakka
 melkein
 yksin
-aloneall
-alonewill
 pitkin
 syrjässä
 jo
@@ -129,7 +122,6 @@ kulmat
 suuttunut
 eläin
 eläimet
-animalsi
 nilkka
 vuosipäivä
 ilmoittaa
@@ -144,8 +136,6 @@ kaikki
 kukaan
 joku
 mitään
-joka tapauksessa
-missä tahansa
 erilleen
 anteeksi
 näennäinen
@@ -251,14 +241,12 @@ pankki
 juhla-ateria
 apinanleipäpuu
 Baobabs
-bar
 parturi
 paljas
 tinkiä
 tynnyri
 este
 pohja
-baseball
 kori
 erä
 paristot
@@ -277,7 +265,7 @@ koska
 tulla
 tulee
 tulossa
-becuase
+koska
 vuode
 mehiläinen
 ollut
@@ -322,14 +310,10 @@ linnut
 syntymäpäivä
 bitti
 purra
-bject
 musta
 syyttää
 huopa
-bleacher
 tihruinen
-vuotaa verta
-blest
 sokea
 räpytteli
 lohko
@@ -339,8 +323,6 @@ isku
 puhalletut
 puhaltaa
 sininen
-blundering
-boa
 Boas
 kehui
 vene
@@ -378,7 +360,6 @@ leipä
 tauko
 erittely
 aamiainen
-breaking
 hengittää
 hengitti
 tuulahdus
@@ -422,7 +403,6 @@ kiireinen
 mutta
 perhosia
 perhonen
-butwhat
 ostaa
 ostaminen
 mukaan
@@ -449,9 +429,7 @@ syöpä
 ehdokas
 kynttilä
 tykki
-ei voi
 kuomu
-cant
 kykenevät
 pääoma
 kaapata
@@ -479,8 +457,8 @@ katastrofi
 saalis
 sieppari
 tarttuva
+toukka
 toukkia
-caterpillarswho
 kiinni
 syy
 tulitaukoa
@@ -491,10 +469,12 @@ keskus
 senttimetri
 keskeinen
 vuosisata
+vuosisatojen
 seremonia
 tietty
 varmasti
 tuoli
+tuolit
 puheenjohtaja
 kammio
 mestari
@@ -507,12 +487,13 @@ mies
 kappeli
 merkki
 hiili
-chare
 veloittaa
 viehättävä
 kaavio
+kaavioita
 jahdata
 huijata
+huijareita
 tarkistaa
 tarkastetaan
 eläköön
@@ -522,6 +503,7 @@ kemikaalit
 kemia
 kerubi
 pureskella
+pureskelee
 märehtiä
 kana
 kanoja
@@ -533,21 +515,26 @@ simpanssi
 Kiina
 pelimerkkejä
 valinta
+valintoja
 vihainen
 valita
+Choosen
 valitsi
 joulu
 hihittää
 kirkko
+kirkot
 savuke
 ympyrä
+piireissä
 piiri
+piirejä
 ympärysmitta
-purjehtia jnk ympäri
-Cirque
 kansalainen
+kansalaiset
 kansalaisuus
 kaupunki
+kaupungit
 siviili-
 siviili-
 pukeutunut
@@ -556,16 +543,18 @@ taputtaa
 taputtivat
 selventää
 yhteentörmäys
+yhteenottoja
 luokka
+luokat
 luokitella
+kynsiä
 kynnet
 puhdas
+puhdistaa
 puhdistettava
 puhdistus
 selkeä
-clearing
 selvästi
-clearsighted
 papisto
 virkailija
 ilmasto
@@ -591,7 +580,6 @@ romahdus
 kollega
 kerätä
 kokoelma
-college
 siirtomaa
 väri
 värillinen
@@ -665,11 +653,9 @@ harkita
 huomattava
 perustuslaki
 kuristajakäärme
-constrictors
 rakentaminen
 kuullaan
 kuluttaja
-consumingly
 yhteyshenkilö
 sisältää
 kontti
@@ -688,7 +674,6 @@ keskustelu
 muuntaa
 vakuuttunut
 kokki
-cookout
 viileä
 yhteistyötä
 koordinaatit
@@ -704,7 +689,6 @@ puuvilla
 yskä
 yski
 voisi
-couldnt
 valtuusto
 laskea
 maa
@@ -717,8 +701,6 @@ serkut
 kansi
 katettu
 lehmä
-cowboy
-täyteen ahdettu
 romahdus
 kaatui
 ryömiä
@@ -737,8 +719,6 @@ krokotiili
 viljelykasvien
 ylittää
 ristissä
-crossexamine
-crossly
 väkijoukko
 tungosta
 kruunu
@@ -780,7 +760,6 @@ päivämäärä
 tytär
 valjeta
 päivä
-dayagain
 aamunkoite
 päivää
 kuollut
@@ -808,7 +787,6 @@ aste
 alakuloisuus
 viive
 edustaja
-delta
 kysyntä
 vaati
 demokratia
@@ -831,13 +809,11 @@ kuvata
 kuvattu
 aavikko
 aavikot
-desertwhat
 suunnittelu
 halu
 kirjoituspöytä
 tuhota
 yksityiskohta
-tarkemmat tiedot
 pidättää
 määrittää
 haitallinen
@@ -874,8 +850,6 @@ kadota
 katoaminen
 katosi
 pettynyt
-riisua aseista
-disarranged
 katastrofi
 kuri
 lannistunut
@@ -889,7 +863,6 @@ tauti
 lannistua
 erottaa
 tottelemattomuus
-olla tottelematta
 hajaantuminen
 kertakäyttöinen
 riita
@@ -923,12 +896,10 @@ tehty
 ovi
 kaksinkertainen
 epäillä
-doubtit
 epäilyksiä
 kyyhkyset
 alas
 luonnokset
-draftsthat
 lohikäärme
 draama
 Drank
@@ -936,13 +907,9 @@ piirtää
 laatikko
 piirustus
 piirustukset
-drawn
 kamalan
 unelma
-dreaming
-dreamthis
 pukeutunut
-drew
 juoma
 juominen
 ajaa
@@ -969,7 +936,6 @@ hartaasti
 korvat
 maa
 maanjäristys
-earths
 kastemato
 helppous
 helposti
@@ -981,7 +947,6 @@ syöminen
 syö
 kaiku
 kaikui
-echolocation
 ekologia
 talous
 ekosysteemi
@@ -991,10 +956,8 @@ vaikutus
 ponnistus
 muna
 munat
-vai mitä
 kahdeksan
 kahdeksas
-eis
 jompikumpi
 valitut
 vaalit
@@ -1003,7 +966,6 @@ sähköasentaja
 sähkö
 tyylikkyys
 elementti
-elephans
 norsu
 norsuja
 yksitoista
@@ -1029,7 +991,6 @@ energia
 valvoa
 moottori
 insinööri
-enginegrease
 englanti
 nauttia
 tarpeeksi
@@ -1102,7 +1063,6 @@ olla
 olemassa
 olemassaolo
 olemassa
-exp
 laajentaa
 laajeni
 odottaa
@@ -1125,7 +1085,6 @@ ilmaista
 lauseke
 laajentaa
 sammunut
-sukupuuttoon kuoleminen
 sammunut
 lisää
 ylimääräinen
@@ -1198,8 +1157,6 @@ kentät
 raju
 viisitoista
 viides
-fiftyfour
-fiftythree
 taistelu
 kuva
 luvut
@@ -1222,7 +1179,6 @@ ilotulitus
 yritys
 lujasti
 ensimmäinen
-firstto
 kala
 sovittaa
 viisi
@@ -1246,7 +1202,6 @@ jauhot
 virtaus
 kukka
 kukkia
-flowerthe
 lentänyt
 sujuvasti
 neste
@@ -1283,7 +1238,6 @@ metsät
 ikuisesti
 unohtaa
 unohtamatta
-antaa anteeksi
 anteeksianto
 unohdin
 unohdettu
@@ -1292,7 +1246,7 @@ entinen
 lomakkeet
 hyljänneet
 onneksi
-fortyfour
+neljäkymmentä
 eteenpäin
 löytyi
 suihkulähde
@@ -1301,7 +1255,6 @@ neljä
 neljäs
 kettu
 kettuja
-foxhis
 jae
 murtuma
 hauras
@@ -1344,7 +1297,7 @@ peli
 pelit
 roskat
 puutarha
-gardenand
+puutarhanhoito
 kaasu
 kerätä
 kokoontuivat
@@ -1365,7 +1318,6 @@ maantieteellisillä
 maantiede
 geometrinen
 pelargonioita
-gerbil
 ele
 saada
 saa
@@ -1397,7 +1349,6 @@ menossa
 kulta
 kultainen
 kultakala
-golf
 poissa
 hyvä
 näkemiin
@@ -1410,7 +1361,6 @@ hallitus
 armo
 luokka
 jyvä
-viljapellon laitaa
 kielioppi
 suuri
 graniitti
@@ -1454,8 +1404,6 @@ elinympäristö
 asuinpaikka
 hiukset
 puoli
-halfconfidence
-halfsmile
 käytävä
 pysäyttää
 vasara
@@ -1464,12 +1412,10 @@ käsi
 nenäliina
 kahva
 käsissä
-handsomest
 roikkua
 riippuva
 tapahtua
 tapahtui
-happening
 onnellisempi
 onnellisesti
 onnellinen
@@ -1477,18 +1423,14 @@ kova
 jänis
 vahinko
 haitallinen
-harmfully
 ankara
 sato
 on
-ei ole
 kiiruhti
 hätäisesti
-hasyes
 hattu
 vihata
 olla
-havent
 ottaa
 pää
 päistikkaa
@@ -1506,7 +1448,6 @@ taivas
 taivaassa
 raskas
 korkeus
-held
 helikopteri
 auttaa
 aivopuolisko
@@ -1543,7 +1484,6 @@ reikiä
 loma
 pyhä
 koti
-koti-ikävää tunteva
 rehellinen
 hunaja
 kunnia
@@ -1585,7 +1525,6 @@ aviomies
 hypoteesi
 jää
 jäätelöä
-idea
 ideoita
 tunnistaa
 identiteetti
@@ -1637,7 +1576,6 @@ intialainen
 intiassa
 välinpitämättömyys
 yksilöllinen
-indulgently
 teollisuus
 tehoton
 tartuttaa
@@ -1668,7 +1606,6 @@ innoittava
 esimerkki
 välitön
 heti
-sen sijaan
 väline
 välineitä
 niskoittelu
@@ -1678,7 +1615,6 @@ kokonaisluku
 älykkyys
 älykäs
 voimakas
-keskinäinen riippuvuus
 korko
 kiinnostunut
 mielenkiintoinen
@@ -1716,15 +1652,12 @@ peruuttamaton
 on
 saari
 luoto
-ei ole
 yksittäinen
 tasakylkinen
 kysymys
 se
 sen
 itse
-iv
-ix
 vankila
 nykäisi
 jalokivi
@@ -1769,11 +1702,8 @@ veitsi
 koputtaa
 solmu
 tietää
-knowa
-knowi
 tietäen
-tuntemus
-knowmy
+tieto
 tunnettu
 tietää
 rysty
@@ -1783,16 +1713,13 @@ puute
 järvi
 lamppu
 Lamplighter
-lamplighters
 valaisimet
 maa
 laskeutunut
-landform
 maisema
 kieli
 suuri
 suurempi
-lasso
 viimeksi
 kesti
 kestää
@@ -1840,7 +1767,6 @@ liberaali
 valhe
 valheita
 elämä
-lifefor
 hissi
 valo
 valaistu
@@ -1940,7 +1866,6 @@ marssi
 merkki
 markkinat
 naimisissa
-mennä naimisiin
 Mars
 ihme
 massa
@@ -1959,11 +1884,8 @@ pormestari
 minua
 ateria
 tarkoittaa
-meanadmire
-meanephemeral
 merkitys
 välineet
-meantame
 mitata
 mittaus
 liha
@@ -1971,7 +1893,6 @@ mekaanikko
 tiedotusvälineet
 lääketiede
 meditaatio
-medow
 tavata
 MeetingPlace
 Melike
@@ -1983,7 +1904,6 @@ muistoja
 muisti
 miehet
 henkinen
-menthat
 kauppias
 armo
 pelkkä
@@ -2010,7 +1930,6 @@ miliisi
 maito
 millimetri
 miljoona
-millioni
 miljoonia
 matkiminen
 mieli
@@ -2031,18 +1950,15 @@ ohjus
 poissaoleva
 virhe
 virheitä
-mistook
 väärinkäsityksiä
 sekoittaa
 seos
 voihki
 väkijoukko
-mobile
 malli
 kohtalainen
 nykyaikainen
 vaatimaton
-modestbut
 vaatimattomasti
 muokata
 kostutettu
@@ -2061,13 +1977,11 @@ kuukautta
 pahantuulinen
 kuu
 kuutamo
-mopped
 moreeni
 moraalinen
 moralisti
 lisää
 aamu
-morninggood
 eniten
 motelli
 äiti
@@ -2084,7 +1998,6 @@ liikkeet
 liikkuu
 elokuva
 elokuvat
-movingand
 paljon
 muffinssi
 äänenvaimennin
@@ -2099,7 +2012,6 @@ täytyy
 kuono
 minun
 itse
-myselfone
 salaisuudet
 salaperäinen
 mysteeri
@@ -2115,7 +2027,6 @@ luonnollinen
 luonnollisesti
 luonto
 keskilaiva
-navely
 suunnistus
 laivasto
 lähellä
@@ -2133,20 +2044,16 @@ naapuri
 naapuruus
 eikä
 neutraali
-ei koskaan
 silti
 uusi
 uutiset
 seuraava
 kiva
 yö
-ei kukaan
-noeaten
 melu
 nimittää
 uusiutumaton
 keskipäivä
-eikä myöskään
 normaali
 pohjoiseen
 nenä
@@ -2156,14 +2063,11 @@ merkintätapa
 huomautus
 muistikirja
 muistiinpanoja
-ei mitään
 ilmoitus
 huomaamatta
 substantiivi
 ravinto
 nyt
-ei missään
-nowthat
 ydinaseiden
 numero
 numero
@@ -2190,7 +2094,6 @@ miehittää
 tapahtunut
 valtameri
 valtameret
-oclock
 kahdeksankulmio
 mustekala
 pariton
@@ -2204,7 +2107,6 @@ usein
 öljy
 vanha
 kalkkis
-omnivore
 kerran
 yksi
 niistä
@@ -2263,7 +2165,6 @@ maalarit
 maalit
 pari
 kalpea
-panda
 huohotti
 paperi
 laskuvarjo
@@ -2305,7 +2206,6 @@ rauha
 rauhanomaisesti
 huiput
 jylistä
-peevishly
 lyijykynä
 lyijykynät
 pingviini
@@ -2331,7 +2231,6 @@ henkilö
 suostutella
 terälehtiä
 adressi
-huh huh
 valokuva
 fotosynteesi
 lauseke
@@ -2351,15 +2250,12 @@ vaaleanpunainen
 pioneeri
 putki
 sääli
-pityyou
 paikka
 selvästi
 suunnitelma
 kone
 planeetta
 planeetat
-planetsgood
-planetssuch
 suunnitelmat
 kasvi
 plantaasi
@@ -2371,11 +2267,8 @@ leikkisä
 leikkipuisto
 pelissä
 valitusperuste
-olkaa hyvä
 tyytyväinen
-pleasedraw
-pleasetame
-ilo
+huvi
 paljon
 tontti
 nyppiä
@@ -2391,7 +2284,6 @@ kohta
 terävä
 myrkky
 napa
-poleonly
 pylväät
 poliisi
 politiikka
@@ -2484,7 +2376,6 @@ lupaus
 viipymättä
 todiste
 todisteet
-propaganda
 oikea
 oikein
 omaisuus
@@ -2518,7 +2409,6 @@ jatkaa
 työntö
 työnnetään
 laittaa
-puts
 laskemisesta
 ymmällään
 pyramidi
@@ -2540,7 +2430,6 @@ kilpailu
 tutka
 loiste
 säteily
-radio
 retiisi
 säde
 lautta
@@ -2572,7 +2461,6 @@ saavutettu
 suhtautua
 reaktio
 lukea
-readercom
 valmis
 todellinen
 realistinen
@@ -2600,7 +2488,6 @@ ennätys
 tarkistuslaskenta
 toipua
 punainen
-redfaced
 vähentää
 rullata
 heijastus
@@ -2610,7 +2497,6 @@ uudistus
 pakolainen
 kieltäytyä
 kieltäytyy
-ottaa huomioon
 alue
 alueellinen
 ilmoittautua
@@ -2633,7 +2519,6 @@ jäännökset
 huomautti
 muistaa
 muistetaan
-rememberhow
 muistutti
 katumus
 poistaa
@@ -2682,13 +2567,10 @@ rajoittaa
 lepää
 tulos
 säilyttää
-jäädä eläkkeelle
 huudahti
 paluu
-uudelleen käytettävä
 paljasti
 haaveilu
-reviving
 kapina
 vallankumous
 revolveri
@@ -2722,7 +2604,6 @@ karjaisu
 möly
 ryöstää
 viitta
-rock
 rokkasi
 raketti
 kiviä
@@ -2734,8 +2615,6 @@ juuri
 juuret
 köysi
 Rose
-rosebush
-rosebushes
 ruusuja
 ruusuinen
 kierto
@@ -2748,7 +2627,6 @@ pilata
 sääntö
 huhu
 sekaisin
-run
 juoksu
 kulkee
 repeämä
@@ -2789,10 +2667,8 @@ säästö
 saha
 sanoa
 sanonta
-saynot
 sanoo
 mittakaava
-scalene
 tuskin
 pelästynyt
 huivi
@@ -2818,7 +2694,7 @@ istuen
 toinen
 sekuntia
 salaisuus
-salaisuuksia
+salaisuudet
 jakso
 turvallisuus
 nähdä
@@ -2838,7 +2714,6 @@ takavarikoida
 takavarikoitu
 takavarikointi
 itse
-selfevident
 myydä
 myynti
 hulpio
@@ -2863,7 +2738,6 @@ asettua
 ratkaistu
 seitsemän
 seitsemäs
-seventytwo
 useat
 vaikea
 sukupuoli
@@ -2878,9 +2752,7 @@ terävä
 teroitettu
 hän
 lammas
-sheepif
 lampaat
-sheepthe
 arkki
 kuori
 kuoret
@@ -2907,7 +2779,6 @@ laukaus
 pitäisi
 olkapäät
 huutaa
-show
 osoittivat
 suihku
 näyttää
@@ -2941,10 +2812,8 @@ koska
 vilpitön
 laulaa
 laulu
-single
 pesuallas
 isä
-sireover
 sisko
 istua
 sivusto
@@ -2986,7 +2855,6 @@ sileä
 etana
 käärme
 käärmeitä
-snakesthey
 lumi
 käpertyä
 niin
@@ -3044,14 +2912,12 @@ halkaistu
 Puheenvuorot
 urheilu
 paikka
-spray
 leviäminen
 levitteet
 oksa
 kevät
 jouset
 ripotella
-sprinklingcan
 versoa
 ituja
 katodipölyynnyksellä
@@ -3072,7 +2938,6 @@ tähteä
 alku
 alkoi
 alkaen
-kuolla nälkään
 valtio
 mahtava
 valtioiden
@@ -3107,7 +2972,6 @@ suora
 outo
 Omituisin
 hihna
-strategems
 strategia
 hajautuminen
 katu
@@ -3189,7 +3053,6 @@ turvota
 uida
 uinti
 vaihdemies
-switchmans
 tavu
 tavuja
 symboli
@@ -3255,20 +3118,15 @@ kiitos
 onneksi
 kiitos
 että
-thatin
-thatlook
-thats
 teatteri
 niiden
 niitä
 teema
 itse
 sitten
-thenthe
 teoria
 siellä
 siis
-therehappy
 nämä
 ne
 paksu
@@ -3282,10 +3140,8 @@ kolmas
 jano
 janoinen
 kolmekymmentä
-thirtyone
 tämä
 piikkejä
-thornswhat
 perusteellisesti
 ne
 vaikka
@@ -3297,7 +3153,6 @@ uhata
 kolme
 heitti
 kukoistaa
-throbs
 valtaistuin
 kautta
 heittää
@@ -3313,18 +3168,15 @@ tiikeri
 Tiikerit
 aika
 kertaa
-timewell
 arka
 hopealanka
 pikkuruinen
 Tipler
 naukkailija
-tipplers
 rengas
 väsynyt
 renkaat
 ärsyttävä
-to
 leivänpaahdin
 tänään
 varpaat
@@ -3336,8 +3188,6 @@ siedetty
 huomenna
 sävy
 kieli
-tänä iltana
-tonightyou
 nielurisa
 liian
 otti
@@ -3398,7 +3248,6 @@ trooppinen
 vaivata
 aselepo
 kuorma-auto
-trudged
 totta
 todella
 luottamus
@@ -3406,18 +3255,15 @@ totuus
 yrittää
 yrittää
 putki
-tundra
 turkki
 vuoro
 kääntyi
 kääntämällä
 kilpikonna
-tutor
 kaksitoista
 kaksikymmentä
 kahdesti
 hämärä
-twined
 kaksi
 tyyppi
 ruma
@@ -3443,7 +3289,6 @@ ellei
 epätodennäköinen
 onneton
 tarpeeton
-ruuvata irti
 saakka
 valhe
 ylös
@@ -3466,10 +3311,9 @@ rokote
 laakso
 arvokas
 arvo
-vanitywhich
+turhamaisuus
 vihannes
 ajoneuvo
-venusto
 verbi
 tuomio
 partaalla
@@ -3477,11 +3321,9 @@ todellinen
 versio
 kärki
 hyvin
-veto
 ärtynyt
 uhri
 voitto
-video
 kylä
 viinitarhat
 rikkoa
@@ -3509,11 +3351,11 @@ odotus
 odottaa
 herätetään
 kävellä
-walkand
 käveli
+kävelijä
 kävely
+kävelee
 seinä
-Walland
 seinät
 vaeltaa
 Wanders
@@ -3568,21 +3410,16 @@ länsi
 märkä
 kosteikko
 mitä
-mikä tahansa
 vehnä
 pyörä
 pyörät
 kun
 mistä
-aina kun
 jossa
-minne tahansa
 onko
 joka
-kun taas
 valkoinen
 jotka
-kuka tahansa
 koko
 jonka
 kenen
@@ -3614,7 +3451,6 @@ todistaja
 heräsi
 susi
 nainen
-won
 ihme
 ihana
 ihmetellä
@@ -3662,13 +3498,12 @@ tuolla
 sinua
 nuori
 sinun
-youre
 sinun
+olet
 itse
 itsenne
 nuoriso
-youthe
-youve
+olet
 Seelanti
 seepra
 nolla

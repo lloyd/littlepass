@@ -1,16 +1,13 @@
 opuszczony
 speszony
 zdolny
-w kwiatach
 siedzibami
 o
 powyżej
 nagle
-abruptlyas
 brak
 roztargniony
 bezwzględny
-absurd
 obfity
 nadużycie
 otchłań
@@ -72,10 +69,7 @@ wiek
 agencja
 agresja
 temu
-agoyou
-zgodzić się
 rolnictwo
-ah
 przed
 pomoc
 cel
@@ -83,9 +77,7 @@ powietrze
 samolot
 samoloty
 lotnisko
-alarm
 niestety
-album
 alkohol
 algebraiczny
 algorytm
@@ -99,10 +91,7 @@ sojusznik
 almanach
 prawie
 sam
-aloneall
-alonewill
 wzdłuż
-z dala
 już
 również
 chociaż
@@ -129,7 +118,6 @@ kąty
 zły
 zwierzęcy
 zwierzęta
-animalsi
 kostki
 rocznica
 ogłosić
@@ -144,14 +132,12 @@ dowolny
 ktoś
 ktoś
 wszystko
-w każdym razie
 nigdzie
 osobno
 przepraszać
 widoczny
 zjawa
 apel
-pojawić się
 wygląd
 pojawił
 Pojawi
@@ -166,7 +152,6 @@ archeologia
 architektura
 są
 obszar
-spierać się
 arytmetyka
 Arizona
 ramię
@@ -185,7 +170,6 @@ artyleria
 jak
 popiół
 zawstydzony
-na bok
 zapytać
 zapytał
 krzywo
@@ -207,11 +191,9 @@ astronauta
 astronom
 astronomiczny
 astronomia
-jedno od drugiego
 azyl
 zjadłem
 atmosfera
-atom
 dołączać
 atak
 próba
@@ -235,7 +217,6 @@ nagroda
 od
 niezgrabny
 niemowlę
-z powrotem
 zły
 znaczek
 bilans
@@ -247,18 +228,14 @@ balon
 głosowanie
 zakaz
 bandaż
-bank
 bankiet
-baobab
 baobaby
-bar
 fryzjer
 goły
 okazja
 beczka
 bariera
 podstawa
-baseball
 koszyk
 partia
 baterie
@@ -275,9 +252,8 @@ piękno
 stała
 ponieważ
 zostać
-staje się
 coraz
-ponieważ posiadał
+ponieważ
 łóżko
 pszczoła
 było
@@ -299,7 +275,6 @@ należeć
 należał
 należy
 poniżej
-na zginanie
 korzystny
 zgięty
 jagoda
@@ -322,7 +297,6 @@ ptaki
 urodziny
 kawałek
 gryźć
-bject
 czarny
 wina
 koc
@@ -340,7 +314,6 @@ dmuchane
 wieje
 niebieski
 niezdarny
-boa
 boa
 chwalił
 łódź
@@ -422,7 +395,6 @@ zajęty
 ale
 motyle
 motyl
-butwhat
 kupować
 kupowanie
 przez
@@ -449,7 +421,6 @@ rak
 kandydat
 świeczka
 armata
-nie może
 baldachim
 żargon
 zdolny
@@ -479,11 +450,10 @@ katastrofa
 połów
 łapacz
 uchwyt
+gąsienica
 gąsienice
-caterpillarswho
 złapany
 przyczyna
-zawieszenie broni
 świętować
 piwnica
 komórki
@@ -491,10 +461,11 @@ centrum
 centymetr
 centralny
 wiek
+wieków
 ceremonia
 pewny
-na pewno
 krzesło
+krzesła
 przewodniczący
 komora
 mistrz
@@ -506,13 +477,13 @@ zmiany
 facet
 kaplica
 charakter
-węgiel drzewny
-chare
 naładować
 uroczy
 wykres
+wykresy
 pościg
 oszukać
+Kody
 sprawdzać
 sprawdzone
 wiwatować
@@ -522,6 +493,7 @@ chemikalia
 chemia
 cherubin
 żuć
+gryzaki
 żucie
 kurczak
 kurcząt
@@ -533,21 +505,27 @@ szympans
 porcelana
 frytki
 wybór
+wybory
 zakrztusił
 wybierać
+Wybrany
 Wybrano
-Boże Narodzenie
 chichot
+chichocze
 kościół
+kościoły
 papieros
 krąg
+koła
 obieg
+obwodów
 obwód
 opływać
-kotlina
 obywatel
+Obywatele
 obywatelstwo
 miasto
+miasta
 cywilny
 cywil
 platerowane
@@ -556,20 +534,22 @@ klaśnięcie
 klaskali
 klarować
 zderzenie
+Starcia
 klasa
+Zajęcia
 klasyfikować
+szpon
 pazury
 czysty
+Czyści
 wyczyszczony
 czyszczenie
 jasny
 polana
 wyraźnie
-clearsighted
 kler
 urzędnik
 klimat
-wspiąć się
 wspiął
 zegar
 blisko
@@ -669,7 +649,6 @@ dusicieli
 budowa
 konsultacje
 konsument
-consumingly
 kontakt
 zawierać
 pojemnik
@@ -688,7 +667,6 @@ rozmowa
 konwertować
 przekonany
 ugotować
-cookout
 chłodny
 współpracować
 współrzędne
@@ -737,7 +715,6 @@ krokodyl
 Rośliny
 krzyż
 skrzyżowane
-crossexamine
 złością
 tłum
 zatłoczony
@@ -750,17 +727,14 @@ kostka
 kultura
 niewygodny
 lekarstwo
-godzina policyjna
 ciekawość
 ciekawy
 zakręcony
 loki
 aktualny
 zwyczaj
-urząd celny
 cięcie
 cykl
-cylinder
 tata
 tama
 uszkodzenie
@@ -780,7 +754,6 @@ data
 córka
 świt
 dzień
-dayagain
 przedświt
 dni
 martwy
@@ -808,7 +781,6 @@ stopień
 przygnębienie
 opóźnienie
 delegat
-delta
 popyt
 domagał
 demokracja
@@ -831,7 +803,6 @@ opisać
 opisano
 pustynia
 pustynie
-desertwhat
 projekt
 pragnienie
 biurko
@@ -862,7 +833,6 @@ trawienie
 trawienie
 kopanie
 cyfra
-dołek na policzku
 obiad
 dyplomata
 bezpośredni
@@ -875,7 +845,6 @@ zniknięcie
 zniknął
 rozczarowany
 rozbrajać
-disarranged
 katastrofa
 dyscyplina
 zniechęcony
@@ -889,7 +858,6 @@ choroba
 zniechęcony
 odwołać
 nieposłuszeństwo
-być nieposłusznym
 rozproszenie
 jednorazowy
 spór
@@ -919,16 +887,12 @@ dolar
 delfin
 darować
 gotowy
-dont
 drzwi
 podwójny
 wątpliwość
-doubtit
 wątpliwości
 gołębie
-w dół
 warcaby
-draftsthat
 smok
 dramat
 pili
@@ -940,7 +904,6 @@ pociągnięty
 piekielnie
 śnić
 śnić
-dreamthis
 ubrany
 Drew
 pić
@@ -968,7 +931,6 @@ zarabiać
 gorliwie
 kłosie
 ziemia
-trzęsienie ziemi
 ziemie
 dżdżownica
 łatwość
@@ -979,7 +941,6 @@ jeść
 zjedzony
 jedzenie
 jedzenie
-echo
 echem
 echolokacji
 ekologia
@@ -991,10 +952,8 @@ efekt
 wysiłek
 jajko
 jajka
-eh
 osiem
 ósmy
-eis
 bądź
 elekt
 wybór
@@ -1002,8 +961,6 @@ elektryczny
 elektryk
 elektryczność
 elegancja
-element
-elephans
 słoń
 słonie
 jedenaście
@@ -1012,12 +969,9 @@ Zawstydzony
 zakłopotany
 ambasada
 embrion
-wyłaniać się
-nagły wypadek
 emocja
 zatrudniać
 opróżniony
-Butelki zwrotne
 pusty
 oczarowanie
 Spotkania
@@ -1029,9 +983,7 @@ energia
 egzekwować
 silnik
 inżynier
-enginegrease
 angielski
-cieszyć się
 dość
 wpisać
 zabawny
@@ -1084,7 +1036,6 @@ zbadać
 rozpatrywania
 przykład
 doskonały
-z wyjątkiem
 wymiana
 podniecony
 podniecenie
@@ -1102,7 +1053,6 @@ istnieć
 istniał
 istnienie
 istnieje
-exp
 rozszerzać
 rozszerzony
 oczekiwać
@@ -1123,7 +1073,6 @@ odkrywcy
 eksport
 wyrazić
 wyrażenie
-rozciągać się
 wymarły
 wygaśnięcie
 ugaszony
@@ -1136,7 +1085,6 @@ oko
 oczy
 twarz
 twarze
-w obliczu
 fakt
 Czynniki
 fabryka
@@ -1198,14 +1146,11 @@ Pola
 okrutny
 piętnaście
 piąty
-fiftyfour
-fiftythree
 walka
 figura
 Liczby
 napełniać
 wypełniony
-film
 końcowy
 wreszcie
 finansowy
@@ -1222,7 +1167,6 @@ fajerwerki
 firma
 stanowczo
 pierwszy
-firstto
 ryba
 dopasować
 pięć
@@ -1230,9 +1174,7 @@ przymocować
 osprzęt
 flaga
 płomień
-lampa błyskowa
 błysnął
-flasher
 mieszkanie
 spłaszczenie
 uciec
@@ -1246,29 +1188,23 @@ mąka
 płynąć
 kwiat
 kwiaty
-flowerthe
 pilotowany
 płynnie
 płyn
 fluorescencyjny
 zaczerwieniona
-uderzenia gorąca
 latać
 fokus
 mgła
 zagiąć
 folklor
 śledzić
-następujący sposób
 czuły
 jedzenie
 oszukać
 głupi
 stopa
-piłka nożna
-ślad stopy
 podnóżek
-mecze piłkarskie
 dla
 wyrozumiałość
 zakazać
@@ -1280,7 +1216,6 @@ czoło
 obcy
 las
 lasy
-na zawsze
 zapomnieć
 zapominając
 przebaczyć
@@ -1292,16 +1227,14 @@ były
 Formularze
 opuszczony
 szczęśliwie
-fortyfour
+czterdzieści
 naprzód
 znaleziono
 fontanna
-fountainpen
 cztery
 czwarty
 lis
 lisy
-foxhis
 frakcja
 złamanie
 kruchy
@@ -1329,7 +1262,6 @@ owoc
 paliwo
 uciekinier
 pełny
-grzebanie się
 zabawa
 funkcja
 fundamentalnie
@@ -1344,7 +1276,7 @@ gra
 gry
 śmieci
 ogród
-gardenand
+ogrodnictwo
 gaz
 zbierać
 zebrane
@@ -1397,14 +1329,12 @@ będzie
 złoto
 złoty
 rybka
-golf
 Odszedł
 dobry
 pożegnanie
 dobroć
 towary
 gęś
-got
 rządzić
 rząd
 łaska
@@ -1454,8 +1384,6 @@ siedlisko
 mieszkanie
 włosy
 pół
-halfconfidence
-halfsmile
 korytarz
 postój
 młot
@@ -1463,13 +1391,11 @@ chomik
 ręka
 chusteczka
 uchwyt
-siła robocza
 najprzystojniejszy
 powiesić
 wiszący
 stanie
 się
-happening
 szczęśliwsi
 szczęśliwie
 szczęśliwy
@@ -1481,17 +1407,14 @@ ujemnie
 szorstki
 żniwa
 ma
-nie ma
 pośpieszył
 pochopnie
-hasyes
 kapelusz
 nienawidzić
 mieć
 przystań
 mający
 głowa
-na złamanie karku
 centrala
 uzdrowić
 zdrowie
@@ -1537,16 +1460,13 @@ historia
 uderzać
 wywieszono
 utrzymać
-holding
 dziura
 otwory
 święto
 święty
 dom
-stęskniony za krajem
 uczciwy
 miód
-honor
 nadzieja
 rogi
 straszny
@@ -1556,7 +1476,6 @@ szpital
 zakładnik
 wrogi
 gorący
-hotel
 gorętsze
 godzina
 godzin
@@ -1569,16 +1488,13 @@ buczenie
 człowiek
 ludzkość
 pokorny
-humor
 sto
 setki
 głód
 głodny
 polowanie
-hunter
 Myśliwi
 pośpieszny
-śpieszyć się
 spiesząc
 zranić
 mąż
@@ -1599,7 +1515,6 @@ nielogiczny
 zilustrować
 obraz
 wyobraźnia
-wyobrażać sobie
 niedojrzały
 niezmierzony
 natychmiastowy
@@ -1610,11 +1525,9 @@ nieruchomy
 niemoralny
 nieruchomy
 niedostępny
-import
 znaczenie
 ważny
 niemożliwy
-nie do zdobycia
 imponować
 imponujący
 nieprawdopodobny
@@ -1669,12 +1582,10 @@ instancja
 natychmiastowy
 natychmiast
 zamiast
-instrument
 instrumenty
 niesubordynacja
 izolator
 zniewaga
-liczba całkowita
 inteligencja
 inteligentny
 intensywny
@@ -1687,7 +1598,6 @@ ingerować
 międzynarodowy
 Internet
 przerwana
-przecinających się
 interweniować
 intymnie
 w
@@ -1705,9 +1615,7 @@ angażować
 żelazo
 IRR
 irracjonalny
-nie do pogodzenia
 nieistotny
-nie do naprawienia
 nieodwracalny
 irytacją
 drażnić
@@ -1723,8 +1631,6 @@ problem
 to
 jego
 sobie
-iv
-ix
 więzienie
 szarpnął
 klejnot
@@ -1733,7 +1639,6 @@ przystąpić
 wspólny
 żart
 podróż
-z radością
 sędzia
 sądzeni
 sądząc
@@ -1744,7 +1649,6 @@ skoki
 dżungla
 Jupiter
 jurysdykcja
-jury
 tylko
 sprawiedliwość
 kangur
@@ -1769,11 +1673,8 @@ nóż
 pukać
 węzeł
 wiedzieć
-knowa
-knowi
 wiedząc,
 wiedza
-knowmy
 znany
 wie
 golonka
@@ -1783,16 +1684,13 @@ brak
 jezioro
 lampa
 latarnik
-lamplighters
 Lampy
 ziemia
 wylądował
-ukształtowanie terenu
 krajobraz
 język
 duży
 większy
-lasso
 ostatni
 trwała
 trwa
@@ -1801,7 +1699,6 @@ później
 szerokość
 śmiech
 śmieszny
-zaśmiał się
 śmiech
 śmiech
 śmiech
@@ -1813,7 +1710,6 @@ leniwy
 prowadzić
 nieszczelność
 skoczył
-uczyć się
 uczony
 nauka
 najmniej
@@ -1827,7 +1723,6 @@ legenda
 ustawodawczy
 legislatura
 odcinki
-wolny czas
 wypożyczać
 długość
 mniej
@@ -1840,7 +1735,6 @@ liberalny
 kłamstwo
 kłamstwa
 życie
-lifefor
 wyciąg
 światło
 oświetlony
@@ -1880,7 +1774,6 @@ logiczny
 samotny
 długo
 dłużej
-długość geograficzna
 patrzeć
 spojrzał
 patrząc
@@ -1906,7 +1799,6 @@ szczęśliwy
 żałobny
 letni
 księżycowy
-lunch
 leżący
 maszyna
 zrobiony
@@ -1929,7 +1821,6 @@ zrobienie
 mężczyzna
 złośliwy
 człowiek
-manhe
 płaszcz
 produkcja
 nawóz
@@ -1959,11 +1850,8 @@ burmistrz
 mnie
 posiłek
 oznaczać
-meanadmire
-meanephemeral
 Znaczenie
 środki
-meantame
 mierzyć
 pomiary
 mięso
@@ -1971,10 +1859,8 @@ mechanik
 mediów
 medycyna
 medytacja
-medow
 spotkać
 MeetingPlace
-melike
 wytop
 członek
 Członkowie
@@ -1983,7 +1869,6 @@ wspomnienia
 pamięć
 mężczyźni
 umysłowy
-menthat
 kupiec
 miłosierdzie
 sam
@@ -1991,7 +1876,6 @@ tylko
 zasługa
 wiadomość
 spełnione
-metal
 metaliczny
 metrów
 metoda
@@ -2010,14 +1894,12 @@ milicja
 mleko
 milimetr
 milion
-millioni
 miliony
 mimika
 umysł
 kopalnia
 mineralny
 miniatura
-minister
 moll
 mniejszość
 tum
@@ -2038,11 +1920,9 @@ mieszanina
 jęknął
 tłum
 ruchomy
-model
 umiarkowany
 nowoczesny
 skromny
-modestbut
 skromnie
 modyfikować
 zwilża
@@ -2060,16 +1940,13 @@ miesiąc
 miesięcy
 nastrojowy
 księżyc
-światło księżyca
 wytarł
 morena
 moralny
 moralista
 więcej
 rano
-morninggood
 najbardziej
-motel
 matka
 ruch
 nieruchomy
@@ -2084,7 +1961,6 @@ Ruchy
 porusza
 film
 kino
-movingand
 wiele
 bułeczka
 tłumik
@@ -2099,12 +1975,10 @@ musi
 kaganiec
 mój
 się
-myselfone
 arkana
 tajemniczy
 tajemnica
 nazwa
-o nazwie
 Nazwy
 wąski
 nosowy
@@ -2115,9 +1989,7 @@ naturalny
 naturalnie
 natura
 nawa
-navely
 nawigacja
-marynarka wojenna
 blisko
 konieczny
 konieczność
@@ -2134,14 +2006,12 @@ sąsiedztwo
 ani
 neutralny
 nigdy
-niemniej jednak
 nowy
 aktualności
 następny
 ładny
 noc
 nikt
-noeaten
 hałas
 mianować
 nieodnawialne
@@ -2163,13 +2033,11 @@ rzeczownik
 pokarm
 teraz
 nigdzie
-nowthat
 jądrowy
 liczba
 liczebnik
 liczbowy
 pielęgniarstwo
-składniki odżywcze
 posłuszeństwo
 słuchać
 posłuszny
@@ -2188,9 +2056,7 @@ zawód
 zajęty
 zająć
 wystąpiło
-ocean
 oceany
-oclock
 ośmiokąt
 ośmiornica
 dziwny
@@ -2212,11 +2078,9 @@ się
 tylko
 otwarte
 otwierany
-opera
 działać
 operacja
 opinia
-sprzeciwiać się
 naprzeciwko
 uciskać
 pomarańczowy
@@ -2234,11 +2098,8 @@ powinien
 uncja
 nasz
 wyrugować
-na zewnątrz
 wynik
-na dworze
 skandalicznie
-na zewnątrz
 owalny
 przez
 przezwyciężać
@@ -2248,7 +2109,6 @@ obalenie
 zawdzięczać
 sowa
 własny
-owned
 właściciel
 posiadania
 woły
@@ -2263,7 +2123,6 @@ malarze
 Farby
 para
 blady
-panda
 sapał
 papier
 spadochron
@@ -2274,14 +2133,12 @@ równoległobok
 ułaskawienie
 rodzic
 nawiasy
-park
 parlament
 pietruszka
 część
 częściowy
 cząstka
 strony
-partner
 kuropatwa
 części
 strona
@@ -2294,7 +2151,6 @@ Karnety
 śmierć
 paszport
 przeszłość
-patent
 ścieżka
 cierpliwość
 pacjent
@@ -2318,7 +2174,6 @@ procent
 idealny
 wykonać
 perfumowany
-być może
 obwód
 okres
 zginąć
@@ -2346,20 +2201,15 @@ sztuk
 ułożone
 pigułka
 pigułki
-pilot
 różowy
 pionier
 rura
 litość
-pityyou
 miejsce
 wyraźnie
-plan
 samolot
 planeta
 Planety
-planetsgood
-planetssuch
 Plany
 roślina
 plantacja
@@ -2368,21 +2218,16 @@ plastikowy
 grać
 grać
 figlarny
-plac zabaw dla dzieci
 gra
 zarzut
 proszę
 zadowolony
-pleasedraw
-pleasetame
 przyjemność
 mnóstwo
 działka
 oskubać
 oskubane
 pogrążyła
-liczba mnoga
-pocked
 kieszeń
 wiersz
 poeta
@@ -2391,7 +2236,6 @@ punkt
 spiczasty
 trucizna
 słup
-poleonly
 słupy
 policja
 polityka
@@ -2408,7 +2252,6 @@ maki
 popularny
 populacja
 owsianka
-port
 portret
 portrety
 stanowisko
@@ -2427,7 +2270,6 @@ moc
 potężny
 preria
 pochwała
-modlić się
 kaznodzieja
 poprzedzający
 cenny
@@ -2437,7 +2279,6 @@ precyzja
 drapieżnik
 przepowiadać
 przewidywalne
-w ciąży
 Preparaty
 przygotować
 przygotowany
@@ -2467,7 +2308,6 @@ więzienie
 prywatny
 nagroda
 prawdopodobnie
-problem
 problemy
 proces
 produkować
@@ -2477,14 +2317,12 @@ produkty
 zawód
 profesor
 zysk
-program
 postęp
 projekt
 obietnica
 natychmiast
 dowód
 dowody
-propaganda
 właściwy
 prawidłowo
 właściwość
@@ -2493,7 +2331,6 @@ proponowany
 chronić
 ochrony
 ochrona
-protest
 dumny
 dowieść
 zapewniać
@@ -2518,7 +2355,6 @@ realizacji
 pchnięcie
 pchnął
 wkładać
-puts
 wprowadzenie
 zaskoczony
 piramida
@@ -2537,10 +2373,8 @@ iloraz
 królik
 szop
 wyścig
-radar
 blask
 promieniowanie
-radio
 rzodkiewka
 promień
 tratwa
@@ -2549,7 +2383,6 @@ wściekłość
 nalot
 reling
 popędzać
-kolej żelazna
 deszcz
 tęcza
 Rainforest
@@ -2572,11 +2405,9 @@ osiągnięty
 zareagować
 reakcja
 czytać
-readercom
 gotowy
 prawdziwy
 realistyczny
-uświadomić sobie
 realizowany
 naprawdę
 powód
@@ -2600,7 +2431,6 @@ rekord
 opowiadać
 wyzdrowieć
 czerwony
-redfaced
 zredukować
 motania
 odbicie
@@ -2611,7 +2441,6 @@ uchodźca
 odmawiać
 odmawia
 wzgląd
-region
 regionalny
 zarejestrować
 żałować
@@ -2633,7 +2462,6 @@ szczątki
 zauważył
 pamiętać
 pamiętać
-rememberhow
 Przypomniał
 skrucha
 usunąć
@@ -2658,19 +2486,15 @@ wymaga
 ratunkowy
 Badania
 podobieństwo
-być podobnym
-resentfulness
 rezerwa
 zbiornik
 rezygnować
-przeciwstawiać się
 stanowczy
 rozkład
 rozbrzmiewał
 zasób
 poszanowanie
 szanowanym
-z szacunkiem
 odpowiedzi
 odpowiedź
 odpowiedzialność
@@ -2685,7 +2509,6 @@ zachować
 emeryturę
 odparował
 powrót
-wielokrotnego użytku
 ujawnił
 zaduma
 Ożywienie
@@ -2734,8 +2557,6 @@ korzeń
 korzenie
 lina
 róża
-rosebush
-rosebushes
 róże
 różany
 obrót
@@ -2765,7 +2586,6 @@ Najsmutniejsze
 niestety
 smutek
 bezpieczny
-sahara
 powiedział
 żagiel
 marynarz
@@ -2777,7 +2597,6 @@ podobnie
 piasek
 piaski
 zatonął
-sat
 satelita
 satyna
 zadowolony
@@ -2789,7 +2608,6 @@ oszczędność
 piła
 powiedzieć
 powiedzenie
-saynot
 mówi:
 skala
 różnoboczny
@@ -2814,7 +2632,6 @@ poszukiwanie
 morza
 sezon
 siedziba
-z siedzibą
 drugi
 sekund
 tajemnica
@@ -2829,16 +2646,13 @@ widzenie
 szukać
 poszukiwania
 wydają
-Wydawało się
 wydaje
 widziany
 widzi
-segment
 chwycić
 zajęte
 konfiskata
 ja
-selfevident
 sprzedać
 sprzedający
 krajki
@@ -2863,7 +2677,6 @@ rozstrzygać
 rozstrzygane
 siedem
 siódmy
-seventytwo
 kilka
 ciężki
 seks
@@ -2878,9 +2691,7 @@ ostry
 zaostrzony
 ona
 owca
-sheepif
 owce
-sheepthe
 arkusz
 powłoka
 muszle
@@ -2907,15 +2718,12 @@ strzał
 powinien
 plecy
 krzyk
-show
 pokazał
 prysznic
 pokaz
 pokazane
 kurczyć
 krzew
-wzruszać ramionami
-wzruszając ramionami
 zamknięty
 zamykają
 Syberia
@@ -2936,7 +2744,6 @@ podobny
 prosty
 prostota
 uproszczony
-po prostu
 ponieważ
 szczery
 śpiewać
@@ -2944,7 +2751,6 @@ szczery
 wolny
 umywalka
 płodzić
-sireover
 siostra
 siedzieć
 teren
@@ -2986,13 +2792,10 @@ gładki
 ślimak
 wąż
 węże
-snakesthey
 śnieg
-tulić się
 tak
 mydlany
 szlochając
-piłka nożna
 społeczny
 społeczeństwo
 miękki
@@ -3042,7 +2845,6 @@ złość
 wspaniały
 rozszczepiony
 zabrał
-sport
 miejsce
 rozpylać
 rozpiętość
@@ -3051,7 +2853,6 @@ gałązka
 wiosna
 sprężyny
 posypać
-sprinklingcan
 kiełek
 Kiełki
 pylistych
@@ -3107,7 +2908,6 @@ prosto
 dziwny
 Najdziwniejsze
 pasek
-podstępami
 strategia
 błądzą
 ulica
@@ -3137,7 +2937,6 @@ substancja
 substytut
 podmiejski
 obalenie
-osiągnąć sukces
 udało
 sukces
 udany
@@ -3156,24 +2955,17 @@ lato
 Sumy
 słońce
 niedziela
-światło słoneczne
-wschód słońca
-zachód słońca
-zachody słońca
-światło słoneczne
 kontrolować
 dostawa
 wsparcie
 przypuszczać
 tłumić
 pewny
-na pewno
 powierzchnia
 chirurg
 nadwyżka
 niespodzianka
 zdziwiony
-poddanie się
 otaczać
 przetrwać
 podejrzany
@@ -3189,14 +2981,11 @@ puchnąć
 pływać
 pływacki
 zwrotniczy
-switchmans
 sylaba
 sylaby
-symbol
 symetryczny
 symetria
 współczucie
-system
 tabela
 wziąć
 wzięty
@@ -3243,20 +3032,14 @@ delikatnie
 czułość
 czas
 termin
-terrarium
 straszny
 szalenie
 terytorium
-terror
 terrorysta
-test
 niż
 dziękuję
-na szczęście
 dzięki
 że
-thatin
-thatlook
 ów
 teatr
 ich
@@ -3264,11 +3047,9 @@ im
 motyw
 sami
 następnie
-thenthe
 teoria
 tam
 dlatego
-therehappy
 te
 oni
 gruby
@@ -3282,10 +3063,8 @@ trzeci
 pragnienie
 spragniony
 trzydzieści
-Thirty
 to
 ciernie
-thornswhat
 dokładnie
 osób
 chociaż
@@ -3306,14 +3085,12 @@ uderzenie
 grzmot
 grzmiał
 czwartek
-tak więc
 krawat
 krawaty
 tygrys
 tygrysy
 czas
 czasy
-timewell
 bojaźliwy
 blichtr
 malutki
@@ -3336,15 +3113,12 @@ tolerowana
 jutro
 ton
 język
-dzisiaj wieczorem
-tonightyou
 migdałek
 zbyt
 wziął
 narzędzie
 narzędzia
 ząb
-top
 męka
 rozdarty
 tortura
@@ -3369,7 +3143,6 @@ tragiczny
 pociąg
 pociągi
 tłumaczenie
-transport
 transport
 pułapka
 podróż
@@ -3406,7 +3179,6 @@ prawda
 próbować
 trudny
 rura
-tundra
 turecki
 kolej
 gracz
@@ -3415,7 +3187,6 @@ obrócenie
 nauczyciel
 dwanaście
 dwadzieścia
-dwa razy
 zmierzch
 kręconego
 dwa
@@ -3439,18 +3210,14 @@ zjednoczony
 uniwersalny
 wszechświat
 uniwersytet
-chyba że
-mało prawdopodobne,
 pechowy
 niepotrzebny
 odkręcić
 do
 kłamstwo
-w górę
 na
 pionowo
 zdenerwowany
-w górę
 miejski
 namawiać
 pilny
@@ -3466,10 +3233,9 @@ szczepionka
 dolina
 cenny
 wartość
-vanitywhich
+próżność
 warzywo
 pojazd
-venusto
 czasownik
 werdykt
 krawędź
@@ -3509,11 +3275,11 @@ czekanie
 czeka
 obudził
 spacer
-walkand
 Chodziliśmy
+chodzik
 pieszy
+spacery
 ściana
-Walland
 Ściany
 zbłądzić
 Wanders
@@ -3556,7 +3322,6 @@ sieć
 chwast
 chwasty
 tydzień
-weekend
 płacz
 ważyć
 powitanie
@@ -3608,19 +3373,16 @@ chciał
 dowcip
 z
 wycofać
-w ciągu
 bez
 świadek
 Obudziłem
 wilk
 kobieta
-won
 dziwnego,
 wspaniały
 zastanawiasz
 przyzwyczajenie
 drewno
-lesisty teren
 słowo
 słowa
 sobie
@@ -3631,13 +3393,10 @@ praca
 światy
 używany
 zmartwiony
-martwić się
 niepokojące
 gorzej
 najgorszy
-o wartości
 by
-nie byłby
 rana
 wrak
 wrak
@@ -3662,14 +3421,10 @@ tam
 ty
 młody
 swój
-jesteś
 twój
+jesteś
 sobie
 się
 młodzież
-youTHE
-zabawie
+masz
 Zelandia
-zebra
-zero
-zoo

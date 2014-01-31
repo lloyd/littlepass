@@ -1,14 +1,7 @@
-wedi'u gadael
-abashed
 gallu
-abloom
-abodes
 am
 uchod
-yn sydyn
-abruptlyas
 absenoldeb
-absentminded
 absoliwt
 hurt
 doreithiog
@@ -18,21 +11,16 @@ derbyn
 derbyniol
 damwain
 clod
-yn ôl
 cyfrif
 gywir
 cyhuddo
 cyflawniad
 cydnabod
 gyfarwydd
-ar draws
 gweithredu
 gweithredu
-camau gweithredu
 weithgar
 actifydd
-actor
-mewn gwirionedd
 aciwt
 addasu
 addasu
@@ -59,20 +47,13 @@ hysbysebu
 cynghori
 bell
 berthynas
-yn effeithio ar
 hoffter
 ofn
 Affrica
-african
-ar ôl
 prynhawn
 eto
-yn erbyn
 oed
 asiantaeth
-ymddygiad ymosodol
-yn ôl
-agoyou
 cytuno
 amaethyddiaeth
 AH
@@ -82,37 +63,22 @@ nod
 aer
 awyren
 awyrennau
-maes awyr
 larwm
-alas
 albwm
-alcohol
 algebraidd
-algorithm
-ar dân
-fel ei gilydd
-yn fyw
 pob
-alligator
 caniatáu
 gynghreiriad
-almanac
 bron
-ei ben ei hun
-aloneall
-alonewill
 hyd
 oeraidd
 eisoes
 hefyd
 er
-yn gyfan gwbl
-bob amser
 syndod
 llysgennad
 diwygio
 newid
-america
 ffrwydron
 ymhlith
 swm
@@ -129,7 +95,6 @@ onglau
 ddig
 anifeiliaid
 anifeiliaid
-animalsi
 ffêr
 pen-blwydd
 cyhoeddi
@@ -138,18 +103,10 @@ flin
 arall
 ateb
 hateb
-ant
 einion
 unrhyw
-unrhyw un
-unrhyw un
-unrhyw beth
-beth bynnag
-yn unrhyw le
-ar wahân
 ymddiheuro
 amlwg
-apparition
 apêl
 ymddangos
 ymddangosiad
@@ -161,18 +118,15 @@ ymagwedd
 cymeradwyo
 bras
 ffedog
-draphont ddwr
 archeoleg
 pensaernïaeth
 yn
 ardal
 dadlau
 rhifyddeg
-arizona
 braich
 breichiau
 fyddin
-o gwmpas
 cyffroi
 arestio
 arestio
@@ -185,9 +139,7 @@ magnelau
 fel
 lludw
 cywilydd
-o'r neilltu
 gofyn
-Gofynnwyd i
 Askew
 gofyn
 gofyn
@@ -197,7 +149,6 @@ cynorthwyo
 cymorth
 cysylltiadol
 sicrhau
-asteroid
 asteroidau
 synnu
 syndod
@@ -211,7 +162,6 @@ dorrodd
 lloches
 bwyta
 awyrgylch
-atom
 atodi
 ymosodiad
 ymgais
@@ -219,23 +169,18 @@ mynychu
 sylw
 priodoleddau
 archwiliad
-aurora
 Awstralia
 awdur
 awdurdod
 Automobile
 hydref
-sydd ar gael
 cyfartaledd
 osgoi
 effro
-awaken
 deffro
 dyfarniad
-i ffwrdd
 lletchwith
 babi
-yn ôl
 drwg
 bathodyn
 cydbwysedd
@@ -249,22 +194,17 @@ gwahardd
 rhwymyn
 banc
 gwledd
-baobab
-baobabs
-bar
 barbwr
 moel
 bargen
 gasgen
 rhwystr
 sylfaen
-baseball
 basged
 swp
 batris
 frwydr
 bae
-fod yn
 traeth
 arth
 bwystfil
@@ -274,43 +214,29 @@ hardd
 harddwch
 Daeth
 oherwydd
-yn dod yn
-yn dod yn
-dod yn
-becuase
+oherwydd
 gwely
 gwenyn
-bod yn
 gwenyn
 cyn
 erfyn
 Dechreuodd
 dechrau
 dechrau
-yn dechrau
 dechrau
 ymddygiad
-y tu ôl i
-cael eu
-yn credu
 Credir
 clychau
 perthyn
-yn perthyn
 perthyn
 isod
 plygu
 fuddiol
 plygu
 aeron
-wrth ymyl
-ar wahân
 gorau
 Bradycha
-yn well
 rhwng
-bewildered
-y tu hwnt i
 mawr
 mwy
 beic
@@ -320,18 +246,14 @@ bioleg
 adar
 adar
 pen-blwydd
-bit
 brathu
-bject
 du
 bai
 blanced
 Bleacher
-bleary
 gwaedu
 dirion
 ddall
-blinked
 bloc
 gwaed
 blodau
@@ -339,10 +261,7 @@ ergyd
 chwythu
 chwythu
 glas
-trwsgl a
 BOA
-boas
-boasted
 cwch
 corff
 berwi
@@ -351,12 +270,10 @@ bom
 esgyrn
 esgyrnog
 llyfr
-cwpwrdd llyfrau
 llyfrau
 acroedd
 ffin
 diflasu
-bores
 anwyd
 benthyg
 ddau
@@ -388,14 +305,12 @@ bont
 byr
 llachar
 wych
-yn dod â
 darlledu
 torrodd
 torri
 brawd
 brodyr
 dwyn
-brown
 swigen
 bwced
 blaguryn
@@ -404,7 +319,6 @@ adeiladu
 adeilad
 adeiladu
 swmpus
-bullet
 bwndeli
 baich
 claddu
@@ -420,26 +334,19 @@ busnes
 busnes
 brysur
 ond
-ieir bach yr haf
-glöyn byw
-butwhat
 prynu
 prynu
 gan
 bresych
 bresych
 caban
-cabinet
 Cactus
 cacen
 cyfrifo
 cyfrifiadau
 alwad
-a elwir yn
 dawel
 Daeth
-camel
-camera
 cuddliw
 gwersyll
 ymgyrch
@@ -449,19 +356,14 @@ canser
 ymgeisydd
 cannwyll
 canon
-Ni all
 canopi
 Cant
 gallu
 cyfalaf
 dal
-car
 carafannau
-carbon
 gofal
 gyrfa
-yn ofalus
-yn ofalus
 ddiofal
 cigysydd
 carped
@@ -474,13 +376,12 @@ achos
 bwrw
 castell
 cestyll
-cat
 trychineb
 dal
 daliwr
 dal
 lindys
-caterpillarswho
+lindys
 dal
 achos
 cadoediad
@@ -491,10 +392,11 @@ canolfan
 centimetr
 ganolog
 ganrif
+canrifoedd
 seremoni
 rhai
-yn sicr
 gadeirydd
+cadeiriau
 cadeirydd
 siambr
 hyrwyddwr
@@ -507,23 +409,21 @@ dyn
 capel
 cymeriad
 golosg
-Chare
-codi tâl
 swynol
 siart
+siartiau
 hela
 twyllo
+twyllwyr
 gwirio
 gwirio
 hwyl
 siriol
-cheetah
 cemegau
 cemeg
 ceriwb
 cnoi
 cnoi
-cyw iâr
 ieir
 prif
 plentyn
@@ -533,59 +433,61 @@ tsimpansî
 llestri
 sglodion
 dewis
+dewisiadau
 tagu
 dewis
+dewisir
 dewis
 nadolig
 chwerthin
 eglwys
+eglwysi
 sigarét
 cylch
+cylchoedd
 cylched
+cylchedau
 cylchedd
-anwybyddu gofynion
-Cirque
 dinesydd
+dinasyddion
 dinasyddiaeth
 ddinas
+dinasoedd
 sifil
 sifil
-clad
 hawliad
 clapio
 clapio
 egluro
 gwrthdaro
+gwrthdaro
 dosbarth
+dosbarthiadau
 dosbarthu
+grafanc
 crafangau
 glân
 glanhau
 glanhau
+glanhau
 glir
 clirio
-yn glir
-clearsighted
 clerigwyr
 clerc
-yn yr hinsawdd
 dringo
 dringo
 cloc
 agos
-ar gau
 agos
 agosach
 cau
 brethyn
 dillad
-cloud
 glo
 glymblaid
 arfordir
 arfordirol
 coffi
-coil
 oer
 cwymp
 cydweithiwr
@@ -598,13 +500,10 @@ lliw
 lliwiau
 cyfuniad
 cyfuno
-yn dod
-yn dod
 cysur
 gyfforddus
 gyfforddus
 cysuro
-i ddod
 gorchymyn
 sylwadau
 bwyllgor
@@ -622,7 +521,6 @@ cystadlu
 cystadleuaeth
 cwblhau
 cwblhau
-yn gyfan gwbl
 cymhleth
 cymhleth
 cyfansoddi
@@ -631,10 +529,8 @@ deall
 cyfaddawd
 cyfrifiannau
 cyfrifiadur
-conceited
 canolbwyntio
 pryder
-dan sylw
 casgliad
 condemnio
 cyflwr
@@ -664,12 +560,9 @@ ceidwadol
 ystyried
 sylweddol
 cyfansoddiad
-constrictor
-constrictors
 adeiladu
 ymgynghori
 defnyddwyr
-consumingly
 cyswllt
 gynnwys
 cynhwysydd
@@ -688,23 +581,18 @@ sgwrs
 trosi
 argyhoeddedig
 coginio
-cookout
 oer
 cydweithredu
 cyfesurynnau
 copi
-coquettish
-corn
 cornel
 gywir
 llygredd
-cost
 gwisgoedd
 cotwm
 peswch
 pesychu
 gallai
-couldnt
 cyngor
 cyfrif
 gwlad
@@ -718,11 +606,9 @@ clawr
 cynnwys
 buwch
 cowboi
-llawn dop
 damwain
 damwain
 cropian
-crazy
 creu
 creadur
 creaduriaid
@@ -737,8 +623,6 @@ crocodeil
 cnydau
 croesi
 croesi
-crossexamine
-crossly
 dorf
 gorlawn
 goron
@@ -754,14 +638,11 @@ cyrffyw
 chwilfrydedd
 chwilfrydig
 cyrlio
-curls
-ar hyn o bryd
 arfer
 arferion
 torri
 cylch
 silindr
-dad
 argae
 difrod
 dawns
@@ -775,13 +656,10 @@ meiddio
 tywyll
 dywyll
 tywyllwch
-data
 dyddiad
 merch
 gwawr
 dydd
-dayagain
-y wawr
 diwrnod
 marw
 fyddar
@@ -808,19 +686,14 @@ gradd
 digalondid
 oedi
 cynrychiolydd
-delta
 galw
 mynnu
 democratiaeth
-yn dangos
 arddangosiad
-Gyfrannog ymwrthod
 dwysedd
 deintyddol
 gwadu
 ymadael
-yn dibynnu
-yn gresynu
 defnyddio
 blaendal
 iselder
@@ -828,10 +701,8 @@ dyfnderoedd
 deillio
 disgyniad
 disgrifio
-a ddisgrifir
 anialwch
 anialwch
-desertwhat
 dylunio
 awydd
 desg
@@ -845,15 +716,12 @@ datblygu
 datblygu
 ddyfais
 neilltuo
-diagram
 diamedr
 diemwnt
 unben
 geiriadur
 oedd
-Nid oedd
 marw
-diet
 gwahaniaeth
 gwahanol
 anodd
@@ -875,13 +743,10 @@ diflaniad
 diflannu
 siomedig
 ddiarfogi
-disarranged
 trychineb
 disgyblaeth
-hannog i beidio
 ddarganfod
 darganfod
-yn darganfod
 darganfod
 gwahaniaethu
 trafod
@@ -910,7 +775,6 @@ wneud
 meddyg
 ddogfen
 yn
-Nid yw
 ci
 cŵn
 wneud
@@ -919,19 +783,13 @@ doler
 dolffin
 rhoi
 Da
-dont
 drws
 dwbl
 amheuaeth
-doubtit
 amheuon
 colomennod
-i lawr
 drafftiau
-draftsthat
 ddraig
-drama
-yn yfed
 tynnu
 drôr
 lluniadu
@@ -940,13 +798,11 @@ tynnu
 ofnadwy
 freuddwyd
 breuddwydio
-dreamthis
 wisg
 Drew
 diod
 yfed
 gyrru
-galw heibio
 gostwng
 sychder
 boddi
@@ -956,7 +812,6 @@ sych
 hwyaden
 cloddio
 twyni
-yn ystod
 llwch
 ddyletswydd
 marw
@@ -970,7 +825,6 @@ clustiau
 ddaear
 daeargryn
 ddaear
-pryf genwair
 leddfu
 hawdd
 ddwyrain
@@ -984,18 +838,15 @@ Adleisiodd
 ecoleoli
 ecoleg
 economi
-ecosystem
 ymyl
 addysg
 effaith
 ymdrech
 wy
 wyau
-eh
 wyth
 wythfed
 EIS
-naill ai
 ethol
 etholiad
 trydan
@@ -1003,42 +854,30 @@ trydanwr
 trydan
 ceinder
 elfen
-elephans
 eliffant
 eliffantod
-un ar ddeg
 arall
 embaras
 embaras
 llysgenhadaeth
-embryo
-yn dod i'r amlwg
 argyfwng
 emosiwn
 cyflogi
 gwagio
-cynwysyddion gwag
-yn wag
 Hud
 cyfarfyddiadau
 diwedd
-mewn perygl
 dioddef
 gelyn
 ynni
 gorfodi
 injan
 peiriannydd
-enginegrease
 Saesneg
 mwynhau
-digon o
-mynd i mewn
 difyr
 adloniant
 cyfan
-yn gyfan gwbl
-entrepreneur
 mynediad
 amgylchedd
 byrhoedlog
@@ -1054,7 +893,6 @@ gwall
 gwallau
 ffrwydradau
 dianc
-yn enwedig
 hanfodol
 sefydlu
 sefydlu
@@ -1067,7 +905,6 @@ ewrop
 ewropeaidd
 gwerthuso
 anweddu
-hyd yn oed
 nos
 digwyddiad
 erioed
@@ -1075,34 +912,25 @@ pob
 pawb
 pawb
 popeth
-ym mhob man
 tystiolaeth
 drwg
 union
-yn union
 archwilio
 archwilio
 enghraifft
 rhagorol
-ac eithrio
 cyfnewid
 gyffrous
 cyffro
 gyffrous
-exclaim
 meddai
 gwaharddiad
 esgus
 gweithredu
 gweithredol
-ymarfer corff
 dihysbyddu
 alltudiaeth
-yn bodoli
-yn bodoli
 bodolaeth
-yn bodoli
-exp
 ehangu
 ehangu
 disgwyl
@@ -1130,7 +958,6 @@ diffodd
 ychwanegol
 eithriadol
 eithafol
-hynod o
 eithafol
 llygad
 llygaid
@@ -1145,13 +972,9 @@ methu
 methiant
 llewygu
 deg
-yn deg
-tylwyth teg
-straeon tylwyth teg
 ffyddlon
 disgyn
 trig
-sy'n dod o
 cwympiadau
 ffug
 cyfarwydd
@@ -1180,12 +1003,9 @@ hoff
 ofn
 nodwedd
 ffederal
-bwyd anifeiliaid
-yn teimlo
 traed
 syrthiodd
 cyd-
-yn teimlo
 benywaidd
 ffens
 ffrwythlon
@@ -1198,8 +1018,6 @@ meysydd
 ffyrnig
 pymtheg
 pumed
-fiftyfour
-fiftythree
 frwydr
 ffigur
 ffigurau
@@ -1207,9 +1025,7 @@ llenwi
 llenwi
 ffilm
 terfynol
-yn olaf
 ariannol
-dod o hyd i
 darganfyddiadau
 dirwy
 bys
@@ -1218,11 +1034,8 @@ gorffen
 gorffenedig
 tân
 tanau
-tân gwyllt
 cwmni
 gadarn
-yn gyntaf
-firstto
 pysgod
 addas
 pum
@@ -1232,7 +1045,6 @@ baner
 fflam
 fflach
 fflachiodd
-flasher
 fflat
 fflatio
 ffoi
@@ -1246,9 +1058,7 @@ blawd
 llif
 blodau
 blodau
-flowerthe
 hedfan
-yn rhugl
 hylif
 fflwroleuol
 fflysio
@@ -1257,7 +1067,6 @@ hedfan
 ffocws
 niwl
 plygu
-llên gwerin
 dilyn
 dilyn
 hoff
@@ -1269,7 +1078,6 @@ pêl-droed
 ôl-troed
 draed
 pêl
-ar gyfer
 goddefgarwch
 gwahardd
 gwahardd
@@ -1280,7 +1088,6 @@ talcen
 dramor
 coedwig
 coedwigoedd
-am byth
 anghofio
 anghofio
 maddau
@@ -1291,35 +1098,26 @@ ffurflen
 cyn-
 ffurflenni
 wrthod
-yn ffodus
-fortyfour
+deugain
 ymlaen
-dod o hyd i
 ffynnon
-fountainpen
 pedwar
 pedwerydd
 llwynog
 llwynogod
-foxhis
 ffracsiwn
 toriad
 fregus
-fragrance
 ffrainc
-freckle
-rhad ac am ddim
 rhyddid
 rhewi
 ffres
 ffres
-Dydd Gwener
 ffrind
 ffrindiau
 cyfeillgarwch
 dychryn
 ofnus
-yn codi ofn
 erchyll
 broga
 o
@@ -1329,7 +1127,6 @@ ffrwythau
 tanwydd
 ffo
 llawn
-fumble
 hwyl
 swyddogaeth
 sylfaenol
@@ -1337,35 +1134,25 @@ angladd
 doniol
 ddodrefnu
 dodrefnu
-yn y dyfodol
-gadget
-yn ennill
 gêm
 gemau
-garbage
 gardd
-gardenand
+garddio
 nwy
 casglu
-a gasglwyd
 Rhoddodd
 syllu
 cyffredinol
 cyffredinoli
-Yn gyffredinol,
 genhedlaeth
 hil-laddiad
 ysgafn
-gŵr bonheddig
-gentlemans
 ysgafn
 daearyddwr
 daearyddwyr
 daearyddiaeth
 daearyddiaeth
 geometrig
-mynawyd y bugail
-gerbil
 ystum
 cael
 cael
@@ -1379,14 +1166,10 @@ merch
 merched
 rhoi
 roddir
-yn rhoi
-gan roi
 falch
-Cipolwg ar
 llacharedd
 gwydr
 llygedyn
-gleams
 ddisglair
 byd
 nod
@@ -1396,21 +1179,16 @@ mynd
 mynd
 aur
 aur
-pysgodyn aur
 golff
-wedi mynd
 da
-hwyl fawr
 daioni
 nwyddau
 gwydd
-got
 rheoli
 llywodraeth
 gras
 gradd
 grawn
-grainfields
 gramadeg
 mawreddog
 gwenithfaen
@@ -1433,9 +1211,6 @@ ddaear
 grŵp
 tyfu
 tyfu
-growl
-wedi tyfu i fyny
-grownups
 tyfu
 cwyno
 warant
@@ -1451,25 +1226,18 @@ gwn
 gynnau
 arfer
 cynefin
-fyw ynddynt
 gwallt
 hanner
-halfconfidence
-halfsmile
 cyntedd
 atal
 morthwyl
-hamster
 llaw
 hances
 trin
 dwylo
-handsomest
 hongian
 hongian
-yn digwydd
 ddigwyddodd
-yn digwydd
 hapusach
 hapus
 hapus
@@ -1477,18 +1245,13 @@ caled
 Ysgyfarnog
 niwed
 niweidiol
-harmfully
 llym
 cynhaeaf
-Mae gan
-nid yw wedi
 prysuro
 frys
-hasyes
 het
 casineb
 wedi
-havent
 cael
 pen
 Headlong
@@ -1498,7 +1261,6 @@ iechyd
 clywed
 clywed
 clyw
-yn clywed
 galon
 gwres
 gwresogi
@@ -1516,7 +1278,6 @@ fuches
 yma
 meudwy
 arwr
-ei hun
 petruster
 betruso
 hecsagon
@@ -1529,9 +1290,7 @@ uchaf
 herwgipio
 bryn
 iddo
-ei hun
 awgrym
-hippopotamus
 ei
 hanes
 taro
@@ -1562,9 +1321,7 @@ awr
 oriau
 tŷ
 sut
-Fodd bynnag,
 enfawr
-hugged
 Hum
 dynol
 ddynoliaeth
@@ -1584,7 +1341,6 @@ brifo
 gŵr
 rhagdybiaeth
 iâ
-hufen ia
 syniad
 syniadau
 nodi
@@ -1596,26 +1352,19 @@ annarllenadwy
 anghyfreithlon
 anllythrennog
 afresymegol
-yn dangos
-image
 dychymyg
 dychmygu
 anaeddfed
 anfesuradwy
-ar unwaith
-immensity
 mewnfudwr
 mudo
 ansymudol
 anfoesol
-na ellir ei symud
 anhreiddiadwy
 mewnforio
 pwysigrwydd
 bwysig
 amhosibl
-impregnable
-argraff ar
 drawiadol
 annhebygol
 gwella
@@ -1629,15 +1378,12 @@ ysgogi
 cynnwys
 anghyson
 cynyddu
-yn wir
 bant
 annibyniaeth
 annibynnol
 Indiaidd
-cwmnïau annibynnol
 difaterwch
 unigol
-indulgently
 diwydiant
 aneffeithlon
 heintio
@@ -1660,15 +1406,11 @@ wallgof
 pryfed
 ansicr
 anwahanadwy
-y tu mewn
 mynnu
 arolygu
 arolygiad
 ysbrydoledig
 enghraifft
-ar unwaith
-ar unwaith
-yn lle hynny
 offeryn
 offerynnau
 anufudd-dod
@@ -1685,12 +1427,9 @@ diddorol
 diddordebau
 ymyrryd
 rhyngwladol
-y rhyngrwyd
-torri ar draws
 croestorri
 ymyrryd
 agos
-i mewn i
 meddwi
 ymosod
 dyfeisio
@@ -1698,7 +1437,6 @@ dyfeisio
 ddyfais
 gwrthdro
 buddsoddi
-ymchwilio i
 anweledig
 gwahodd
 cynnwys
@@ -1709,28 +1447,21 @@ anghymodlon
 amherthnasol
 anadferadwy
 anwrthdroadwy
-irritably
 lidio'r
 llidiog
 llid
 yn
 ynys
 ynysig
-Nid yw
 ynysig
 isosgeles
 mater
 mae'n
 ei
-ei hun
-iv
-ix
 carchar
-jerked
 em
 swydd
 ymuno
-ar y cyd
 jôc
 taith
 llawen
@@ -1742,10 +1473,8 @@ neidio
 neidio
 neidio
 jyngl
-jupiter
 awdurdodaeth
 rheithgor
-yn unig
 cyfiawnder
 cangarŵ
 cadw
@@ -1762,18 +1491,14 @@ brenin
 deyrnas
 brenhinoedd
 cusan
-gath fach
 pengliniau
 gwybod
 cyllell
 guro
 cwlwm
 gwybod
-knowa
-knowi
 gwybod
 gwybodaeth
-knowmy
 hysbys
 gwybod
 migwrn
@@ -1781,9 +1506,6 @@ llafur
 labordy
 diffyg
 llyn
-lamp
-lamplighter
-lamplighters
 lampau
 tir
 glanio
@@ -1792,12 +1514,8 @@ tirwedd
 iaith
 mawr
 mwy
-lasso
 ddiwethaf
 para
-yn para
-yn hwyr
-yn ddiweddarach
 lledred
 chwerthin
 chwerthinllyd
@@ -1806,7 +1524,6 @@ chwerthin
 chwerthin
 chwerthin
 lansio
-golchi dillad
 gyfraith
 lleyg
 ddiog
@@ -1814,7 +1531,6 @@ arwain
 gollwng
 neidiodd
 dysgu
-a ddysgwyd
 dysgu
 lleiaf
 lledr
@@ -1833,24 +1549,20 @@ hyd
 llai
 wers
 gadewch
-yn gadael i
 llythyr
 lefel
 rhyddfrydol
 gorwedd
 gorwedd
 bywyd
-lifefor
 lifft
 golau
 goleuo
 ysgafn
 mellt
 goleuadau
-likable
 fel
 hoffi
-debygol o
 terfyn
 lein
 Linger
@@ -1903,18 +1615,15 @@ ffyddlon
 teyrngarwch
 lwc
 lwcus
-lugubrious
 claear
 lleuad
 cinio
 gorwedd
 peiriant
-a wnaed
 cylchgrawn
 hud
 magnetig
 godidog
-magnify
 bost
 prif
 cynnal
@@ -1924,24 +1633,20 @@ mawrhydi
 mawr
 mwyafrif
 gwneud
-yn gwneud
 gwneud
 dynion
 maleisus
 dyn
-manhe
 fantell
 gweithgynhyrchu
 tail
 llawer
-map
 marmor
 mawrth
 marc
 farchnad
 briod
 priodi
-mars
 rhyfeddu
 màs
 meistr
@@ -1957,13 +1662,8 @@ aeddfed
 Gall
 maer
 mi
-pryd o fwyd
 golygu
-meanadmire
-meanephemeral
 ystyr
-yn golygu
-meantame
 mesur
 mesur
 cig
@@ -1971,10 +1671,7 @@ peiriannydd
 cyfryngau
 meddygaeth
 myfyrdod
-medow
 cwrdd
-meetingplace
-melike
 toddi
 aelod
 aelodau
@@ -1983,11 +1680,8 @@ atgofion
 cof
 ddynion
 meddyliol
-menthat
 masnachwr
 drugaredd
-yn unig
-yn unig
 teilyngdod
 neges
 cwrdd
@@ -1996,9 +1690,7 @@ metelaidd
 metr
 dull
 microsgop
-midair
 canol
-hanner nos
 gallai
 ymfudo
 ymfudo
@@ -2028,31 +1720,22 @@ drych
 anlwc
 colli
 taflegryn
-ar goll
 camgymeriad
 camgymeriadau
-gamgymryd pŵer
 gamddealltwriaeth
 cymysgu
 cymysgedd
 cwyno
-mob
 symudol
-model
 cymedrol
-modern
 cymedrol
-modestbut
 gymedrol
 addasu
-moistened
 lleithder
 dawdd
-hyn o bryd
 teyrn
 arian
 mwnci
-monolith
 undonog
 undonedd
 anghenfil
@@ -2060,16 +1743,11 @@ mis
 mis
 oriog
 lleuad
-moonlight
 fopio
 marian
 moesol
-moralist
 mwy
 bore
-morninggood
-y rhan fwyaf o
-motel
 mam
 cynnig
 llonydd
@@ -2084,10 +1762,8 @@ symudiadau
 symud
 ffilm
 ffilmiau
-movingand
 llawer
 Myffin
-muffler
 lluosi
 mam
 llofruddiaeth
@@ -2098,13 +1774,10 @@ mwsged
 Rhaid
 trwyn
 fy
-fy hun
-myselfone
 dirgelwch
 dirgel
 dirgelwch
 enw
-a enwir
 enwau
 cul
 trwynol
@@ -2112,17 +1785,14 @@ genedl
 cenedlaethol
 brodorol
 naturiol
-yn naturiol
 natur
 corff
-navely
 llywio
 llynges
 ger
 angenrheidiol
 angen
 gwddf
-neckties
 angen
 nodwyddau
 anghenion
@@ -2134,19 +1804,14 @@ cymdogaeth
 ni
 niwtral
 byth
-serch hynny
 newydd
 newyddion
 nesaf
-'n glws
 nos
 neb
-noeaten
 sŵn
 enwebu
 anadnewyddadwy
-canol dydd
-nac yn
 arferol
 gogledd
 trwyn
@@ -2154,16 +1819,13 @@ trwynau
 Ni
 nodiant
 nodyn
-llyfr nodiadau
 Nodiadau
-dim byd
 rhybudd
 sylwi
 enw
 maeth
 awr
 unman
-nowthat
 niwclear
 nifer
 rhifolyn
@@ -2172,7 +1834,6 @@ nyrsio
 maetholion
 ufudd-dod
 ufuddhau
-ufuddhau i
 gwrthrych
 gwrthwynebu
 gwrthrychau
@@ -2182,7 +1843,6 @@ arsylwi
 arsylwi
 rhwystro
 aflem
-yn amlwg
 achlysur
 galwedigaeth
 meddiannu
@@ -2190,8 +1850,6 @@ meddiannu
 digwydd
 cefnfor
 cefnforoedd
-oclock
-octagon
 octopws
 od
 oddi
@@ -2200,19 +1858,14 @@ cynnig
 swyddfa
 swyddog
 swyddogol
-yn aml
 olew
 oed
-oldfashioned
 hollysydd
 unwaith
 un
 rhai
-eich hun
-yn unig
 agored
 agor
-opera
 gweithredu
 gweithredu
 barn
@@ -2220,7 +1873,6 @@ gwrthwynebu
 gyferbyn
 orthrymu
 oren
-orbit
 gorchymyn
 archebu
 gorchmynion
@@ -2233,26 +1885,18 @@ eraill
 dylai
 owns
 ein
-oust
 allan
 canlyniad
-yn yr awyr agored
-outrageously
-y tu allan i
 hirgrwn
 dros
 goresgyn
 llethol
 goddiweddyd
-overthrow
 ddyledus
 dylluan
-eu hunain
 berchen
 perchennog
-yn berchen ar
 ychen
-pacific
 dudalen
 poen
 boenus
@@ -2263,8 +1907,6 @@ arlunwyr
 paent
 pâr
 golau
-panda
-panted
 papur
 parasiwt
 Gorymdaith
@@ -2281,7 +1923,6 @@ rhan
 rhannol
 gronynnau
 partïon
-partner
 Petrisen
 rhannau
 parti
@@ -2289,12 +1930,9 @@ pasio
 pasio
 teithwyr
 teithwyr
-passerby
 tocynnau
 pasio
 pasbort
-yn y gorffennol
-patent
 llwybr
 amynedd
 claf
@@ -2305,16 +1943,13 @@ heddwch
 heddychlon
 copaon
 ganiad
-peevishly
 pensil
 pensiliau
 pengwin
 ceiniogau
 ceiniog
-pentagon
 pobl
 y
-y cant
 perffaith
 perfformio
 bersawr
@@ -2327,11 +1962,9 @@ caniatâd
 trwydded
 perpendicwlar
 penbleth
-person
 perswadio
 petalau
 deiseb
-phew
 ffotograff
 ffotosynthesis
 ymadrodd
@@ -2351,15 +1984,12 @@ pinc
 arloeswr
 bibell
 biti
-pityyou
 lle
 amlwg
 cynllun
 awyren
 blaned
 planedau
-planetsgood
-planetssuch
 cynlluniau
 planhigion
 planhigfa
@@ -2371,35 +2001,26 @@ chwareus
 chwarae
 chwarae
 ple
-os gwelwch yn dda
 falch
-pleasedraw
-pleasetame
 pleser
 digon
-plot
 Pluck
 pluo
 suddo
 lluosog
-pocked
 poced
 cerdd
 bardd
 barddonol
 pwynt
-sylw at y ffaith
 gwenwyn
 polyn
-poleonly
 polion
-yr heddlu
 polisi
 gwrtais
 gwleidyddiaeth
 beillio
 llygru
-polygon
 pwll
 myfyrio
 pwll
@@ -2412,7 +2033,6 @@ porthladd
 portread
 portreadau
 sefyllfa
-yn meddu ar
 meddu
 bosibl
 swydd
@@ -2442,32 +2062,26 @@ paratoadau
 paratoi
 paratoi
 presenoldeb
-hyn o bryd
 cyflwyniad
 cyflwyno
 lywydd
 wasg
 pwysau
 esgus
-'n bert
 atal
 atal
 ysglyfaeth
 pris
 balchder
 prif
-primeval
 tywysog
 tywysogion
 tywysoges
 egwyddor
 cyn
-prism
 carchar
 preifat
 gwobr
-yn ôl pob tebyg
-problem
 problemau
 broses
 cynhyrchu
@@ -2481,10 +2095,8 @@ rhaglen
 cynnydd
 prosiect
 addewid
-yn brydlon
 prawf
 proflenni
-propaganda
 briodol
 briodol
 eiddo
@@ -2493,7 +2105,6 @@ arfaethedig
 amddiffyn
 diogelu
 amddiffyn
-protest
 falch
 profi
 darparu
@@ -2509,22 +2120,17 @@ pwmp
 pwmpen
 twll
 cosbi
-cŵn bach
 prynu
 pur
 porffor
 pwrpas
-mynd ar drywydd
 gwthio
 gwthio
 rhoi
 Rhoi
 rhoi
-puzzled
-pyramid
 cwadrant
 ansawdd
-queer
 Quench
 cwestiwn
 cwestiynau
@@ -2535,72 +2141,49 @@ eithaf
 dyfyniad
 cyniferydd
 cwningen
-raccoon
 hil
-radar
 lewyrch
 ymbelydredd
-radio
-radish
 radiws
 rafft
-rag
-rage
 cyrch
 rheiliau
 rheilffordd
 rheilffordd
 glaw
 enfys
-coedwig law
 codi
-a godwyd
 hwrdd
 redodd
-ar hap
 treisio
 gyflym
 prin
 anaml
-llygoden fawr
 gyfradd
-yn hytrach
 dogn
-ray
 cyrraedd
 cyrraedd
 ymateb
 adwaith
 darllen
-readercom
-yn barod
-go iawn
 realistig
 sylweddoli
 gwireddu
-mewn gwirionedd
 reswm
 rhesymol
 rhesymu
 rhesymau
-tawelu meddwl
 sicrwydd
-rebel
-dwyn i gof
 derbyn
-a dderbyniwyd
-yn derbyn
 diweddar
 dirwasgiad
 datganiadau
 cydnabod
-yn cydnabod
 atgofion
 cofnod
 ailgyfrif
 adennill
 coch
-redfaced
 lleihau
 chwil
 adlewyrchiad
@@ -2614,9 +2197,7 @@ sylw
 rhanbarth
 rhanbarthol
 cofrestru
-yn gresynu
 difaru
-yn rheolaidd
 rheoleiddio
 teyrnasu
 gwrthod
@@ -2627,40 +2208,27 @@ ymlacio
 rhyddhau
 ddiflino
 crefydd
-yn parhau i fod
-parhau i fod yn
 olion
 sylwi
 cofio
 cofio
-rememberhow
 Atgoffwyd
 edifeirwch
-cael gwared ar
 adnewyddadwy
 atgyweirio
 atgyweirio
 atgyweiriadau
 ailadrodd
-dro ar ôl tro
 Atebodd
 ateb
 adroddiad
-repose
 gynrychioli
-repress
-reproaches
 atgynhyrchu
-enw da
 cais
-ei gwneud yn ofynnol
-ei gwneud yn ofynnol
 achub
 ymchwil
 tebygrwydd
 debyg
-resentfulness
-wrth gefn
 gronfa
 ymddiswyddo
 wrthsefyll
@@ -2683,17 +2251,13 @@ gorffwys
 canlyniad
 cadw
 ymddeol
-retorted
 dychwelyd
-y gellir eu hailddefnyddio
 Datgelodd
-reverie
 adfywio
 gwrthryfel
 chwyldro
 llawddryll
 Rewind
-cryd cymalau
 reis
 gyfoethog
 gyfoethocach
@@ -2705,7 +2269,6 @@ cribau
 hurt
 reiffl
 hawl
-yn gywir
 hawliau
 ffoniwch
 terfysg
@@ -2720,7 +2283,6 @@ ffordd
 ffyrdd
 ru
 rhuo
-rob
 gwisg
 graig
 siglo
@@ -2735,9 +2297,7 @@ gwreiddiau
 rhaff
 rhosyn
 Rosebush
-rosebushes
 rhosod
-rosy
 cylchdro
 garw
 rownd
@@ -2747,10 +2307,8 @@ rwber
 adfail
 rheol
 si
-rumpled
 rhedeg
 rhedeg
-yn rhedeg
 rhwyg
 gwledig
 brwyn
@@ -2758,13 +2316,10 @@ rhuthro
 rhuthro
 Rwsia
 rhydlyd
-sabotage
 aberth
 drist
 tristaf
-yn anffodus
 tristwch
-yn ddiogel
 Sahara
 Dywedodd
 hwylio
@@ -2772,25 +2327,18 @@ morwr
 halen
 saliwt
 gyfarch
-talu teyrnged i gamp
-yr un
 tywod
 tywod
 suddodd
 lloeren
 lloeren
-satin
 fodlon
 bodloni
-Dydd Sadwrn
 arbed
 arbed
 arbed
 gwelodd
 dweud
-gan ddweud
-saynot
-yn dweud
 raddfa
 anghyfochrog
 prin
@@ -2824,21 +2372,17 @@ diogelwch
 gweld
 hadau
 hadau
-seei
 gweld
 ceisio
 chwilio
 ymddangos
-yn ymddangos
 ymddangos
 gweld
 gweld
-segment
 atafaelu
 atafaelwyd
 atafaelu
 hunan
-selfevident
 gwerthu
 gwerthu
 selfais
@@ -2848,22 +2392,18 @@ anfon
 synnwyr
 synhwyrol
 dedfryd
-ar wahân
 dilyniant
 cyfres
 difrifol
-o ddifrif
 difrifoldeb
 bregeth
 gwasanaethu
 gwasanaeth
-set
 lleoliad
 setlo
 setlo
 saith
 seithfed
-seventytwo
 nifer
 difrifol
 rhyw
@@ -2878,9 +2418,7 @@ miniog
 hogi
 hi
 defaid
-sheepif
 defaid
-sheepthe
 taflen
 cragen
 cregyn
@@ -2890,8 +2428,6 @@ sglein
 disgleirio
 disgleirio
 llong
-foddwyd yn dilyn llongddrylliadau
-shirt
 sioc
 sioc
 esgidiau
@@ -2907,26 +2443,20 @@ ergyd
 Dylai
 ysgwyddau
 gweiddi
-yn dangos
 Dangosodd
 cawod
 dangos
 dangos
 crebachu
 llwyni
-shrug
-shrugging
 cau
-yn cau
 Siberia
 sâl
 afiach
 salwch
 ochr
-sigh
 ochneidiodd
 arwydd
-signal
 tawelwch
 dawel
 sidan
@@ -2936,19 +2466,15 @@ tebyg
 syml
 symlrwydd
 symleiddio
-yn syml
 ers
 ddiffuant
 canu
 canu
 sengl
 sinc
-sire
-sireover
 chwaer
 eistedd
 safle
-yn eistedd
 eistedd
 sefyllfa
 chwe
@@ -2967,8 +2493,6 @@ cysgu
 cysgu
 sleid
 bach
-ychydig yn
-slip
 araf
 arafaf
 araf
@@ -2986,9 +2510,7 @@ llyfn
 malwen
 neidr
 nadroedd
-snakesthey
 eira
-snuggle
 felly
 sebon
 crio
@@ -2996,7 +2518,6 @@ pêl-droed
 cymdeithasol
 cymdeithas
 meddal
-yn dawel
 pridd
 gwerthu
 milwr
@@ -3006,18 +2527,14 @@ datrys
 rhai
 rhywun
 rhywun
-someones
 rhywbeth
 weithiau
 braidd
 rhywle
 mab
 cân
-yn fuan
-soothes
 tristwch
 gofidiau
-Mae'n ddrwg
 fath
 math
 gadarn
@@ -3028,14 +2545,12 @@ siarad
 siarad
 arbennig
 rhywogaethau
-yn benodol
 olygfa
 lleferydd
 cyflymder
 cyflym
 treulio
 cylch
-pry cop
 gorlif
 ysbryd
 gwaethaf
@@ -3043,7 +2558,6 @@ ysblennydd
 rhaniad
 gangen
 chwaraeon
-fan a'r lle
 chwistrellu
 lledaeniad
 lledaenu
@@ -3051,16 +2565,12 @@ sbrigyn
 gwanwyn
 ffynhonnau
 mymryn
-sprinklingcan
-sprout
 ysgewyll
-sputtered
 ysbïwr
 sgwâr
 sgwariau
 sgwatiwr
 wiwer
-stab
 cyfnod
 grisiau
 sefyll
@@ -3075,7 +2585,6 @@ dechrau
 llwgu
 cyflwr
 urddasol
-yn datgan
 sefydlog
 orsaf
 cerflun
@@ -3088,26 +2597,20 @@ dur
 cam
 camau
 ffon
-dal i fod yn
-stirred
 stoc
 stumog
 carreg
 cerrig
 sefyll
-rhoi'r gorau i
 stopio
 siop
 storio
 straeon
-storm
 stori
 stôf
 syth
 rhyfedd
 rhyfeddaf
-strap
-strategems
 strategaeth
 crwydro
 stryd
@@ -3124,7 +2627,6 @@ strollers
 cerdded
 gryf
 strwythur
-ei chael yn anodd
 sownd
 astudiaethau
 astudiaeth
@@ -3132,19 +2634,14 @@ dwp
 arddull
 pwnc
 pynciau
-llong danfor
 sylweddau
 rhodder
 maestrefol
-subversion
 llwyddo
 llwyddo
 llwyddiant
 llwyddiannus
-o'r fath
 sydyn
-yn sydyn
-yn dioddef
 dioddef
 dioddef
 siwgr
@@ -3155,9 +2652,6 @@ swm
 haf
 symiau
 haul
-Dydd Sul
-golau'r haul
-chodiad haul
 machlud
 machlud
 heulwen
@@ -3166,17 +2660,13 @@ cyflenwad
 cymorth
 debyg
 atal
-yn siwr
-yn sicr
 wyneb
 llawfeddyg
-dros ben
 syndod
 synnu
 ildio
 amgylch
 goroesi
-sawl sydd dan amheuaeth
 atal
 amheuaeth
 llyncu
@@ -3188,15 +2678,11 @@ melyster
 chwyddo
 nofio
 nofio
-switchman
-switchmans
 sillaf
 sillafau
-symbol
 cymesur
 cymesuredd
 cydymdeimlad
-system
 tabl
 cymryd
 cymryd
@@ -3209,12 +2695,9 @@ siarad
 tal
 talaf
 ddofi
-tamed
-tames
 tanc
 araf
 targed
-tariff
 tasg
 tasgau
 blas
@@ -3230,48 +2713,36 @@ technegol
 technoleg
 diflas
 dannedd
-dros y ffôn
 telesgop
 teledu
 dweud
 tymheredd
 temlau
-dros dro
 deg
 tueddu
 dyner
 tynerwch
 amser
 dymor
-terrarium
 ofnadwy
-terrifically
 diriogaeth
 arswyd
 terfysgol
 prawf
 na
 diolch
-diolch byth
 diolch
 bod
-thatin
-thatlook
-thats
 y
 theatr
 eu
 eu
 thema
-eu hunain
 Yna,
-thenthe
 theori
 yna
 Felly,
-therehappy
 hyn
-maent yn
 trwchus
 trwchus
 tenau
@@ -3282,13 +2753,9 @@ meddwl
 trydydd
 syched
 sychedig
-deg ar hugain
-thirtyone
 hwn
 drain
-thornswhat
 drylwyr
-y rhai
 er
 meddwl
 meddyliau
@@ -3298,15 +2765,12 @@ bygwth
 tri
 taflu
 ffynnu
-throbs
 orsedd
 trwy
 taflu
 bodiau
-thump
 taranau
 taran
-Dydd Iau
 felly
 clymu
 cysylltiadau
@@ -3314,22 +2778,14 @@ teigr
 teigrod
 amser
 amserau
-timewell
 swil
-tinsel
 bach
 Tipler
-tippler
-tipplers
 teiars
-wedi blino
 teiars
-tiresome
 i
 tostiwr
 heddiw
-bysedd traed
-gyda'i gilydd
 llafurio
 toiled
 Dywedodd
@@ -3338,14 +2794,10 @@ yfory
 tôn
 tafod
 heno
-tonightyou
-tonsil
-yn rhy
 Cymerodd
 offeryn
 offer
 dant
-top
 artaith
 rhwygo
 artaith
@@ -3354,7 +2806,6 @@ cyfanswm
 cyffwrdd
 cyffwrdd
 taith
-tuag at
 dŵr
 tref
 trefi
@@ -3372,7 +2823,6 @@ trenau
 cyfieithu
 trafnidiaeth
 cludiant
-trap
 teithio
 teithio
 teithwyr
@@ -3392,15 +2842,12 @@ treial
 llwythol
 llwyth
 tric
-rhoi cynnig ar
 taith
 milwyr
 trofannol
 trafferth
 cadoediad
 lori
-trudged
-yn wir
 wirioneddol
 ymddiriedaeth
 gwirionedd
@@ -3408,7 +2855,6 @@ ceisiwch
 ceisio
 tiwb
 twndra
-turkish
 dro
 troi
 troi
@@ -3417,7 +2863,6 @@ tiwtor
 deuddeg
 ugain
 ddwywaith
-gyda'r hwyr
 main
 dau
 math
@@ -3425,13 +2870,9 @@ hyll
 uwchsain
 ansicr
 anghyfforddus
-o dan
-o dan
 deall
 dealltwriaeth
-yn deall
 deall
-yn anffodus
 anhapus
 unigryw
 uned
@@ -3440,18 +2881,14 @@ unedig
 cyffredinol
 bydysawd
 prifysgol
-oni bai
 annhebygol
 anlwcus
 diangen
 ddadsgriwio
-hyd nes y
 anwiredd
-i fyny
 ar
 unionsyth
 cynhyrfu
-i fyny
 trefol
 annog
 brys
@@ -3461,22 +2898,17 @@ defnyddio
 ddefnyddiol
 tywyswr
 arferol
-Fel arfer,
 gwyliau
 brechlyn
 dyffryn
 gwerthfawr
 gwerth
-vanitywhich
+wagedd
 llysiau
 gerbyd
-venusto
 berf
 dyfarniad
-ymyl y ffordd
-veritable
 fersiwn
-vertex
 iawn
 feto
 dadleuol
@@ -3490,7 +2922,6 @@ trais
 fisa
 gweledigaeth
 ymweliad
-ymweld â
 lleisiol
 llais
 folcanig
@@ -3507,14 +2938,12 @@ cyflogau
 aros
 aros
 aros
-amseroedd aros
 deffro
 cerdded
-walkand
 cerdded
+cerddwr
 cerdded
 wal
-WALLAND
 waliau
 crwydro
 Wanders
@@ -3552,16 +2981,12 @@ gwisgo
 blinder
 gwisgo
 tywydd
-ceiliog y gwynt
-ar y we
 chwyn
 chwyn
 wythnos
 penwythnos
 wylofain
-pwyso a mesur
 croeso
-yn dda
 ffynhonnau
 Aeth
 Roedd
@@ -3569,29 +2994,21 @@ orllewin
 gwlyb
 gwlyptir
 pa
-beth bynnag
 gwenith
 olwyn
 olwynion
 pan
-ba le y
-pryd bynnag y
 lle
-lle bynnag y bo
-p'un a
 sy'n
 tra
 gwyn
 sydd
-pwy bynnag
 cyfan
 pwy
-pwy bynnag
 pam
 eang
 gwraig
 gwyllt
-tanau gwyllt
 Bydd
 parod
 ennill
@@ -3604,12 +3021,9 @@ gwifren
 doethineb
 ddoeth
 dymuno
-yn dymuno
 dymuniadau
 ffraethineb
 gyda
-tynnu'n ôl
-o fewn
 heb
 tyst
 ddeffro
@@ -3619,7 +3033,6 @@ Enillodd
 rhyfeddod
 gwych
 meddwl
-wont
 pren
 coetir
 gair
@@ -3633,25 +3046,18 @@ byd
 gwisgo
 poeni
 poeni
-sy'n peri pryder
 waeth
 gwaethaf
 werth
 Byddai
-wouldnt
 clwyf
 llongddrylliad
 llanast
-wrinkle
 ysgrifennu
 ysgrifenedig
 anghywir
 Ysgrifennodd
 iard
-yawn
-yawned
-dylyfu gên
-yawns
 flwyddyn
 blynyddol
 blynyddoedd
@@ -3660,16 +3066,9 @@ ie
 ddoe
 eto
 draw
-i chi
 ifanc
 eich
-youre
-eich un chi
-eich hun
-eich hunain
 ieuenctid
-youthe
-ti 'di
 Seland
 sebra
 sero

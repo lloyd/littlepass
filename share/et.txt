@@ -1,12 +1,9 @@
 mahajäetud
 hämmeldunud
 võimeline
-abloom
-abodes
 kohta
 üle
 järsult
-abruptlyas
 puudumine
 hajameelne
 absoluutne
@@ -47,7 +44,6 @@ imetlema
 austaja
 austajaid
 tunnistama
-vastu võtma
 vastuvõtmine
 jumaldama
 ehe
@@ -72,10 +68,7 @@ vanus
 agentuur
 agressioon
 tagasi
-agoyou
-kokku leppima
 põllumajandus
-ah
 eespool
 abi
 eesmärk
@@ -83,9 +76,7 @@ eesmärk
 lennuk
 lennukid
 lennujaam
-alarm
 oh
-album
 alkohol
 algebraline
 algoritm
@@ -99,8 +90,6 @@ liitlane
 almanahh
 peaaegu
 üksi
-aloneall
-alonewill
 mööda
 endassesulgunud
 juba
@@ -129,7 +118,6 @@ nurgad
 vihane
 loom
 loomad
-animalsi
 pahkluu
 aastapäev
 kuulutama
@@ -147,7 +135,6 @@ midagi
 niikuinii
 kõikjal
 lahus
-vabandust paluma
 nähtav
 ilmutusest
 kaebus
@@ -158,7 +145,6 @@ ilmub
 õun
 määrama
 lähenemine
-heaks kiitma
 ligikaudne
 põll
 akvedukt
@@ -168,7 +154,6 @@ on
 piirkond
 vaidlema
 aritmeetika
-arizona
 käsi
 relvad
 armee
@@ -184,7 +169,6 @@ kunstlik
 suurtükivägi
 kui
 saar
-on häbi
 kõrvale
 küsima
 küsis
@@ -197,13 +181,11 @@ abistama
 abi
 assotsiatiivne
 tagama
-asteroid
 asteroidid
 hämmastunud
 hämmastus
 üllatunud
 astroloogia
-astronaut
 astronoom
 astronoomilised
 astronoomia
@@ -218,8 +200,6 @@ katse
 osalema
 tähelepanu
 Omadused
-audit
-aurora
 Austraalia
 autor
 volitused
@@ -241,21 +221,17 @@ rinnamärk
 tasakaal
 tasakaalustatud
 Hölynpöly
-ball
 ballett
-balloon
 hääletus
 keelata
 side
 Pank
 bankett
-baobab
 ahvileivapuude
 baar
 habemeajaja
 paljas
 tehing
-barrel
 tõke
 alus
 pesapall
@@ -277,7 +253,7 @@ sest
 saama
 muutub
 saamas
-becuase
+sest
 voodi
 mesilane
 olnud
@@ -313,7 +289,6 @@ segaduses
 üle
 suur
 suurem
-bike
 arve
 miljard
 bioloogia
@@ -322,14 +297,11 @@ linnud
 sünnipäev
 natuke
 hammustama
-eema
 must
 süü
 tekk
-bleacher
 Tihruinen
 veritsema
-blest
 pime
 pilgutas
 plokk
@@ -340,8 +312,6 @@ puhutud
 puhub
 sinine
 komberdamine
-boa
-boas
 hooples
 paat
 keha
@@ -353,7 +323,6 @@ kondine
 raamat
 raamaturiiul
 raamatud
-boomtown
 piir
 puuritud
 avad
@@ -422,7 +391,6 @@ kinni
 kuid
 liblikad
 liblikas
-kuid kuidas oleks sellega
 ostma
 ostmine
 poolt
@@ -451,7 +419,6 @@ küünal
 kahur
 saa
 baldahhiin
-cant
 võimeline
 pealinn
 hõive
@@ -479,8 +446,8 @@ katastroof
 saak
 püüdja
 püüdmine
+röövik
 röövikud
-caterpillarswho
 püütud
 põhjus
 relvarahu
@@ -491,10 +458,12 @@ keskus
 sentimeeter
 keskne
 sajand
+Sajandeid
 tseremoonia
 kindel
 kindlasti
 tool
+toolid
 eesistuja
 kamber
 meister
@@ -507,12 +476,13 @@ vennas
 kabel
 iseloom
 süsi
-Chare
 tasu
 võluv
 skeem
+graafikud
 tagaajamine
 petma
+Pettused
 kontrollima
 kontrollitud
 tuju
@@ -522,6 +492,7 @@ kemikaalid
 keemia
 keerub
 närima
+närimiskondid
 läbimälumine
 kanaliha
 kanad
@@ -533,21 +504,26 @@ korsten
 Hiina
 friikartulid
 valik
+valikuid
 Vihane
 valima
+valitud
 Valisin
 jõulud
 itsitama
 kirik
+kirikud
 sigaret
 ring
+ringid
 vooluring
+vooluringid
 ümbermõõt
-ümber maakera purjetama
-Cirque
 kodanik
+kodanikele
 kodakondsus
 linn
+linnad
 tsiviil-
 tsiviil-
 riietatud
@@ -556,16 +532,19 @@ plaksutama
 Lõpuni
 selgitama
 kokkupõrge
+kokkupõrked
 klass
+klasside
 klassifitseerima
+küünis
 küünised
 puhas
+Puhastab
 puhastatud
 puhastus
 selge
 kliiring
 selgelt
-clearsighted
 vaimulikkond
 sekretär
 kliima
@@ -636,7 +615,6 @@ kontsentreeritud
 mure
 mures
 järeldus
-hukka mõistma
 tingimus
 tingimused
 käitumine
@@ -652,7 +630,6 @@ saladusi
 kinnitama
 konflikt
 konfrontatsioon
-segi ajama
 segadus
 õnnitlema
 kongress
@@ -665,11 +642,9 @@ arvestama
 märkimisväärne
 põhiseadus
 Kuristajakäärme
-constrictors
 ehitus
 konsulteeris
 tarbija
-consumingly
 kontakt
 sisaldama
 konteiner
@@ -688,9 +663,7 @@ vestlus
 muutma
 veendunud
 kokk
-cookout
 jahe
-koostööd tegema
 koordinaadid
 koopia
 eblakas
@@ -704,7 +677,6 @@ puuvill
 köha
 köhatas
 võiks
-couldnt
 nõukogu
 loendama
 riik
@@ -737,7 +709,6 @@ krokodill
 kultuuride
 rist
 ületanud
-crossexamine
 pahaselt
 rahvahulk
 rahvarohke
@@ -780,7 +751,6 @@ kuupäev
 tütar
 koit
 päev
-dayagain
 koidik
 päeva
 surnud
@@ -808,7 +778,6 @@ aste
 nukrus
 viivitus
 delegaat
-delta
 nõudlus
 nõudis
 demokraatia
@@ -831,12 +800,10 @@ kirjeldama
 kirjeldatud
 kõrb
 kõrbete
-desertwhat
 disain
 soov
 kirjutuslaud
 hävitama
-detail
 detailid
 vahistama
 määrama
@@ -874,8 +841,6 @@ kaduma
 kadumine
 kadunud
 pettunud
-relvituks tegema
-disarranged
 õnnetus
 distsipliin
 julge
@@ -894,7 +859,6 @@ levimine
 ühekordselt
 vaidlus
 katkestus
-dissident
 kaugus
 eristama
 väljapaistev
@@ -915,7 +879,6 @@ koer
 koerad
 teed
 nukk
-dollar
 delfiin
 annetama
 tehtud
@@ -923,12 +886,10 @@ tehtud
 uks
 topelt
 kahtlus
-doubtit
 kahtlusi
 tuvid
 alla
 kabe
-draftsthat
 draakon
 draama
 Jõid
@@ -940,7 +901,6 @@ tõmmatud
 kohutavalt
 unistus
 unenäod
-dreamthis
 riietatud
 Drew
 jook
@@ -981,7 +941,6 @@ söömine
 sööb
 kaja
 kordas
-echolocation
 ökoloogia
 majandus
 ökosüsteemi
@@ -991,7 +950,6 @@ mõju
 pingutus
 muna
 munad
-eh
 kaheksa
 kaheksas
 EIS
@@ -1002,8 +960,6 @@ elektriline
 elektrik
 elekter
 elegants
-element
-elephans
 elevant
 elevandid
 üksteist
@@ -1029,7 +985,6 @@ energia
 jõustama
 mootor
 insener
-enginegrease
 inglise
 nautima
 piisavalt
@@ -1084,7 +1039,6 @@ uurima
 uurimisel
 näide
 suurepärane
-välja arvatud
 vahetus
 erutatud
 erutus
@@ -1102,7 +1056,6 @@ eksisteerima
 eksisteerinud
 olemasolu
 olemas
-exp
 laiendama
 laiendatud
 ootama
@@ -1161,7 +1114,6 @@ kuulus
 fänn
 meeldima
 kaugel
-farm
 põllumajandustootjatele
 taluõu
 kaugemal
@@ -1189,7 +1141,6 @@ vilt
 naine
 tara
 viljakas
-festival
 palavik
 palavikuline
 vähe
@@ -1198,14 +1149,11 @@ väljad
 äge
 viisteist
 viies
-fiftyfour
-fiftythree
 võitlus
 näitaja
 arvandmed
 täitma
 täidetud
-film
 lõplik
 lõpuks
 rahaline
@@ -1222,7 +1170,6 @@ ilutulestik
 firma
 kindlalt
 esimene
-firstto
 kala
 sobima
 viis
@@ -1232,7 +1179,6 @@ lipp
 leek
 välklamp
 pinnatud
-flasher
 korter
 lamedamad
 põgenema
@@ -1246,7 +1192,6 @@ jahu
 voolama
 lill
 lilled
-flowerthe
 lennanud
 ladusalt
 vedelik
@@ -1268,7 +1213,6 @@ jalg
 jalgpall
 jalajälg
 jalapink
-footy
 eest
 kannatlikkus
 keelama
@@ -1292,16 +1236,14 @@ endine
 vormid
 hüljatud
 õnneks
-fortyfour
+nelikümmend
 edasi
 avastatud
 purskkaev
-fountainpen
 neli
 neljas
 rebane
 rebased
-foxhis
 fraktsioon
 luumurd
 habras
@@ -1323,7 +1265,6 @@ hirmutab
 kohutav
 konn
 pärit
-front
 külmutatud
 puuvili
 kütus
@@ -1344,7 +1285,7 @@ mäng
 mängud
 prügi
 aed
-gardenand
+aiandus
 gaas
 koguma
 kogutud
@@ -1365,7 +1306,6 @@ kaugemad
 geograafia
 geomeetriline
 kurerehad
-gerbil
 žest
 saama
 saab
@@ -1383,10 +1323,8 @@ annab
 andmine
 rõõmus
 pilguheit
-glare
 klaas
 valendama
-gleams
 sädelev
 maakera
 eesmärk
@@ -1397,7 +1335,6 @@ läheb
 kuld
 kuldne
 kuldkala
-golf
 Möödas
 hea
 hüvasti
@@ -1410,7 +1347,6 @@ valitsus
 arm
 klass
 tera
-grainfields
 grammatika
 suur
 graniit
@@ -1454,17 +1390,13 @@ elupaiga
 eluase
 juuksed
 pool
-halfconfidence
-halfsmile
 koridor
 peatama
 vasar
-hamster
 käsi
 taskurätik
 käepide
 käed
-handsomest
 rippuma
 rippuvad
 juhtuma
@@ -1481,14 +1413,11 @@ kahjulikult
 karge
 saak
 on
-ei ole
 kiirendas
 kiirustades
-hasyes
 müts
 vihkama
 olema
-havent
 võttes
 juht
 ülepeakaela
@@ -1511,7 +1440,6 @@ helikopter
 aitama
 poolkera
 tema
-herbivore
 kari
 siin
 erak
@@ -1520,7 +1448,6 @@ ise
 kahevahelolek
 kõhkles
 kuusnurk
-talveund magama
 peitma
 nahad
 varjamine
@@ -1543,7 +1470,6 @@ augud
 puhkus
 püha
 kodu
-koduigatsust tundev
 aus
 mesi
 au
@@ -1577,10 +1503,8 @@ näljane
 jaht
 jahimees
 jahimehed
-kiiruga tehtud
 kiirustama
 kiirustamisega
-viga saanud
 abikaasa
 hüpotees
 jää
@@ -1599,23 +1523,19 @@ ebaloogiline
 selgitama
 pilt
 kujutlusvõime
-kujutan ette,
 ebaküps
 mõõtmatu
 vahetu
 mõõtmatus
-immigrant
 rännata
 liikumatu
 ebamoraalne
 kinnis-
 läbimatu
-import
 tähtsus
 oluline
 võimatu
 vallutamatu
-muljet avaldama
 muljetavaldav
 ebatõenäoline
 parandama
@@ -1668,8 +1588,6 @@ inspireeriv
 Näiteks
 kiire
 otsekohe
-selle asemel
-instrument
 vahendid
 vastuhakk
 isolaator
@@ -1678,7 +1596,6 @@ täisarv
 intelligentsus
 intelligentne
 tugev
-vastastikune sõltuvus
 huvi
 huvitatud
 huvitav
@@ -1723,10 +1640,7 @@ teema
 see
 selle
 ise
-iv
-ix
 vangla
-jerked
 kalliskivi
 töö
 liituma
@@ -1769,11 +1683,8 @@ nuga
 koputama
 sõlm
 teadma
-knowa
-knowi
 teades
 teadmised
-knowmy
 teada
 teab
 sõrmenukk
@@ -1781,7 +1692,6 @@ töö
 labor
 puudus
 järv
-lamp
 Lamplighter
 süütajad
 laternad
@@ -1792,7 +1702,6 @@ maastik
 keel
 suur
 suurem
-lasso
 viimane
 kestis
 kestab
@@ -1816,18 +1725,14 @@ kargas
 õppima
 õpetatud
 õppimine
-kõige vähem
 nahk
 lahkuma
 lahkuv
 loeng
 vasakul
 õiguslik
-legend
 seadusandlik
-seadusandlik kogu
 jalad
-vaba aeg
 laenama
 pikkus
 vähem
@@ -1838,10 +1743,7 @@ kiri
 tase
 liberaalne
 vale
-lies
 elu
-lifefor
-lift
 valgus
 valgustatud
 kergelt
@@ -1854,7 +1756,6 @@ tõenäoline
 piir
 rida
 jõlkuma
-link
 lõvi
 huuled
 vedelik
@@ -1894,7 +1795,6 @@ vali
 valjemini
 armastus
 armastatud
-loveliest
 armas
 armastab
 madal
@@ -1903,7 +1803,6 @@ lojaalne
 lojaalsus
 õnn
 õnnelik
-lugubrious
 leige
 kuu-
 lõuna
@@ -1921,7 +1820,6 @@ säilitama
 majesteetlik
 suursuguselt
 majesteet
-major
 enamus
 tegema
 teeb
@@ -1929,7 +1827,6 @@ tegemine
 mees
 kuritahtlik
 mees
-manhe
 ümbris
 tootmine
 sõnniku
@@ -1943,11 +1840,9 @@ abielus
 abielluma
 Marss
 imelugu
-mass
 kapten
 meistriteos
 matš
-mate
 materjal
 matemaatik
 matemaatika
@@ -1959,11 +1854,8 @@ linnapea
 mind
 jahu
 keskmine
-meanadmire
-meanephemeral
 tähendus
 vahendid
-meantame
 mõõtma
 mõõtmine
 liha
@@ -1971,10 +1863,8 @@ mehhaanik
 andmekandja
 meditsiin
 mõtisklus
-medow
 vasta
 kohtumispaiga
-melike
 sulama
 liige
 kohal
@@ -1983,7 +1873,6 @@ mälestusi
 mälu
 mehed
 vaimne
-menthat
 kaupmees
 halastus
 pelk
@@ -2010,14 +1899,12 @@ miilits
 piim
 millimeeter
 miljon
-millioni
 miljoneid
 järeleahvimine
 meel
 minu
 mineraal
 miniatuurne
-minister
 alaealine
 vähemus
 Minster
@@ -2026,12 +1913,10 @@ protokoll
 imepärane
 peegel
 hädad
-miss
 rakett
 puudumine
 viga
 vigu
-mistook
 arusaamatusi
 segama
 segu
@@ -2042,7 +1927,6 @@ mudel
 mõõdukas
 kaasaegne
 tagasihoidlik
-modestbut
 tagasihoidlikult
 muutma
 niisutatud
@@ -2064,10 +1948,8 @@ kuuvalgus
 pühkis
 moreen
 kõlbeline
-moralist
 rohkem
 hommik
-morninggood
 kõige
 motell
 ema
@@ -2084,9 +1966,7 @@ liikumised
 käigud
 film
 Filmid
-movingand
 palju
-muffin
 summuti
 korrutamine
 emme
@@ -2094,12 +1974,9 @@ mõrv
 pomises
 seen
 muusika
-musket
-must
 koon
 minu
 mina
-myselfone
 saladused
 salapärane
 mõistatus
@@ -2115,7 +1992,6 @@ loomulik
 loomulikult
 loodus
 lööv
-navely
 navigatsioon
 merevägi
 lähedal
@@ -2127,21 +2003,17 @@ vajadus
 nõelad
 vajadustele
 unarusse
-läbi rääkima
 neeger
 naaber
 naabrus
 ei
 neutraalne
-mitte kunagi
 siiski
 uus
 uudised
 järgmine
 kena
 öö
-mitte keegi
-noeaten
 müra
 nimetama
 taastumatute
@@ -2156,16 +2028,12 @@ tähistus
 märkus
 märkmik
 märkmed
-mitte midagi
 teade
 märkama
 nimisõna
 toit
 nüüd
-mitte kuskil
-nowthat
 tuuma-
-number
 arvsõna
 arvuline
 põetamine
@@ -2190,7 +2058,6 @@ hõivata
 toimunud
 ookean
 ookeanid
-oclock
 kaheksanurk
 kaheksajalg
 kummaline
@@ -2204,7 +2071,6 @@ sageli
 õli
 vana
 vanamoeline
-omnivore
 kunagi
 üks
 need
@@ -2225,7 +2091,6 @@ järjekord
 tellitud
 Tellimused
 tavaline
-organism
 korraldama
 orb
 muu
@@ -2233,7 +2098,6 @@ teised
 peaks
 unts
 meie
-välja tõrjuma
 välja
 tulemus
 väljas
@@ -2243,7 +2107,6 @@ ovaalne
 üle
 ületada
 vastupandamatu
-mööda sõitma
 kukutama
 võlgu
 öökull
@@ -2252,7 +2115,6 @@ omanduses
 omanik
 omavad
 härjad
-Vaikne ookean
 lehekülg
 valu
 valusalt
@@ -2263,7 +2125,6 @@ maalikunstnikud
 värvid
 paar
 kahvatu
-panda
 hingeldas
 paber
 langevari
@@ -2274,14 +2135,12 @@ rööpkülik
 armuandmine
 vanem
 sulud
-park
 parlament
 petersell
 osa
 osaline
 osake
 pooled
-partner
 Partridge
 osad
 pidu
@@ -2294,7 +2153,6 @@ möödub
 mööduv
 pass
 minevik
-patent
 tee
 kannatlikkus
 patsient
@@ -2344,22 +2202,17 @@ tükk
 tükki
 siga
 kuhjatakse
-pill
 pillid
 piloot
 roosa
-pioneer
 toru
 kaastunne
-pityyou
 koht
 selgelt
 kava
 lennuk
 planeet
 planeedid
-planetsgood
-planetssuch
 plaanid
 tehas
 istandus
@@ -2373,8 +2226,6 @@ mängimine
 väide
 palun
 rahul
-pleasedraw
-pleasetame
 rõõm
 rohke
 maatükk
@@ -2391,7 +2242,6 @@ punkt
 terav
 mürk
 poolus
-poleonly
 postid
 politsei
 poliitika
@@ -2408,16 +2258,13 @@ moonid
 populaarne
 rahvastik
 puder
-port
 portree
 portreed
 positsioon
 omama
 vallanud
 võimalik
-post
 posti-
-edasi lükkama
 nael
 naela
 valama
@@ -2445,8 +2292,6 @@ olemasolu
 oleviku
 esitlus
 esitatud
-president
-press
 rõhk
 teesklema
 ilus
@@ -2475,7 +2320,6 @@ tootja
 toode
 tooted
 elukutse
-professor
 kasum
 programm
 edu
@@ -2493,7 +2337,6 @@ Kavandatud
 kaitsma
 kaitsmine
 kaitse
-protest
 uhke
 tõestama
 anda
@@ -2505,7 +2348,6 @@ vedama
 tõmmatakse
 plokk
 tõmmates
-pump
 kõrvits
 punktsioon
 karistama
@@ -2537,7 +2379,6 @@ jagatis
 küülik
 pesukaru
 rass
-radar
 sära
 radiatsioon
 raadio
@@ -2556,7 +2397,6 @@ vihmametsade
 tõstma
 tõstatatud
 oinas
-ran
 juhuslik
 vägistamine
 kiiresti
@@ -2572,7 +2412,6 @@ jõudnud
 reageerima
 reaktsioon
 lugema
-readercom
 valmis
 reaalne
 realistlik
@@ -2600,13 +2439,11 @@ rekord
 jutustama
 taastuma
 punane
-redfaced
 vähendama
 kookonid
 peegeldus
 mõtteid
 peegeldav
-reform
 pagulane
 keelduma
 keeldub
@@ -2619,7 +2456,6 @@ kahetsemine
 regulaarselt
 reguleeritud
 valitsema
-tagasi lükkama
 rahuldamata
 suhted
 suhe
@@ -2663,7 +2499,6 @@ nördimus
 reserv
 veehoidla
 lahkuma
-vastu seisma
 otsustav
 resolutsioon
 helisema
@@ -2685,13 +2520,11 @@ säilitama
 lahkuma
 nähvas
 tagastamine
-korduvalt kasutatav
 selgus
 unistamine
 elavnemisele
 ülestõus
 revolutsioon
-revolver
 tagasikerimine
 reuma
 riis
@@ -2707,10 +2540,8 @@ vintpüss
 õigus
 õigesti
 õigus
-ring
 rahutus
 tõusma
-risk
 riskide
 riitus
 rituaal
@@ -2735,7 +2566,6 @@ juured
 köis
 roos
 roos
-rosebushes
 roosid
 roosiline
 rotatsioon
@@ -2765,7 +2595,6 @@ kurvemaid
 kurvalt
 kurbus
 ohutu
-sahara
 öeldud
 puri
 madrus
@@ -2789,7 +2618,6 @@ kokkuhoid
 saag
 ütlema
 ütlus
-saynot
 ütleb
 skaala
 astriklihas
@@ -2833,12 +2661,10 @@ tundus
 tundub
 näha
 näeb
-segment
 haarama
 kinni
 arestimine
 ise
-selfevident
 müüma
 müük
 õmblusest
@@ -2863,7 +2689,6 @@ lahendama
 Väljakujunenud
 seitse
 seitsmes
-seventytwo
 mitu
 raske
 sugu
@@ -2878,9 +2703,7 @@ terav
 teritatud
 ta
 lammas
-sheepif
 lambad
-sheepthe
 leht
 koor
 merekarbid
@@ -2907,7 +2730,6 @@ löök
 peaks
 õlad
 hüüdma
-show
 näitas
 dušš
 näitamist
@@ -2943,11 +2765,8 @@ laulma
 laulmine
 vallaline
 valamu
-sire
-sireover
 õde
 istuma
-site
 istub
 istung
 olukord
@@ -2986,7 +2805,6 @@ sile
 tigu
 madu
 maod
-snakesthey
 lumi
 liibuma
 nii
@@ -3018,7 +2836,6 @@ Rahustab
 kurbus
 muresid
 Vabandust
-sort
 kehvasti
 heli
 allikas
@@ -3042,7 +2859,6 @@ Vaatamata
 suurepärane
 lõhe
 Esinejad
-sport
 punkt
 pihustama
 levik
@@ -3051,14 +2867,12 @@ oksaraag
 kevad
 vedrud
 piserdama
-sprinklingcan
 idu
 idud
 pihustatud
 spioon
 ruut
 väljakud
-squatter
 orav
 torkehaav
 etapp
@@ -3107,7 +2921,6 @@ sirge
 kummaline
 veidramat
 rihm
-strategems
 strateegia
 Hulkuvaid
 tänav
@@ -3118,7 +2931,6 @@ kanderaam
 rangelt
 edusamme
 streik
-string
 riba
 istekäru
 uitav
@@ -3165,7 +2977,6 @@ juhendama
 pakkumine
 toetus
 oletame
-maha suruma
 kindel
 kindlasti
 pind
@@ -3174,8 +2985,6 @@ kirurg
 üllatus
 üllatunud
 üleandmise
-surround
-ellu jääma
 kahtlane
 peatama
 kahtlus
@@ -3189,7 +2998,6 @@ paisuma
 ujuma
 ujumine
 rööpaseadja
-switchmans
 silp
 silpide
 sümbol
@@ -3211,7 +3019,6 @@ kõrgeim
 taltsutama
 taltsutatud
 Tames
-tank
 pikaldane
 siht
 tariif
@@ -3247,28 +3054,19 @@ terraarium
 kohutav
 kohutavalt
 territoorium
-terror
-terrorist
-test
 kui
-thank
 tänulikult
 tänan
 mis
-thatin
-thatlook
-thats
 teater
 oma
 neid
 teema
 end
 siis
-seejäreltaotluse
 teooria
 seal
 seega
-therehappy
 need
 nad
 paks
@@ -3282,10 +3080,8 @@ kolmas
 janu
 janune
 kolmkümmend
-thirtyone
 see
 okkad
-thornswhat
 põhjalikult
 need
 kuigi
@@ -3297,11 +3093,9 @@ tuhandetes
 kolm
 viskasin
 edenema
-throbs
 aujärg
 läbi
 viskama
-thumbs
 põnts
 kõu
 müristas
@@ -3313,13 +3107,11 @@ tiiger
 tiigrid
 aeg
 korda
-timewell
 pelglik
 kard
 väike
 Tipler
 purjutaja
-tipplers
 rehv
 väsinud
 rehvid
@@ -3336,15 +3128,12 @@ talutav
 homme
 toon
 keel
-täna õhtul
-tonightyou
 mandel
 liiga
 võttis
 tööriist
 töövahendid
 hammas
-top
 piin
 rebitud
 piinamine
@@ -3369,7 +3158,6 @@ traagiline
 rong
 Rongide
 tõlkimine
-transport
 vedu
 lõks
 reisimine
@@ -3398,7 +3186,6 @@ troopiline
 häda
 vaherahu
 veoauto
-trudged
 tõsi
 tõeliselt
 usaldus
@@ -3406,7 +3193,6 @@ tõde
 proovima
 püüdes
 toru
-tundra
 türgi
 pööre
 pööratud
@@ -3415,7 +3201,6 @@ kilpkonn
 juhendaja
 kaksteist
 kakskümmend
-kaks korda
 videvik
 senna
 kaks
@@ -3439,11 +3224,9 @@ ainulaadne
 universaalne
 universum
 ülikool
-välja arvatud juhul,
 ebatõenäoline
 õnnetu
 tarbetu
-lahti kruvima
 kuni
 vale
 üles
@@ -3466,22 +3249,17 @@ vaktsiin
 org
 väärtuslik
 väärtus
-vanitywhich
+edevus
 köögivili
 sõiduk
-venusto
-verb
 otsus
 äärel
 tõeline
 versioon
-kõrgeim tipp
 väga
-veto
 paljuvaieldav
 ohver
 võit
-video
 küla
 viinamarjaistandused
 rikkuma
@@ -3507,13 +3285,12 @@ ootama
 Ootasin
 ootamine
 ootab
-wakened
 kõndima
-walkand
 kõndis
+jalutaja
 kõndimine
+kõnnib
 sein
-Walland
 seinad
 tiir
 hajuv
@@ -3552,7 +3329,6 @@ väsimus
 kulumine
 ilm
 tuulelipp
-web
 umbrohi
 umbrohi
 nädal
@@ -3568,24 +3344,19 @@ läänes
 märg
 märgala
 mida
-mis iganes
 nisu
 rool
 veljed
 kui
 kust
-millal iganes
 kus
-kus iganes
 kas
 mis
 kuigi
 valge
 kes
-kes iganes
 kogu
 kellele
-keda iganes
 miks
 lai
 naine
@@ -3596,7 +3367,6 @@ valmis
 võita
 tuul
 aken
-windows
 tiivad
 talv
 traat
@@ -3607,7 +3377,6 @@ soovis
 soove
 vaimukus
 koos
-tagasi võtma
 jooksul
 ilma
 tunnistaja
@@ -3637,7 +3406,6 @@ halvem
 halvim
 väärt
 oleks
-wouldnt
 haav
 vrakk
 rusud
@@ -3662,13 +3430,11 @@ taamal
 sa
 noor
 oma
-sa oled
 sinu
 ise
 ise
 noorsugu
-youthe
-youve
+olete
 Meremaa
 sebra
 null

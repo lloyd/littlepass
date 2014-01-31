@@ -1,16 +1,13 @@
 verlaten
 verlegen
-in staat
 bloeiend
 verblijfplaatsen
 over
 boven
 abrupt
-abruptlyas
 afwezigheid
 verstrooid
 absoluut
-absurd
 overvloedig
 misbruik
 afgrond
@@ -30,7 +27,6 @@ daad
 actie
 acties
 actief
-activist
 acteur
 werkelijk
 acuut
@@ -59,7 +55,6 @@ adverteren
 adviseren
 ver
 affaire
-invloed hebben op
 genegenheid
 bang
 Afrika
@@ -72,10 +67,8 @@ leeftijd
 agentschap
 agressie
 geleden
-agoyou
 instemmen
 landbouw
-ah
 vooruit
 hulp
 doel
@@ -83,24 +76,18 @@ lucht
 vliegtuig
 vliegtuigen
 luchthaven
-alarm
 helaas
-album
-alcohol
 algebraïsch
 algoritme
 uitstappen
 gelijk
 levend
 alle
-alligator
 toestaan
 bondgenoot
 almanak
 bijna
 alleen
-aloneall
-alonewill
 langs
 afzijdig
 al
@@ -129,7 +116,6 @@ hoeken
 boos
 dier
 dieren
-animalsi
 enkel
 verjaardag
 aankondigen
@@ -144,13 +130,10 @@ een
 iemand
 iedereen
 iets
-hoe dan ook
 overal
-uit elkaar
 verontschuldigen
 schijnbaar
 verschijning
-hoger beroep
 verschijnen
 verschijning
 verschenen
@@ -169,7 +152,6 @@ gebied
 argumenteren
 rekenkunde
 Arizona
-arm
 armen
 leger
 rond
@@ -191,7 +173,6 @@ gevraagd
 scheef
 vragen
 vraagt
-in slaap
 montage
 helpen
 bijstand
@@ -203,11 +184,9 @@ verwonderd
 verbazing
 verbaasd
 astrologie
-astronaut
 astronoom
 sterrenkundig
 astronomie
-in stukken
 asiel
 aten
 atmosfeer
@@ -218,7 +197,6 @@ poging
 bijwonen
 aandacht
 attributen
-audit
 Aurora
 Australië
 auteur
@@ -234,7 +212,6 @@ ontwaakt
 onderscheiding
 weg
 onhandig
-baby
 terug
 slecht
 insigne
@@ -242,23 +219,17 @@ evenwicht
 evenwichtige
 onzin
 bal
-ballet
 ballon
 stemmen
 verbieden
 zwachtel
-bank
 banket
 baobabboom
-baobabs
-bar
 kapper
 kaal
 koopje
 vat
 barrière
-base
-baseball
 mand
 partij
 batterijen
@@ -277,8 +248,7 @@ omdat
 worden
 wordt
 steeds
-becuase
-bed
+omdat
 honingbij
 geweest
 bijen
@@ -305,7 +275,6 @@ gebogen
 bes
 naast
 behalve
-best
 verraden
 beter
 tussen
@@ -322,15 +291,12 @@ vogelstand
 verjaardag
 beetje
 bijten
-bject
 zwart
 schuld
 deken
 bleker
 vaag
 bloeden
-blest
-blind
 knipperde
 blok
 bloed
@@ -340,7 +306,6 @@ geblazen
 klappen
 blauw
 foutief
-boa
 boa's
 geroemde
 boot
@@ -353,7 +318,6 @@ benig
 boek
 boekenkast
 boeken
-boomtown
 grens
 vervelen
 boringen
@@ -413,7 +377,6 @@ verbrand
 hol
 uitbarsting
 begraven
-bus
 struiken
 bedrijf
 zakenman
@@ -422,7 +385,6 @@ bezig
 maar
 vlinders
 vlinder
-butwhat
 kopen
 kopen
 door
@@ -430,8 +392,6 @@ kool
 kool
 cabine
 kabinet
-cactus
-cake
 berekenen
 berekeningen
 roep
@@ -439,8 +399,6 @@ genoemd
 kalmeren
 kwam
 kameel
-camera
-camouflage
 kamp
 campagne
 kan
@@ -449,14 +407,11 @@ kanker
 kandidaat
 kaars
 kanon
-kan niet
 baldakijn
 kantelen
-in staat
 kapitaal
 vangen
 auto
-caravan
 koolstof
 zorg
 carrière
@@ -479,8 +434,8 @@ catastrofe
 vangst
 vanger
 pakkend
+rups
 rupsen
-caterpillarswho
 gevangen
 oorzaak
 wapenstilstand
@@ -488,13 +443,14 @@ vieren
 kelder
 cellen
 centrum
-centimeter
 centraal
 eeuw
+eeuwen
 ceremonie
 zeker
 zeker
 stoel
+stoelen
 voorzitter
 kamer
 kampioen
@@ -507,7 +463,6 @@ kerel
 kapel
 karakter
 houtskool
-chare
 laden
 charmant
 tabel
@@ -517,11 +472,11 @@ controleren
 geruit
 juichen
 vrolijk
-cheetah
 chemicaliën
 chemie
 cherubijn
 kauwen
+kauwt
 kauwen
 kip
 kippen
@@ -531,23 +486,28 @@ kinderen
 schoorsteen
 chimpansee
 China
-chips
 keuze
+keuzes
 verslikte
 kiezen
+gekozen
 koos
 Kerstmis
 grinniken
+grinnikt
 kerk
+kerken
 sigaret
 cirkel
-circuit
+cirkels
+schakelingen
 omtrek
 omvaren
-cirque
 burger
+burgers
 burgerschap
 stad
+steden
 burgerlijk
 civiel
 gekleed
@@ -556,16 +516,19 @@ klap
 klapte
 verduidelijken
 botsing
+botsingen
 klasse
+klassen
 classificeren
+klauw
 klauwen
 schoon
+reinigt
 schoongemaakt
 schoonmaken
 duidelijk
 opheldering
 duidelijk
-clearsighted
 geestelijken
 klerk
 klimaat
@@ -574,7 +537,6 @@ klom
 klok
 dicht
 gesloten
-van nabij
 dichterbij
 sluiting
 doek
@@ -591,7 +553,6 @@ ineenstorting
 collega
 verzamelen
 collectie
-college
 kolonie
 kleur
 gekleurd
@@ -600,7 +561,6 @@ combinatie
 combineren
 komen
 komt
-comfort
 comfortabel
 aangenaam
 getroost
@@ -623,14 +583,12 @@ concurrentie
 compleet
 voltooid
 compleet
-complex
 ingewikkeld
 componeren
 samengesteld
 begrip
 compromis
 berekeningen
-computer
 verwaand
 geconcentreerde
 bezorgdheid
@@ -650,13 +608,11 @@ vertrouwde
 vertrouwen
 ontboezemingen
 bevestigen
-conflict
 confrontatie
 verwarren
 verwarring
 feliciteren
 congres
-congruent
 aansluiten
 aansluiting
 gevolg
@@ -665,17 +621,13 @@ overwegen
 aanzienlijk
 grondwet
 sluitspier
-constrictors
 bouw
 geraadpleegd
 consument
-consumingly
-contact
 bevatten
 houder
 overpeinzing
 inhoud
-continent
 continenten
 voortzetten
 vervolgd
@@ -688,7 +640,6 @@ gesprek
 converteren
 overtuigd
 kok
-cookout
 koel
 samenwerken
 coördinaten
@@ -704,7 +655,6 @@ katoen
 hoest
 hoestte
 kon
-couldnt
 raad
 tellen
 land
@@ -717,7 +667,6 @@ neven
 dekking
 gedekt
 koe
-cowboy
 opgepropt
 botsing
 crashte
@@ -726,18 +675,14 @@ gek
 creëren
 schepsel
 schepselen
-credit
-crew
 riep
 misdaad
 crimineel
-crisis
 bekritiseren
 krokodil
 gewassen
 oversteken
 gekruist
-crossexamine
 kwaad
 menigte
 druk
@@ -762,7 +707,6 @@ gesneden
 cyclus
 cilinder
 pa
-dam
 schade
 dans
 dansten
@@ -780,8 +724,6 @@ datum
 dochter
 dageraad
 dag
-dayagain
-aanbreken van de dag
 dagen
 dood
 doof
@@ -808,7 +750,6 @@ graad
 neerslachtigheid
 vertraging
 afgevaardigde
-delta
 vraag
 eiste
 democratie
@@ -831,12 +772,9 @@ beschrijven
 beschreven
 woestijn
 woestijnen
-desertwhat
 ontwerp
 verlangen
-desk
 vernietigen
-detail
 Details
 detineren
 bepalen
@@ -845,10 +783,7 @@ ontwikkelen
 ontwikkelde
 apparaat
 wijden
-diagram
-diameter
 diamant
-dictator
 woordenboek
 deed
 niet
@@ -860,12 +795,10 @@ moeilijk
 graven
 verteren
 spijsvertering
-het graven
 cijfer
 kuiltje
 diner
 diplomaat
-direct
 gericht
 richting
 vuil
@@ -877,7 +810,6 @@ teleurgesteld
 ontwapenen
 ontregeld
 ramp
-discipline
 ontmoedigd
 ontdekken
 ontdekt
@@ -889,12 +821,10 @@ ziekte
 ontmoedigd
 ontslaan
 ongehoorzaamheid
-niet gehoorzamen
 verspreiding
 beschikbaar
 geschil
 ontwrichting
-dissident
 afstand
 onderscheiden
 gedistingeerd
@@ -908,14 +838,12 @@ verdeeld
 divisie
 doen
 dokter
-document
 doet
 niet
 hond
 honden
 doen
 pop
-dollar
 dolfijn
 schenken
 gedaan
@@ -923,14 +851,11 @@ niet
 deur
 dubbele
 twijfel
-doubtit
 twijfels
 duiven
 beneden
 tocht
-draftsthat
 draak
-drama
 dronk
 trekken
 lade
@@ -940,17 +865,13 @@ getrokken
 vreselijk
 dromen
 dromen
-dreamthis
 gekleed
-drew
 drank
 drinken
 rit
-drop
 gedaald
 droogte
 verdrinken
-drug
 dronken
 droog
 eend
@@ -977,9 +898,7 @@ oosten
 gemakkelijk
 eten
 gegeten
-het eten
 eet
-echo
 echode
 echolocatie
 ecologie
@@ -987,14 +906,12 @@ economie
 ecosysteem
 rand
 onderwijs
-effect
 inspanning
 ei
 eieren
 he
 acht
 achtste
-eis
 beide
 uitverkoren
 verkiezing
@@ -1002,8 +919,6 @@ elektrisch
 elektricien
 elektriciteit
 elegantie
-element
-elephans
 olifant
 olifanten
 elf
@@ -1011,8 +926,6 @@ anders
 Pijnlijke
 beschaamd
 ambassade
-embryo
-te voorschijn komen
 noodgeval
 emotie
 dienst
@@ -1029,7 +942,6 @@ energie
 afdwingen
 motor
 ingenieur
-enginegrease
 Engels
 genieten
 genoeg
@@ -1062,7 +974,6 @@ raming
 schatting
 eeuwig
 etnische
-etiquette
 Europa
 Europese
 schatten
@@ -1078,7 +989,6 @@ alles
 overal
 bewijzen
 kwaad
-exact
 precies
 onderzoeken
 onderzoeken
@@ -1101,16 +1011,12 @@ ballingschap
 bestaan
 bestond
 bestaan
-Er bestaat
-exp
 uitbreiden
 uitgebreid
 verwachten
 verwachtingsvol
 verdrijven
 ervaring
-experiment
-expert
 deskundigen
 uitleggen
 uitgelegd
@@ -1120,14 +1026,12 @@ exploderen
 onderzoeken
 ontdekkingsreiziger
 ontdekkingsreizigers
-export
 uiten
 uitdrukking
 verlengen
 uitgestorven
 uitdoving
 gedoofd
-extra
 buitengewoon
 extreem
 uiterst
@@ -1158,7 +1062,6 @@ vertrouwd
 gezinnen
 familie
 beroemd
-fan
 verbeelding
 ver
 boerderij
@@ -1189,7 +1092,6 @@ vilt
 vrouw
 omheining
 vruchtbaar
-festival
 koorts
 koortsig
 weinig
@@ -1198,14 +1100,11 @@ velden
 woest
 vijftien
 vijfde
-vierenvijftig
-FiftyThree
 strijd
 figuur
 cijfers
 vullen
 gevuld
-film
 finale
 eindelijk
 financieel
@@ -1222,7 +1121,6 @@ vuurwerk
 firma
 stevig
 eerste
-firstto
 vis
 geschikt
 vijf
@@ -1230,10 +1128,8 @@ vaststellen
 armatuur
 vlag
 vlam
-flash
 flitste
 knipperlicht
-flat
 afvlakking
 vluchten
 vliegen
@@ -1246,21 +1142,16 @@ meel
 stromen
 bloem
 bloemen
-flowerthe
 gevlogen
 vloeiend
 vloeistof
 fluorescerende
 gespoeld
-flushes
 vliegen
-focus
 mist
 vouwen
-folklore
 volgen
 volgt
-fond
 voedsel
 gek
 dwaas
@@ -1268,7 +1159,6 @@ voet
 voetbal
 voetspoor
 voetenbankje
-footy
 voor
 verdraagzaamheid
 verbieden
@@ -1280,7 +1170,6 @@ voorhoofd
 buitenlands
 bos
 bossen
-voor altijd
 vergeten
 vergeten
 vergeven
@@ -1292,7 +1181,7 @@ voormalig
 vormen
 verlaten
 gelukkig
-fortyfour
+veertig
 vooruit
 gevonden
 fontein
@@ -1301,7 +1190,6 @@ vier
 vierde
 vos
 vossen
-foxhis
 fractie
 breuk
 breekbaar
@@ -1323,9 +1211,7 @@ beangstigt
 verschrikkelijk
 kikker
 van
-front
 bevroren
-fruit
 brandstof
 vluchteling
 vol
@@ -1338,14 +1224,12 @@ grappig
 leveren
 gemeubileerd
 toekomst
-gadget
 krijgen
 spel
 spelletjes
 vuilnis
 tuin
-gardenand
-gas
+tuinieren
 verzamelen
 verzameld
 gaf
@@ -1354,27 +1238,20 @@ algemeen
 generaliseren
 algemeen
 generatie
-genocide
 zacht
-gentleman
-gentlemans
 voorzichtig
 geograaf
 geografen
 regio
 aardrijkskunde
 meetkundig
-geraniums
-gerbil
 gebaar
 krijgen
 krijgt
 duizelig
-gift
 geschenken
 giechelen
 gember
-giraffe
 meisje
 meisjes
 geven
@@ -1391,13 +1268,11 @@ schitterend
 wereldbol
 doel
 geit
-god
 gaat
 gaand
 goud
 gouden
 goudvis
-golf
 weg
 goed
 afscheid
@@ -1440,7 +1315,6 @@ groeit
 mopperde
 garantie
 bewaker
-guerrilla
 raden
 geraden
 gissen
@@ -1448,19 +1322,14 @@ leiden
 gidsen
 schuldig
 geweer
-guns
 gewoonte
 leefgebied
 bewoning
 haar
 helft
-halfconfidence
-halfsmile
 gang
 halte
 hamer
-hamster
-hand
 zakdoek
 handvat
 handen
@@ -1473,25 +1342,19 @@ gebeurtenis
 gelukkiger
 gelukkig
 gelukkig
-hard
 haas
 kwaad
 schadelijk
-harmfully
 hard
 oogst
 heeft
-is niet
 haastte
 haastig
-hasyes
 hoed
 haten
 hebben
-havent
 met
 hoofd
-hals over kop
 hoofdkwartier
 genezen
 gezondheid
@@ -1506,7 +1369,6 @@ hemel
 hemelen
 zwaar
 hoogte
-held
 helikopter
 helpen
 halfrond
@@ -1526,7 +1388,6 @@ huiden
 verbergen
 hoog
 hoogst
-hijack
 heuvel
 hem
 zichzelf
@@ -1534,7 +1395,6 @@ wenk
 nijlpaard
 zijn
 geschiedenis
-hit
 hees
 houden
 bezit
@@ -1556,7 +1416,6 @@ ziekenhuis
 gijzelaar
 vijandig
 heet
-hotel
 heter
 uur
 uur
@@ -1569,7 +1428,6 @@ brommen
 menselijk
 mensheid
 nederig
-humor
 honderd
 honderden
 honger
@@ -1580,11 +1438,9 @@ jagers
 gehaast
 haast
 haast
-pijn doen
 echtgenoot
 hypothese
 ijs
-icecream
 idee
 ideeën
 identificeren
@@ -1599,18 +1455,15 @@ onlogisch
 illustreren
 afbeelding
 verbeelding
-zich voorstellen
 onvolwassen
 onmetelijk
 onmiddellijk
 onmetelijkheid
-immigrant
 immigreren
 onbeweeglijk
 onzedelijk
 onbeweeglijk
 ondoordringbaar
-import
 belang
 belangrijk
 onmogelijk
@@ -1620,11 +1473,7 @@ indrukwekkend
 onwaarschijnlijk
 verbeteren
 verbeterd
-in
 onnauwkeurig
-inch
-inches
-incident
 aansporen
 omvatten
 inconsequent
@@ -1653,11 +1502,9 @@ injecteren
 verwonden
 inkt
 onschuldig
-buiten werking
 informeerde
 onderzoek
 krankzinnig
-insect
 onzeker
 onafscheidelijk
 binnen
@@ -1668,15 +1515,11 @@ inspirerende
 instantie
 oogwenk
 onmiddellijk
-in plaats daarvan
-instrument
 instrumenten
 insubordinatie
 isolator
 belediging
-geheel getal
 verstand
-intelligent
 intens
 interdependentie
 rente
@@ -1685,7 +1528,6 @@ interessant
 belangen
 interfereren
 internationaal
-internet
 onderbroken
 kruisende
 interveniëren
@@ -1703,7 +1545,6 @@ onzichtbaar
 uitnodigen
 betrekken
 ijzer
-irr
 irrationeel
 onverzoenlijk
 irrelevante
@@ -1713,7 +1554,6 @@ geïrriteerd
 irriteren
 geïrriteerde
 ergernis
-is
 eiland
 eilandje
 niet
@@ -1723,13 +1563,10 @@ uitgifte
 het
 zijn
 zelf
-iv
-ix
 gevangenis
 opgeschokken
 juweel
 baan
-toetreden tot
 gezamenlijk
 grap
 reis
@@ -1744,7 +1581,6 @@ springen
 oerwoud
 Jupiter
 jurisdictie
-jury
 gewoon
 gerechtigheid
 kangoeroe
@@ -1755,7 +1591,6 @@ schop
 ontvoeren
 doden
 gedood
-kilometer
 soort
 vriendelijkheid
 koning
@@ -1769,11 +1604,8 @@ mes
 klop
 knoop
 weten
-Knowa
-Knowi
 wetende
 kennis
-knowmy
 bekend
 weet
 knokkel
@@ -1781,23 +1613,18 @@ arbeid
 laboratorium
 gebrek
 meer
-lamp
 lantaarnopsteker
 Lamplighters
 lampen
-land
 geland
-landform
 landschap
 taal
 groot
 grotere
-lasso
 laatste
 duurde
 duurt
 laat
-later
 breedte
 lach
 lachwekkend
@@ -1825,9 +1652,7 @@ links
 wettelijk
 legende
 wetgevend
-wetgevende macht
 benen
-vrije tijd
 lenen
 lengte
 minder
@@ -1840,8 +1665,6 @@ liberaal
 leugen
 leugens
 leven
-lifefor
-lift
 licht
 aangestoken
 licht
@@ -1853,8 +1676,6 @@ vond
 waarschijnlijk
 limiet
 lijn
-blijven hangen
-link
 leeuw
 lippen
 vloeistof
@@ -1868,7 +1689,6 @@ leefde
 levens
 leven
 belasting
-loafing
 lening
 kreeft
 lokaal
@@ -1888,7 +1708,6 @@ los
 losgedraaid
 verliezen
 verloren
-lot
 veel
 luid
 luider
@@ -1906,16 +1725,12 @@ gelukkig
 luguber
 lauw
 maan-
-lunch
-het liggen
-machine
 gemaakt
 tijdschrift
 magie
 magnetisch
 prachtig
 vergroten
-mail
 hoofd-
 handhaven
 majestueus
@@ -1925,10 +1740,8 @@ groot
 meerderheid
 maken
 merken
-making
 mannelijk
 kwaadaardig
-man
 Manhe
 mantel
 vervaardiging
@@ -1937,7 +1750,6 @@ veel
 kaart
 marmer
 mars
-mark
 markt
 getrouwd
 trouwen
@@ -1956,22 +1768,16 @@ zaken
 volwassen
 kunnen
 burgemeester
-me
 maaltijd
 betekenen
-meanadmire
-meanephemeral
 betekenis
 middelen
-meantame
 meten
 maat
 vlees
 monteur
-media
 geneeskunde
 meditatie
-medow
 ontmoeten
 ontmoetingsplaats
 Melike
@@ -1983,7 +1789,6 @@ herinneringen
 geheugen
 mensen
 mentaal
-menthat
 koopman
 barmhartigheid
 louter
@@ -1996,7 +1801,6 @@ metalen
 meter
 methode
 microscoop
-de lucht
 midden
 middernacht
 macht
@@ -2008,16 +1812,11 @@ strijdbaar
 militair
 militie
 melk
-millimeter
 miljoen
-millioni
 miljoenen
-mimicry
 geest
-de mijne
 mineraal
 miniatuur
-minister
 mineur
 minderheid
 kloosterkerk
@@ -2038,24 +1837,18 @@ mengsel
 kreunde
 gepeupel
 mobiel
-model
 matig
-modern
 bescheiden
-modestbut
 bescheiden
 wijzigen
 bevochtigd
 vocht
 gesmolten
-moment
-monarch
 geld
 aap
 monoliet
 eentonig
 eentonigheid
-monster
 maand
 maanden
 humeurig
@@ -2064,12 +1857,9 @@ maanlicht
 gedweild
 morene
 moreel
-moralist
 meer
 ochtend
-morninggood
 meest
-motel
 moeder
 beweging
 onbeweeglijk
@@ -2081,12 +1871,9 @@ verhuizing
 verplaatst
 beweging
 bewegingen
-moves
 film
 bioscoop
-movingand
 veel
-muffin
 geluiddemper
 vermenigvuldiging
 mamma
@@ -2094,13 +1881,10 @@ moord
 mompelde
 paddestoel
 muziek
-musket
 moet
 snuit
 mijn
 mezelf
-myselfone
-mysteries
 mysterieus
 mysterie
 naam
@@ -2115,7 +1899,6 @@ natuurlijk
 natuurlijk
 natuur
 naaf
-navely
 navigatie
 marine
 dichtbij
@@ -2125,7 +1908,6 @@ nek
 stropdassen
 moeten
 naalden
-behoefte aan
 verwaarloosd
 onderhandelen
 neger
@@ -2141,10 +1923,8 @@ volgende
 mooi
 nacht
 niemand
-noeaten
 lawaai
 benoemen
-nonrenewable
 middag
 noch
 normaal
@@ -2155,15 +1935,12 @@ niet
 schrijfwijze
 noot
 notitieboekje
-notes
 niets
 kennisgeving
 merken
-zelfstandig naamwoord
 voeding
 nu
 nergens
-nowthat
 nucleair
 aantal
 cijfer
@@ -2173,7 +1950,6 @@ nutriënten
 gehoorzaamheid
 gehoorzamen
 gehoorzaamde
-object
 bezwaar
 objecten
 verplicht
@@ -2190,9 +1966,7 @@ bezetten
 voorgedaan
 oceaan
 oceanen
-oclock
 achthoek
-octopus
 oneven
 af
 offensief
@@ -2210,13 +1984,10 @@ een
 degenen
 zichzelf
 alleen
-open
 geopend
-opera
 werken
 operatie
 advies
-zich verzetten tegen
 tegenover
 onderdrukken
 oranje
@@ -2240,12 +2011,10 @@ buitenshuis
 schandalig
 buiten
 ovaal
-over
 overwinnen
 overweldigend
 inhalen
 omverwerping
-verschuldigd zijn
 uil
 eigen
 bezeten
@@ -2263,25 +2032,18 @@ schilders
 verven
 paar
 bleek
-panda
 hijgde
 papier
-parachute
-parade
 paragraaf
-parallel
 parallellogram
-pardon
 ouder
 haakjes
-park
 parlement
 peterselie
 deel
 partieel
 deeltje
 partijen
-partner
 patrijs
 onderdelen
 partij
@@ -2290,7 +2052,6 @@ voorbij
 passagier
 passagiers
 voorbijganger
-passes
 overlijden
 paspoort
 verleden
@@ -2310,16 +2071,12 @@ potlood
 potloden
 pinguïn
 centen
-penny
 vijfhoek
 mensen
-per
 procent
-perfect
 uitvoeren
 geurig
 misschien
-perimeter
 periode
 omkomen
 blijvend
@@ -2351,20 +2108,14 @@ roze
 pionier
 pijp
 jammer
-pityyou
 plaats
 duidelijk
-plan
 vliegtuig
 planeet
 planeten
-planetsgood
-planetssuch
 plannen
-plant
 plantage
 planten
-plastic
 spelen
 gespeeld
 speels
@@ -2373,11 +2124,8 @@ spelen
 pleidooi
 alstublieft
 tevreden
-pleasedraw
-pleasetame
 plezier
 overvloed
-plot
 plukken
 geplukt
 kelderden
@@ -2391,7 +2139,6 @@ punt
 puntig
 gif
 paal
-poleonly
 polen
 politie
 politiek
@@ -2415,7 +2162,6 @@ positie
 bezitten
 bezeten
 mogelijk
-post
 post-
 uitstellen
 pond
@@ -2425,7 +2171,6 @@ gegoten
 armoede
 vermogen
 krachtig
-prairie
 lof
 bidden
 prediker
@@ -2445,13 +2190,10 @@ aanwezigheid
 aanwezig
 presentatie
 gepresenteerd
-president
 pers
 druk
-doen alsof
 vrij
 voorkomen
-het voorkomen
 prooi
 prijs
 trots
@@ -2472,19 +2214,15 @@ problemen
 procede
 produceren
 producent
-product
 producten
 beroep
-professor
 winst
 programma
 vooruitgang
-project
 belofte
 onmiddellijk
 bewijs
 bewijzen
-propaganda
 behoorlijk
 correct
 eigendom
@@ -2493,7 +2231,6 @@ voorgesteld
 beschermen
 beschermen
 bescherming
-protest
 trots
 bewijzen
 voorzien
@@ -2509,7 +2246,6 @@ pomp
 pompoen
 prik
 straffen
-puppy
 aankoop
 zuiver
 purper
@@ -2518,9 +2254,7 @@ nastreven
 duw
 geduwd
 zetten
-puts
 zetten
-in de war
 piramide
 kwadrant
 kwaliteit
@@ -2536,13 +2270,9 @@ citaat
 quotiënt
 konijn
 wasbeer
-race
-radar
 glans
 bestraling
-radio
 radijs
-radius
 vlot
 vod
 woede
@@ -2556,13 +2286,11 @@ regenwoud
 verhogen
 verheven
 rammen
-ran
 toeval
 verkrachting
 snel
 zeldzaam
 zelden
-rat
 tarief
 eerder
 rantsoen
@@ -2572,7 +2300,6 @@ bereikt
 reageren
 reactie
 lezen
-readercom
 klaar
 echt
 realistisch
@@ -2585,25 +2312,20 @@ redenering
 redenen
 geruststellen
 gerustgesteld
-rebel
 terugroepen
 ontvangen
 ontvangen
 ontvangt
-recent
 recessie
 overwegingen
 herkennen
 erkent
 memoires
-record
 verhalen
 herstellen
 rood
-redfaced
 verminderen
 afgehaspeld
-reflection
 reflecties
 reflecterende
 hervorming
@@ -2629,11 +2351,9 @@ meedogenloos
 religie
 blijven
 bleef
-stoffelijk overschot
 merkte
 onthouden
 herinnerde
-rememberhow
 herinnerde
 wroeging
 verwijderen
@@ -2659,9 +2379,6 @@ redding
 onderzoek
 gelijkenis
 lijken
-resentfulness
-reserve
-reservoir
 aftreden
 weerstand
 vastberaden
@@ -2675,14 +2392,11 @@ reageerde
 antwoord
 verantwoordelijkheid
 verantwoordelijk
-rest
-restaurant
 bedwingen
 beperken
 rust
 resultaat
 behouden
-met pensioen gaan
 repliceerde
 terugkeer
 herbruikbare
@@ -2691,7 +2405,6 @@ mijmering
 herleven
 opstand
 revolutie
-revolver
 terugspoelen
 reumatiek
 rijst
@@ -2707,12 +2420,10 @@ geweer
 rechts
 terecht
 rechten
-ring
 rel
 stijgen
 risico
 risico's
-rite
 riten
 rivier
 rivieren
@@ -2731,7 +2442,6 @@ rollend
 dak
 kamer
 wortel
-roots
 touw
 Roze
 rozestruik
@@ -2743,14 +2453,12 @@ ruw
 ronde
 koninklijk
 wrijven
-rubber
 ruïne
 regel
 gerucht
 verkreukelde
 lopen
 lopend
-runs
 breuk
 landelijk
 stormloop
@@ -2758,7 +2466,6 @@ overhaast
 haasten
 Rusland
 roestig
-sabotage
 offer
 triest
 droevigste
@@ -2789,7 +2496,6 @@ besparing
 zaag
 zeggen
 gezegde
-saynot
 zegt
 schaal
 ongelijkbenig
@@ -2800,7 +2506,6 @@ scharlaken
 eng
 geleerde
 geleerden
-school
 wetenschap
 wetenschappers
 geminacht
@@ -2827,20 +2532,17 @@ zaden
 SEEI
 ziend
 zoeken
-op zoek naar
 lijken
 leek
 lijkt
 gezien
 ziet
-segment
 grijpen
 aangegrepen
 beslaglegging
 zelf
 vanzelfsprekende
 verkopen
-selling
 zelfkant
 senaat
 sturen
@@ -2856,7 +2558,6 @@ ernstig
 ernst
 preek
 dienen
-service
 reeks
 omgeving
 vestigen
@@ -2878,9 +2579,7 @@ scherp
 geslepen
 ze
 schapen
-sheepif
 schapen
-sheepthe
 vel
 schelp
 schelpen
@@ -2899,11 +2598,9 @@ schudde
 schieten
 scheuten
 winkel
-het winkelen
 winkels
 kort
 kortst
-shot
 moeten
 schouders
 schreeuw
@@ -2914,10 +2611,8 @@ tonen
 getoond
 krimpen
 struik
-de schouders ophalen
 schouderophalend
 sluiten
-Hij sluit
 Siberië
 ziek
 ziekelijk
@@ -2941,10 +2636,7 @@ sinds
 oprecht
 zingen
 gezang
-single
 wastafel
-sire
-sireover
 zus
 zitten
 plaats
@@ -2986,9 +2678,7 @@ glad
 slak
 slang
 slangen
-snakesthey
 sneeuw
-lekker liggen
 dus
 zeepachtig
 snikken
@@ -3017,7 +2707,6 @@ spoedig
 kalmeert
 smart
 verdriet
-sorry
 sorteren
 soorten
 klinken
@@ -3042,16 +2731,13 @@ wrok
 prachtig
 spleet
 spaak
-sport
 plek
 besproeien
 verspreiding
-spreads
 takje
 voorjaar
 veren
 besprenkelen
-sprinklingcan
 spruit
 spruiten
 gesputterd
@@ -3077,7 +2763,6 @@ staat
 statig
 staten
 statisch
-station
 standbeeld
 blijven
 bleef
@@ -3095,19 +2780,16 @@ maag
 steen
 stenen
 stond
-stop
 gestopt
 winkel
 opgeslagen
 verhalen
-storm
 verhaal
 kachel
 rechtdoor
 vreemd
 vreemdste
 riem
-strategems
 strategie
 dwalen
 straat
@@ -3119,14 +2801,12 @@ strikt
 stappen
 staking
 snaar
-strip
 wandelaar
 wandelen
 sterk
 structuur
 strijd
 vast
-studies
 studie
 dom
 stijl
@@ -3161,7 +2841,6 @@ zonsopgang
 zonsondergang
 zonsondergangen
 zonneschijn
-toezicht houden
 levering
 ondersteuning
 veronderstellen
@@ -3189,7 +2868,6 @@ deining
 zwemmen
 zwemmen
 wisselwachter
-switchmans
 lettergreep
 lettergrepen
 symbool
@@ -3201,7 +2879,6 @@ tafel
 nemen
 ingenomen
 neemt
-het nemen
 verhaal
 praten
 sprak
@@ -3211,7 +2888,6 @@ hoogste
 temmen
 getemd
 Tames
-tank
 laat
 doel
 tarief
@@ -3223,7 +2899,6 @@ belasting
 thee
 leren
 leraar
-team
 scheuren
 tranen
 technisch
@@ -3243,33 +2918,25 @@ teder
 tederheid
 gespannen
 termijn
-terrarium
 verschrikkelijk
 verschrikkelijk
 grondgebied
 terreur
-terrorist
-test
 dan
 dank
 gelukkig
 dank
 dat
-thatin
-thatlook
 Thats
 de
-theater
 hun
 hen
 thema
 zichzelf
 dan
-thenthe
 theorie
 er
 daarom
-therehappy
 deze
 ze
 dik
@@ -3278,15 +2945,12 @@ dun
 ding
 spullen
 denken
-het denken
 derde
 dorst
 dorstig
 dertig
-eenendertig
 deze
 doornen
-thornswhat
 grondig
 die
 hoewel
@@ -3302,7 +2966,6 @@ bonst
 troon
 door
 gooien
-thumbs
 stomp
 donder
 donderde
@@ -3314,38 +2977,32 @@ tijger
 tijgers
 tijd
 tijden
-Timewell
 timide
 klatergoud
 minuscuul
 Tipler
 pimpelaar
-tipplers
 band
 moe
 banden
 vermoeiend
 aan
-toaster
 vandaag
 tenen
 samen
 zwoegen
-toilet
 vertelde
 getolereerd
 morgen
 toon
 tong
 vanavond
-tonightyou
 keelamandel
 ook
 nam
 gereedschap
 gereedschap
 tand
-top
 kwelling
 gescheurd
 marteling
@@ -3353,14 +3010,12 @@ gooide
 totaal
 aanraken
 aangeraakt
-tour
 richting
 toren
 stad
 steden
 speelbal
 spoor
-tracks
 handel
 traditie
 traditioneel
@@ -3420,7 +3075,6 @@ tweemaal
 schemering
 gevlochten
 twee
-type
 lelijk
 ultrageluid
 onzeker
@@ -3451,10 +3105,8 @@ omhoog
 op
 rechtop
 ontdaan
-naar boven
 stedelijk
 aansporen
-urgent
 ons
 gebruiken
 gebruikt
@@ -3467,10 +3119,9 @@ vaccin
 dal
 waardevol
 waarde
-vanitywhich
+ijdelheid
 groente
 voertuig
-venusto
 werkwoord
 vonnis
 berm
@@ -3478,11 +3129,9 @@ waarachtig
 versie
 toppunt
 zeer
-veto
 veelomstreden
 slachtoffer
 overwinning
-video
 dorp
 wijngaarden
 schenden
@@ -3490,7 +3139,6 @@ geweld
 visum
 visie
 bezoek
-een bezoek aan
 vocale
 stem
 vulkanisch
@@ -3506,26 +3154,21 @@ gier
 loon
 wachten
 wachtte
-het wachten
 wacht
-wakened
 lopen
-walkand
 liep
+wandelaar
 wandelen
+wandelingen
 muur
-walland
 muren
 dwalen
-wanders
 willen
 gezocht
 wil
 oorlog
 oorlogvoering
-warm
 waarschuwen
-was
 wassen
 wasmachine
 afval
@@ -3533,17 +3176,13 @@ verspild
 horloge
 bekeken
 horloges
-water
 verwaterd
-watering
 wateren
-watt
 golf
 gegolfd
 golven
 manier
 manieren
-we
 zwak
 rijkdom
 wapen
@@ -3553,11 +3192,8 @@ vermoeidheid
 vervelend
 weer
 windwijzer
-web
 onkruid
 onkruid
-week
-weekend
 gehuil
 wegen
 welkom
@@ -3565,9 +3201,7 @@ goed
 putten
 ging
 waren
-west
 nat
-wetland
 wat
 wat
 tarwe
@@ -3575,31 +3209,25 @@ wiel
 wielen
 wanneer
 vanwaar
-telkens als
 waar
-overal waar
 of
 die
 terwijl
 wit
 die
-wie ook
 geheel
 wie
 wie
 waarom
 breed
 vrouw
-wild
 wildvuur
 zullen
 gewillig
 winnen
-wind
 venster
 ramen
 coulissen
-winter
 draad
 wijsheid
 wijs
@@ -3613,10 +3241,7 @@ binnen
 zonder
 getuige
 wakker
-wolf
 vrouw
-won
-wonder
 prachtig
 afvraagt
 gewoonte
@@ -3638,7 +3263,6 @@ slechter
 slechtst
 waard
 zou
-wouldnt
 wond
 wrak
 wrakstukken
@@ -3647,7 +3271,6 @@ schrijven
 geschreven
 mis
 schreef
-yard
 geeuw
 gaapte
 geeuwen
@@ -3663,14 +3286,9 @@ ginds
 u
 jong
 uw
-youre
-de jouwe
 jezelf
 jezelf
 jeugd
-youthe
-youve
 Zeeland
-zebra
 nul
 dierentuin

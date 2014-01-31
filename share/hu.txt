@@ -2,11 +2,9 @@ elhagyatott
 elképedt
 képes
 virágozva
-abodes
 körülbelül
 felett
 hirtelen
-abruptlyas
 hiány
 szórakozott
 abszolút
@@ -56,7 +54,6 @@ előleg
 előny
 kalandok
 hirdet
-tanácsot ad
 messze
 ügy
 érint
@@ -72,10 +69,8 @@ ellen
 ügynökség
 agresszió
 ezelőtt
-agoyou
 egyetért
 mezőgazdaság
-ah
 előre
 támogatás
 cél
@@ -85,7 +80,6 @@ repülőgépek
 repülőtér
 riasztás
 jaj
-album
 alkohol
 algebrai
 algoritmus
@@ -99,8 +93,6 @@ szövetséges
 évkönyv
 majdnem
 kizárólag
-aloneall
-alonewill
 mentén
 tartózkodó
 már
@@ -129,7 +121,6 @@ szögek
 dühös
 állat
 állatok
-animalsi
 boka
 évforduló
 bejelent
@@ -144,17 +135,13 @@ bármilyen
 bárki
 valaki
 bármi
-különben is
 bárhol
 külön
-bocsánatot kér
 látszólagos
 jelenés
 fellebbezés
 megjelenik
-külső megjelenés
 megjelent
-jelenik meg
 alma
 kijelöl
 megközelítés
@@ -211,11 +198,9 @@ ketté
 menekültügyi
 evett
 légkör
-atom
 hozzákapcsol
 támadás
 kísérlet
-részt vesz
 figyelem
 attribútumok
 könyvvizsgálat
@@ -225,7 +210,6 @@ szerző
 hatóság
 autó
 ősz
-rendelkezésre álló
 átlagos
 elkerülése
 ébren
@@ -240,17 +224,14 @@ rossz
 jelvény
 egyensúly
 kiegyensúlyozott
-sületlen beszéd
 labda
 balett
 léggömb
 szavazócédula
 tilalom
 kötés
-bank
 bankett
 majomkenyérfa
-baobabs
 bár
 borbély
 csupasz
@@ -258,9 +239,7 @@ alku
 hordó
 akadály
 alap
-baseball
 kosár
-batch
 akkumulátorok
 csata
 öböl
@@ -277,7 +256,7 @@ mivel
 lesz
 válik
 egyre
-becuase
+mivel
 ágy
 méh
 óta
@@ -320,9 +299,7 @@ biológia
 madár
 madarak
 születésnap
-bit
 harapás
-bject
 fekete
 szemrehányás
 takaró
@@ -340,7 +317,6 @@ kifulladt
 fúj
 kék
 kétbalkezes
-boa
 boák
 hencegett
 hajó
@@ -422,7 +398,6 @@ elfoglalt
 de
 Pillangók
 pillangó
-de mit szólsz
 vesz
 vásárlás
 által
@@ -449,7 +424,6 @@ rák
 jelölt
 gyertya
 ágyú
-nem tud
 baldachin
 vidám
 képes
@@ -477,10 +451,9 @@ kastélyok
 macska
 katasztrófa
 fogás
-catcher
 ragályos
+hernyó
 hernyók
-caterpillarswho
 elkapott
 ok
 tűzszünet
@@ -491,10 +464,12 @@ központ
 centiméter
 központi
 század
+évszázadok
 ünnepély
 bizonyos
 biztosan
 szék
+székek
 elnök
 kamra
 bajnok
@@ -507,11 +482,12 @@ pasas
 kápolna
 betű
 faszén
-chare
 díj
 bájos
 táblázat
+táblázatok
 üldözés
+csal
 csal
 ellenőrzés
 kockás
@@ -522,6 +498,7 @@ vegyszerek
 kémia
 kerub
 rág
+megrágja
 rágás
 csirke
 csirkék
@@ -533,22 +510,28 @@ csimpánz
 Kína
 játékpénz
 választás
+döntéseket
 megfulladt
 választ
+választott
 választotta
 karácsonyi
 kuncogás
+kacagás
 templom
+templomok
 cigaretta
 kör
+körök
 áramkör
+áramkörök
 körméret
 körülhajóz
-cirque
 állampolgár
+polgárok
 állampolgárság
 város
-civil
+városok
 polgári
 öltözött
 igény
@@ -556,16 +539,19 @@ taps
 tapsolt
 tisztázni
 összecsapás
+összecsapások
+osztály
 osztály
 osztályoz
+karom
 karmai
 tiszta
+tisztítja
 tisztítani
 tisztítás
 tiszta
 klíring
 egyértelműen
-clearsighted
 papság
 hivatalnok
 klíma
@@ -634,7 +620,6 @@ számítógép
 öntelt
 összpontosított
 aggodalom
-az érintett
 következtetés
 elítél
 állapot
@@ -669,7 +654,6 @@ reteszelők
 építés
 konzultációt
 fogyasztó
-consumingly
 érintkezés
 tartalmaz
 konténer
@@ -688,7 +672,6 @@ beszélgetés
 megtérít
 meggyőződéses
 szakács
-cookout
 hűvös
 együttműködik
 koordináták
@@ -704,7 +687,6 @@ pamut
 köhögés
 köhögött
 tudott
-Nem tudott
 tanács
 számol
 ország
@@ -717,7 +699,6 @@ unokatestvérek
 fedő
 fedett
 tehén
-cowboy
 zsúfolt
 csattanás
 lezuhant
@@ -728,7 +709,6 @@ teremtmény
 lények
 hitel
 legénység
-kiáltott fel
 bűncselekmény
 bűnügyi
 válság
@@ -737,7 +717,6 @@ krokodil
 növények
 kereszt
 át
-crossexamine
 rosszkedvűen
 tömeg
 zsúfolt
@@ -750,7 +729,6 @@ kocka
 kultúra
 nehézkes
 gyógyít
-kijárási tilalom
 kíváncsiság
 kíváncsi
 hullámos
@@ -780,7 +758,6 @@ dátum
 lánya
 hajnal
 nap
-dayagain
 pirkadat
 nap
 halott
@@ -802,19 +779,15 @@ mélységesen
 szarvas
 vereség
 megvédeni
-deficit
-határozza meg
 fok
 levertség
 késleltetés
 képviselő
-delta
 kereslet
 követelte
 demokrácia
 bizonyítani
 demonstráció
-mondhatja fel
 sűrűség
 fog
 tagad
@@ -831,7 +804,6 @@ leírni
 leírt
 sivatag
 sivatagok
-desertwhat
 tervezés
 vágy
 íróasztal
@@ -839,13 +811,11 @@ elpusztít
 részlet
 részletek
 visszatart
-határozza meg
 hátrányos
 fejleszt
 fejlett
 eszköz
 szán
-diagram
 átmérő
 gyémánt
 diktátor
@@ -857,12 +827,10 @@ diéta
 különbség
 különböző
 nehéz
-dig
 emésztő
 emésztés
 ásás
 számjegy
-gödröcske arcon
 vacsora
 diplomata
 közvetlen
@@ -875,7 +843,6 @@ eltűnés
 eltűnt
 csalódott
 hatástalanítás
-disarranged
 katasztrófa
 fegyelem
 kedvét
@@ -887,22 +854,18 @@ megkülönböztetés
 megvitatni
 betegség
 csüggedt
-utasítsa el
 engedetlenség
-nem fogad szót
 szétszórtság
 eldobható
 vita
 zavar
 szakadár
 távolság
-különbséget tesz
 kiváló
 elosztó
 kerület
 zavart
 zavaró
-fejest ugrik
 vízválasztó
 megosztott
 osztás
@@ -923,12 +886,10 @@ ne
 ajtó
 dupla
 kétség
-doubtit
 kétségek
 galambok
 lefelé
 tervezetek
-draftsthat
 sárkány
 dráma
 Ivott
@@ -940,7 +901,6 @@ húzott
 borzasztóan
 álom
 ábrándozás
-dreamthis
 öltözött
 Drew
 ital
@@ -964,7 +924,6 @@ minden
 sas
 legkorábban
 korai
-pénzt keres
 komolyan
 fül
 föld
@@ -981,7 +940,6 @@ evett
 eszik
 visszhang
 visszhangozta
-echolocation
 ökológia
 gazdaság
 ökoszisztéma
@@ -1003,7 +961,6 @@ villanyszerelő
 villanyáram
 elegancia
 elem
-elephans
 elefánt
 elefántok
 tizenegy
@@ -1029,7 +986,6 @@ energia
 érvényesíteni
 motor
 mérnök
-enginegrease
 angol
 élvez
 elég
@@ -1041,11 +997,9 @@ teljesen
 vállalkozó
 belépés
 környezet
-tiszavirág életű
 egyenlő
 egyenlet
 egyenlítő
-egyenlő oldalú
 berendezés
 törölhető
 hermelin
@@ -1090,7 +1044,6 @@ izgatott
 izgalom
 izgalmas
 felkiált
-kiáltott fel
 kizárás
 mentség
 kivégez
@@ -1120,7 +1073,6 @@ felrobban
 felfedezni
 felfedező
 felfedezők
-export
 expressz
 kifejezés
 terjed
@@ -1130,7 +1082,6 @@ kialszik
 rendkívüli
 rendkívüli
 szélső
-rendkívüli módon
 szélsőséges
 szem
 szem
@@ -1141,7 +1092,6 @@ tény
 tényezők
 gyár
 kifakult
-nem sikerül
 hiba
 ájulás
 vásár
@@ -1161,7 +1111,6 @@ híres
 ventilátor
 képzelet
 messze
-farm
 gazdák
 tanyaudvar
 messzebb
@@ -1198,14 +1147,11 @@ mezők
 vad
 tizenöt
 ötödik
-fiftyfour
-fiftythree
 harc
 ábra
 számok
 tölt
 megtöltött
-film
 utolsó
 végül
 pénzügyi
@@ -1222,17 +1168,14 @@ tűzijáték
 cég
 határozottan
 első
-firstto
 hal
 megfelelő
 öt
-fix
 hozzávaló
 zászló
 láng
 vaku
 villant
-villogó irányjelző
 lapos
 összeolvasztás
 menekül
@@ -1246,7 +1189,6 @@ liszt
 folyik
 virág
 menstruáció
-flowerthe
 repült
 folyékonyan
 folyadék
@@ -1268,7 +1210,6 @@ láb
 labdarúgás
 lábnyom
 zsámoly
-footy
 mert
 türelem
 tilt
@@ -1292,7 +1233,7 @@ korábbi
 formák
 elhagyott
 szerencsére
-fortyfour
+negyven
 előre
 talált
 szökőkút
@@ -1301,7 +1242,6 @@ négy
 negyedik
 róka
 róka
-foxhis
 töredék
 törés
 törékeny
@@ -1323,7 +1263,6 @@ megrémít
 ijesztő
 béka
 -től
-front
 megfagyott
 gyümölcs
 üzemanyag
@@ -1344,7 +1283,7 @@ játék
 játékok
 szemét
 kert
-gardenand
+kertészkedés
 gáz
 gyűjt
 összegyűjtött
@@ -1357,7 +1296,6 @@ generáció
 fajirtás
 kedves
 úriember
-gentlemans
 gyengéden
 földrajztudós
 geográfusok
@@ -1397,7 +1335,6 @@ haladó
 arany
 aranysárga
 aranyhal
-golf
 elmúlt
 jó
 búcsú
@@ -1454,8 +1391,6 @@ szokás
 lakás
 haj
 fél
-halfconfidence
-halfsmile
 bejárat
 megáll
 kalapács
@@ -1474,17 +1409,14 @@ boldogabb
 boldogan
 boldog
 kemény
-mezei nyúl
 kár
 káros
 károsan
 durva
 szüret
 van
-még nem
 sietett
 sietősen
-hasyes
 kalap
 gyűlölet
 van
@@ -1520,7 +1452,6 @@ hős
 habozás
 habozott
 hatszög
-téli álmot alszik
 elrejt
 nyersbőr
 rejtekhely
@@ -1529,7 +1460,6 @@ legmagasabb
 eltérít
 hegy
 őt
-ő maga
 célzás
 víziló
 övé
@@ -1537,7 +1467,6 @@ történelem
 megüt
 húzzák
 tart
-holding
 lyuk
 lyukak
 ünnep
@@ -1556,7 +1485,6 @@ kórház
 túsz
 ellenséges
 meleg
-hotel
 melegebb
 óra
 óra
@@ -1569,7 +1497,6 @@ zümmögés
 emberi
 emberiség
 alázatos
-humor
 száz
 száz
 éhség
@@ -1590,7 +1517,6 @@ fagylalt
 azonosítása
 identitás
 tétlen
-figyelmen kívül hagy
 illegális
 olvashatatlan
 tiltott
@@ -1610,7 +1536,6 @@ mozdulatlan
 erkölcstelen
 mozdíthatatlan
 áthatolhatatlan
-import
 fontosság
 fontos
 lehetetlen
@@ -1650,7 +1575,6 @@ információ
 lakosok
 lakott
 befecskendez
-kárt okoz
 tinta
 ártatlan
 hatástalan
@@ -1674,7 +1598,6 @@ eszközök
 fegyelemsértés
 szigetelő
 sértés
-egész szám
 intelligencia
 intelligens
 erős
@@ -1718,13 +1641,10 @@ sziget
 szigetecske
 nem
 elszigetelt
-egyenlő szárú
 kérdés
 az
 a
 maga
-iv
-ix
 börtön
 összerándult
 ékszer
@@ -1752,7 +1672,6 @@ tart
 tartotta
 kulcs
 rúgás
-embert rabol
 megöl
 elesett
 kilométer
@@ -1769,11 +1688,8 @@ kés
 kopogás
 csomó
 tud
-knowa
-knowi
 tudván
 tudás
-knowmy
 ismert
 tudja
 ujjperec
@@ -1783,11 +1699,9 @@ hiány
 tó
 lámpa
 lámpagyújtogató
-lamplighters
 lámpák
 föld
 leszállt
-landform
 táj
 nyelv
 nagy
@@ -1833,20 +1747,16 @@ hossz
 kevesebb
 lecke
 enged
-lehetővé teszi,
 levél
 szint
 liberális
 hazugság
 hazugság
 élet
-lifefor
-lift
 fény
 megvilágított
 könnyen
 villám
-állati tüdő
 rokonszenves
 mint
 tetszett
@@ -1854,7 +1764,6 @@ valószínű
 határ
 vonal
 habozik
-link
 oroszlán
 ajkak
 folyadék
@@ -1929,7 +1838,6 @@ gyártás
 férfi
 rosszindulatú
 férfi
-manhe
 palást
 gyártás
 trágya
@@ -1959,11 +1867,8 @@ polgármester
 nekem
 étkezés
 átlagos
-meanadmire
-meanephemeral
 jelentése
 eszközök
-meantame
 intézkedés
 mérés
 hús
@@ -1971,10 +1876,8 @@ szerelő
 média
 orvostudomány
 elmélkedés
-medow
 megfelel
 MeetingPlace
-melike
 olvad
 tag
 tagjai
@@ -1983,7 +1886,6 @@ emlékek
 emlék
 férfiak
 szellemi
-menthat
 kereskedő
 irgalom
 puszta
@@ -2010,11 +1912,9 @@ milícia
 tej
 milliméter
 millió
-millioni
 millió
 mimikri
 elme
-az enyém
 ásványi
 miniatűr
 miniszter
@@ -2040,9 +1940,7 @@ csőcselék
 mozgó
 modell
 közepes
-modern
 szerény
-modestbut
 szerényen
 módosít
 nedves
@@ -2067,9 +1965,7 @@ erkölcsi
 moralista
 több
 reggel
-morninggood
 legtöbb
-motel
 anya
 mozgás
 mozdulatlan
@@ -2084,9 +1980,7 @@ mozgások
 mozog
 film
 filmek
-movingand
 sokkal
-muffin
 hangtompító
 szorzás
 anyu
@@ -2099,7 +1993,6 @@ kell
 orr
 én
 magamat
-myselfone
 rejtélyek
 titokzatos
 rejtély
@@ -2115,7 +2008,6 @@ természetes
 természetesen
 természet
 templomhajó
-navely
 navigáció
 haditengerészet
 közel
@@ -2141,7 +2033,6 @@ következő
 szép
 éjszaka
 senki
-noeaten
 zaj
 kinevez
 megújuló
@@ -2163,7 +2054,6 @@ főnév
 táplálék
 jelenleg
 sehol
-nowthat
 nukleáris
 szám
 számnév
@@ -2212,7 +2102,6 @@ magát
 csak
 nyitott
 nyitott
-opera
 működik
 működés
 vélemény
@@ -2274,15 +2163,12 @@ paralelogramma
 megbocsátás
 szülő
 zárójelek
-park
 parlament
 petrezselyem
 rész
 részleges
 részecske
 felek
-partner
-fogoly madár
 alkatrészek
 fél
 hágó
@@ -2310,7 +2196,6 @@ ceruza
 ceruzák
 pingvin
 fillérekért
-penny
 Pentagon
 emberek
 -ként
@@ -2351,15 +2236,12 @@ rózsaszín
 úttörő
 cső
 kár
-pityyou
 hely
 világosan
 terv
 repülőgép
 bolygó
 bolygók
-planetsgood
-planetssuch
 tervek
 növény
 ültetvény
@@ -2373,15 +2255,12 @@ játszik
 kifogás
 kérem
 elégedett
-pleasedraw
-pleasetame
 öröm
 bőség
 telek
 bátorság
 pengetős
 zuhant
-többes szám
 Himlős
 zseb
 vers
@@ -2391,7 +2270,6 @@ pont
 hegyes
 méreg
 pólus
-poleonly
 lengyelek
 rendőrség
 politika
@@ -2450,7 +2328,6 @@ sajtó
 nyomás
 színlel
 szép
-megelőzése érdekében
 megelőzés
 zsákmány
 ár
@@ -2475,16 +2352,13 @@ gyártó
 termék
 termékek
 szakma
-egyetemi tanár
 nyereség
-program
 haladás
 program
 ígéret
 azonnal
 bizonyíték
 bizonyítékok
-propaganda
 megfelelő
 megfelelően
 ingatlan
@@ -2537,7 +2411,6 @@ hányados
 nyúl
 mosómedve
 verseny
-radar
 ragyogás
 sugárzás
 rádió
@@ -2572,7 +2445,6 @@ elérte
 reagál
 reakció
 olvas
-readercom
 kész
 igazi
 valószerű
@@ -2591,7 +2463,6 @@ részesül
 kapott
 fogad
 új
-gazdasági pangás
 preambulumbekezdést
 felismerni
 felismeri
@@ -2600,16 +2471,12 @@ rekord
 újraszámlálás
 meggyógyul
 piros
-redfaced
-csökkenti a
 tántorgó
 visszaverődés
 gondolatok
 visszatükröző
-reform
 menekült
 hulladék
-nem hajlandó
 tekintet
 terület
 regionális
@@ -2633,7 +2500,6 @@ maradványok
 megjegyezte:
 emlékezik
 emlékezett
-rememberhow
 emlékeztette
 lelkifurdalás
 eltávolít
@@ -2683,7 +2549,6 @@ szünetek
 eredmény
 megtartása
 visszavonul
-vágott vissza
 visszatérés
 újrafelhasználható
 kiderült,
@@ -2691,7 +2556,6 @@ kiderült,
 Élénkítő
 lázadás
 forradalom
-revolver
 visszatekerés
 reuma
 rizs
@@ -2699,7 +2563,6 @@ gazdag
 gazdagabb
 leggazdagabb
 megszabadulni
-találós kérdések
 fuvar
 gerincek
 nevetséges
@@ -2765,7 +2628,6 @@ legszomorúbb
 szomorúan
 szomorúság
 biztonságos
-sahara
 mondott
 vitorla
 tengerész
@@ -2789,10 +2651,8 @@ megtakarítás
 fűrész
 mond
 mondás
-saynot
 szerint
 skála
-egyenlőtlen oldalú
 alig
 megrémült
 sál
@@ -2829,8 +2689,6 @@ látva
 keresik
 kereső
 látszik
-úgy tűnt,
-Úgy tűnik,
 látott
 lát
 szegmens
@@ -2838,7 +2696,6 @@ megragadja
 lefoglalt
 elkobzás
 maga
-selfevident
 elad
 eladás
 szegély
@@ -2863,7 +2720,6 @@ rendezni
 telepedett
 hét
 hetedik
-seventytwo
 számos
 szigorú
 szex
@@ -2878,9 +2734,7 @@ cápa
 élezett
 ő
 juh
-sheepif
 birkák
-sheepthe
 ív
 héj
 kagyló
@@ -2914,8 +2768,6 @@ bemutató
 mutatott
 összezsugorodik
 cserje
-vállat von
-vállat vont
 becsuk
 záródhasson
 Szibéria
@@ -2943,8 +2795,6 @@ egyszerűen
 éneklés
 egyetlen
 mosogató
-felséges úr
-sireover
 lánytestvér
 ül
 telek
@@ -2986,9 +2836,7 @@ sima
 csiga
 kígyó
 kígyók
-snakesthey
 hó
-magához szorít
 így
 szappanos
 zokogás
@@ -3042,7 +2890,6 @@ ellenére
 pompás
 hasított
 küllős
-sport
 folt
 permet
 elterjed
@@ -3051,7 +2898,6 @@ gally
 tavasz
 rugók
 szór
-sprinklingcan
 hajtás
 hajtások
 porlasztott
@@ -3088,7 +2934,6 @@ acél
 lépés
 lépések
 bot
-még mindig
 kevert
 készlet
 gyomor
@@ -3107,7 +2952,6 @@ egyenes
 furcsa
 legfurcsább
 szíj
-strategems
 stratégia
 kóbor
 utca
@@ -3189,7 +3033,6 @@ dagad
 úszás
 úszás
 váltókezelő
-switchmans
 szótag
 szótagok
 szimbólum
@@ -3211,7 +3054,6 @@ legmagasabb
 szelíd
 megszelídített
 Tames
-tank
 lusta
 cél
 tarifa
@@ -3220,7 +3062,6 @@ feladatok
 íz
 tanította
 adó
-tea
 tanít
 tanár
 csapat
@@ -3247,7 +3088,6 @@ terrárium
 szörnyű
 rettenetesen
 terület
-terror
 terrorista
 teszt
 mint
@@ -3255,8 +3095,6 @@ köszönöm
 szerencsére
 köszönöm
 hogy
-thatin
-thatlook
 amit
 a
 színház
@@ -3265,11 +3103,9 @@ a
 téma
 maguk
 akkor
-thenthe
 elmélet
 ott
 ezért
-therehappy
 ezeket
 ők
 vastag
@@ -3283,10 +3119,8 @@ harmadik
 szomjúság
 szomjas
 harminc
-thirtyone
 ezt
 tövis
-thornswhat
 alaposan
 azok
 bár
@@ -3302,7 +3136,6 @@ lüktet
 trón
 keresztül
 dob
-thumbs
 puffanás
 mennydörgés
 mennydörögte
@@ -3314,13 +3147,10 @@ tigris
 Tigers
 idő
 alkalommal
-timewell
 félénk
 talmi
 apró
-tipler
 iszákos
-tipplers
 gumi
 fáradt
 gumik
@@ -3337,8 +3167,6 @@ tolerálható
 holnap
 tónus
 nyelv
-ma este
-tonightyou
 mandula
 is
 vett
@@ -3407,7 +3235,6 @@ igazság
 megpróbál
 próbál
 cső
-tundra
 török
 fordulat
 esztergált
@@ -3440,7 +3267,6 @@ egyesült
 egyetemes
 világegyetem
 egyetemi
-hacsak nem
 valószínűtlen
 szerencsétlen
 felesleges
@@ -3467,10 +3293,9 @@ vakcina
 völgy
 értékes
 érték
-vanitywhich
+hiúság
 zöldség
 jármű
-venusto
 ige
 ítélet
 perem
@@ -3510,11 +3335,11 @@ várakozás
 vár
 felébresztette
 séta
-walkand
 sétált
+járóka
 gyalogló
+séták
 fal
-Walland
 falak
 vándorol
 Wanders
@@ -3537,7 +3362,6 @@ víz
 öntözött
 locsolás
 vizek
-watt
 hullám
 hullámos
 hullámok
@@ -3597,7 +3421,6 @@ hajlandó
 győzelem
 szél
 ablak
-windows
 színfalak
 tél
 vezeték
@@ -3615,7 +3438,6 @@ tanú
 felébredt
 farkas
 nő
-won
 csoda
 csodálatos
 csodálkozó
@@ -3647,7 +3469,6 @@ ránc
 írott
 rossz
 írt
-yard
 ásítás
 ásított
 ásítozás
@@ -3663,14 +3484,8 @@ amott
 Ön
 fiatal
 A
-te
-a tiéd
 magad
 magatok
 ifjúság
-youthe
-youve
-zealand
-zebra
 nulla
 állatkert

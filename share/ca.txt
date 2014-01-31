@@ -1,22 +1,17 @@
 abandonat
 avergonyit
 capaç
-en flor
 morades
 sobre
 dalt
 abruptament
-abruptlyas
 absència
 distret
 absolut
-absurd
-abundant
 abús
 abisme
 acceptar
 acceptat
-accident
 aclamació
 d'acord
 compte
@@ -31,8 +26,6 @@ acció
 accions
 actiu
 activista
-actor
-en realitat
 agut
 adaptar
 adaptació
@@ -51,7 +44,6 @@ adoptar
 adopció
 adorar
 adorn
-adult
 insinuacions
 avantatge
 aventures
@@ -66,16 +58,13 @@ espantat
 africà
 després
 tarda
-de nou
 contra
 edat
 agència
 agressió
 fa
-agoyou
 acordar
 agricultura
-ah
 endavant
 ajuda
 objectiu
@@ -86,8 +75,6 @@ aeroport
 alarma
 Ai
 àlbum
-alcohol
-algebraic
 algoritme
 baixar
 igual
@@ -96,17 +83,11 @@ tot
 caiman
 permetre
 aliat
-almanac
 gairebé
 només
-aloneall
-alonewill
-al llarg de
-a distància
 ja
 també
 encara
-en conjunt
 sempre
 sorpresa
 ambaixador
@@ -124,18 +105,12 @@ avantpassat
 antic
 i
 còlera
-angle
-angles
 enutjat
-animal
-animals
-animalsi
 turmell
 aniversari
 anunciar
 molestar
 irritat
-un altre
 resposta
 contestat
 formiga
@@ -143,14 +118,10 @@ enclusa
 qualsevol
 ningú
 ningú
-qualsevol cosa
-de totes maneres
 onsevulla
-a part
 disculpar
 aparent
 aparició
-apel · lació
 aparèixer
 aparença
 aparegut
@@ -179,13 +150,10 @@ detingut
 arribada
 arribar
 arribat
-art
-artificial
 artilleria
 com
 cendra
 avergonyit
-a part
 preguntar
 preguntar
 tort
@@ -207,7 +175,6 @@ astronauta
 astrònom
 astronòmic
 astronomia
-en trossos
 asil
 menjar
 ambient
@@ -242,22 +209,15 @@ equilibri
 equilibrat
 disbarats
 bola
-ballet
 globus
 votació
 prohibir
 embenat
 banc
-banquet
-baobab
-baobabs
-bar
-barber
 nu
 ganga
 barril
 barrera
-base
 beisbol
 cistella
 lot
@@ -272,12 +232,9 @@ vèncer
 pallissa
 bonic
 bellesa
-es va convertir en
 perquè
-convertir-se en
-es converteix en
 esdevenir
-becuase
+perquè
 llit
 abella
 estat
@@ -303,26 +260,20 @@ flexió
 beneficiós
 doblat
 baia
-al costat de
-més de
 millor
 trair
 millor
 entre
 desconcertat
-més enllà de
 gran
 més
 bicicleta
-projecte de llei
 bilió
 biologia
 ocell
 ocells
 aniversari
-bit
 mossegar
-bject
 negre
 culpa
 manta
@@ -340,7 +291,6 @@ espatllat
 cops
 blau
 maldestre
-boa
 boes
 jactanciosa
 vaixell
@@ -353,12 +303,10 @@ ossi
 llibre
 biblioteca
 llibres
-ciutat de creixement ràpid
 frontera
 perforat
 trepants
 nascut
-demanar prestat
 ambdós
 molestar
 ampolla
@@ -390,7 +338,6 @@ brillant
 brillant
 portar
 transmetre
-va trencar
 trencat
 germà
 germans
@@ -416,13 +363,11 @@ enterrar
 autobús
 arbustos
 negocis
-home de negocis
 empresaris
 ocupat
 però
 papallones
 papallona
-butwhat
 comprar
 compra
 per
@@ -430,7 +375,6 @@ col
 cols
 cabina
 gabinet
-cactus
 pastís
 calcular
 càlculs
@@ -444,16 +388,13 @@ camuflatge
 campament
 campanya
 llauna
-cancel · lar
 càncer
 candidat
 vela
 canó
-no pot
 dosser
 hipocresia
 capaç
-capital
 captura
 cotxe
 caravana
@@ -462,13 +403,11 @@ cura
 carrera
 acurat
 acuradament
-a la lleugera
 carnívor
 catifa
 carro
 realitzat
 portar
-que porta
 cartutx
 cas
 emetre
@@ -479,22 +418,21 @@ catàstrofe
 captura
 receptor
 atractiu
+eruga
 erugues
-caterpillarswho
 capturat
 causa
-alto el foc
 celebrar
 celler
-cèl · lules
 centre
 centímetre
-central
 segle
+segles
 cerimònia
 cert
 certament
 cadira
+cadires
 president
 càmera
 campió
@@ -507,21 +445,22 @@ oncle
 capella
 caràcter
 carbó
-CHARE
 cobrar
 encantador
 taula
+gràfics
 persecució
 enganyar
+tramposos
 comprovar
 comprovat
 humor
 alegre
 guepard
-productes químics
 química
 querubí
 mastegar
+mastega
 masticació
 pollastre
 pollastres
@@ -531,41 +470,44 @@ nens
 xemeneia
 ximpanzé
 xinesa
-patates fregides
 elecció
+opcions
 ofegat
 triar
-va triar
+escollida
 Nadal
 rialleta
+rialles
 església
+esglésies
 cigarret
 cercle
-circuit
+cercles
 circumferència
 circumnavegar
-circ
 ciutadà
+ciutadans
 ciutadania
 ciutat
+ciutats
 civil
-civil
-clad
 reclamació
 aplaudir
 aplaudit
 aclarir
 xoc
+enfrontaments
 classe
 classificar
+arpa
 urpes
 net
+neta
 netejar
 neteja
 clar
 clar
 clarament
-clarivident
 clergat
 secretari
 clima
@@ -575,7 +517,6 @@ rellotge
 prop
 tancat
 properament
-més a prop
 tancament
 drap
 roba
@@ -587,15 +528,8 @@ costaner
 cafè
 bobina
 fred
-col · lapse
-col · lega
 recollir
-col · lecció
-col · legi
 colònia
-color
-de colors
-colors
 combinació
 combinar
 venir
@@ -604,7 +538,6 @@ comoditat
 còmode
 còmodament
 confortat
-que ve
 comandament
 comentari
 comitè
@@ -616,14 +549,12 @@ companys
 empresa
 comparar
 brúixola
-compatible
 compensació
 competir
 competència
 complet
 acabat
 completament
-complex
 complicat
 compondre
 compost
@@ -640,7 +571,6 @@ condemnar
 condició
 condicions
 conducta
-conductor
 con
 conferència
 confessar
@@ -656,55 +586,42 @@ confondre
 confusió
 felicitar
 congrés
-congruent
 connectar
 connexió
 conseqüència
 conservador
 considerar
-considerable
 constitució
-constrictor
-constrictors
 construcció
 consultat
 consumidor
-consumingly
 contacte
 contenir
 contenidor
 contemplació
 contingut
-continent
-continents
 continuar
 continuat
 continuïtat
 contrari
-control
-convenient
 convenció
 conversa
 convertir
 convençut
 cuiner
-menjar a l'aire lliure
 fresc
 cooperar
 coordenades
 còpia
 coqueta
-blat de moro
 cantonada
 correcte
 corrupció
-cost
 vestit
 cotó
 ments
 tossit
 podria
-couldnt
 consell
 comptar
 país
@@ -721,26 +638,20 @@ vaquer
 amuntegats
 xoc
 estrellat
-crawl
 boig
 crear
 criatura
 criatures
 crèdit
 tripulació
--Va cridar
 crim
-criminal
 crisi
 criticar
 cocodril
 cultius
 creuar
 creuat
-crossexamine
-de mal humor
 multitud
-ple de gent
 corona
 aixafar
 trituradora
@@ -750,7 +661,6 @@ cub
 cultura
 incòmode
 cura
-toc de queda
 curiositat
 curiós
 arrissat
@@ -780,7 +690,6 @@ data
 filla
 alba
 dia
-dayagain
 alba
 dia
 mort
@@ -792,7 +701,6 @@ debat
 deute
 decidir
 decidit
-decimal
 declarar
 decorat
 disminuir
@@ -808,7 +716,6 @@ grau
 abatiment
 retard
 delegat
-delta
 demanda
 exigit
 democràcia
@@ -816,7 +723,6 @@ demostrar
 demostració
 denunciar
 densitat
-dental
 negar
 sortida
 dependre
@@ -829,9 +735,6 @@ derivar
 descens
 descriure
 descrit
-desert
-deserts
-desertwhat
 disseny
 desig
 escriptori
@@ -850,8 +753,6 @@ diàmetre
 diamant
 dictador
 diccionari
-va fer
-no ho va fer
 morir
 dieta
 diferència
@@ -891,10 +792,8 @@ acomiadar
 desobediència
 desobeir
 dispersió
-sol ús
 disputa
 desorganització
-dissident
 distància
 distingir
 distingit
@@ -908,7 +807,6 @@ dividit
 divisió
 fer
 metge
-document
 fa
 No
 gos
@@ -919,18 +817,14 @@ dòlar
 dofí
 donar
 fet
-no et
 porta
 doble
 dubte
-doubtit
 dubtes
 coloms
 baix
 dames
-draftsthat
 drac
-drama
 beure
 dibuixar
 calaix
@@ -940,13 +834,9 @@ estirat
 horrorosament
 somiar
 somiant
-dreamthis
 vestit
-drew
 beguda
 beguda
-drive
-deixar anar
 caigut
 sequera
 ofegar
@@ -962,7 +852,6 @@ deure
 moribund
 cada
 àguila
-més d'hora
 hora
 guanyar
 formalment
@@ -991,18 +880,14 @@ efecte
 esforç
 ou
 ous
-eh
 08:00
 vuitè
-eis
-qualsevol dels dos
 electe
 elecció
 elèctric
 electricista
 electricitat
 elegància
-element
 Elephans
 elefant
 elefants
@@ -1022,14 +907,11 @@ buit
 encantament
 trobades
 final
-en perill d'extinció
 suportar
 enemic
 energia
-fer complir
 motor
 enginyer
-enginegrease
 Anglès
 gaudir
 suficient
@@ -1040,7 +922,6 @@ tot
 totalment
 empresari
 entrada
-medi ambient
 efímer
 igual
 equació
@@ -1050,8 +931,6 @@ equip
 esborrable
 ermini
 erràtic
-error
-errors
 erupcions
 escapament
 especialment
@@ -1067,7 +946,6 @@ Europa
 europeu
 avaluar
 evaporar
-fins i tot
 tarda
 esdeveniment
 mai
@@ -1075,7 +953,6 @@ cada
 tothom
 tothom
 tot
-a tot arreu
 evidència
 mal
 exacte
@@ -1083,14 +960,12 @@ exactament
 examinar
 examinar
 exemple
-excel · lent
 excepte
 intercanvi
 emocionat
 emoció
 emocionant
 exclamar
-va exclamar
 exclusió
 excusa
 executar
@@ -1102,16 +977,12 @@ existir
 existit
 existència
 existeix
-exp
 expandir
 expandit
 esperar
 expectant
 expulsar
 experiència
-experiment
-expert
-experts
 explicar
 explicat
 explicant
@@ -1127,7 +998,6 @@ ampliar
 extint
 extinció
 extingit
-extra
 extraordinari
 extrem
 extremadament
@@ -1138,7 +1008,6 @@ cara
 cares
 davant
 fet
-factors
 fàbrica
 descolorit
 fallar
@@ -1147,14 +1016,11 @@ desmai
 fira
 bastant
 fada
-contes de fades
 fidel
 caure
 caigut
-que cau
 caigudes
 fals
-familiar
 famílies
 família
 famós
@@ -1164,22 +1030,18 @@ lluny
 granja
 agricultors
 pati
-més lluny
 moda
 ràpid
 lligar
 greix
-fatal
 pare
 fatiga
 criticar
 afavorir
-favorable
 favorit
 favorit
 por
 característica
-federal
 penso
 sentir
 peus
@@ -1189,7 +1051,6 @@ sentit
 femení
 tanca
 fèrtil
-festival
 febre
 febril
 pocs
@@ -1198,15 +1059,11 @@ camps
 ferotge
 quinze
 cinquè
-fiftyfour
-cinquanta-tres
 lluita
 figura
 xifres
 omplir
 ple
-pel · lícula
-final
 finalment
 financer
 trobar
@@ -1218,24 +1075,19 @@ acabat
 acabat
 foc
 incendis
-focs artificials
 signatura
 fermament
 primer
-firstto
 peix
 encaixar
 05:00
 fixar
-fixture
 bandera
 diu
-flash
 flashejat
 Flasher
 pis
 aplanament
-fugir de
 mosques
 vol
 flotador
@@ -1246,18 +1098,12 @@ farina
 fluir
 flor
 flors
-flowerthe
 volat
-amb fluïdesa
-fluid
-fluorescent
 envermellida
 rubors
 volar
-focus
 boira
 plegar
-folklore
 seguir
 següent
 aficionat
@@ -1268,7 +1114,6 @@ peu
 futbol
 empremta
 escambell
-footy
 per
 paciència
 prohibir
@@ -1280,7 +1125,6 @@ front
 estranger
 bosc
 boscos
-per sempre
 oblidar
 oblidar
 perdonar
@@ -1292,16 +1136,14 @@ ex
 formes
 abandonat
 afortunadament
-fortyfour
+quaranta
 endavant
 fundar
 font
-fountainpen
 04:00
 quart
 guineu
 guineus
-foxhis
 fracció
 fractura
 fràgil
@@ -1312,10 +1154,8 @@ lliure
 llibertat
 congelar
 fresc
-més fresc
 divendres
 amic
-els amics
 amistat
 espantar
 espantat
@@ -1323,17 +1163,14 @@ espanta
 espantós
 granota
 des
-front
 congelat
 fruita
 combustible
 fugitiu
 complet
-fumble
 diversió
 funció
 fonamentalment
-funeral
 divertit
 moblar
 moblat
@@ -1344,13 +1181,10 @@ joc
 jocs
 escombraries
 jardí
-gardenand
-gas
+jardineria
 reunir
 reunit
-va donar
 contemplat
-general
 generalitzar
 generalment
 generació
@@ -1396,8 +1230,6 @@ va
 anar
 or
 daurat
-peix de colors
-golf
 anat
 bo
 comiat
@@ -1425,7 +1257,6 @@ més
 molt
 verd
 saludar
-va créixer
 dolor
 afligir
 rutina
@@ -1440,7 +1271,6 @@ creix
 rondinar
 garantia
 guàrdia
-guerrilla
 endevinar
 endevinat
 endevinació
@@ -1450,12 +1280,9 @@ culpable
 pistola
 pistoles
 hàbit
-habitat
 habitació
 pèl
 meitat
-halfconfidence
-halfsmile
 vestíbul
 alt
 martell
@@ -1469,8 +1296,6 @@ caiguda
 penjat
 succeir
 succeït
-happening
-més feliç
 feliçment
 feliç
 dur
@@ -1481,17 +1306,13 @@ nocivament
 aspre
 collita
 té
-No té
 accelerat
 precipitadament
-hasyes
 barret
 odiar
 tenir
-havent
 tenir
 cap
-de cap
 seu
 curar
 salut
@@ -1506,7 +1327,6 @@ cel
 cels
 pesat
 alçada
-held
 helicòpter
 ajudar
 hemisferi
@@ -1516,20 +1336,15 @@ ramat
 aquí
 ermità
 heroi
-ella mateixa
-vacil · lació
-vacil · lat
 hexàgon
 hivernar
 amagar
 pells
 ocultació
 alt
-més alta
 segrest
 turó
 li
-si mateix
 indirecta
 hipopòtam
 seva
@@ -1544,20 +1359,13 @@ festa
 sant
 casa
 nostàlgic
-honest
 mel
-honor
 esperança
 banyes
-horrible
-horror
 cavall
-hospital
 ostatge
 hostil
 calenta
-hotel
-més calenta
 hora
 hores
 casa
@@ -1569,7 +1377,6 @@ brunzit
 humà
 humanitat
 humil
-humor
 cent
 centenars
 fam
@@ -1585,18 +1392,11 @@ marit
 hipòtesi
 gel
 gelat
-idea
 Idees
 identificar
 identitat
 ociós
-passar per alt
-il · legal
-il · legible
-il · lícit
 analfabet
-il · lògic
-il · lustrar
 imatge
 imaginació
 imaginar
@@ -1604,39 +1404,27 @@ immadur
 incommensurable
 immediat
 immensitat
-immigrant
 immigrar
 immòbil
-immoral
 inamovible
-impenetrable
 importació
 importància
-important
-impossible
 inexpugnable
 impressionar
 impressionant
-improbable
 millorar
 millorat
 en
 inexacte
 polzada
 polzades
-incident
 incitar
 incloure
-inconsistent
 augmentar
-en efecte
 sagnia
 independència
-independent
 indi
-indies
 indiferència
-individual
 indulgentment
 indústria
 ineficient
@@ -1652,14 +1440,12 @@ poblat
 injectar
 lesionar
 tinta
-innocent
 inoperant
 inquirit
 investigació
 dement
 insecte
 insegur
-inseparable
 dins
 insistit
 inspeccionar
@@ -1668,15 +1454,9 @@ inspirador
 instància
 instantani
 instantàniament
-en lloc
-instrument
-instruments
 insubordinació
 aïllador
-insult
 sencer
-intel · ligència
-intel · ligent
 intens
 interdependència
 interès
@@ -1699,16 +1479,12 @@ invenció
 invers
 invertir
 investigar
-invisible
 convidar
 involucrar
 ferro
-irr
 irracional
 irreconciliable
 irrellevant
-irreparable
-irreversible
 irritat
 irritar
 irritat
@@ -1716,17 +1492,12 @@ irritació
 és
 illa
 illeta
-no és
 aïllat
 isòsceles
 qüestió
 el
 seva
-si mateix
-iv
-ix
 presó
-es va treure
 joia
 treball
 unir-se
@@ -1737,7 +1508,6 @@ alegrement
 jutge
 jutjat
 jutjar
-judicial
 salt
 saltat
 saltant
@@ -1769,11 +1539,8 @@ ganivet
 cridar
 nus
 saber
-knowa
-knowi
 coneixement
 coneixement
-knowmy
 conegut
 sap
 artell
@@ -1787,7 +1554,6 @@ fanalers
 llums
 terra
 aterrat
-forma de relleu
 paisatge
 idioma
 gran
@@ -1797,7 +1563,6 @@ llaç
 durat
 dura
 tarda
-més tard
 latitud
 riure
 còmic
@@ -1822,7 +1587,6 @@ deixar
 deixant
 conferència
 esquerra
-legal
 llegenda
 legislatiu
 legislatura
@@ -1833,17 +1597,13 @@ longitud
 menys
 lliçó
 deixar
-lets
 carta
 nivell
-liberal
 mentida
 mentides
 vida
-lifefor
 ascensor
 llum
-il · luminat
 lleugerament
 llampec
 llums
@@ -1871,7 +1631,6 @@ càrrega
 ganduleria
 préstec
 llagosta
-local
 ubicació
 tancar
 cabells
@@ -1889,12 +1648,9 @@ afluixat
 perdre
 perdut
 molt
-lots
 forta
-més fort
 amor
 estimat
-més bella
 preciós
 amors
 sota
@@ -1905,7 +1661,6 @@ sort
 afortunat
 lúgubre
 tebi
-lunar
 dinar
 llit
 màquina
@@ -1945,10 +1700,8 @@ Mart
 meravella
 massa
 mestre
-obra mestra
 partit
 mat
-material
 matemàtic
 matemàtiques
 matèria
@@ -1959,31 +1712,23 @@ alcalde
 em
 menjar
 significar
-meanadmire
-meanephemeral
 significat
 mitjà
-meantame
 mesurar
 mesurament
 carn
 mecànic
-mitjans de comunicació
 medicina
 meditació
-medow
 complir
 MeetingPlace
 Melike
 fosa
 membre
 membres
-memorial
 records
 memòria
 homes
-mental
-menthat
 comerciant
 misericòrdia
 mer
@@ -1992,7 +1737,6 @@ mèrit
 missatge
 complert
 metall
-metàl · lic
 metres
 mètode
 microscopi
@@ -2004,18 +1748,15 @@ emigrar
 migració
 milla
 milles
-militant
 militar
 milícia
 llet
-mil · límetre
 milió
 Millioni
 milions
 mimetisme
 ment
 mina
-mineral
 miniatura
 ministre
 menor
@@ -2031,24 +1772,18 @@ míssil
 desaparegut
 error
 errors
-mistook
 malentesos
 barrejar
 barreja
 gemegava
 torba
 mòbil
-model
 moderat
-modern
-modest
-modestbut
 modestament
 modificar
 humitejat
 humitat
 fos
-moment
 monarca
 diners
 mico
@@ -2060,16 +1795,12 @@ mes
 mes
 Moody
 lluna
-llum de la lluna
 fregat
 bruna
-moral
 moralista
 més
 demà
-morninggood
 més
-motel
 mare
 moviment
 immòbil
@@ -2081,12 +1812,8 @@ moviment
 mogut
 moviment
 moviments
-es mou
-pel · lícula
 cinema
-movingand
 molt
-muffin
 silenciador
 multiplicació
 mare
@@ -2097,9 +1824,6 @@ música
 mosquet
 necessari
 musell
-el meu
-jo mateix
-myselfone
 misteris
 misteriós
 misteri
@@ -2107,17 +1831,13 @@ nom
 anomenat
 noms
 estret
-nasal
 nació
 nacional
 natiu
-natural
 naturalment
 naturalesa
 nau
-navely
 navegació
-marina de guerra
 prop
 necessari
 necessitat
@@ -2132,7 +1852,6 @@ negre
 veí
 barri
 ni
-neutral
 mai
 però
 nou
@@ -2141,13 +1860,10 @@ proper
 agradable
 nit
 ningú
-noeaten
 soroll
 nomenar
-no renovable
 migdia
 ni
-normal
 nord
 nas
 nassos
@@ -2155,7 +1871,6 @@ no
 notació
 nota
 quadern
-notes
 res
 avís
 notant
@@ -2164,12 +1879,9 @@ aliment
 ara
 enlloc
 Ahoraque
-nuclear
 nombre
-numeral
 numèric
 infermeria
-nutrients
 obediència
 obeir
 obeir
@@ -2189,8 +1901,6 @@ ocupat
 ocupar
 produït
 oceà
-oceans
-en punt
 octàgon
 pop
 imparell
@@ -2203,12 +1913,9 @@ oficial
 sovint
 oli
 vell
-passat de moda
 omnívor
-un cop
 01:00
 els
-un mateix
 només
 obert
 obert
@@ -2216,7 +1923,6 @@ obert
 funcionar
 operació
 opinió
-oposar-se a
 oposat
 oprimir
 taronja
@@ -2228,7 +1934,6 @@ ordinari
 organisme
 organitzar
 orfe
-un altre
 altres
 hauria
 unça
@@ -2236,10 +1941,8 @@ nostre
 expulsar
 fora
 resultat
-a l'aire lliure
 atroçment
 fora
-oval
 sobre
 superar
 aclaparador
@@ -2262,14 +1965,11 @@ pintor
 pintors
 pintures
 parell
-pàl · lid
 colla
 panteixar
-paper
 paracaigudes
 desfilada
 paràgraf
-paral · lel
 paral
 perdó
 pare
@@ -2277,7 +1977,6 @@ parèntesi
 parc
 parlament
 julivert
-part
 parcial
 partícula
 parts
@@ -2294,7 +1993,6 @@ passades
 pas
 passaport
 passat
-patent
 camí
 paciència
 pacient
@@ -2305,16 +2003,12 @@ pau
 pacíficament
 pics
 repic
-amb mal humor
 llapis
 llapis
 pingüí
-monedes d'un cèntim
 cèntim
 pentàgon
 persones
-per
-per cent
 perfecte
 realitzar
 perfumat
@@ -2322,10 +2016,8 @@ potser
 perímetre
 període
 perir
-permanent
 permís
 permís
-perpendicular
 perplex
 persona
 persuadir
@@ -2346,21 +2038,16 @@ porc
 apilats
 píndola
 pastilles
-pilot
 rosa
 pioner
 tub
 llàstima
-pityyou
 lloc
 clarament
 pla
 pla
 planeta
 planetes
-planetsgood
-planetssuch
-plans
 planta
 plantació
 plantes
@@ -2368,21 +2055,14 @@ plàstic
 jugar
 jugat
 juganer
-pati d'esbarjo
 jugant
 súplica
-si us plau
 satisfet
-pleasedraw
-pleasetame
 plaer
 molt
-parcel · la
 plomar
 plomat
 sumit
-plural
-pocked
 butxaca
 poema
 poeta
@@ -2391,13 +2071,11 @@ punt
 punxegut
 tòxic
 pol
-poleonly
 pols
 policia
 política
 cortesament
 política
-pol · linitzador
 contaminar
 polígon
 estany
@@ -2405,18 +2083,13 @@ reflexionat
 piscina
 pobre
 roselles
-popular
 població
-farinetes de civada
-port
 retrat
 retrats
 posició
 posseir
 posseït
-possible
 ja
-postal
 posposar
 lliura
 lliures
@@ -2442,10 +2115,8 @@ preparatius
 preparar
 preparat
 presència
-present
 presentació
 presentat
-president
 premsa
 pressió
 pretendre
@@ -2475,7 +2146,6 @@ productor
 producte
 productes
 professió
-professor
 lucre
 programa
 progrés
@@ -2484,7 +2154,6 @@ promesa
 puntualment
 prova
 proves
-propaganda
 correcte
 correctament
 propietat
@@ -2518,11 +2187,9 @@ perseguir
 empenta
 empès
 posar
-puts
 posada
 perplex
 piràmide
-quadrant
 qualitat
 marieta
 refredament
@@ -2535,9 +2202,7 @@ bastant
 cita
 quocient
 conill
-ós rentador
 carrera
-radar
 resplendor
 radiació
 ràdio
@@ -2551,7 +2216,6 @@ barana
 ferrocarril
 ferrocarril
 pluja
-arc de Sant Martí
 selva
 elevar
 elevat
@@ -2564,7 +2228,6 @@ rar
 rarament
 rata
 velocitat
-més aviat
 ració
 raig
 arribar
@@ -2572,9 +2235,7 @@ assolit
 reaccionar
 reacció
 llegir
-readercom
 llest
-real
 realista
 adonar-se
 realitzat
@@ -2583,16 +2244,11 @@ raó
 raonable
 raonament
 raons
-tranquil · litzar
-tranquil · litzat
-rebel
 retirada
 rebre
 rebut
 rep
-recent
 recessió
-recitals
 reconèixer
 reconeix
 records
@@ -2600,7 +2256,6 @@ registre
 comptar
 recuperar
 vermell
-cara vermella
 reduir
 trontollant
 reflexió
@@ -2609,10 +2264,8 @@ reflexiu
 reforma
 refugiat
 rebutjar
-es nega
 respecte
 regió
-regional
 registrar
 lamentar
 lamentant
@@ -2633,7 +2286,6 @@ restes
 comentat
 recordar
 recordat
-rememberhow
 recordar
 remordiment
 eliminar
@@ -2652,13 +2304,11 @@ reprimir
 retrets
 reproduir
 reputació
-sol · licitud
 exigir
 requereix
 rescat
 investigació
 semblant
-semblar-se a
 ressentiment
 reserva
 dipòsit
@@ -2676,7 +2326,6 @@ resposta
 responsabilitat
 responsable
 resta
-restaurant
 refrenar
 restringir
 restes
@@ -2696,14 +2345,11 @@ rebobinar
 reumatisme
 arròs
 ric
-més ric
-més ric
 desfer
 endevinalles
 passeig
 crestes
 ridícul
-rifle
 dret
 correctament
 drets
@@ -2736,7 +2382,6 @@ corda
 rosa
 roser
 rosers
-roses
 rosat
 rotació
 aspre
@@ -2746,13 +2391,11 @@ fregar
 cautxú
 ruïna
 regla
-rumor
 arrugat
 executar
 funcionament
 carreres
 ruptura
-rural
 pressa
 precipitat
 corrent
@@ -2761,8 +2404,6 @@ oxidat
 sabotatge
 sacrifici
 trist
-més trist
-amb tristesa
 tristesa
 segur
 Sàhara
@@ -2776,9 +2417,7 @@ salutacions
 mateix
 sorra
 platja
-es va enfonsar
 ds
-satèl · lit
 setí
 satisfet
 satisfer
@@ -2789,15 +2428,12 @@ estalvi
 serra
 dir
 dir
-saynot
 diu
 escala
 escalè
-tot just
 espantat
 bufanda
 escarlata
-de por
 erudit
 estudiosos
 escola
@@ -2817,7 +2453,6 @@ seient
 assegut
 segon
 segon
-secret
 misteris
 secció
 seguretat
@@ -2833,14 +2468,11 @@ semblant
 sembla
 vist
 veu
-segment
 aprofitar
 confiscat
 confiscació
 jo
-selfevident
 vendre
-de venda
 voraviu
 senat
 enviar
@@ -2860,7 +2492,6 @@ servei
 conjunt
 ajust
 resoldre
-col · locat
 07:00
 setè
 setanta-dues
@@ -2878,9 +2509,7 @@ afilat
 afilat
 ella
 ovella
-sheepif
 ovelles
-sheepthe
 full
 closca
 petxines
@@ -2902,19 +2531,14 @@ botiga
 compres
 botigues
 curt
-més curt
 tret
 hauria
 esquena
 crit
-show
-va mostrar
 dutxa
-que mostra
 mostra
 encongir
 arbust
-encongiment d'espatlles
 encongiment
 tancar
 tanca
@@ -2932,8 +2556,6 @@ silenciós
 seda
 ximple
 plata
-similar
-simple
 senzillesa
 simplificat
 simplement
@@ -2944,11 +2566,9 @@ cant
 només
 aigüera
 pare
-sireover
 germana
 seure
 lloc
-se senti
 assegut
 situació
 06:00
@@ -2970,12 +2590,7 @@ lleu
 lleugerament
 relliscada
 lent
-el més lent
-a poc a poc
 petit
-més petit
-intel · ligent
-smash
 olor
 olorat
 somriure
@@ -2986,14 +2601,12 @@ llis
 cargol
 serp
 serps
-snakesthey
 neu
 Snuggle
 així
 sabonós
 sanglotant
 futbol
-social
 societat
 suau
 suaument
@@ -3006,11 +2619,6 @@ resoldre
 alguns
 algú
 algú
-someones
-alguna cosa
-de vegades
-alguna cosa
-en algun lloc
 fill
 cançó
 aviat
@@ -3025,7 +2633,6 @@ font
 sud
 espai
 parlar
-En termes
 especial
 espècies
 específicament
@@ -3051,19 +2658,16 @@ branqueta
 primavera
 molls
 escampar
-sprinklingcan
 brot
 cols
 balbucejar
 espia
 plaça
 quadrats
-squatter
 esquirol
 punyalada
 etapa
 escala
-estar dret
 posició
 estrella
 mirar
@@ -3072,7 +2676,6 @@ estrelles
 començament
 començat
 començament
-morir de fam
 estat
 majestuós
 estats
@@ -3105,9 +2708,7 @@ història
 estufa
 recte
 estrany
-més estrany
 corretja
-estratagemes
 estratègia
 pèrdua
 carrer
@@ -3137,13 +2738,11 @@ substància
 substitut
 suburbà
 subversió
-tenir èxit
 aconseguit
 èxit
 reeixit
 tal
 sobtat
-de sobte
 patir
 patit
 patiment
@@ -3156,10 +2755,6 @@ estiu
 sumes
 sol
 diumenge
-llum del sol
-sortida del sol
-posta de sol
-postes de sol
 sol
 supervisar
 subministrament
@@ -3175,7 +2770,6 @@ sorpresa
 sorprès
 rendició
 envoltar
-sobreviure a
 sospitós
 suspendre
 sospita
@@ -3185,13 +2779,9 @@ jurar
 dolça
 dolçament
 dolçor
-mar de fons
 nedar
 natació
 guardaagulles
-switchmans
-síl · laba
-síl · labes
 símbol
 simètric
 simetria
@@ -3205,9 +2795,7 @@ presa
 conte
 parlar
 parlat
-que parla
 alt
-més alt
 domar
 domat
 Tames
@@ -3235,7 +2823,6 @@ telescopi
 televisió
 dir
 temperatura
-temples
 temporal
 10
 estesa
@@ -3244,10 +2831,7 @@ tendresa
 tens
 termini
 terrari
-terrible
-terrifically
 territori
-terror
 terrorista
 prova
 que
@@ -3255,25 +2839,17 @@ gràcies
 agraïdament
 gràcies
 que
-thatin
-thatlook
-això és
 la
 teatre
 seva
 ells
 tema
-ells mateixos
 llavors
-thenthe
 teoria
 hi
-per tant
-therehappy
 aquests
 ells
 gruix
-més gruixut
 prim
 cosa
 coses
@@ -3283,11 +2859,8 @@ tercera
 set
 assedegat
 trenta
-thirtyone
 aquest
 espines
-thornswhat
-a fons
 aquells
 encara
 pensament
@@ -3296,7 +2869,6 @@ mil
 milers
 amenaçar
 03:00
-va llançar
 prosperar
 batega
 tron
@@ -3314,7 +2886,6 @@ tigre
 tigres
 temps
 vegades
-timewell
 tímid
 oripell
 diminut
@@ -3328,29 +2899,22 @@ cansat
 a
 torradora
 avui
-dits dels peus
 junts
-toil
 inodor
 dit
 tolerada
 demà
 to
 llengua
-aquesta nit
-tonightyou
 amígdala
 massa
 prendre
 eina
 instruments
 dent
-top
 turment
 estripat
 tortura
-va llançar
-total
 tocar
 tocat
 gira
@@ -3371,11 +2935,9 @@ tren
 trens
 traducció
 transport
-transport
 trampa
 viatges
 viatjat
-els viatgers
 viatges
 traïció
 tresor
@@ -3389,17 +2951,14 @@ tremolat
 tremolor
 tremend
 assaig
-tribal
 tribu
 truc
 provat
 viatge
 tropes
-tropical
 problema
 treva
 camió
-trudged
 veritable
 veritablement
 confiança
@@ -3407,16 +2966,13 @@ veritat
 intentar
 tractant
 tub
-tundra
 turc
 torn
 convertit
 tornejat
 tortuga
-tutor
 12
 vint
-dues vegades
 crepuscle
 tort
 02:00
@@ -3437,10 +2993,8 @@ infeliç
 unitat
 unir
 unit
-universal
 univers
 universitat
-llevat que
 improbable
 desafortunat
 innecessari
@@ -3451,34 +3005,25 @@ fins
 sobre
 vertical
 trastorn
-cap amunt
 urbà
 instar
-urgent
 nosaltres
 utilitzar
 usat
 útil
 uixer
-usual
-en general
 vacances
 vacuna
 vall
 valuós
 valor
-vanitywhich
+vanitat
 vegetal
-vehicle
-Venusto
-verb
 veredicte
 vora
-veritable
 versió
 vèrtex
 molt
-veto
 molest
 víctima
 victòria
@@ -3487,11 +3032,9 @@ poble
 vinyes
 violar
 violència
-visa
 visió
 visita
 visitant
-vocal
 veu
 volcànic
 volcà
@@ -3510,11 +3053,10 @@ espera
 espera
 despertat
 caminar
-walkand
 caminat
-per caminar
+caminador
+passejades
 paret
-walland
 parets
 vagar
 Wanders
@@ -3537,7 +3079,6 @@ aigua
 regat
 reg
 aigües
-watt
 onada
 onejat
 ones
@@ -3553,17 +3094,12 @@ cansament
 portant
 temps
 Penell
-web
-mala herba
-males herbes
 setmana
-cap de setmana
 plor
 ponderar
 benvingut
 bé
 pous
-es va anar
 eren
 oest
 mullat
@@ -3575,7 +3111,6 @@ roda
 rodes
 quan
 D'on
-sempre que
 on
 on
 si
@@ -3587,11 +3122,9 @@ qui
 tot
 que
 qui
-per què
 ampli
 dona
 salvatge
-incendis forestals
 voluntat
 complaent
 guanyar
@@ -3615,7 +3148,6 @@ testimoni
 despertar
 llop
 dona
-won
 meravella
 meravellós
 preguntant
@@ -3638,7 +3170,6 @@ pitjor
 pitjor
 valor
 faria
-wouldnt
 ferida
 naufragi
 destrucció
@@ -3663,14 +3194,9 @@ allà
 vostè
 jove
 seva
-your
 teu
-vostè mateix
+ets
 vosaltres
 joventut
-youthe
-Youve
+tens
 zelanda
-zebra
-zero
-zoo

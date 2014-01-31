@@ -1,12 +1,9 @@
 napušten
 zbunjen
-u stanju
-u cvijetu
 prebivališta
 oko
 iznad
 iznenada
-abruptlyas
 odsustvo
 rasijan
 apsolutan
@@ -37,13 +34,11 @@ akutan
 prilagoditi
 adaptacija
 dodati
-dodao je
 dodatak
 prilagođen
 upravljati
 uprava
 divljenje
-diviti se
 obožavatelj
 obožavatelji
 priznati
@@ -51,7 +46,6 @@ usvojiti
 usvojenje
 obožavati
 ukras
-odrasla osoba
 napredak
 prednost
 avanture
@@ -72,24 +66,17 @@ starost
 agencija
 agresija
 prije
-agoyou
 složiti
 poljoprivreda
-ah
 naprijed
 pomoć
 cilj
 zrak
 zrakoplov
 zrakoplova
-zračna luka
-alarm
-avaj jao meni
-album
 alkohol
 algebarski
 algoritam
-spustiti se
 jednako
 živ
 svi
@@ -99,8 +86,6 @@ saveznik
 almanah
 skoro
 sam
-aloneall
-alonewill
 duž
 podalje
 već
@@ -129,29 +114,22 @@ kutovi
 ljut
 životinja
 životinje
-animalsi
 gležanj
 godišnjica
 najaviti
 smetati
-annoyed
-još jedan
 odgovor
 odgovorio
 mrav
 nakovanj
-bilo koji
 iko
-bilo tko
 ništa
-u svakom slučaju
 negdje
 odvojeno
 ispričati
 vidljiv
 prikaza
 apel
-pojaviti se
 izgled
 pojavio
 pojavljuje
@@ -185,7 +163,6 @@ topništvo
 kao
 pepeo
 posramljen
-na stranu
 pitati
 upitao
 nakrivo
@@ -197,13 +174,11 @@ pomoći
 pomoć
 asocijacioni
 uvjeriti
-asteroid
 asteroidi
 zapanjen
 zaprepašćenje
 zapanjen
 astrologija
-astronaut
 astronom
 astronomski
 astronomija
@@ -211,7 +186,6 @@ nadvoje
 azil
 jeli
 atmosfera
-atom
 pričvrstiti
 napad
 pokušaj
@@ -244,14 +218,10 @@ besmislica
 lopta
 balet
 balon
-glasački listić
 zabraniti
 zavoj
 banka
 banket
-baobab
-baobabs
-bar
 berberin
 ogoljen
 bagatela
@@ -277,7 +247,7 @@ jer
 postati
 postaje
 postaje
-becuase
+jer
 krevet
 pčela
 bio
@@ -304,7 +274,6 @@ blagotvoran
 savijen
 bobica
 pokraj
-osim toga
 najbolje
 iznevjeriti
 bolje
@@ -320,16 +289,13 @@ biologija
 ptica
 ptice
 rođendan
-bit
 ugristi
-podložni
 crn
 krivica
 pokrivač
 Bleacher
 krmeljiv
 krvariti
-blest
 slijep
 trepnuo
 blokirati
@@ -340,7 +306,6 @@ otpuhan
 udarci
 plav
 nepromišljena
-boa
 Boas
 Hvalio
 brod
@@ -351,9 +316,7 @@ bomba
 kost
 koščat
 knjiga
-polica za knjige
 knjige
-doživljava procvat
 granica
 dosadno
 provrti
@@ -422,7 +385,6 @@ zauzet
 ali
 leptiri
 leptir
-butwhat
 kupiti
 kupovina
 po
@@ -449,7 +411,6 @@ rak
 kandidat
 svijeća
 top
-ne mogu
 baldahin
 nagib
 sposoban
@@ -479,8 +440,8 @@ katastrofa
 ulov
 hvatač
 lov
+gusjenica
 gusjenice
-caterpillarswho
 zatečen
 uzrok
 Primirje
@@ -491,10 +452,12 @@ centar
 centimetar
 središnji
 stoljeće
+stoljeća
 svečanost
 siguran
 sigurno
 stolica
+stolice
 predsjednik
 komora
 prvak
@@ -506,13 +469,13 @@ Promjene
 momak
 kapela
 karakter
-drveni ugljen
-Chare
 naplatiti
 šarmantan
 grafikon
+ljestvice
 potjera
 varati
+vara
 provjeriti
 provjeren
 klicanje
@@ -522,6 +485,7 @@ kemikalije
 kemija
 kerubin
 žvakati
+žvače
 žvakanje
 piletina
 kokoši
@@ -533,21 +497,25 @@ dimnjak
 Kina
 čips
 izbor
+izbori
 uguši
 izabrati
+izabrali
 izabrati
 Božić
 cerekanje
 crkva
+crkve
 cigareta
 krug
-strujni krug
+krugovi
+krugovi
 obujam
-obilaziti oko svijeta
-prirodni amfiteatar
 građanin
+Građani
 građanstvo
 grad
+gradovi
 građanski
 civil
 odjeven
@@ -556,16 +524,19 @@ pljesak
 pljeskali
 razjasniti
 sukob
+sukobi
 klasa
+razredi
 razvrstati
+kandža
 kandže
 čist
+čisti
 očistiti
 čišćenje
 jasno
 kliring
 jasno
-bistar
 kler
 službenik
 klima
@@ -665,11 +636,9 @@ razmotriti
 znatan
 ustav
 udav
-constrictors
 izgradnja
 konzultirao
 potrošač
-consumingly
 kontakt
 sadržati
 kontejner
@@ -737,7 +706,6 @@ krokodil
 usjevi
 križ
 prešao
-crossexamine
 ljutito
 gužva
 prometan
@@ -750,7 +718,6 @@ kocka
 kultura
 nezgrapan
 lijek
-policijski čas
 znatiželja
 znatiželjan
 uvijen
@@ -770,7 +737,6 @@ opasnost
 opasan
 opasno
 klempav
-usuditi se
 usudio
 mrak
 pomračen
@@ -780,7 +746,6 @@ datum
 kći
 zora
 dan
-dayagain
 uranak
 dani
 mrtav
@@ -792,7 +757,6 @@ debata
 dug
 odlučiti
 odlučio
-decimal
 izjaviti
 ukrašen
 smanjiti
@@ -802,13 +766,11 @@ duboko
 jelen
 poraz
 braniti
-deficit
 definirati
 stepen
 utučenost
 kašnjenje
 delegat
-delta
 potražnja
 zahtijevao
 demokratija
@@ -831,10 +793,8 @@ opisati
 opisano
 pustinja
 pustinje
-desertwhat
 dizajn
 želja
-pisaći stol
 uništiti
 pojedinost
 Detalji
@@ -889,9 +849,7 @@ bolest
 demoraliziran
 odbaciti
 neposlušnost
-biti neposlušan
 rastjerivanje
-za jednokratnu upotrebu
 svađa
 prekid
 disident
@@ -923,14 +881,11 @@ ne
 vrata
 dupli
 sumnja
-doubtit
 dvojbe
 golubovi
 dole
 nacrti
-draftsthat
 zmaj
-drama
 pio
 nacrtati
 crtač
@@ -940,7 +895,6 @@ nacrtana
 strašno
 sanjati
 sanjanje
-dreamthis
 obučen
 Drew
 piće
@@ -956,7 +910,6 @@ suho
 patka
 vime
 dina
-za vrijeme
 prašina
 dužnost
 umiranje
@@ -970,7 +923,6 @@ Uši
 Zemlja
 potres
 -zemlje
-kišna glista
 ublažiti
 lako
 istočno
@@ -981,7 +933,6 @@ jelo
 jede
 jeka
 odjek
-echolocation
 ekologija
 privreda
 Ekosustav
@@ -994,7 +945,6 @@ jaja
 ej
 osam
 osmi
-eis
 ili
 izabrani
 izbor
@@ -1002,8 +952,6 @@ električna
 električar
 elektricitet
 elegancija
-element
-elephans
 slon
 slonovi
 jedanaest
@@ -1029,7 +977,6 @@ energija
 primoravati
 motor
 inženjer
-enginegrease
 engleski
 uživati
 dovoljno
@@ -1102,11 +1049,9 @@ postojati
 postojao
 postojanje
 postoji
-exp
 proširiti
 proširen
 očekivati
-expectantly
 protjerati
 iskustvo
 eksperiment
@@ -1151,7 +1096,6 @@ bajke
 vjeran
 pasti
 poginuli
-koji pada
 padovi
 lažan
 upoznat
@@ -1163,7 +1107,6 @@ fantazija
 daleko
 farma
 poljoprivrednici
-seosko dvorište
 dalje
 moda
 brzo
@@ -1180,7 +1123,6 @@ favorit
 strah
 svojstvo
 federalni
-stočna hrana
 osjećati
 Noge
 pao
@@ -1189,7 +1131,6 @@ Osjećao
 žena
 ograda
 plodan
-festival
 groznica
 grozničav
 nekoliko
@@ -1198,14 +1139,11 @@ Polja
 bijesan
 petnaest
 peti
-fiftyfour
-fiftythree
 borba
 lik
 Brojke
 popuniti
 popunjen
-film
 Konačni
 napokon
 finansijski
@@ -1222,7 +1160,6 @@ vatromet
 firma
 čvrsto
 prvi
-firstto
 riba
 pristajati
 pet
@@ -1246,7 +1183,6 @@ brašno
 protok
 cvijet
 cvijeće
-flowerthe
 Letio
 tečno
 tekućina
@@ -1266,7 +1202,6 @@ budala
 budalast
 noga
 nogomet
-otisak stopala
 hoklica
 Footy
 za
@@ -1292,7 +1227,7 @@ bivši
 obrasci
 napušten
 srećom
-fortyfour
+četrdeset
 naprijed
 nađen
 fontana
@@ -1301,7 +1236,6 @@ penkalo
 četvrti
 lisica
 lisice
-foxhis
 razlomak
 prijelom
 lomljiv
@@ -1344,7 +1278,7 @@ igra
 igre
 smeće
 vrt
-gardenand
+vrtu
 plin
 okupiti
 okupljen
@@ -1357,7 +1291,6 @@ generacija
 genocid
 nježan
 gospodin
-gentlemans
 nježno
 geograf
 geografi
@@ -1365,7 +1298,6 @@ geografija
 geografija
 geometrijski
 pelargonije
-gerbil
 gest
 dobiti
 dobiva
@@ -1396,8 +1328,6 @@ ide
 odlazak
 zlato
 zlatan
-zlatna ribica
-golf
 Otišli
 dobro
 zbogom
@@ -1454,8 +1384,6 @@ stanište
 stanovanje
 kosa
 pola
-halfconfidence
-halfsmile
 hodnik
 zaustaviti
 čekić
@@ -1467,7 +1395,6 @@ ruke
 najzgodniji
 objesiti
 vješanje
-dogoditi se
 dogodilo
 događa
 sretniji
@@ -1484,7 +1411,6 @@ ima
 nije
 Požurili
 naprasito
-hasyes
 šešir
 mrziti
 imati
@@ -1506,7 +1432,6 @@ raj
 nebo
 teško
 visina
-held
 helikopter
 pomoći
 hemisfera
@@ -1516,7 +1441,6 @@ stado
 ovdje
 pustinjak
 heroj
-ona sama
 neodlučnost
 Oklijevao
 šesterokut
@@ -1531,7 +1455,6 @@ brdo
 ga
 sebe
 savjet
-nilski konj
 njegov
 Povijest
 pogoditi
@@ -1543,11 +1466,9 @@ Rupe
 odmor
 svet
 dom
-čežnja za domom
 pošten
 med
 čast
-nadati se
 rogovi
 užasan
 užas
@@ -1556,10 +1477,8 @@ bolnica
 talac
 neprijateljski
 vruć
-hotel
 toplije
 sat
-radno vrijeme
 kuća
 kako
 međutim
@@ -1569,7 +1488,6 @@ pjevušiti
 ljudski
 čovječanstvo
 skroman
-humor
 sto
 stotine
 glad
@@ -1624,7 +1542,6 @@ u
 netočan
 palac
 inča
-incident
 tutnuti
 uključivati
 nedosljedan
@@ -1653,7 +1570,6 @@ ubrizgati
 ozlijediti
 mastilo
 nevin
-u kvaru
 raspitivao
 upit
 lud
@@ -1668,8 +1584,6 @@ inspiriranje
 primjer
 trenutak
 odmah
-umjesto toga
-instrument
 instrumenti
 neposlušnost
 izolator
@@ -1723,10 +1637,7 @@ izdanje
 to
 njegov
 se
-iv
-ix
 zatvor
-u grču
 dragulj
 posao
 udružiti
@@ -1769,11 +1680,8 @@ nož
 kucati
 čvor
 znati
-Poznavati
-knowi
 poznavanje
 znanje
-knowmy
 poznat
 zna
 zglob
@@ -1783,11 +1691,9 @@ nedostatak
 jezero
 svjetiljka
 fenjerdžija
-lamplighters
 svjetiljke
 zemljište
 sletio
-landform
 pejzaž
 jezik
 veliki
@@ -1827,7 +1733,6 @@ legenda
 Zakonodavni
 zakonodavstvo
 noge
-slobodno vrijeme
 posuditi
 dužina
 manje
@@ -1836,12 +1741,9 @@ pustiti
 omogućuje
 pismo
 nivo
-liberal
 laž
 laži
 život
-lifefor
-lift
 svjetlo
 osvijetljen
 olako
@@ -1854,7 +1756,6 @@ vjerojatno
 granica
 linija
 razvlačiti
-link
 lav
 usne
 tekućina
@@ -1883,7 +1784,6 @@ više
 dužina
 pogled
 Pogledao
-u potrazi
 labav
 raskliman
 izgubiti
@@ -1929,7 +1829,6 @@ pravljenje
 muškarac
 zlonamjeran
 čovjek
-manhe
 plašt
 proizvodnja
 đubriti
@@ -1940,7 +1839,6 @@ ožujak
 oznaka
 tržište
 oženjen
-udati se
 Mars
 čudo
 masa
@@ -1959,11 +1857,8 @@ gradonačelnik
 mene
 obrok
 značiti
-meanadmire
-meanephemeral
 značenje
 sredstva
-meantame
 mjeriti
 mjerenje
 meso
@@ -1971,10 +1866,8 @@ mehaničar
 medij
 lijek
 meditacija
-medow
 susret
 MeetingPlace
-melike
 rastopiti
 član
 Članovi
@@ -1983,7 +1876,6 @@ sjećanja
 memorija
 muškarci
 mentalni
-menthat
 trgovac
 milost
 puki
@@ -1991,7 +1883,6 @@ samo
 zasluga
 poruka
 ispunjeni
-metal
 metalik
 metara
 način
@@ -2003,24 +1894,20 @@ moć
 migrirati
 migracija
 milja
-miles
 militantan
 vojni
 milicija
 mlijeko
 milimetar
 milijuna
-millioni
 milijuni
 mimikrija
 um
 rudnik
-mineral
 minijatura
 ministar
 maloljetnik
 manjina
-manastirska crkva
 minuta
 zapisnik
 čudesan
@@ -2038,11 +1925,9 @@ mješavina
 zastenje
 rulja
 mobilan
-model
 umjeren
 moderan
 skroman
-modestbut
 skromno
 izmijeniti
 navlažiti
@@ -2063,13 +1948,9 @@ mjesec
 mjesečina
 namočila
 morena
-moral
-moralist
 više
 jutro
-morninggood
 većina
-motel
 majka
 prijedlog
 nepokretan
@@ -2084,7 +1965,6 @@ pokreti
 potezi
 film
 kino
-movingand
 mnogo
 kolač
 prigušivač
@@ -2099,7 +1979,6 @@ mošt
 njuška
 moj
 sebe
-myselfone
 otajstva
 tajanstven
 misterija
@@ -2115,7 +1994,6 @@ prirodan
 prirodno
 priroda
 brod
-navely
 navigacija
 mornarica
 blizu
@@ -2141,7 +2019,6 @@ sljedeći
 lijep
 noć
 niko
-noeaten
 buka
 nominovati
 neobnovljivi
@@ -2163,13 +2040,11 @@ imenica
 hrana
 sada
 nigdje
-nowthat
 nuklearna
 broj
 cifra
 numerički
 dojenje
-Hranjive tvari
 poslušnost
 poslušati
 poslušao
@@ -2190,7 +2065,6 @@ zauzeti
 došlo
 okean
 Oceani
-oclock
 osmerokut
 hobotnica
 čudan
@@ -2203,7 +2077,6 @@ službenik
 često
 ulje
 star
-oldfashioned
 svejed
 jednom
 jedan
@@ -2212,7 +2085,6 @@ sebe
 samo
 otvoren
 otvori
-opera
 raditi
 operacija
 mišljenje
@@ -2239,7 +2111,6 @@ ishod
 vani
 drsko
 van
-oval
 više
 pobijediti
 nadmoćan
@@ -2263,7 +2134,6 @@ slikari
 boje
 par
 blijed
-panda
 dahtao
 papir
 padobran
@@ -2273,15 +2143,12 @@ paralelno
 paralelogram
 pomilovanje
 roditelj
-zagrada '()'
-park
 parlament
 peršin
 dio
 parcijalan
 čestica
 stranaka
-partner
 jarebica
 dijelovi
 stranka
@@ -2294,7 +2161,6 @@ propusnice
 pretjecanje
 putovnica
 prošlost
-patent
 put
 strpljenje
 pacijent
@@ -2304,12 +2170,10 @@ platiti
 mir
 mirno
 vrhovi
-oriti se
 zlovoljno
 olovka
 olovke
 pingvin
-novčana jedinica
 peni
 Pentagon
 ljudi
@@ -2346,20 +2210,15 @@ svinja
 nagomilan
 pilula
 pilule
-pilot
 roze
 pionir
 cijev
 šteta
-pityyou
 mjesto
 očito
-plan
 avion
 planeta
 planeta
-planetsgood
-planetssuch
 Planovi
 biljka
 plantaža
@@ -2373,8 +2232,6 @@ igranje
 molba
 molim
 zadovoljan
-pleasedraw
-pleasetame
 zadovoljstvo
 mnogo
 zemljište
@@ -2382,7 +2239,6 @@ odvažnost
 iskopali
 umočen
 množina
-pocked
 džep
 pjesma
 pjesnik
@@ -2391,7 +2247,6 @@ točka
 zajedljiv
 otrov
 pol
-poleonly
 stupovi
 policija
 politika
@@ -2448,7 +2303,6 @@ prezentirani
 predsjednik
 tisak
 pritisak
-pretvarati se
 prilično
 spriječiti
 prevencija
@@ -2467,7 +2321,6 @@ zatvor
 privatan
 nagrada
 vjerojatno
-problem
 problemi
 proces
 proizvesti
@@ -2477,14 +2330,12 @@ Proizvodi
 profesija
 profesor
 dobit
-program
 napredak
 projekt
 obećanje
 brzo
 dokaz
 dokazi
-propaganda
 pravi
 propisno
 svojstvo
@@ -2493,7 +2344,6 @@ Predloženi
 zaštititi
 štiti
 zaštita
-protest
 ponosan
 dokazati
 predvidjeti
@@ -2512,7 +2362,6 @@ kazniti
 štene
 nabava
 čist
-ljubičasta boja
 svrha
 slijedila
 guranje
@@ -2537,12 +2386,9 @@ količnik
 zec
 rakun
 utrka
-radar
 sjaj
 zračenje
-radio
 rotkvica
-radius
 splav
 krpa
 bijes
@@ -2556,7 +2402,6 @@ prašuma
 podići
 uzdignut
 ovan
-ran
 slučajan
 silovanje
 brzo
@@ -2572,9 +2417,7 @@ Dosegli
 reagovati
 reakcija
 čitati
-readercom
 spreman
-real
 realističan
 shvatiti
 shvatio
@@ -2600,7 +2443,6 @@ rekord
 prepričavati
 ozdraviti
 crven
-redfaced
 smanjiti
 odmotavanje
 odraz
@@ -2633,7 +2475,6 @@ ostaci
 primetio
 zapamtiti
 Sjetio
-rememberhow
 Podsjetio
 sažaljenje
 ukloniti
@@ -2646,7 +2487,6 @@ ponovljen
 odgovorio:
 odgovor
 izvješće
-odmarati se
 zastupati
 potisnuti
 zamjerke
@@ -2659,10 +2499,8 @@ spasavanje
 istraživanje
 sličnost
 ličiti
-resentfulness
 rezerva
 rezervoar
-dati ostavku
 odoljeti
 odlučan
 rezolucija
@@ -2670,7 +2508,6 @@ odjeknula
 resurs
 poštovanje
 ugledan
-s puno poštovanja
 odgovorila
 odgovor
 odgovornost
@@ -2685,13 +2522,9 @@ zadržati
 povući
 uzvratila
 povratak
-za višekratnu upotrebu
-otkrila je
 sanjarenje
 oživljavajući
-revolt
 revolucija
-revolver
 premotati
 reumatizam
 riža
@@ -2704,7 +2537,6 @@ vožnja
 grebeni
 smiješan
 puška
-u pravu
 pravedno
 prava
 prsten
@@ -2734,8 +2566,6 @@ korijen
 korijenje
 uže
 ruža
-ružin bokor
-rosebushes
 ruže
 ružičast
 rotacija
@@ -2766,7 +2596,6 @@ nažalost
 tuga
 siguran
 Sahara
-, rekao je
 jedro
 mornar
 sol
@@ -2789,8 +2618,6 @@ spašavanje
 pila
 reći
 kazivanje
-saynot
-, kaže
 skala
 skalenski
 jedva
@@ -2811,7 +2638,6 @@ skulptura
 more
 pečat
 pretraživanje
-seas
 sezona
 sjedište
 sjedi
@@ -2829,16 +2655,12 @@ gledanja
 tražiti
 traži
 izgledati
-Činilo se
-Čini se
 Vidjeli
 vidi
-segment
 zaplijeniti
 zaplijenjeno
 oduzimanje
 sam
-selfevident
 prodati
 prodaja
 okrajak
@@ -2857,13 +2679,11 @@ ozbiljnost
 propovijed
 služiti
 usluga
-set
 postavljanje
 nastaniti
 naselili
 sedam
 sedmi
-seventytwo
 nekoliko
 ozbiljan
 seks
@@ -2873,14 +2693,11 @@ tresti
 treba
 oblik
 udio
-morski pas
 oštar
 izoštriti
 ona
 ovca
-sheepif
 ovce
-sheepthe
 list
 školjka
 školjke
@@ -2926,7 +2743,6 @@ strana
 uzdah
 Uzdahnula
 znak
-signal
 šutnja
 nijem
 svila
@@ -2944,7 +2760,6 @@ pjevanje
 jedan
 umivaonik
 otac
-sireover
 sestra
 sjediti
 mjesto
@@ -2959,7 +2774,6 @@ skica
 vještina
 koža
 suknja
-štof za suknju
 nebo
 rob
 ropstvo
@@ -2986,9 +2800,7 @@ glatko
 puž
 zmija
 zmije
-snakesthey
 snijeg
-ugnijezditi se
 tako
 sapunjav
 jecajući
@@ -3042,7 +2854,6 @@ inat
 sjajan
 Split
 krakova
-sport
 mjesto
 sprej
 širenje
@@ -3051,7 +2862,6 @@ grančica
 proljeće
 opruge
 posipati
-sprinklingcan
 mladica
 Klice
 pucketao
@@ -3072,7 +2882,6 @@ zvjezdica
 početak
 započeo
 pokretanje
-umirati od gladi
 stanje
 svečan
 Države
@@ -3107,7 +2916,6 @@ ravno
 čudan
 Najčudnija
 remen
-strategems
 strategija
 lutaju
 ulica
@@ -3119,13 +2927,11 @@ strogo
 napredak
 štrajk
 niz
-strip
 šetač
 lutajući
 jak
 struktura
 borba
-u škripcu
 studije
 studija
 glup
@@ -3156,11 +2962,6 @@ ljeto
 iznosi
 sunce
 nedjelja
-sunčana svjetlost
-izlazak sunca
-zalazak sunca
-Zalasci sunca
-sunshine
 nadgledati
 ponuda
 podrška
@@ -3189,7 +2990,6 @@ naduti
 plivati
 plivanje
 skretničar
-switchmans
 slog
 slogovi
 simbol
@@ -3205,12 +3005,10 @@ uzimanje
 priča
 razgovor
 Razgovarali
-koji govori
 visok
 Najviši
 ukrotiti
 pripitomljeni
-tames
 spremnik
 spor
 meta
@@ -3245,30 +3043,23 @@ napeti
 pojam
 terariju
 užasan
-terrifically
 područje
 teror
 terorista
-test
 od
 hvala
 srećom
 hvala
 koji
-thatin
-thatlook
-thats
 kazalište
 njihov
 ih
 tema
 sebe
 zatim
-thenthe
 teorija
 tamo
 dakle
-therehappy
 to
 oni
 gust
@@ -3282,10 +3073,8 @@ treći
 žeđ
 žedan
 trideset
-thirtyone
 ovo
 trnje
-thornswhat
 temeljito
 onima
 iako
@@ -3301,8 +3090,6 @@ kuca
 tron
 kroz
 baciti
-thumbs
-tup udarac
 grom
 grmio
 četvrtak
@@ -3313,13 +3100,11 @@ tigar
 tigrovi
 vrijeme
 puta
-timewell
 stidljiv
 šljokice
 sićušan
 Tipler
 bekrija
-tipplers
 guma
 umoran
 gume
@@ -3337,7 +3122,6 @@ sutra
 ton
 jezik
 noćas
-tonightyou
 krajnik
 također
 uzeo
@@ -3398,7 +3182,6 @@ tropski
 nevolja
 primirje
 kamion
-trudged
 pravi
 uistinu
 povjerenje
@@ -3406,13 +3189,11 @@ istina
 probati
 težak
 cijev
-tundra
 turski
 red
 okrenut
 tokarenje
 kornjača
-tutor
 dvanaest
 dvadeset
 dvaput
@@ -3439,7 +3220,6 @@ ujedinjen
 sveopći
 svemir
 sveučilište
-osim ako
 nevjerojatno
 nesretan
 nepotreban
@@ -3466,22 +3246,18 @@ cjepivo
 dolina
 vrijedan
 vrijednost
-vanitywhich
+taština
 povrće
 vozilo
-venusto
 glagol
 presuda
-naginjati se
 istinit
 verzija
 tjeme
 vrlo
-veto
 sporan
 žrtva
 pobjeda
-video
 selo
 vinogradi
 prekršiti
@@ -3509,11 +3285,11 @@ plaće
 čeka
 probudio
 hodati
-walkand
 Hodao
+šetač
 hodanje
+šetnje
 zid
-walland
 Zidovi
 lutati
 WANDERS
@@ -3563,7 +3339,6 @@ dobrodošli
 dobro
 bunara
 otišao
-bili su
 zapadno
 mokar
 močvarno
@@ -3574,15 +3349,11 @@ kotač
 kotači
 kada
 odakle
-bilo kada
 gdje
-gdje god
-da li
 koji
 dok
 bijel
 koji
-ma tko
 čitav
 koga
 koga
@@ -3605,7 +3376,6 @@ mudar
 poželjeti
 zaželio
 želje
-smisao za humor
 s
 povući
 unutar
@@ -3614,13 +3384,11 @@ svjedok
 Probudili
 vuk
 žena
-won
 čudo
 predivan
 pitate
 navika
 drvo
-šumovit kraj
 riječ
 Riječi
 Nosio
@@ -3637,7 +3405,6 @@ gori
 najgore
 vrijedan
 bi
-wouldnt
 rana
 olupina
 olupina
@@ -3662,14 +3429,10 @@ tamo
 vi
 mlad
 vaš
-ti si
 tvoj
 sami
 sami
 mladost
-youthe
-youve
+ste
 zeland
-zebra
 nula
-zoološki vrt

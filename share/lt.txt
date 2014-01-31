@@ -6,7 +6,6 @@ buveines
 apie
 aukščiau
 staiga
-abruptlyas
 nebuvimas
 Zapominalski
 absoliutus
@@ -72,17 +71,14 @@ amžius
 agentūra
 agresija
 prieš
-agoyou
 susitarti
 žemdirbystė
 Ah
-į priekį
 pagalba
 tikslas
 oro
 lėktuvas
 lėktuvai
-oro uostas
 žadintuvas
 deja
 albumas
@@ -99,18 +95,13 @@ sąjungininkas
 almanachas
 beveik
 vienas
-aloneall
-alonewill
 išilgai
 nuošaliai
 jau
-taip pat
 nors
-iš viso
 visada
 nuostaba
 ambasadorius
-iš dalies pakeisti
 pataisa
 Amerika
 šaudmenys
@@ -129,7 +120,6 @@ kampai
 piktas
 gyvūnas
 gyvūnai
-animalsi
 kulkšnis
 jubiliejus
 paskelbti
@@ -140,12 +130,8 @@ atsakymas
 atsakė
 skruzdė
 priekalas
-bet koks
-kas nors
-bet kas
 kas
 vistiek
-bet kur
 išskyrus
 atsiprašyti
 akivaizdus
@@ -185,7 +171,6 @@ artilerija
 kaip
 pelenai
 sugėdintas
-į šalį
 paklausti
 paprašė
 kreivai
@@ -207,7 +192,6 @@ astronautas
 astronomas
 astronominis
 astronomija
-į gabalus
 prieglobstis
 valgė
 atmosfera
@@ -219,7 +203,6 @@ dalyvauti
 dėmesys
 atributai
 auditas
-aurora
 Australija
 autorius
 valdžia
@@ -250,7 +233,6 @@ tvarstis
 bankas
 banketas
 baobabo
-baobabs
 baras
 kirpėjas
 plikas
@@ -277,7 +259,7 @@ nes
 tapti
 tampa
 tampa
-becuase
+nes
 lova
 bitė
 buvo
@@ -319,10 +301,7 @@ milijardų
 biologija
 paukštis
 paukščiai
-gimimo diena
-šiek tiek
 įkąsti
-bject
 juodas
 kaltinti
 antklodė
@@ -331,7 +310,6 @@ apsiblausęs
 kraujuoti
 Laimingas
 aklas
-blinked
 blokas
 kraujas
 žiedas
@@ -351,7 +329,6 @@ bomba
 kaulas
 kaulinis
 knyga
-knygų spinta
 knygos
 Boomtown
 siena
@@ -422,7 +399,6 @@ užimtas
 tačiau
 drugeliai
 peteliškė
-butwhat
 įsigyti
 pirkimas
 pagal
@@ -479,11 +455,10 @@ katastrofa
 laimikis
 gaudytojas
 gaudymas
+vikšras
 vikšrai
-caterpillarswho
 sugauti
 priežastis
-ugnies nutraukimas
 švęsti
 rūsys
 ląstelės
@@ -491,10 +466,12 @@ centras
 centimetras
 centrinis
 amžius
+amžių
 ceremonija
 tikras
 tikrai
 kėdė
+kėdės
 pirmininkas
 kamera
 čempionas
@@ -507,21 +484,22 @@ berniokas
 koplyčia
 pobūdis
 anglis
-Chare
 imti
 žavingas
 diagrama
+grafikai
 vytis
 apgauti
+Cheats
 patikrinti
 tikrinamas
 nuotaika
 linksmas
 Cheetah
-cheminių medžiagų
 chemija
 angelėlis
 kramtyti
+kramtukai
 kramtomas
 vištiena
 viščiukai
@@ -533,21 +511,27 @@ kaminas
 Kinija
 traškučiai
 pasirinkimas
+pasirinkimai
 nusmelkė
 pasirinkti
+Pasirinktas
 pasirinko
 Kalėdos
 kudakuoti
 bažnyčia
+bažnyčios
 cigaretė
 ratas
+apskritimai
 grandinė
+plokštės
 perimetras
 apiplaukti
-arena
 pilietis
+piliečiai
 pilietybė
 miestas
+miestai
 civilinis
 civilinis
 plakiruoti
@@ -556,16 +540,19 @@ triperis
 plojo
 paaiškinti
 susidūrimas
+trynimasis
 klasė
+klasės
 klasifikuoti
+letena
 gnyplės
 švarus
+valo
 išvalyti
 valymas
 aiškus
 valymas
 aiškiai
-clearsighted
 dvasininkai
 klerkas
 klimatas
@@ -648,7 +635,6 @@ prisipažino
 prisipažinimas
 išsipasakojo
 pasitikėjimas
-confidences
 patvirtinti
 konfliktas
 konfrontacija
@@ -669,7 +655,6 @@ Constrictors
 statyba
 konsultuojamasi
 vartotojas
-consumingly
 kontaktas
 būti
 konteineris
@@ -688,7 +673,6 @@ pokalbis
 konvertuoti
 įsitikinęs,
 virėjas
-cookout
 atvėsti
 bendradarbiauti
 koordinatės
@@ -702,9 +686,7 @@ kaina
 kostiumas
 medvilnė
 kosulys
-coughed
 gali
-couldnt
 taryba
 skaičiuoti
 šalis
@@ -737,7 +719,6 @@ krokodilas
 augalai
 kirsti
 kirto
-crossexamine
 Dusmīgi
 minia
 perpildytas
@@ -748,9 +729,7 @@ trupintuvas
 verkimas
 kubas
 kultūra
-sunkus ir nepatogus
 gydymas
-komendanto valanda
 smalsumas
 smalsus
 riesta
@@ -780,7 +759,6 @@ data
 dukra
 aušra
 diena
-dayagain
 aušra
 dienos
 miręs
@@ -808,7 +786,6 @@ laipsnis
 nusiminimas
 delsa
 delegatas
-delta
 paklausa
 reikalavo
 demokratija
@@ -831,10 +808,8 @@ apibūdinti
 aprašyta
 dykuma
 nuopelnai
-desertwhat
 dizainas
 noras
-rašomasis stalas
 sunaikinti
 detalė
 Išsamiau
@@ -875,7 +850,6 @@ išnykimas
 dingo
 nusivylęs
 nusiginkluoti
-disarranged
 nelaimė
 drausmė
 atkalbinėjo
@@ -886,7 +860,6 @@ atradimas
 diskriminacija
 aptarti
 liga
-disheartened
 atleisti
 nepaklusnumas
 nepaklusti
@@ -923,14 +896,11 @@ Dont
 durys
 dvigubai
 abejonė
-doubtit
 abejonės
 balandžiai
 žemyn
 šaškės
-draftsthat
 drakonas
-drama
 Gėrė
 atkreipti
 stalčius
@@ -940,7 +910,6 @@ parengti
 beprotiškai
 svajonė
 svajojimas
-dreamthis
 apsirengęs
 Drew
 gėrimas
@@ -968,7 +937,6 @@ uždirbti
 rimtai
 ausys
 žemė
-žemės drebėjimas
 žemių
 sliekas
 palengvinti
@@ -991,7 +959,6 @@ poveikis
 pastanga
 kiaušinis
 kiaušiniai
-eh
 aštuoni
 aštuntas
 EIS
@@ -1003,7 +970,6 @@ elektrikas
 elektra
 elegancija
 elementas
-elephans
 dramblys
 drambliai
 vienuolika
@@ -1017,7 +983,6 @@ avarinis
 emocija
 įdarbinti
 ištuštinti
-tušti indai
 tuščias
 užkeikimas
 susitikimai
@@ -1029,7 +994,6 @@ energija
 vykdyti
 variklis
 inžinierius
-enginegrease
 anglų
 mėgautis
 pakankamai
@@ -1070,7 +1034,6 @@ išgaruoti
 net
 vakaras
 renginys
-kada nors
 kiekvienas
 visi
 visi
@@ -1102,7 +1065,6 @@ egzistuoti
 egzistavo
 egzistavimas
 egzistuoja
-exp
 išplėsti
 išplėstas
 tikėtis
@@ -1163,7 +1125,6 @@ išgalvotas
 toli
 ūkis
 ūkininkai
-sodybos kiemas
 toliau
 mada
 greitai
@@ -1198,8 +1159,6 @@ laukai
 nuožmus
 penkiolika
 penktas
-fiftyfour
-fiftythree
 kova
 figūra
 skaičiai
@@ -1222,7 +1181,6 @@ fejerverkas
 firma
 stipriai
 pirmas
-firstto
 žuvis
 pritaikyti
 penki
@@ -1246,7 +1204,6 @@ miltai
 tekėti
 gėlė
 gėlės
-flowerthe
 skrendama
 laisvai
 skystis
@@ -1292,16 +1249,14 @@ buvęs
 formos
 apleido
 laimei
-fortyfour
+keturiasdešimt
 pirmyn
 steigti
 fontanas
-fountainpen
 keturi
 ketvirtas
 lapė
 lapės
-foxhis
 frakcija
 lūžis
 trapus
@@ -1312,7 +1267,6 @@ nemokamai
 laisvė
 užšaldyti
 šviežias
-pirmojo kurso studentas
 penktadienis
 draugas
 draugai
@@ -1332,11 +1286,9 @@ pilnas
 grabalioti
 malonumas
 funkcija
-iš esmės
 laidotuvės
 juokingas
 pristatyti
-apstatytas baldais
 ateitis
 įtaisas
 įgyti
@@ -1344,7 +1296,7 @@ ateitis
 žaidynės
 atliekos
 sodas
-gardenand
+sodininkystė
 dujos
 surinkti
 surinkta
@@ -1386,7 +1338,6 @@ pažvelgti
 spindėjimas
 stiklas
 prošvaistė
-gleams
 žvilgus
 gaublys
 tikslas
@@ -1410,7 +1361,6 @@ vyriausybė
 malonė
 klasė
 grūdai
-javų lauką
 gramatika
 didysis
 granitas
@@ -1454,8 +1404,6 @@ arealas
 buveinė
 plaukai
 pusė
-halfconfidence
-halfsmile
 priemenė
 sustabdyti
 plaktukas
@@ -1481,17 +1429,13 @@ kenksmingą
 šiurkštus
 derlius
 turi
-turi ne
 nuskubėjo
 paskubomis
-hasyes
 skrybėlė
 neapykanta
 turėti
-havent
 turintys
 vadovas
-stačia galva
 štabas
 išgydyti
 sveikata
@@ -1506,7 +1450,6 @@ dangus
 dangus
 sunkus
 aukštis
-held
 sraigtasparnis
 padėti
 pusrutulis
@@ -1543,7 +1486,6 @@ skylės
 atostogų
 šventas
 namai
-pasiilgęs namų
 sąžiningas
 medus
 garbė
@@ -1629,7 +1571,6 @@ kurstyti
 įtraukti
 nenuoseklus
 padidinti
-iš tikrųjų
 įdubimas
 nepriklausomumas
 nepriklausomas
@@ -1642,7 +1583,6 @@ pramonė
 neefektyvus
 užkrėsti
 išvadą
-Užsikrečiama parazitams
 infliacija
 įtaka
 informuoti
@@ -1656,7 +1596,6 @@ nekaltas
 neveikiantis
 pasiteiravo
 tyrimas
-psichiškai nesveikas
 vabzdys
 nesaugus
 neatskiriamas
@@ -1674,11 +1613,9 @@ priemonės
 neklausymas
 izoliatorius
 įžeidimas
-sveikasis skaičius
 intelektas
 protingas
 intensyvus
-tarpusavio priklausomybė
 palūkanos
 suinteresuotas
 įdomus
@@ -1723,8 +1660,6 @@ emisija
 ji
 jos
 pati
-iv
-ix
 kalėjimas
 vytinta
 brangakmenis
@@ -1769,11 +1704,8 @@ peilis
 trankyti
 mazgas
 žinoti
-knowa
-knowi
 žinojimas
 žinios
-knowmy
 žinomas
 žino
 lankstas
@@ -1783,7 +1715,6 @@ trūkumas
 ežeras
 lempa
 Latarnik
-lamplighters
 lempos
 žemės
 nusileido
@@ -1821,11 +1752,9 @@ oda
 palikti
 paliekant
 paskaita
-į kairę
 juridinis
 legenda
 teisėkūros
-teisės aktų leidėjas
 kojos
 laisvalaikis
 skolinti
@@ -1840,7 +1769,6 @@ liberalus
 melas
 melas
 gyvenimas
-lifefor
 keltuvas
 šviesa
 apšviesta
@@ -1868,7 +1796,6 @@ gyveno
 gyvenimas
 gyvas
 apkrova
-loafing
 paskola
 omaras
 vietinis
@@ -1954,16 +1881,12 @@ matematika
 klausimas
 klausimai
 brandus
-gali būti
 meras
 mane
 miltai
 reikšti
-meanadmire
-meanephemeral
 prasmė
 priemonė
-meantame
 matuoti
 matavimas
 mėsa
@@ -1971,7 +1894,6 @@ mechanikas
 Žiniasklaida
 medicina
 meditacija
-medow
 patenkinti
 MeetingPlace
 Melike
@@ -1983,14 +1905,12 @@ prisiminimai
 atmintis
 vyrai
 protinis
-menthat
 prekybos
 gailestingumas
 tik
 tik
 nuopelnas
 pranešimas
-met
 metalas
 metalo
 metrų
@@ -2003,14 +1923,12 @@ jėga
 migruoti
 migracija
 mylia
-km "
 karingas
 karinis
 milicija
 pienas
 milimetras
 milijonas
-millioni
 milijonai
 mimikrija
 protas
@@ -2042,7 +1960,6 @@ modelis
 vidutinis
 modernus
 kuklus
-modestbut
 kukliai
 pakeisti
 sudrėkinta
@@ -2061,13 +1978,11 @@ mėnesių
 paniuręs
 mėnulis
 mėnesiena
-mopped
 morena
 moralinis
 dorovininkas
 daugiau
 rytas
-morninggood
 labiausiai
 motelis
 motina
@@ -2084,7 +1999,6 @@ judesiai
 juda
 filmas
 filmai
-movingand
 daug
 mafinas
 duslintuvas
@@ -2099,7 +2013,6 @@ turi
 snukis
 mano
 pats
-myselfone
 paslaptys
 paslaptingas
 paslaptis
@@ -2115,9 +2028,7 @@ natūralus
 natūraliai
 gamta
 nava
-navely
 navigacija
-karinis jūrų laivynas
 šalia
 reikalingas
 būtinybė
@@ -2131,24 +2042,20 @@ tartis
 negras
 kaimynas
 kaimynystė
-nė vienas
 neutralus
 niekada
-vis dėlto
 naujas
 naujienos
 kitas
 gražus
 naktis
 niekas
-noeaten
 triukšmas
 paskirti
 neatsinaujinančius
 vidurdienis
 nei
 normalus
-į šiaurę
 nosis
 nosis
 ne
@@ -2163,13 +2070,11 @@ daiktavardis
 maitinimas
 dabar
 niekur
-nowthat
 branduolinis
 skaičius
 skaitmuo
 skaitmeninis
 slaugymas
-maistinių medžiagų
 paklusnumas
 paklusti
 pakluso
@@ -2190,7 +2095,6 @@ užimti
 įvyko
 vandenynas
 vandenynai
-oclock
 aštuonkampis
 aštuonkojis
 nelyginis
@@ -2203,7 +2107,6 @@ pareigūnas
 dažnai
 aliejus
 senas
-Senas arba retas modelis
 Omnivore
 kartą
 vienas
@@ -2212,7 +2115,6 @@ save
 tik
 atviras
 atidaryta
-opera
 veikti
 operacija
 nuomonė
@@ -2252,7 +2154,6 @@ Priklausantis
 savininkas
 priklauso
 galvijai
-Ramiojo vandenyno
 puslapis
 skausmas
 skaudžiai
@@ -2263,8 +2164,6 @@ dailininkai
 dažai
 pora
 išblyškęs
-panda
-panted
 popierius
 parašiutas
 paradas
@@ -2273,7 +2172,6 @@ lygiagretus
 lygiagretainis
 malonė
 tėvas
-lenktiniai skliaustai
 parkas
 parlamentas
 petražolės
@@ -2305,7 +2203,6 @@ taika
 taikiai
 viršūnės
 griausmas
-peevishly
 pieštukas
 pieštukai
 pingvinas
@@ -2331,7 +2228,6 @@ asmuo
 įtikinti
 Žiedlapių
 peticija
-Na ir na
 nuotrauka
 fotosintezė
 frazė
@@ -2351,15 +2247,12 @@ rožinis
 pradininkas
 vamzdis
 gailestis
-pityyou
 vieta
 aiškiai
 planas
 lėktuvas
 planeta
 planetos
-planetsgood
-planetssuch
 planai
 augalas
 plantacija
@@ -2368,13 +2261,10 @@ plastmasinis
 žaisti
 žaisti
 žaismingas
-žaidimų aikštelė
 žaisti
 prašymas
 Prašom
 patenkintas
-pleasedraw
-pleasetame
 malonumas
 daug
 sklypas
@@ -2382,7 +2272,6 @@ pešiojimas
 nupeštos
 smuko
 daugiskaitos
-pocked
 kišenė
 eilėraštis
 poetas
@@ -2391,7 +2280,6 @@ taškas
 smailus
 nuodai
 polius
-poleonly
 stulpai
 policija
 politika
@@ -2450,7 +2338,6 @@ spauda
 slėgis
 apsimesti
 gana
-užkirsti kelią
 prevencija
 grobis
 kaina
@@ -2484,7 +2371,6 @@ pažadas
 skubiai
 įrodymas
 įrodymai
-propaganda
 tinkamas
 tinkamai
 turtas
@@ -2524,7 +2410,6 @@ suglumęs
 piramidė
 kvadrantas
 kokybė
-patekti į nepatogią padėtį
 numalšinti
 klausimas
 klausimai
@@ -2552,7 +2437,6 @@ geležinkelis
 geležinkelis
 lietus
 vaivorykštė
-atogrąžų miškų
 pakelti
 pakeltas
 taranas
@@ -2572,7 +2456,6 @@ pasiekė
 reaguoti
 reakcija
 skaityti
-readercom
 pasiruošęs
 tikras
 realus
@@ -2592,7 +2475,6 @@ gavo
 gauna
 naujas
 nuosmukis
-Konstatuojamosios dalys
 pripažinti
 pripažįsta
 memuarai
@@ -2600,7 +2482,6 @@ memuarai
 perskaičiuoti
 susigrąžinti
 raudonas
-redfaced
 sumažinti
 išvynioti
 atspindys
@@ -2633,7 +2514,6 @@ palaikai
 pastebėjo,
 prisiminti
 prisiminiau
-rememberhow
 priminė
 gailestis
 pašalinti
@@ -2659,7 +2539,6 @@ gelbėjimas
 tyrimas
 panašumas
 priminti
-resentfulness
 rezervas
 rezervuaras
 atsistatydinti
@@ -2682,10 +2561,8 @@ apriboti
 atramos
 rezultatas
 išlaikyti
-išeiti į pensiją
 atkirto
 grąžinimas
-daugkartinio naudojimo
 atskleidė
 susimąstymas
 Atkuriamasis
@@ -2734,8 +2611,6 @@ kambarys
 šaknys
 virvė
 rožė
-Rožinė avilį
-rosebushes
 rožės
 rožinis
 rotacija
@@ -2747,7 +2622,6 @@ guma
 griuvėsiai
 taisyklė
 gandas
-rumpled
 paleisti
 bėgimas
 veikia
@@ -2765,7 +2639,6 @@ Liūdniausia
 deja
 liūdesys
 saugus
-sahara
 sakė
 burė
 jūrininkas
@@ -2773,11 +2646,9 @@ druska
 pasveikinti
 pasveikino
 sveikina
-tas pats
 smėlis
 paplūdimys
 nuskendo
-sat
 palydovas
 atlasas
 patenkintas
@@ -2789,11 +2660,9 @@ taupymas
 pjūklas
 pasakyti
 posakis
-saynot
 sako
 skalė
 nelygiašonis
-vargu ar
 išsigandęs
 šalikas
 raudonas
@@ -2824,7 +2693,6 @@ saugumas
 pamatyti
 sėklos
 sėklos
-seei
 matymas
 ieškoti
 Ieškau
@@ -2838,7 +2706,6 @@ pasinaudoti
 konfiskavo
 konfiskavimas
 pats
-selfevident
 parduoti
 pardavimas
 zalbandas
@@ -2863,7 +2730,6 @@ atsiskaityti
 apsigyveno
 septyni
 septintas
-seventytwo
 keletas
 sunkus
 seksas
@@ -2878,9 +2744,7 @@ aštrus
 aštrus
 ji
 avis
-sheepif
 avys
-sheepthe
 lapas
 apvalkalas
 kriauklės
@@ -2914,11 +2778,8 @@ rodantis
 parodyta
 trauktis
 krūmas
-trūkčioti pečiais
-nekreipdamas dėmesio
 uždaryti
 uždaro
-siberia
 ligoniai
 paliegęs
 liga
@@ -2944,7 +2805,6 @@ dainavimas
 vienas
 kriauklė
 tėvas
-sireover
 sesuo
 sėdėti
 vieta
@@ -2980,13 +2840,11 @@ kvapas
 kvapas
 šypsena
 nusišypsojo
-smiling
 Nerūkau
 sklandžiai
 sraigė
 gyvatė
 gyvatės
-snakesthey
 sniegas
 susiriesti
 taip
@@ -3004,12 +2862,9 @@ kietas
 sprendimas
 išspręsti
 keletas
-kas nors
-kas nors
 kažkam
 kažkas
 kartais
-šiek tiek
 kažkur
 sūnus
 daina
@@ -3022,7 +2877,6 @@ rūšiuoti
 rūšių
 garso
 šaltinis
-į pietus
 erdvė
 kalbėti
 kalbėjimas
@@ -3051,10 +2905,7 @@ atžala
 pavasaris
 spyruoklės
 pabarstyti
-sprinklingcan
 atauga
-briuseliniai kopūstai
-dulkių pavidalo
 šnipas
 aikštė
 kvadratų
@@ -3088,7 +2939,6 @@ plieno
 žingsnis
 žingsniai
 lazda
-vis dar
 išmaišytas
 ištekliai
 skrandis
@@ -3107,9 +2957,7 @@ tiesiai
 keistas
 Keisčiausia
 dirželis
-strategems
 strategija
-straying
 gatvės
 stresą
 ruožas
@@ -3132,11 +2980,9 @@ kvailas
 stilius
 tema
 tematika
-povandeninis laivas
 medžiaga
 pakaitalas
 priemiesčio
-ardomoji veikla
 pavykti
 pavyko
 sėkmė
@@ -3156,11 +3002,9 @@ vasara
 sumos
 saulė
 sekmadienis
-saulės šviesa
 saulėtekis
 saulėlydis
 saulėlydis
-saulės šviesa
 prižiūrėti
 tiekimas
 parama
@@ -3189,7 +3033,6 @@ bangavimas
 plaukti
 plaukimas
 iešmininkas
-switchmans
 skiemuo
 skiemenys
 simbolis
@@ -3210,7 +3053,6 @@ aukštas
 aukščiausias
 sutramdyti
 Prijaukintas
-tames
 bakas
 nerangus
 taikinys
@@ -3255,8 +3097,6 @@ ačiū
 laimei
 ačiū
 kad
-thatin
-thatlook
 Thats
 teatras
 jų
@@ -3264,11 +3104,9 @@ jiems
 tema
 patys
 tada
-thenthe
 teorija
 ten
 todėl
-therehappy
 jų
 jie
 storas
@@ -3282,10 +3120,8 @@ trečias
 troškulys
 ištroškęs
 trisdešimt
-thirtyone
 tai
 spygliai
-thornswhat
 kruopščiai
 tiems
 nors
@@ -3302,7 +3138,6 @@ sostas
 per
 mesti
 nykščiai
-duslus garsas
 perkūnas
 griaudėjo
 ketvirtadienis
@@ -3313,13 +3148,10 @@ tigras
 tigrai
 laikas
 kartų
-timewell
 nedrąsus
 blizgučiai
 mažytis
-tipler
 girtuoklis
-tipplers
 padanga
 pavargęs
 padangos
@@ -3337,9 +3169,7 @@ rytoj
 tonas
 kalba
 šįvakar
-tonightyou
 migdolas
-taip pat
 paėmė
 įrankis
 įrankiai
@@ -3348,7 +3178,6 @@ viršus
 kančia
 suplėšyti
 kankinimas
-tossed
 visas
 paliesti
 sujaudintas
@@ -3375,7 +3204,6 @@ spąstai
 kelionė
 keliavo
 keliautojai
-kelionių aprašymas
 išdavystė
 lobis
 gydyti
@@ -3398,7 +3226,6 @@ tropinis
 bėda
 paliaubos
 sunkvežimis
-trudged
 tiesa
 tikrai
 pasitikėjimas
@@ -3406,7 +3233,6 @@ tiesa
 pabandyti
 bando
 vamzdis
-tundra
 turkų
 posūkis
 Paaiškėjo
@@ -3446,11 +3272,9 @@ nereikalingas
 atsukti
 iki
 neteisybė
-į viršų
 ant
 vertikaliai
 sutrikimas
-į viršų
 miesto
 paraginti
 skubus
@@ -3466,10 +3290,8 @@ vakcina
 slėnis
 vertingas
 vertė
-vanitywhich
+tuštybė
 daržovių
-transporto priemonė
-venusto
 veiksmažodis
 verdiktas
 ribotis
@@ -3477,11 +3299,9 @@ tikras
 versija
 viršūnė
 labai
-veto
 susierzinęs
 auka
 pergalė
-video
 kaimas
 Vynuogynai
 pažeisti
@@ -3507,13 +3327,12 @@ laukti
 laukiau
 laukimas
 laukia
-wakened
 vaikščioti
-walkand
 vaikščiojo
+vaikštynė
 vaikščiojimas
+vaikšto
 siena
-Walland
 sienos
 nuklysti
 Wanders
@@ -3573,16 +3392,13 @@ kviečiai
 ratas
 ratai
 kai
-iš kur
 kada
 kur
-bet kur
 ar
 kuris
 o
 baltas
 kas
-bet kas
 visas
 kurį
 Įrašyk
@@ -3637,7 +3453,6 @@ blogiau
 blogiausia
 vertas
 būtų
-wouldnt
 žaizda
 avarija
 nuolaužos
@@ -3648,7 +3463,6 @@ blogai
 rašė
 kiemas
 žiovulys
-yawned
 žiovulys
 Žiovulys
 metai
@@ -3662,14 +3476,12 @@ tenai
 jūs
 jaunas
 savo
-youre
 tavo
+jūs
 sau
 patys
 jaunimas
-youthe
-Youve
+jūs
 Zelandija
 zebras
 nulis
-zoologijos sodas

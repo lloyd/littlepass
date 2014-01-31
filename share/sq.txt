@@ -1,30 +1,20 @@
 braktisur
-i hutuar
-i aftë
-në lulëzim
-abodes
 për
 sipër
 befas
-abruptlyas
 mungesë
-i pavëmendshëm
 absolut
-absurd
 bollshme
 abuzim
 humnerë
 pranoj
-i pranuar
 aksident
 brohorit
 sipas
 llogari
-i saktë
 akuzoj
 arritje
 njohje
-i njohur
 nëpër
 akt
 veprim
@@ -32,14 +22,11 @@ Veprimet
 aktiv
 aktivist
 aktor
-në të vërtetë
-i mprehtë
 përshtat
 adaptim
 shtoj
 shtuar
 shtim
-i rregulluar
 administroj
 administratë
 admirim
@@ -51,7 +38,6 @@ miratoj
 adoptim
 adhuroj
 zbukurim
-i rritur
 Përparimet
 avantazh
 aventurat
@@ -61,7 +47,6 @@ larg
 çështje
 ndikoj
 dashuri
-i frikësuar
 Afrika
 afrikan
 pas
@@ -71,11 +56,8 @@ kundër
 moshë
 agjenci
 agresion
-më parë
-agoyou
 pranoj
 bujqësi
-ah
 përpara
 ndihmë
 qëllim
@@ -83,26 +65,19 @@ ajror
 aeroplan
 aeroplanë
 aeroport
-alarm
 mjerisht
-album
 alkool
 algjebrik
-algorithm
 ulem
 njëlloj
 gjallë
-të gjithë
 aligator
 lejoj
 aleat
 almanak
 pothuajse
 vetëm
-aloneall
-alonewill
 gjatë
-i përmbajtur
 tashmë
 edhe
 megjithëse
@@ -121,20 +96,15 @@ zbavitës
 analizoj
 anarki
 stërgjysh
-i lashtë
 dhe
 zemërim
 kënd
 kënde
-i zemëruar
 kafshë
 kafshët
-animalsi
-nyjë e këmbës
 përvjetor
 shpall
 mërzit
-i mërzitur
 tjetër
 përgjigje
 përgjigjur
@@ -147,8 +117,6 @@ diçka
 dosido
 kudo
 larg
-kërkoj falje
-i dukshëm
 fantazmë
 thirrje
 duket
@@ -159,7 +127,6 @@ mollë
 caktoj
 trajtim
 miratoj
-i përafërt
 platformë
 kanal
 arkeologji
@@ -168,7 +135,6 @@ janë
 zonë
 argumentoj
 aritmetikë
-arizona
 krah
 armëve
 ushtri
@@ -179,39 +145,27 @@ arrestuar
 mbërritje
 arrij
 arriti
-art
-artificial
 artilerie
 si
 hi
-i turpëruar
 mënjanë
 kërkoj
 pyeti
 shtrembër
-duke i kërkuar
 pyet
-në gjumë
 asamble
 ndihmoj
 ndihmë
 asociativ
 siguroj
-asteroid
-asteroids
-i habitur
 mahnitje
-astounded
 astrologji
-astronaut
 astronom
 astronomik
 astronomi
-veç e veç
 azil
 hëngri
 atmosferë
-atom
 bashkangjitni
 sulm
 përpjekje
@@ -225,15 +179,12 @@ autor
 autoritet
 automobil
 vjeshtë
-në dispozicion
 mesatar
 shmang
-i zgjuar
 zgjojë
 zgjuar
 dhënie
 larg
-i vështirë
 foshnjë
 prapa
 keq
@@ -245,20 +196,15 @@ top
 balet
 tullumbace
 votim
-të ndaluar
 fashë
 bankë
 banket
-baobab
-baobabs
-bar
 berber
 lakuriq
 ujdi
 fuçi
 pengesë
 bazë
-baseball
 shportë
 grumbull
 bateri
@@ -270,14 +216,10 @@ duroj
 kafshë
 rrah
 rrahje
-i bukur
 bukuri
-u bë
 sepse
-të bëhet
 bëhet
-duke u bërë
-qe je
+sepse
 krevat
 bletë
 qenë
@@ -291,28 +233,19 @@ fillon
 filloj
 sjellje
 prapa
-të qenë
 besoj
 Besohet
 këmbanat
 përkas
 takoi
-i takon
 poshtë
 lakimi
-i dobishëm
 prirje
-kokrra të kuqe
 pranë
 përveç
-më i mirë
 shes
-më mirë
 ndërmjet
-i hutuar
 përtej
-i madh
-më e madhe
 biçikletë
 faturë
 miliardë
@@ -320,27 +253,16 @@ biologji
 zog
 zogjtë
 ditëlindje
-bit
 kafshoj
-bject
-e zezë
 faj
 batanije
-bleacher
-i turbulluar
-më pikon gjak
 bekuar
-i verbër
-per tu menduar
 bllok
 gjak
 çel
 goditje
-në lulëzim
 goditjet
 blu
-me gabim
-boa
 Boas
 mburr
 varkë
@@ -351,15 +273,11 @@ bombë
 kockë
 kockëmadh
 libër
-raft librash
 libra
 Boomtown
 kufi
-i mërzitur
 puse
-i lindur
 huazoj
-të dy
 mërzit
 shishe
 shishe
@@ -379,14 +297,11 @@ pushim
 avari
 mëngjes
 thyerje
-marr frymë
 frymëzuam
 meze
 tullë
 martesor
 urë
-i shkurtër
-i ndritshëm
 shkëlqyeshëm
 sjell
 transmetim
@@ -395,17 +310,13 @@ thyer
 vëlla
 vëllezërit
 solli
-bojë kafe
 flluskë
 kovë
 burbuqe
 buxhet
 ndërtoj
 ndërtesë
-i ndërtuar
-i rëndë
 plumb
-bundles
 barrë
 varrosur
 djeg
@@ -418,11 +329,9 @@ shkurre
 biznes
 biznesmen
 Biznesmenët
-i zënë
 por
 fluturat
 flutur
-butwhat
 blej
 blerje
 nga
@@ -435,11 +344,9 @@ tortë
 llogarit
 llogaritjet
 thirrje
-i quajtur
 qetë
 erdhi
 deve
-aparat fotografik
 maskoj
 kamp
 fushatë
@@ -449,20 +356,13 @@ kancer
 kandidat
 qiri
 top
-nuk mund të
 tendë
-cant
-i aftë
 kapital
-capture
 makinë
 karavan
 karbon
 kujdes
 Karriera
-i kujdesshëm
-me kujdes
-pa kujdes
 mishngrënës
 qilim
 karrocë
@@ -479,9 +379,8 @@ katastrofë
 kap
 tërheqëse
 infektues
+vemje
 vemjet
-caterpillarswho
-i zënë
 shkak
 armëpushim
 festoj
@@ -491,32 +390,30 @@ qendër
 centimetër
 qendror
 shekull
+shekuj
 ceremoni
-i sigurt
 sigurisht
+karrige
 karrige
 kryetar
 dhomë
 kampion
 shans
 ndryshim
-i ndryshueshëm
 ndryshuar
 Ndryshimet
 djalë
 kishëz
 karakter
-qymyr druri
-chare
 pagesë
 simpatik
 tabelë
+Listat
 ndjekje
 gënjej
 kontrolloj
 kontrolluar
 gëzim
-i gëzuar
 gatopard
 kimike
 kimi
@@ -531,51 +428,49 @@ fëmijë
 oxhak
 shimpanze
 Kinë
-patate të skuqura
 zgjedhje
-ia zunë frymën
+zgjedhje
 zgjedh
 zgjodhi
 Krishtlindje
 nënqeshje
 kishë
+kishat
 cigare
 rreth
 qark
+qarqeve
 perimetër
-lundroj rreth botës
-Cirque
 qytetar
+qytetarët
 shtetësi
 qytet
+Qytetet
 civil
-civil
-i veshur
 pretendim
 duartrokas
 rrahur
 sqaroj
 përplasje
+Përleshjet
 klasë
+Klasat
 klasifikoj
+thua
 kthetrat
-i pastër
+pastron
 pastruar
 pastrim
 qartë
 kleringut
 qartë
-clearsighted
 kler
 nëpunës
 klimë
 ngjit
-u ngjit
 orë
 afër
 mbyllur
-nga afër
-më afër
 mbyllje
 leckë
 rroba
@@ -586,7 +481,6 @@ bregdet
 bregdetar
 kafe
 spirale
-të ftohtë
 shembje
 koleg
 mbledh
@@ -594,47 +488,33 @@ koleksion
 kolegj
 koloni
 ngjyrë
-me ngjyrë
 ngjyra
 kombinim
 kombinoj
 eja
 vjen
 rehati
-i rehatshëm
-të qetë
 ngushëllohen
-që vjen
 komandë
 koment
 komitet
-i zakonshëm
 komunikoj
 Komuniteti
-commutative
 shokët
 kompani
 krahasim
 busull
-i pajtueshëm
 kompensim
 konkurroj
 konkurrencë
-i plotë
-i përfunduar
 plotësisht
 kompleks
-i ndërlikuar
 kompozoj
-i përbërë
-të kuptuarit
 kompromis
 llogaritje
 kompjuter
 mendjemadh
-i koncentruar
 shqetësim
-i shqetësuar
 përfundim
 dënoj
 kusht
@@ -648,7 +528,6 @@ pranoi
 rrëfim
 mirëbesim
 besim
-confidences
 konfirmoj
 konflikt
 ballafaqim
@@ -656,20 +535,15 @@ ballafaqim
 ngatërrim
 përgëzoj
 kongres
-në harmoni
 lidh
 lidhje
 pasojë
 konservator
 konsideroj
-i konsiderueshëm
 kushtetutë
-muskul tkurrës
-constrictors
 ndërtim
 konsultuar
 konsumator
-consumingly
 kontakt
 përmbaj
 enë
@@ -678,25 +552,18 @@ përmbajtje
 kontinent
 kontinente
 vazhdoj
-i vazhdueshëm
 vazhdimësi
-në kundërshtim
 kontroll
-i përshtatshëm
 kuvend
 bisedë
 kthej
-i bindur
 kuzhinier
 Cookout
-i ftohtë
 bashkëpunojnë
 koordinatë
 kopje
-coquettish
 misër
 qoshe
-i saktë
 korrupsioni
 kosto
 kostum
@@ -704,7 +571,6 @@ pambuk
 kollë
 kollit
 mund
-couldnt
 këshill
 akuzë
 vend
@@ -715,14 +581,11 @@ njerëzisht
 kushëri
 kushërinjtë
 mbulesë
-i mbuluar
 lopë
 lopar
 mbushur
 përplasje
-u rrëzua
 zvarritje
-i çmendur
 krijoj
 krijesë
 krijesa
@@ -737,26 +600,17 @@ krokodil
 lashtat
 kryq
 kaluar
-crossexamine
-me inat
 turmë
-i mbushur
 kurorë
 shtrydhje
 polic
 qaj
-të qarë
-fuqi e tretë
 kulturë
-i rëndë
 kurë
-orë e mbylljes brenda
 kuriozitet
 kureshtar
-më bëni
 kaçurrela
 aktual
-me porosi
 doganë
 prerje
 cikël
@@ -767,34 +621,24 @@ dëm
 valle
 kërcenin
 rrezik
-i rrezikshëm
 rrezikshmërisht
-i varur
 guxoj
 guxonte
-i errët
 errësuar
 terr
-të dhëna
 data
 bijë
 agim
 ditë
-dayagain
 gdhirë
 ditë
-i vdekur
-i shurdhër
 marrëveshje
-i dashur
 vdekje
 debat
 borxh
 vendos
 vendosur
-decimal
 deklaroj
-i zbukuruar
 ulje
 veprat
 thellë
@@ -802,7 +646,6 @@ thellë
 dre
 disfatë
 mbroj
-deficit
 përcaktoj
 shkallë
 hidhërim
@@ -831,7 +674,6 @@ përshkruaj
 përshkruar
 shkretëtirë
 shpërblim
-desertwhat
 dizajn
 Dëshira
 tavolinë
@@ -840,9 +682,7 @@ hollësi
 detalet
 ndalon
 përcaktoj
-i dëmshëm
 zhvilloj
-i zhvilluar
 pajisje
 kushtoj
 diagramë
@@ -851,60 +691,45 @@ diamant
 diktator
 fjalor
 bëri
-nuk e bëri
 vdes
 dietë
 ndryshim
-i ndryshëm
-i vështirë
 gërmoj
 tretjen
 tretje
-gërmime arkeologjike
 shifër
 gropësirë
 darkë
-diplomat
-i drejtpërdrejtë
 drejtuar
 drejtim
-i poshtër
 dëm
 zhduket
 zhdukje
 zhduk
-i zhgënjyer
 çarmatos
-disarranged
 fatkeqësi
 disiplinë
 dekurajuar
 zbuloj
-i zbuluar
 zbulon
 zbulim
 diskriminim
 diskutoj
 sëmundje
-disheartened
 shkarkoj
 mosbindje
 shkel
 shpërhapje
-i disponueshëm
 grindje
 përçarje
 disident
 distancë
 dalloj
-i shquar
 distributiv
 rreth
-i shqetësuar
 shqetësues
 pikiatë
 përçaj
-i ndarë
 ndarje
 bëj
 mjek
@@ -913,22 +738,17 @@ nuk
 nuk
 qen
 qentë
-duke bërë
 kukull
-dollar
 delfin
 dhuroj
-e bërë
 nuk
 derë
 dyshe
 dyshim
-doubtit
 dyshime
 pëllumbat
 poshtë
 Draftet
-draftsthat
 dragua
 dramë
 piu
@@ -937,11 +757,8 @@ sirtar
 vizatim
 vizatime
 tërhequr
-dreadfully
 ëndërr
 ëndërruar
-dreamthis
-i veshur
 Drew
 pije
 pijshëm
@@ -951,21 +768,16 @@ ra
 thatësirë
 mbytem
 drogë
-i dehur
 thatë
 rosë
-thithë e gjirit
 dunë
 gjatë
 pluhur
 detyrë
-që po vdes
 çdo
 shqiponjë
 hershme
-në fillim
 fitoj
-me zell
 veshët
 tokë
 tërmet
@@ -974,14 +786,11 @@ lajkatar
 lehtësi
 lehtë
 lindje
-i lehtë
 ha
 ngrënë
 ngrënie
 ha
 jehonë
-bëri jehonë
-echolocation
 ekologji
 ekonomi
 ekosistemit
@@ -991,25 +800,17 @@ efekt
 përpjekje
 vezë
 vezë
-eh
 tetë
-i tetë
 EIS
 ose
-i zgjedhur
 zgjedhje
 elektrik
-inxhinier elektrik
 elektricitet
 hijeshi
-element
-elephans
 elefant
 elefantët
 njëmbëdhjetë
 tjetër
-embarassed
-i zënë ngushtë
 ambasadë
 embrion
 dal
@@ -1029,27 +830,21 @@ energji
 zbatoj
 motor
 inxhinier
-enginegrease
 anglisht
 gëzojnë
 mjaft
 hyj
-i këndshëm
 argëtim
-i tërë
 tërësisht
 sipërmarrës
 hyrje
 mjedis
 jetëshkurtër
-i barabartë
 ekuacion
 ekuator
 barabrinjës
 pajisje
-erasable
 herminë
-i çrregullt
 gabim
 gabime
 Shpërthimet
@@ -1057,12 +852,9 @@ ikje
 veçanërisht
 thelbësor
 vendos
-i themeluar
 vlerësim
 vlerësim
-i përjetshëm
 etnik
-rregulla të mirësjelljes
 Evropë
 evropian
 vlerësoj
@@ -1072,21 +864,14 @@ mbrëmje
 ngjarje
 ndonjëherë
 çdo
-të gjithë
 gjithkush
-çdo gjë
 kudo
 dëshmi
-i keq
-i saktë
 saktësisht
 ekzaminoj
 shqyrtuar
 shembull
-i shkëlqyer
-me përjashtim të
 shkëmbim
-i ngacmuar
 eksitim
 ngacmues
 thërras
@@ -1096,17 +881,13 @@ justifikim
 kryej
 ekzekutiv
 ushtrim
-i rraskapitur
 mërgim
 ekzistoj
 ekzistuar
 ekzistencë
 ekziston
-exp
 zgjeroj
-i zgjeruar
 pres
-expectantly
 dëboj
 përvojë
 eksperiment
@@ -1114,7 +895,6 @@ ekspert
 Ekspertët
 shpjegoj
 shpjegoi
-duke shpjeguar
 shpjegim
 shpërthej
 shqyrtuar
@@ -1124,11 +904,8 @@ eksport
 shpreh
 shprehje
 shpreh
-i shuar
 zhdukje
-i fikur
 shtesë
-i jashtëzakonshëm
 ekstrem
 jashtëzakonisht
 ekstremist
@@ -1136,50 +913,32 @@ sy
 sytë
 fytyrë
 Fytyrat
-përballet me
 fakt
 Faktorë
 fabrikë
-i venitur
 dështoj
 dështim
-i dobët
-i drejtë
 mjaft
 zanash
 Fairytales
 besnik
 bie
-i degraduar
 rënie
 bie
-i rremë
-i njohur
 familje
 familje
-i famshëm
 tifoz
-i zbukuruar
 larg
 fermë
 fermerët
-oborr ferme
-më larg
 mënyrë
-i shpejtë
 kapem
 yndyrë
-fatal
 baba
 lodhje
 faj
-favor
-i favorshëm
-i preferuar
-i preferuar
 frikë
 tipar
-federal
 ushqim
 ndihem
 këmbët
@@ -1189,56 +948,36 @@ shajak
 femër
 gardh
 pjellor
-festival
 ethe
-me temperaturë
 pak
 fushë
 Fushat
-i egër
 pesëmbëdhjetë
-i pestë
-fiftyfour
-fiftythree
 përleshje
 figurë
 Shifrat
 mbush
-i mbushur
-film
 përfundimtar
-më në fund
 financiar
 gjej
 gjen
 gjobë
 gisht
 gishtat
-finish
-i përfunduar
 zjarr
 zjarret
 fishekzjarr
 firmë
-në mënyrë të vendosur
-i parë
-firstto
 peshk
-i aftë
 pesë
-fix
 instalime
 flamur
 flakë
 blic
-flashed
-flasher
-i sheshtë
 rrafshim
 largohen
 fluturon
 fluturim
-nxjerr në shitje
 tufë
 përmbytje
 kat
@@ -1246,12 +985,10 @@ miell
 rrjedhë
 lule
 lule
-flowerthe
 fluturuar
 rrjedhshëm
 lëng
 fluoreshent
-flushed
 Flushes
 fluturoj
 fokus
@@ -1260,119 +997,81 @@ dele
 folklor
 ndjek
 poshtë
-i dashur
 ushqim
 budalla
 qesharak
 këmbë
 futboll
 gjurmë
-mbështetëse këmbësh
 Footy
 për
 vetëpërmbajtje
 ndaloj
-i frikshëm
 forcë
-i detyruar
 parashikim
 ballë
-i huaj
 pyll
 pyjet
 përgjithmonë
 harroj
-duke harruar
 fal
 falje
 harruar
 harruar
 formë
 ish-
-forma të
-i braktisur
-për fat të mirë
-fortyfour
+dyzetë
 përpara
 gjetur
 burim
-fountainpen
 katër
-i katërt
 dhelpër
 Dhelprat
-foxhis
 fraksion
 thyerje
-i brishtë
 aromë
 Francë
-mbushet me prenka
 falas
 liri
 bllokoj
-i freskët
-ushtar i ri
-e premte
 mik
 miq
 miqësi
 tremb
-i frikësuar
 frikëson
-i tmerrshëm
 bretkocë
 nga
-front
-i ngrirë
 fruta
-lëndë djegëse
-i arratisur
-i plotë
-kërkim i ngathët
 argëtim
 funksion
 rrënjësisht
-funeral
 qesharak
 furnizoj
-të mobiluar
-e ardhme
 vegël
-të fituar
 lojë
 Lojra
 mbeturina
 kopsht
-gardenand
+kopshtari
 gaz
 mbledh
-u mblodhën
 dha
-gazed
-i përgjithshëm
 përgjithësoj
 përgjithësisht
 brez
 gjenocid
-i butë
-njeri i nderuar
 Gentlemans
 butësisht
 gjeograf
 Gjeografet
-geographies
 gjeografi
 gjeometrik
-geraniums
-gerbil
 gjest
 shkoj
 merr
 mendjelehtë
 dhuratë
 dhurata
-qesh nën hundë
 xhenxhefil
 gjirafë
 vajzë
@@ -1380,25 +1079,17 @@ vajzat
 jep
 dhënë
 jep
-duke i dhënë
-i kënaqur
 shikoj
 llamburit
 gotë
 rreze
-gleams
 stoli
 botë
 qëllim
 dhi
 zot
 shkon
-duke shkuar
 ar
-i artë
-peshk i kuq
-golf
-i humbur
 mirë
 lamtumirë
 mirësi
@@ -1412,20 +1103,14 @@ klasë
 kokërr
 ara
 gramatikë
-i madh
 granit
 grafik
 bar
 varr
 ashpërisht
 gri
-i madh
-më i madh
-më i madh
 shumë
-e gjelbër
 përshëndes
-u rrit
 hidhërim
 brengos
 bluaj
@@ -1434,16 +1119,13 @@ grup
 rritet
 rritje
 ankohem
-grownup
 rriturit
 rritet
 murmurisnin
 garanci
 rojë
-luftë partizane
 mendoj
 mendoi
-guessing
 udhëheq
 udhëzon
 fajtor
@@ -1454,45 +1136,26 @@ vendbanim
 vendbanim
 qime
 gjysmë
-halfconfidence
-halfsmile
 korridor
 ndalim
 çekiç
-lloj brejtësi
 dorë
 shami
 trajtuar
 duart
-handsomest
 var
-në lartësi
 ndodh
 ndodhi
 ndodhi
-më të lumtur
-për fat të mirë
-i lumtur
-i vështirë
 lepur
 dëm
-i dëmshëm
-harmfully
-i ashpër
 korrje
 ka
-nuk ka
 nxitoi
-me ngut
-hasyes
 kapelë
 urrej
 kam
-havent
-që ka
 kokë
-me turr
-zyrat qendrore
 shëroj
 shëndetësor
 dëgjoj
@@ -1504,18 +1167,14 @@ nxehtësi
 ngrohje
 qiell
 Qiejt
-i rëndë
 lartësi
 mbajtur
 helikopter
 ndihmë
 hemisferë
-e saj
-herbivore
 tufë
 këtu
 vetmitar
-hero
 vetë
 hezitim
 hezituar
@@ -1524,15 +1183,12 @@ prehem
 fsheh
 fsheh
 fshehje
-i lartë
-më i lartë
 rrëmbej
 kodër
 atë
 vetë
 aluzion
 hipopotam
-e tij
 histori
 godit
 ngrihet
@@ -1541,46 +1197,34 @@ mbajtje
 vrimë
 vrima
 festë
-i shenjtë
 shtëpi
-i përmalluar për shtëpi
-i sinqertë
 mjaltë
 nder
 shpresoj
 brirët
-i tmerrshëm
 tmerr
 kalë
 spital
 peng
 armiqësor
 nxehtë
-hotel
-hotter
 orë
 orë
 shtëpi
 si
 megjithatë
-i madh
 përqafoi
 lëvrij
 njerëzor
 njerëzim
-i përulur
-humor
 njëqind
 qindra
 uri
-i uritur
 gjueti
 gjuetar
 gjuetarët
-i ngutshëm
 nxitim
 nguten
-i lënduar
 burri
 hipotezë
 akull
@@ -1589,159 +1233,93 @@ ide
 ide
 identifikoj
 identitet
-i papunë
 injoroj
-i paligjshëm
-i palexueshëm
-i paligjshëm
 analfabet
-i palogjikshëm
 ilustroj
 imazh
 imagjinatë
 imagjinoj
-i papjekur
-i pamatshëm
-i menjëhershëm
 pafundësi
 imigrant
 imigroj
-i palëvizshëm
 imoral
 paluajtshme
-i padepërtueshëm
-import
 rëndësi
-i rëndësishëm
-i pamundur
-i pathyeshëm
 përshtypje
-i rëndësishëm
-i pamundshëm
 përmirësoj
-i përmirësuar
 në
-i pasaktë
 inç
 inç
-incident
 ndërsej
 përfshijnë
-i papajtueshëm
 rritje
-në të vërtetë
 gjurmë
 pavarësi
-i pavarur
-indian
 Indies
 moskokëçarje
-individual
 butësisht
 industri
-i paefektshëm
 infektoj
 konkludoj
-e infektuar
 inflacion
 ndikim
 njoftoj
 informacion
 banorë
-i banuar
 mbush
 vras
-bojë shkrimi
-i pafajshëm
-i paefektshëm
 pyeti
 hetim
-i çmendur
 insekt
-i pasigurt
-i pandashëm
 brenda
 këmbënguli
 inspektoj
 inspektim
 frymëzues
 shembull
-i menjëhershëm
-në çast
-në vend të kësaj
-instrument
 instrumentet
 mosbindje
 izolant
 fyerje
-numër i plotë
 zbulim
-i zgjuar
-i madh
 ndërvarësi
 interes
-i interesuar
 interesant
 Interesat
 ndërhyj
 ndërkombëtar
-internet
-i ndërprerë
-intersecting
 ndërhyj
 ngushtë
 në
 xurxull
 pushtoj
 shpik
-i zbuluar
 shpikje
-i anasjellë
 investoj
 hetoj
-i padukshëm
 ftoj
 përfshij
 hekur
 IRR
-i paarsyeshëm
-i papajtueshëm
-i pavend
-i pandreqshëm
-i pakthyeshëm
-irritably
 pezmatoj
 inatosur
 acarim
 është
 ishull
 ishull
-nuk është
-i izoluar
-isosceles
 çështje
 ajo
-i saj
 vetë
-iv
-ix
 burg
-i tharë
 xhevahir
 punë
 bashkohem
-i përbashkët
 shaka
 udhëtim
-me gëzim
 gjyqtar
-i gjykuar
-duke gjykuar
 gjyqësor
 kërcim
 kërceu
-duke kërcyer
-që jeton në xhungël
 Jupiteri
 jurisdiksion
 juri
@@ -1752,7 +1330,6 @@ mbaj
 mbajtur
 kyç
 gjuajtje
-rrëmbej me dhunë
 vras
 vrarë
 kilometër
@@ -1764,47 +1341,30 @@ mbretër
 puthje
 kotele
 gjunjë
-e dinte
 thikë
 trokas
 nyjë
 di
-knowa
-knowi
-duke e ditur
 njohuri
-knowmy
-i njohur
-e di
 noçkë
-i punës
 laborator
 mungesë
 liqen
 llambë
 pishtar
-lamplighters
 llambat
 tokë
 zbriti
-konture të tokës
 peizazh
 gjuhë
-i madh
-më të mëdha
 lak
-i fundit
 zgjati
 zgjat
 vonë
-më vonë
 gjerësi
 qesh
-për të qeshur
 qeshi
-që qesh
 qesh
-e qeshur
 Fillimin
 lavanderi
 ligj
@@ -1814,12 +1374,9 @@ shpie
 rrjedhje
 kërceu
 mësoj
-i mësuar
 mësim
-më pak
 lëkurë
 lë
-duke lënë
 leksion
 majtë
 juridik
@@ -1827,31 +1384,22 @@ legjendë
 legjislativ
 Legjislatura
 këmbët
-kohë e lirë
 jep
 gjatësi
-më pak
 mësim
-le të
-lejon të
 letër
 nivel
-liberal
 gënjeshtër
 gënjeshtra
 jetë
-lifefor
 ashensor
 dritë
 ndezur
 lehtë
 vetëtimë
 dritat
-i pëlqyeshëm
 si
 pëlqente
-i mundshëm
-limit
 linjë
 zgjatem
 lidhje
@@ -1866,9 +1414,7 @@ pak
 jetoj
 jetuar
 jeton
-i gjallë
 ngarkesë
-loafing
 hua
 karavidhe
 lokal
@@ -1877,39 +1423,24 @@ bllokoj
 flokët
 lokomotivë
 logjik
-i vetmuar
 gjatë
-më shumë
 gjatësi
 shoh
 shikuar
-në kërkim të
-i lirë
-loosened
 humb
-i humbur
 shumë
 shumë
-me zë të lartë
-louder
 Dashuria
 dashur
 lezetit
 bukuroshe
 dashuritë
 ulët
-më i ulët
 besnik
 besnikëri
 fat
-me fat
-i ngrysur
-i vakët
-i hënës
 drekë
-të gënjyer
 makinë
-i bërë
 revistë
 magji
 magnetik
@@ -1919,51 +1450,37 @@ postë
 kryesor
 mbaj
 madhështor
-majestically
 madhështi
-i madh
 shumicë
 bëj
 bën
-duke e bërë
 mashkull
-me qëllim të keq
 njeri
-manhe
 mantel
 prodhim
-pleh organik
 shumë
 hartë
 mermer
 marsh
 shenjë
 treg
-i martuar
 martohem
 Mars
 mrekulli
-në masë
 mjeshtër
 kryevepër
 ndeshje
 martohem
-material
 mathematikan
 matematikë
 çështje
 çështjet
-i pjekur
 mund
-kryetar bashkie
 mua
 vakt
 mesatare
-meanadmire
-meanephemeral
 Kuptimi
 mjete
-meantame
 masë
 matje
 mish
@@ -1971,10 +1488,7 @@ mekanik
 Media
 mjekësi
 përsiatje
-medow
 takohen
-meetingplace
-melike
 shkrihet
 anëtar
 Anëtarët
@@ -1983,15 +1497,11 @@ kujtime
 kujtim
 burra
 mendor
-menthat
 tregtar
 mëshirë
-i thjeshtë
 thjesht
 meritë
 mesazh
-u takuan
-metal
 metalik
 metra
 metodë
@@ -2004,51 +1514,36 @@ migrojnë
 shpërngulje
 milje
 milje
-militant
 ushtarak
 milici
 qumësht
 milimetër
 milion
-millioni
 miliona
 imitacion
 mendje
 imja
-mineral
 miniaturë
 ministër
-minor
 pakicë
 kryekishë
 minutë
 minuta
-i mrekullueshëm
 pasqyrë
 fatkeqësi
 humbas
 raketë
-i humbur
 gabim
 gabime
-mistook
 keqkuptime
 përzierje
 përzierje
-moaned
 turmë
-i lëvizshëm
-model
 mesatar
-modern
-modest
-modestbut
 modeste
 modifikoj
 lagur
 lagështi
-i shkrirë
-moment
 monark
 para
 majmun
@@ -2058,21 +1553,13 @@ monotoni
 përbindësh
 muaj
 muaj
-me humor të rëndë
 hënë
-dritë hëne
 fshihen
 morenë
-moral
-moralist
-më shumë
 mëngjes
-morninggood
 më
-motel
 nënë
 lëvizje
-i palëvizshëm
 mal
 male
 vajtoj
@@ -2084,7 +1571,6 @@ Lëvizjet
 lëviz
 film
 kinema
-movingand
 shumë
 kifle
 shall
@@ -2099,62 +1585,47 @@ duhet
 surrat
 tim
 vetë
-myselfone
 Misteret
 misterioz
 mister
 emër
 emrin
 emrat
-i ngushtë
-i hundës
 komb
 kombëtar
-i lindur
 natyror
 natyrisht
 natyrë
 nef
-navely
 navigacion
 marinë
 afër
-i nevojshëm
 domosdoshmëri
 qafë
-neckties
 duhet
 hala
 nevoja
-lënë pas dore
 negociuar
 zezak
 fqinj
 lagje
 as
-neutral
 kurrë
 megjithatë
-i ri
 lajm
 tjetër
-i mirë
 natë
 askush
-noeaten
 zhurmë
 emëroj
-nonrenewable
 mesditë
 as
-normal
 veri
 hundë
 hundët
 nuk
 shënim
 shënim
-fletore shënimesh
 shënime
 asgjë
 njoftim
@@ -2163,7 +1634,6 @@ emër
 ushqim
 tani
 askund
-nowthat
 bërthamor
 numër
 numëror
@@ -2172,28 +1642,22 @@ ushqyese
 Ushqyesve
 bindje
 bindem
-iu bind
 objekt
 kundërshtoi
 objekte
 detyruar
-i panjohur
 vrojtim
 vëzhguar
 penguar
-i mpirë
 qartë
 rast
 profesion
-i zënë
 zë
 ndodhur
 oqean
 oqeanet
-oclock
 tetëkëndësh
 oktapod
-i rastësishëm
 nga
 ofensivë
 Oferta
@@ -2202,9 +1666,6 @@ oficer
 zyrtar
 shpesh
 vaj
-i vjetër
-oldfashioned
-omnivore
 dikur
 një
 ato
@@ -2217,53 +1678,39 @@ operoj
 operacion
 mendim
 kundërshtoj
-e kundërt
 shtyp
 portokall
 orbitë
 urdhër
 urdhëroi
 urdhra
-i zakonshëm
 organizëm
 organizoj
 jetim
 tjetër
-të tjerët
 duhet
 ons
 tonë
-nxjerr përjashta
 jashtë
 rezultat
 jashtë
-outrageously
 jashtë
-oval
 mbi
 kapërcyer
-i shfrenuar
 arrij
-i jap fund
 detyrohem
 buf
-i vet
 pronësi
 pronar
 zotërojnë
 qe
-i qetë
 faqe
 dhimbje
-me dhimbje
-i përpiktë
 bojë
 piktor
 piktorë
 ngjyra
 palë
-i zbehtë
-panda
 psherëtij
 letër
 parashutë
@@ -2274,14 +1721,11 @@ paralelogram
 falje
 prind
 kllapat
-park
 parlament
 majdanoz
 pjesë
-i pjesshëm
 grimcë
 Partitë
-partner
 thëllëzë
 pjesë
 parti
@@ -2293,43 +1737,31 @@ kalimtar
 kalon
 kalim
 pasaportë
-e kaluara
 patentë
 rrugë
 durim
-i durueshëm
 model
 pushim
 paguaj
 paqe
-në paqe
 majat
-ia plas të qeshurit
-peevishly
 laps
 lapsa
 pinguin
-pennies
 qindarkë
 Pentagoni
 njerëz
 për
 përqind
-i përkryer
 kryej
-i parfumuar
 ndoshta
 rrethues
 periudhë
 mbaroj
-i përhershëm
 leje
 leje
 pingul
-në mëdyshje
-person
 bind
-petals
 peticion
 uh
 fotografoj
@@ -2337,29 +1769,19 @@ fotosintezë
 frazë
 fizik
 fizikë
-i qëruar
 foto
 fotografi
 copë
 copë
 derr
-me push
-gjë e hidhur
 pilula
-pilot
 rozë
-jam i pari
 tub
 keqardhje
-pityyou
 vend
 qartë
-plan
 aeroplan
-planet
 planetet
-planetsgood
-planetssuch
 Planet
 bimë
 plantacion
@@ -2367,55 +1789,35 @@ bimët
 plastik
 luaj
 luajtur
-i gjallë
-shesh lojërash
-duke luajtur
 lutje
-ju lutem
-i kënaqur
-pleasedraw
-pleasetame
 kënaqësi
 bollëk
 komplot
 shpuploj
 këputur
-i zhytur
 shumës
-pocked
 xhep
 poemë
-poet
 poetik
 pikë
-i mprehtë
 helm
 pol
-poleonly
 polet
 polici
 politikë
-me edukatë
 politikë
-pollinator
 ndot
 shumëkëndësh
 pellg
 menduan
 pishinë
-i dobët
-poppies
 popullor
 popullsi
 qull
-port
 portret
 portrete
 pozicion
 posedoj
-i pushtuar nga djalli
-i mundshëm
-post
 postar
 shtyj
 paund
@@ -2424,28 +1826,21 @@ derdh
 derdhur
 varfëri
 pushtet
-i fuqishëm
 preri
 lavdërim
 lutem
 predikues
 mëparshme
-i çmuar
-i saktë
 pikërisht
 saktësi
 grabitqar
 parashikoj
-i parashikueshëm
 shtatzënë
 përgatitjet
 përgatit
-i përgatitur
 prani
-i pranishëm
 prezantim
 paraqitur
-president
 shtyp
 presion
 shtirem
@@ -2456,7 +1851,6 @@ pre
 çmim
 krenari
 kryesor
-i lashtë
 princ
 princat
 princeshë
@@ -2467,7 +1861,6 @@ burg
 privat
 çmim
 ndoshta
-problem
 Problemet
 proces
 prodhojnë
@@ -2477,16 +1870,12 @@ Produktet
 profesion
 profesor
 fitim
-program
 progres
 projekt
 premtim
-me shpejtësi
 provë
 provat
 propagandë
-i duhur
-siç duhet
 pronë
 propozoj
 propozuar
@@ -2504,14 +1893,12 @@ duhmë
 tërheq
 nxorrën
 rrotull
-duke tërhequr
 pompë
 kungull
 birë
 dënoj
 kone
 blerje
-i pastër
 vjollcë
 qëllim
 ndjek
@@ -2520,27 +1907,21 @@ shtyrë
 vendos
 vë
 vënë
-në mëdyshje
 piramidë
 kitara
 cilësi
-më merren mendtë
 shuaj
 pyetje
 Pyetjet
-i shpejtë
 shpejt
-i qetë
 krejt
 citat
 herës
 lepur
 rakun
 garë
-radar
 ndriçim
 rrezatim
-radio
 rrepkë
 rreze
 trap
@@ -2552,19 +1933,13 @@ hekurudhor
 hekurudhor
 shi
 ylber
-rainforest
 ngre
 ngritur
-ram
-u zhvillua
-i rastësishëm
 përdhunim
 shpejt
-i rrallë
 rrallë
 mi
 normë
-më tepër
 racion
 rreze
 arrij
@@ -2572,25 +1947,20 @@ arritur
 reagoj
 reagim
 lexoj
-readercom
 gati
-real
 realist
 realizoj
 realizuar
 vërtet
 arsye
-i arsyeshëm
 arsyetim
 Arsyet
 siguroj
 siguroi
-rebel
 risjell
 marr
 marrë
 merr
-i fundit
 rënie
 recitale
 njoh
@@ -2599,8 +1969,6 @@ memoare
 rekord
 rinumërim
 shërohem
-i kuq
-redfaced
 reduktuar
 rimëkëmbur
 reflektim
@@ -2615,17 +1983,14 @@ rajon
 rajonal
 regjistrohem
 keqardhje
-shprehur keqardhje
 rregullisht
 rregullohet
 mbretëroj
-hedh poshtë
 refuzuar
 Marrëdhëniet
 marrëdhënie
 çlodhje
 lirim
-relentlessly
 fe
 mbeten
 mbetur
@@ -2633,7 +1998,6 @@ eshtra
 vërejti
 kujtoj
 mend
-rememberhow
 kujtoi
 keqardhje
 heq
@@ -2659,18 +2023,14 @@ shpëtim
 hulumtim
 ngjashmëri
 ngjaj
-resentfulness
 rezervë
 rezervuar
-japë dorëheqjen
 rezistoj
 vendosur
 zgjidhje
-shigjetat e tua vepruan
 burime
 respekt
 respektuar
-me respekt
 përgjigjur
 përgjigje
 përgjegjësi
@@ -2685,29 +2045,20 @@ mbaj
 largohem
 përgjigj
 kthimi
-reusable
 zbuloi
 ëndërrim
 ringjallja
 revoltë
 revolucion
-revolver
 Rewind
 reumatizmi
 oriz
-i pasur
-më të pasur
-më i pasur
 shpëtoj
-riddles
 udhëtim
-ridges
 qesharak
 pushkë
-e drejtë
 drejt
 drejtat
-ring
 trazirë
 ngrihem
 rrezik
@@ -2719,7 +2070,6 @@ Lumenjtë
 rrugë
 rrugët
 gjëmim
-i zhurmshëm
 vjedh
 mantel
 shkëmb
@@ -2727,19 +2077,14 @@ tronditi
 raketë
 shkëmbinj
 rrotull
-që përsëritet
 çati
 dhomë
 rrënjë
 rrënjët
 litar
-rose
-shkurre trëndafili
-rosebushes
 faqekuq
 rozë
 rrotullim
-i përafërt
 rreth
 mbretëror
 fshij
@@ -2747,7 +2092,6 @@ gomë
 shkatërrim
 rregull
 thashetheme
-rumpled
 drejtuar
 vrapim
 shkon
@@ -2757,14 +2101,11 @@ nxitim
 nxituan
 nxiton
 Rusi
-i ndryshkur
 sabotim
 sakrificë
-i trishtuar
 trishtë
 trishtim
 trishtim
-i sigurt
 Sahara
 tha
 lundrim
@@ -2773,31 +2114,19 @@ kripë
 puthje
 përshëndeti
 përshëndet
-i njëjtë
 rërë
 plazh
-u mbyt
-sat
 satelit
 saten
-i kënaqur
-të kënaqur
-e shtunë
 ruaj
 shpëtuar
 kursim
 sharrë
 them
-duke thënë:
-saynot
 thotë
 shkallë
-i çfarëdoshëm
 mezi
-i frikësuar
 shall
-i kuq i ndezur
-i tmerrshëm
 dijetar
 Dijetarët
 shkollë
@@ -2814,8 +2143,6 @@ kërkim
 dete
 sezon
 vend
-i ulur
-i dytë
 sekonda
 sekret
 sekretet
@@ -2825,20 +2152,16 @@ shih
 farë
 fara
 SEEI
-duke parë
 kërkoj
-duke kërkuar
 duket
 dukej
 duket
 parë
 sheh
-segment
 kap
 konfiskuar
 konfiskim
 vete
-selfevident
 shes
 shitjen
 buzë
@@ -2846,9 +2169,7 @@ senat
 dërgoj
 dërgon
 kuptim
-i arsyeshëm
 dënim
-i veçantë
 rend
 seri
 serioz
@@ -2857,53 +2178,37 @@ seriozitet
 predikim
 shërbej
 shërbim
-i vendosur
 mjedis
 zgjidh
 vendosur
 shtatë
-i shtatë
-seventytwo
 disa
-i rëndë
 seks
-i lënë pas dore
 hijet
 shtrëngoj
-do të
 formë
 pjesë
 peshkaqen
-i mprehtë
 mprehur
 ajo
 dhen
-sheepif
-sheeps
-sheepthe
 fletë
 predhë
 predha
 strehim
 strehuar
-shimmer
 shndrit
 shkëlqen
 anije
-shipwrecked
 këmishë
 goditje
 tronditur
 këpucë
 tronditi
 gjuaj
-shoots
 dyqan
 pazar
 dyqane
-i shkurtër
-më të shkurtër
-e shtënë
 duhet
 supet
 bërtas
@@ -2914,13 +2219,9 @@ treguar
 treguar
 zbrapsem
 shkurre
-ngritje e supeve
-shrugging
 mbyll
 mbyllet
 Siberi
-i sëmurë
-i neveritshëm
 sëmundje
 anë
 psherëtimë
@@ -2928,85 +2229,57 @@ psherëtiu
 shenjë
 sinjal
 heshtje
-i heshtur
 mëndafsh
 budalla
 argjend
-i ngjashëm
-i thjeshtë
 thjeshtësi
-i thjeshtësuar
 thjesht
-që prej
-i sinqertë
 këndoj
-të kënduar
-i vetëm
 lavaman
 baba
-sireover
 motër
 ulem
 faqe
 ulet
-i ulur
 situatë
 gjashtë
-i gjashtë
 madhësi
 skelet
 skemë
 aftësi
 lëkurë
-pantallona të gjera
 skaj
 qiell
 rob
 skllavëri
 gjumë
-i fjetur
 rrëshqitje
-i lehtë
 pak
 pip
-i ngadalshëm
-slowest
 ngadalë
-i vogël
-më të vogël
 zgjuar
 thyhet
 erë
 ndjeu
 buzëqeshje
 buzëqeshi
-i qeshur
 duhan
-i qetë
 përtac
 gjarpër
-snakes
-snakesthey
 borë
 strukem
 kështu
-i rrëshqitshëm
 dënesje
 futboll
-social
 shoqëri
 butë
-me zë të ulët
 tokë
-i shitur
 ushtar
-i fortë
 zgjidhje
 zgjidh
 disa
 dikush
 dikush
-someones
 diçka
 ndonjëherë
 disi
@@ -3017,7 +2290,6 @@ shpejt
 Soothes
 pikëllim
 dhimbjet
-Më vjen keq
 lloj
 llojet
 zë
@@ -3026,23 +2298,18 @@ jug
 hapësirë
 flas
 folës
-i veçantë
 lloj
-në mënyrë specifike
 pamje
 fjalim
 shpejtësi
-i shpejtë
 shpenzoj
 sferë
 merimangë
 derdhje
 shpirt
 mëri
-i shkëlqyer
 ndarje
 foli
-sport
 vend
 llak
 përhap
@@ -3050,38 +2317,28 @@ përhapet
 degëz
 pranverë
 burimet
-sasi e vogël
-sprinklingcan
 dal
-lakër e kuqe
-sputtered
 spiun
 katror
 sheshe
-që rri galiç
 ketri
-goditje me thikë
 fazë
 shkallët
 qëndrim
 pozitë
 yll
 filluar
-stargazer
 yjet
 fillim
 filluar
 fillimi
-i mohoj
 shtet
 madhështor
 shtetet
-i pandryshueshëm
 stacion
 statujë
 rri
 qëndruar
-në mënyrë të qëndrueshme
 vjedh
 avull
 çelik
@@ -3089,31 +2346,25 @@ hap
 Hapat
 shkop
 ende
-i trazuar
 aksioneve
 stomak
 guri
 gurë
 qëndroi
-stop
 ndal
 dyqan
-i ruajtur
 histori
 stuhi
 histori
 sobë
 drejt
-i çuditshëm
 çuditshme
 rrip
-strategems
 strategji
 humbur
 rrugë
 stresues
 shtrirje
-i zgjatur
 barelë
 saktësisht
 hapa
@@ -3122,7 +2373,6 @@ varg
 rrip
 endacak
 shëtitës
-i fortë
 strukturë
 luftë
 mbërthyer
@@ -3137,12 +2387,7 @@ substancë
 zëvendësim
 periferik
 përmbysje
-të ketë sukses
-pasur sukses
 sukses
-i suksesshëm
-i tillë
-i papritur
 papritmas
 vuaj
 vuajtur
@@ -3153,21 +2398,14 @@ sugjerim
 vetëvrasje
 shumë
 verë
-Shuma të
 diell
-e diel
-dritë dielli
 agim
 muzg
-sunsets
-kohë e mirë
 mbikëqyr
 furnizim
 mbështetje
 mendoj
 shtyp
-i sigurt
-me siguri
 sipërfaqe
 kirurg
 tepricë
@@ -3176,20 +2414,16 @@ befasuar
 dorëzohem
 rrethoj
 mbijetoj
-i dyshimtë
 pezulloj
 dyshim
 gëlltitje
 gllabërim
 betohem
-i ëmbël
 ëmbël
 ëmbëlsi
 bymehet
 notoj
 not
-ndërrues binarësh
-switchmans
 rrokje
 rrokjet
 simbol
@@ -3205,14 +2439,6 @@ marrje
 tregim
 diskutim
 biseduar
-duke folur
-i gjatë
-e lartë
-i urtë
-tamed
-tames
-tank
-i vonuar
 objektiv
 tarifë
 detyrë
@@ -3228,7 +2454,6 @@ lot
 lot
 teknik
 teknologji
-i lodhshëm
 dhëmbët
 telefon
 teleskop
@@ -3236,56 +2461,34 @@ televizion
 them
 temperaturë
 tempujt
-i përkohshëm
 dhjetë
 prireshin
 butësi
 butësi
-i tensionuar
-term
-terrarium
-i tmerrshëm
-terrifically
 territor
-terror
-terrorist
 provë
 se
-thank
 fatmirësisht
 falënderim
 që
-thatin
-thatlook
-thats të
 teatër
-e tyre
 ata
 temë
 vetë
 pastaj
-thenthe
 teori
 atje
 prandaj
-therehappy
 këto
 ata
-i trashë
 trashë
-i hollë
 gjë
 gjëra
 mendoj
-të menduarit
-i tretë
 etje
-i etur
 tridhjetë
-thirtyone
 kjo
 gjemba
-thornswhat
 tërësisht
 ato
 ndonëse
@@ -3297,15 +2500,12 @@ kërcënoj
 tre
 hodhi
 lulëzoj
-throbs
 fron
 përmes
 hedh
 bravo
-goditje e fortë
 bubullimë
 bubulloi
-e enjte
 kështu
 kravatë
 Lidhjet
@@ -3313,22 +2513,13 @@ tigër
 tigrat
 kohë
 kohët
-timewell
-i turpshëm
 xhingël
-i vockël
 Tipler
 pijanec
-tipplers
 gomë
-i lodhur
 goma
-i lodhshëm
 në
-ai që thotë dolli
 sot
-këpucë me majë
-së bashku
 mundin
 tualet
 tha
@@ -3337,21 +2528,15 @@ nesër
 ton
 gjuhë
 sonte
-tonightyou
 bajame
 shumë
 mori
 mjet
 mjete
 dhëmb
-më i lartë
 vuajtje
-i shqyer
 torturë
-tossed
-total
 prek
-i prekur
 turne
 drejt
 kullë
@@ -3370,7 +2555,6 @@ tren
 trena
 përkthim
 transport
-transport
 kurth
 udhëtim
 udhëtuar
@@ -3386,43 +2570,30 @@ pemë
 pemë
 dridheshin
 drithërimë
-i llahtarshëm
 gjyq
 fisnor
 fis
 mashtrim
-u përpoq
 udhëtim
 trupa
 tropikal
 bezdis
 armëpushim
 kamion
-trudged
-i vërtetë
-me të vërtetë
 besim
-e vërtetë
 përpiqem
-duke u përpjekur
 tub
 tundër
 turk
 kthesë
-u kthye
 kthese
 breshkë
-mësues privat
 dymbëdhjetë
 njëzet
-dy herë
 muzg
-të përdredhur
 dy
 lloj
-i shëmtuar
 ultratingull
-i pasigurt
 pakëndshme
 nën
 nën
@@ -3430,58 +2601,37 @@ kuptoj
 kuptim
 kupton
 kuptohet
-për fat të keq
-i trishtuar
 unik
 njësi
 bashkoj
-i bashkuar
-universal
 univers
 universitet
-po të mos
-vështirë se
-i pafat
-i panevojshëm
-heq kapakun
 deri
 gënjeshtër
 lart
 në
-i drejtë
 mërzitur
 lart
-urban
 nxis
 urgjent
 na
 përdorin
-i përdorur
-i dobishëm
 portier
-i zakonshëm
 zakonisht
 pushime
 vaksinë
 luginë
-me vlerë
 vlerë
-vanitywhich
+kotësi
 perime
 automjet
-venusto
 folje
 vendim
 prag
-i vërtetë
-version
 kulm
 shumë
-veto
-i shqetësuar
 viktimë
 fitore
-video
 fshat
 vreshta
 shkelin
@@ -3497,7 +2647,6 @@ vullkan
 Vullkani
 voluminoz
 vullnetar
-të vjella
 votim
 kupon
 zanore
@@ -3509,11 +2658,11 @@ pritje
 pret
 ngrihen
 eci
-walkand
 eci
+këmbësor
 ecje
+ecën
 mur
-Walland
 Muret
 bredh
 Endet
@@ -3522,18 +2671,14 @@ kërkuar
 dëshiron
 luftë
 luftim
-i ngrohtë
 paralajmëroj
 ishte
 laj
 rondele
 mbeturina
-i tretur
 orë
 shikuar
-watches
 ujë
-i holluar me ujë
 lotim
 Ujërat
 vat
@@ -3543,7 +2688,6 @@ Valët
 mënyrë
 mënyra
 ne
-i dobët
 pasuri
 armë
 armëve
@@ -3552,20 +2696,14 @@ lodhje
 veshur
 mot
 Weathervane
-web
-farë e keqe
-rroba zije
 javë
 fundjavë
-e qarë
 rëndoj
-i mirëpritur
 mirë
 Puset
 shkoi
 ishin
 perëndim
-i lagësht
 ligatinore
 çfarë
 çfarëdo
@@ -3573,27 +2711,17 @@ grurë
 rrotë
 rrota
 kur
-që nga
-sa herë që
 ku
-kudo që
 nëse
 që
 ndërsa
-e bardhë
 që
 kush
 gjithë
 cilin
 këdo
 pse
-i gjerë
 grua
-i egër
-lëndë e djegshme
-do të
-i gatshëm
-të fitojë
 erë
 dritare
 dritaret
@@ -3601,7 +2729,6 @@ krahë
 dimër
 tel
 urtësi
-i mençur
 uroj
 dëshironte
 Urimet
@@ -3611,12 +2738,10 @@ tërheq
 brenda
 pa
 dëshmitar
-u zgjua
 ujk
 grua
 uon
 çudi
-i mrekullueshëm
 pyesin
 zakon
 dru
@@ -3629,47 +2754,26 @@ punuar
 pune
 botëror
 botëve
-i veshur
-i shqetësuar
 merak
 shqetësuese
-më keq
-më i keq
 vlerë
 do
 Wouldnt
 plagë
-anije e mbytur
-mbeturina anijeje
 rrudhë
 shkruaj
-i shkruar
-i gabuar
 shkroi
 oborr
-gjë e mërzitshme
-yawned
-yawning
-yawns
 vit
 vjetor
 vjet
-i verdhë
 po
 dje
 ende
 atje
 ju
-i ri
 juaj
-Youre
 yti
 vetë
 veten
-të rinjtë
-youthe
-youve
-zealand
 zebër
-zero
-kopsht zoologjik

@@ -2,20 +2,15 @@ terkedilmiş
 utanmış
 yetenekli
 çiçekli
-abodes
 hakkında
 yukarıdaki
 aniden
-abruptlyas
 yokluk
-absentminded
 kesin
 saçma
 bol
 taciz
 uçurum
-kabul etmek
-kabul edilen
 kaza
 beğeni
 göre
@@ -45,8 +40,6 @@ yönetim
 hayranlık
 hayran
 hayran
-admirers
-itiraf etmek
 benimsemek
 benimseme
 tapıyorum
@@ -65,17 +58,14 @@ korkan
 Afrika
 Afrika
 sonra
-öğleden sonra
 tekrar
 karşı
 yaş
 ajans
 saldırganlık
 önce
-agoyou
 anlaşmak
 tarım
-ah
 önde
 yardım
 amaç
@@ -94,20 +84,15 @@ aynı
 canlı
 tüm
 timsah
-izin vermek
 müttefik
 almanak
 neredeyse
-tek başına
-aloneall
-alonewill
 boyunca
 uzak
 zaten
 ayrıca
 rağmen
 tamamen
-her zaman
 şaşkınlık
 büyükelçi
 değiştirmek
@@ -118,7 +103,6 @@ arasında
 miktar
 eğlendirmek
 eğlenceli
-analiz etmek
 anarşi
 ata
 eski
@@ -129,8 +113,6 @@ açılar
 kızgın
 hayvan
 hayvanlar
-animalsi
-ayak bileği
 yıldönümü
 duyurmak
 kızdırmak
@@ -143,11 +125,8 @@ karınca
 herhangi
 kimse
 kimse
-bir şey
 zaten
-hiçbir yerde
 ayrı
-özür dilemek
 açık
 hayalet
 temyiz
@@ -156,7 +135,6 @@ görünüm
 çıktı
 görüntülenir
 elma
-tayin etmek
 yaklaşım
 onaylamak
 yaklaşık
@@ -168,7 +146,6 @@ vardır
 alan
 tartışmak
 aritmetik
-arizona
 kol
 silâh
 ordu
@@ -181,16 +158,12 @@ varmak
 geldi
 sanat
 yapay
-ağır silahlar
 olarak
 kül
 utanmış
-bir kenara
 sormak
-diye sordu
 yanlamasına
 isteme
-diye soruyor
 uykuda
 montaj
 yardım
@@ -207,11 +180,8 @@ astronot
 astronom
 astronomik
 astronomi
-parça parça
 iltica
-ate
 atmosfer
-atom
 iliştirmek
 saldırı
 girişim
@@ -244,14 +214,9 @@ saçmalık
 top
 bale
 balon
-oy pusulası
-ban
 bandaj
 banka
 ziyafet
-baobap ağacı
-baobabs
-bar
 berber
 çıplak
 pazarlık
@@ -277,7 +242,7 @@ oldu
 olmak
 olur
 olma
-becuase
+çünkü
 yatak
 arı
 oldu
@@ -305,9 +270,6 @@ bükülmüş
 dut
 yanında
 dışında
-en iyi
-ihanet etmek
-daha iyi
 arasında
 şaşkın
 ötesinde
@@ -319,14 +281,10 @@ milyar
 biyoloji
 kuş
 kuşlar
-doğum günü
-bit
 ısırmak
-bject
 siyah
 suçlama
 battaniye
-çamaşır suyu
 sulanmış
 kanamak
 kusal
@@ -339,9 +297,6 @@ darbe
 şişmiş
 darbeler
 mavi
-gaf yapan
-boa yılanı
-boas
 övünen
 tekne
 vücut
@@ -353,23 +308,18 @@ kemikli
 kitap
 kitaplık
 kitaplar
-boomtown
 sınır
 sıkılmış
 Delikler
 doğmuş
-ödünç almak
-her ikisi de
 zahmet
 şişe
 şişeler
 alt
-satın aldı
 kutu
 kutuları
 oğlan
 boykot
-boys
 bilezik
 beyin
 şube
@@ -379,7 +329,6 @@ mola
 arıza
 kahvaltı
 kırılma
-nefes almak
 soludu
 esinti
 tuğla
@@ -387,7 +336,6 @@ gelin
 köprü
 kısa
 parlak
-ışıl ışıl
 getirmek
 yayın
 meteliksiz
@@ -400,7 +348,6 @@ kabarcık
 kova
 tomurcuk
 bütçe
-inşa etmek
 bina
 yapılı
 hantal
@@ -422,9 +369,6 @@ meşgul
 ancak
 kelebekler
 kelebek
-ama buna ne dersin
-satın almak
-satın alma
 tarafından
 lahana
 lahanalar
@@ -454,7 +398,6 @@ gölgelik
 edemez
 yetenekli
 sermaye
-ele geçirmek
 araba
 karavan
 karbon
@@ -463,7 +406,6 @@ kariyer
 dikkatli
 dikkatlice
 dikkatsizce
-etobur hayvan
 halı
 taşıma
 taşınan
@@ -477,10 +419,9 @@ kaleler
 kedi
 afet
 yakalamak
-yakalayan şey
 çekici
+tırtıl
 tırtıllar
-caterpillarswho
 yakalandı
 neden
 ateşkes
@@ -491,9 +432,11 @@ merkez
 santimetre
 merkezi
 yüzyıl
+yüzyıllarda
 tören
 belli
 kesinlikle
+sandalye
 sandalye
 başkan
 oda
@@ -504,15 +447,15 @@ değiştirilebilir
 değişmiş
 değişiklikler
 adam
-küçük kilise
 karakter
 karakalem
-chare
 ücret
 büyüleyici
 grafik
+çizelgeleri
 kovalamak
 hile
+hileleri
 kontrol
 kontrol
 tezahürat
@@ -522,6 +465,7 @@ kimyasallar
 kimya
 melek
 çiğnemek
+çiğniyor
 çiğneme
 tavuk
 tavuklar
@@ -533,21 +477,26 @@ baca
 çini
 cips
 seçim
+seçimler
 kısık
 seçmek
+tıkladığınız
 seçti
 Noel
 kıkırdama
 kilise
+kiliseler
 sigara
 daire
+çevreler
 devre
+devreler
 çevre
-etrafını dolaşmak
-buzyalağı
 vatandaş
+vatandaşlar
 vatandaşlık
 şehir
+şehirler
 sivil
 sivil
 örtülü
@@ -556,17 +505,19 @@ alkış
 çırptı
 açıklamak
 çatışma
+çatışmalar
 sınıf
+sınıflar
 sınıflandırmak
+pençe
 pençeleri
 temiz
+temizler
 temizlenir
 temizlik
 açık
 takas
 açıkça
-clearsighted
-ruhban sınıfı
 kâtip
 iklim
 tırmanış
@@ -609,7 +560,6 @@ komuta
 yorum
 komite
 ortak
-iletişim kurmak
 topluluk
 degiştirilebilen
 yoldaşları
@@ -643,10 +593,8 @@ davranış
 kondüktör
 koni
 konferans
-itiraf etmek
 itiraf
 itiraf
-confided
 güven
 Confidences
 onaylamak
@@ -654,7 +602,6 @@ onaylamak
 yüzleştirme
 şaşırtmak
 karışıklık
-tebrik etmek
 kongre
 uyumlu
 bağlamak
@@ -664,12 +611,10 @@ muhafazakâr
 düşünmek
 önemli
 anayasa
-boa yılanı
 konstriktör
 inşaat
 danışılan
 tüketici
-consumingly
 temas
 içermek
 konteyner
@@ -677,8 +622,6 @@ seyretme
 içerik
 kıta
 kıtalar
-devam etmek
-devam eden
 süreklilik
 aksi
 kontrol
@@ -686,11 +629,9 @@ uygun
 kongre
 konuşma
 dönüştürmek
-ikna olmuş
 aşçı
 piknik
 serin
-işbirliği yapmak
 koordinatlar
 kopya
 cilveli
@@ -704,7 +645,6 @@ pamuk
 öksürük
 öksürdü
 olabilir
-couldnt
 konsey
 saymak
 ülke
@@ -728,7 +668,6 @@ yaratık
 yaratıklar
 kredi
 mürettebat
-diye bağırdı
 suç
 ceza
 kriz
@@ -737,8 +676,6 @@ timsah
 bitkileri
 çapraz
 geçti
-crossexamine
-aksi bir
 kalabalık
 kalabalık
 taç
@@ -750,7 +687,6 @@ küp
 kültür
 hantal
 kür
-sokağa çıkma yasağı
 merak
 meraklı
 kıvırcık
@@ -770,7 +706,6 @@ tehlike
 tehlikeli
 tehlikeli
 sallantıda
-cesaret etmek
 cesaret
 karanlık
 karanlık
@@ -780,7 +715,6 @@ tarih
 kız
 şafak
 gün
-dayagain
 şafak
 günler
 ölü
@@ -790,11 +724,9 @@ sevgili
 ölüm
 tartışma
 borç
-karar vermek
 karar
 ondalık
 bildirmek
-dekore edilmiş
 azaltmak
 amel
 derin
@@ -808,7 +740,6 @@ derece
 keyifsizlik
 gecikme
 temsilci
-delta
 talep
 talep
 demokrasi
@@ -831,7 +762,6 @@ tanımlamak
 tarif
 çöl
 çöller
-desertwhat
 dizayn
 arzu
 büro
@@ -851,7 +781,6 @@ elmas
 diktatör
 sözlük
 yaptım
-değil mi
 ölmek
 diyet
 fark
@@ -863,19 +792,14 @@ sindirim
 kazma
 basamak
 gamze
-akşam yemeği
-diplomat
 direkt
 yönlendirilmiş
 yön
 kir
 dezavantaj
 kaybolmak
-yok olma
 kayboldu
-hayal kırıklığına uğramış
 silahsızlandırılması
-disarranged
 afet
 disiplin
 cesareti
@@ -883,10 +807,8 @@ keşfetmek
 keşfetti
 keşfeder
 keşif
-ayırt etme
 tartışmak
 hastalık
-disheartened
 azletme
 itaatsizlik
 uymamak
@@ -901,12 +823,10 @@ seçkin
 dağıtım
 ilçe
 rahatsız
-rahatsız edici
 dalış
 bölmek
 bölünmüş
 bölünme
-do
 doktor
 belge
 yok
@@ -923,14 +843,10 @@ Yüklü
 kapı
 çift
 şüphe
-doubtit
 şüpheler
 güvercinler
 aşağı
 taslaklar
-draftsthat
-dragon
-drama
 içti
 çizmek
 çekmece
@@ -940,7 +856,6 @@ içti
 korkunç
 rüya
 Rüya
-dreamthis
 giyimli
 çekti
 içki
@@ -962,7 +877,6 @@ görev
 ölen
 her
 kartal
-en erken
 erken
 kazanmak
 ciddiyetle
@@ -981,7 +895,6 @@ yeme
 yiyor
 eko
 yankılandı
-echolocation
 ekoloji
 ekonomi
 ekosistem
@@ -991,11 +904,8 @@ etki
 çaba
 yumurta
 yumurta
-eh
 sekiz
 sekizinci
-eis
-ya da
 seçmek
 seçim
 elektrik
@@ -1003,21 +913,17 @@ elektrikçi
 elektrik
 şıklık
 eleman
-elephans
 fil
 filler
-on bir
 başka
 mahcup
 mahçup
 elçilik
 embriyo
 çıkmak
-acil durum
 duygu
 kullanmak
 boşaltılıyor
-empties
 boş
 büyü
 Buluşmaları
@@ -1029,7 +935,6 @@ enerji
 zorlamak
 motor
 mühendis
-enginegrease
 İngilizce
 hoşlanmak
 yeterli
@@ -1041,7 +946,6 @@ tamamen
 girişimci
 giriş
 çevre
-kısa ömürlü
 eşit
 denklem
 ekvator
@@ -1074,12 +978,9 @@ hiç
 her
 herkes
 herkes
-her şey
-her yerde
 delil
 kötülük
 kesin
-tam olarak
 incelemek
 incelenmesi
 örnek
@@ -1088,10 +989,7 @@ dışında
 borsa
 heyecanlı
 heyecan
-heyecan verici
 haykırmak
-diye bağırdı
-hariç tutma
 bahane
 gerçekleştirmek
 yönetici
@@ -1102,7 +1000,6 @@ var
 var
 varoluş
 var
-exp
 genişletmek
 genişletilmiş
 beklemek
@@ -1124,13 +1021,11 @@ ihracat
 ekspres
 ifade
 uzatmak
-soyu tükenmiş
 sönme
 sönmüş
 ekstra
 olağanüstü
 aşırı
-son derece
 aşırılık
 göz
 gözler
@@ -1158,13 +1053,10 @@ tanıdık
 ailelerin
 aile
 ünlü
-fan
 fantezi
 uzak
 çiftlik
 çiftçiler
-çiftlik avlusu
-daha uzak
 moda
 hızlı
 tutturmak
@@ -1179,7 +1071,6 @@ favori
 favori
 korku
 özellik
-federal
 beslemek
 hissetmek
 ayaklar
@@ -1189,7 +1080,6 @@ keçe
 kadın
 çit
 bereketli
-festival
 ateş
 ateşli
 az
@@ -1198,15 +1088,11 @@ alanlar
 sert
 onbeş
 beşinci
-fiftyfour
-FiftyThree
 kavga
 rakam
 rakamlar
 doldurmak
 dolu
-film
-final
 nihayet
 mali
 bulmak
@@ -1218,11 +1104,9 @@ bitirmek
 bitmiş
 yangın
 yangınlar
-havai fişek gösterisi
 firma
 sıkıca
 ilk
-firstto
 balık
 uygun
 beş
@@ -1246,9 +1130,7 @@ un
 akış
 çiçek
 çiçekler
-flowerthe
 uçulan
-akıcı biçimde
 sıvı
 floresan
 kızardı
@@ -1258,7 +1140,6 @@ odak
 sis
 kat
 folklor
-takip etmek
 şu
 düşkün
 gıda
@@ -1266,7 +1147,6 @@ aptal
 aptalca
 ayak
 futbol
-ayak izi
 tabure
 futbol
 için
@@ -1280,28 +1160,23 @@ alın
 yabancı
 orman
 ormanlar
-sonsuza dek
 unutmak
 unutma
 affetmek
 af
 unuttum
 unutulmuş
-form
 eski
 formlar
 terkedilmiş
-çok şükür
-fortyfour
+kırk
 ileri
 bulundu
 çeşme
-fountainpen
 dört
 dördüncü
 tilki
 Tilkiler
-foxhis
 kesir
 kırık
 kırılgan
@@ -1338,18 +1213,16 @@ komik
 vermek
 mobilyalı
 gelecek
-gadget
 kazanç
 oyun
 Oyunlar
 çöp
 bahçe
-gardenand
+bahçıvanlık
 gaz
 toplamak
 toplanmış
 verdi
-gazed
 genel
 genellemek
 genellikle
@@ -1357,7 +1230,6 @@ nesil
 soykırım
 nazik
 beyefendi
-gentlemans
 nazikçe
 coğrafyacı
 coğrafyacılar
@@ -1365,10 +1237,8 @@ coğrafyalar
 coğrafya
 geometrik
 sardunyalar
-gerbil
 jest
 almak
-gets
 sersem
 hediye
 hediyeler
@@ -1396,8 +1266,6 @@ gider
 gidiş
 altın
 altın
-akvaryum balığı
-golf
 gitmiş
 iyi
 elveda
@@ -1420,7 +1288,6 @@ mezar
 ciddi
 gri
 büyük
-daha fazla
 büyük
 çok
 yeşil
@@ -1437,7 +1304,6 @@ homurtu
 yetişkin
 büyükler
 yetişir
-diye homurdandı
 garanti
 koruma
 gerilla
@@ -1450,21 +1316,16 @@ suçlu
 tabanca
 silahlar
 alışkanlık
-yetişme ortamı
 konut
 saç
 yarım
-halfconfidence
-halfsmile
 koridor
 durdurmak
 çekiç
-hamster
 el
 mendil
 işlemek
 eller
-handsomest
 asmak
 asılı
 olur
@@ -1477,21 +1338,16 @@ zor
 tavşan
 zarar
 zararlı
-harmfully
 sert
 hasat
 var
-değil var
 seğirtti
 alelacele
-hasyes
 şapka
 nefret
 var
 sığınak
-sahip olan
 kafa
-paldır küldür
 merkez
 iyileşmek
 sağlık
@@ -1511,7 +1367,6 @@ helikopter
 yardım
 yarımküre
 onu
-otobur hayvan
 sürü
 burada
 keşiş
@@ -1520,12 +1375,10 @@ kendini
 duraksama
 duraksadı
 altıgen
-kış uykusuna yatmak
 gizlemek
 gizler
 gizleme
 yüksek
-en yüksek
 kaçırmak
 tepe
 onu
@@ -1543,7 +1396,6 @@ delikleri
 tatil
 kutsal
 ev
-vatan hasreti çeken
 dürüst
 bal
 onur
@@ -1584,7 +1436,6 @@ zarar
 koca
 hipotez
 buz
-icecream
 fikir
 fikirler
 belirlemek
@@ -1634,7 +1485,6 @@ girinti
 bağımsızlık
 bağımsız
 Hint
-indies
 kayıtsızlık
 bireysel
 hoşgörüyle
@@ -1649,7 +1499,6 @@ bildirmek
 bilgi
 sakinleri
 yaşadığı
-enjekte etmek
 yaralamak
 mürekkep
 masum
@@ -1661,10 +1510,8 @@ böcek
 güvensiz
 ayrılamaz
 içeride
-ısrar etti
 denetlemek
 muayene
-ilham verici
 örnek
 anlık
 anında
@@ -1692,15 +1539,11 @@ müdahale
 yakından
 içine
 sarhoş
-istila etmek
-icat etmek
 icat
 buluş
 ters
-yatırım yapmak
 araştırmak
 görünmez
-davet etmek
 dahil
 demir
 ĠKO
@@ -1723,8 +1566,6 @@ sorun
 o
 onun
 kendisi
-iv
-ix
 hapis
 sarsıldı
 mücevher
@@ -1736,7 +1577,7 @@ yolculuk
 sevinçle
 yargıç
 karar
-yargılamak
+yargılama
 adli
 atlama
 atladı
@@ -1762,18 +1603,14 @@ kral
 krallık
 krallar
 öpücük
-kedi yavrusu
 dizler
 biliyordu
 bıçak
 vurmak
 düğüm
 bilmek
-knowa
-knowi
 bilen
 bilgi
-da bilirsin
 bilinen
 bilir
 boğum
@@ -1783,12 +1620,10 @@ eksiklik
 göl
 lamba
 fenerci
-lamplighters
 lambalar
 arazi
 indi
-landform
-manzara
+peyzaj
 dil
 büyük
 büyük
@@ -1816,7 +1651,6 @@ sıçradı
 öğrenmek
 bilgili
 öğrenme
-en az
 deri
 ayrılmak
 ayrılma
@@ -1825,22 +1659,17 @@ Sol
 yasal
 efsane
 yasama
-yasama organı
 bacaklar
 boş
 vermek
 uzunluk
-daha az
 ders
-let
 sağlar
 mektup
 seviye
-liberal
 yalan
 yalanlar
 hayat
-lifefor
 asansör
 ışık
 ışıklı
@@ -1851,7 +1680,6 @@ sevimli
 gibi
 sevilen
 muhtemelen
-limit
 hat
 oyalanmak
 bağlantı
@@ -1868,7 +1696,6 @@ yaşamış
 yaşıyor
 yaşam
 yük
-loafing
 borç
 ıstakoz
 yerel
@@ -1890,8 +1717,6 @@ kaybetmek
 kayıp
 çok
 çok
-yüksek sesle
-yüksek sesle
 aşk
 sevilen
 günbatımına
@@ -1905,9 +1730,6 @@ bağlılık
 şanslı
 hazin
 ılık
-aya ait
-öğle yemeği
-yalan söyleme
 makine
 yapılmış
 dergi
@@ -1927,9 +1749,7 @@ yapmak
 yapar
 yapma
 erkek
-kötü niyetli
 adam
-manhe
 örtü
 üretim
 gübre
@@ -1954,16 +1774,11 @@ matematik
 madde
 konular
 olgun
-may
-belediye başkanı
 bana
 yemek
 ortalama
-meanadmire
-meanephemeral
 anlamı
 araç
-meantame
 ölçmek
 ölçüm
 et
@@ -1971,10 +1786,7 @@ mekanik
 medya
 tıp
 meditasyon
-medow
 tanışmak
-meetingplace
-melike
 eriyik
 üye
 üye
@@ -1983,14 +1795,12 @@ hatıralar
 bellek
 erkekler
 zihinsel
-menthat
 tüccar
 merhamet
 sırf
 sadece
 fazilet
 mesaj
-bir araya geldi
 maden
 madeni
 metre
@@ -1998,7 +1808,6 @@ yöntem
 mikroskop
 havada
 orta
-gece yarısı
 Olabilir
 göç
 göç
@@ -2010,12 +1819,10 @@ milis
 süt
 milimetre
 milyon
-millioni
 milyonlarca
 taklit
 zihin
 mayın
-mineral
 minyatür
 bakan
 küçük
@@ -2032,17 +1839,13 @@ kayıp
 hata
 hatalar
 Mistook
-yanlış anlamalar
 karıştırmak
 karışım
 inledi
 çete
 hareketli
-model
 ılımlı
-modern
 mütevazi
-modestbut
 alçakgönüllülükle
 değiştirmek
 nemlendirilmiş
@@ -2052,7 +1855,6 @@ an
 hükümdar
 para
 maymun
-tek parça anıt
 monoton
 monotonluk
 canavar
@@ -2065,11 +1867,8 @@ sildi
 moren
 manevi
 ahlâkçı
-daha fazla
 sabah
-morninggood
 en
-motel
 anne
 hareket
 hareketsiz
@@ -2084,22 +1883,18 @@ hareketler
 hamle
 film
 filmler
-movingand
 çok
 çörek
 susturucu
 çarpma
 anne
 cinayet
-diye mırıldandı
 mantar
 müzik
-misket tüfeği
 şart
 ağız
 benim
 kendim
-myselfone
 gizemleri
 gizemli
 gizem
@@ -2112,10 +1907,7 @@ ulus
 ulusal
 yerli
 doğal
-doğal olarak
 doğa
-kilise ortası
-navely
 navigasyon
 donanma
 yakın
@@ -2134,20 +1926,17 @@ semt
 hiçbiri
 nötr
 asla
-yine de
 yeni
 haber
 sonraki
 güzel
 gece
 kimse
-noeaten
 gürültü
 atamak
 yenilenemeyen
 öğlen
 ne
-normal
 kuzey
 burun
 burunlar
@@ -2156,14 +1945,11 @@ notasyonu
 not
 defter
 notlar
-hiçbir şey
 uyarı
 fark
 isim
 beslenme
 şimdi
-hiçbir yerde
-nowthat
 nükleer
 numara
 rakam
@@ -2171,7 +1957,6 @@ sayısal
 hemşirelik
 besinler
 itaat
-itaat etmek
 itaat
 nesne
 itiraz
@@ -2182,15 +1967,12 @@ gözlem
 gözlemek
 tıkalı
 duygusuz
-belli ki
 fırsat
 işgal
 meşgul
-işgal etmek
 oluştu
 okyanus
 okyanuslar
-oclock
 sekizgen
 ahtapot
 garip
@@ -2200,23 +1982,18 @@ teklif
 ofis
 subay
 resmi
-sık sık
 petrol
 eski
-oldfashioned
 Hepçil
-bir zamanlar
 bir
 olanlar
 kendini
 sadece
 açık
 açıldı
-opera
 işletmek
 operasyon
 görüş
-karşı çıkmak
 karşısında
 ezmek
 turuncu
@@ -2236,21 +2013,15 @@ bizim
 çıkarmak
 dışarı
 sonuç
-açık havada
-outrageously
 dışında
-oval
 üzerinde
-üstesinden gelmek
 baskın
 sollamak
 devirmek
 borçluyum
 baykuş
 kendi
-mülkiyete ait
 sahip
-sahip olan
 öküz
 barışçı
 sayfa
@@ -2263,18 +2034,14 @@ ressamlar
 boyalar
 çift
 soluk
-panda
-panted
 kâğıt
 paraşüt
 geçit
 paragraf
 paralel
 paralelkenar
-pardon
 ebeveyn
 parantez
-park
 parlamento
 maydanoz
 bölüm
@@ -2289,12 +2056,10 @@ geçmek
 geçti
 yolcu
 yolcu
-passerby
 geçer
 geçen
 pasaport
 geçmiş
-patent
 yol
 sabır
 hasta
@@ -2328,7 +2093,6 @@ izin
 dik
 çapraşık
 kişi
-ikna etmek
 yaprakları
 dilekçe
 vay
@@ -2339,27 +2103,21 @@ fiziksel
 fizik
 seçilmiş
 resim
-pictures
 parça
 parçalar
 domuz
 kazıklı
 hap
 hapları
-pilot
 pembe
 öncü
 boru
 yazık
-pityyou
 yer
 açıkça
-plan
 düzlem
 gezegen
 gezegenler
-planetsgood
-planetssuch
 planları
 bitki
 fidanlık
@@ -2368,13 +2126,10 @@ plastik
 oynamak
 oynadı
 oynak
-oyun alanı
 oynama
 savunma
 lütfen
 memnun
-pleasedraw
-pleasetame
 zevk
 bol
 arsa
@@ -2382,7 +2137,6 @@ yolmak
 koparıp
 daldı
 çoğul
-pocked
 cep
 şiir
 şair
@@ -2391,7 +2145,6 @@ nokta
 sivri
 zehir
 kutup
-poleonly
 kutuplar
 polis
 politika
@@ -2412,13 +2165,11 @@ liman
 portre
 portreler
 pozisyon
-sahip olmak
 deli
 mümkün
 posta
 posta
 ertelemek
-pound
 lira
 dökmek
 döktü
@@ -2427,16 +2178,13 @@ güç
 güçlü
 kır
 övgü
-dua etmek
 vaiz
 önceki
 kıymetli
 kesin
 tam
 hassas
-yırtıcı hayvan
 tahmin
-tahmin edilebilir
 hamile
 hazırlıkları
 hazırlamak
@@ -2477,16 +2225,13 @@ yapımcı
 meslek
 profesör
 kâr
-program
 ilerleme
 proje
 söz
 acilen
 geçirmez
 deliller
-propaganda
 uygun
-uygun şekilde
 özellik
 önermek
 Önerilen
@@ -2509,8 +2254,6 @@ pompa
 kabak
 delinme
 cezalandırmak
-köpek yavrusu
-satın alma
 saf
 mor
 amaç
@@ -2518,11 +2261,9 @@ peşinde
 itme
 itti
 koymak
-puts
 koyarak
 şaşkın
 piramit
-çeyrek daire
 kalite
 ibne
 gidermek
@@ -2537,7 +2278,6 @@ bölüm
 tavşan
 rakun
 yarış
-radar
 parlaklık
 radyasyon
 radyo
@@ -2556,7 +2296,6 @@ Rainforest
 yükseltmek
 yükseltilmiş
 koç
-ran
 rasgele
 kolza
 hızla
@@ -2572,7 +2311,6 @@ ulaştı
 tepki
 tepki
 okumak
-readercom
 hazır
 gerçek
 gerçekçi
@@ -2583,10 +2321,8 @@ neden
 makul
 muhakeme
 nedenleri
-güvence vermek
 güvence
 asi
-geri çağırma
 almak
 Alınan
 alır
@@ -2600,13 +2336,11 @@ kayıt
 nakletmek
 kurtarmak
 kırmızı
-redfaced
 azaltmak
 çile
 yansıma
 yansımalar
 yansıtıcı
-reform
 mülteci
 çöp
 reddediyor
@@ -2616,7 +2350,6 @@ bölgesel
 kaydetmek
 pişmanlık
 pişman
-düzenli olarak
 düzenlenmiş
 saltanat
 reddetmek
@@ -2647,7 +2380,6 @@ cevap
 cevap
 rapor
 yaslanmak
-temsil etmek
 bastırmak
 kınama
 çoğaltmak
@@ -2659,10 +2391,8 @@ kurtarma
 araştırma
 benzerlik
 benzemek
-resentfulness
 rezerv
 rezervuar
-istifa etmek
 direnmek
 kararlı
 çözüm
@@ -2682,7 +2412,6 @@ kısıtlamak
 dayanakları
 sonuç
 tutmak
-emekli olmak
 terslendi
 dönüş
 yeniden
@@ -2691,8 +2420,6 @@ dalgınlık
 canlandırıcı
 isyan
 devrim
-revolver
-geri sarma
 romatizma
 pirinç
 zengin
@@ -2705,12 +2432,10 @@ sırtlar
 gülünç
 tüfek
 sağ
-haklı olarak
 haklar
 halka
 isyan
 artış
-risk
 riskler
 ayin
 İbadetleri
@@ -2734,14 +2459,11 @@ kök
 Kökleri
 halat
 gül
-gül ağacı
-rosebushes
 güller
 pembe
 rotasyon
 kaba
 yuvarlak
-royal
 ovmak
 kauçuk
 harabe
@@ -2762,11 +2484,8 @@ sabotaj
 kurban
 üzücü
 hüzünlü
-ne yazık ki
 üzüntü
 güvenli
-sahara
-adı geçen
 yelken
 denizci
 tuz
@@ -2775,7 +2494,6 @@ selam
 selam
 aynı
 kum
-kum taneleri
 battı
 Cumartesi
 uydu
@@ -2789,11 +2507,8 @@ tasarruf
 testere
 demek
 söz
-saynot
 diyor
 ölçek
-eşkenar olmayan
-hemen hemen
 korkmuş
 eşarp
 kırmızı
@@ -2802,7 +2517,6 @@ bilgin
 bilginler
 okul
 bilim
-bilim adamları
 Scorned
 akrep
 çığlık
@@ -2824,7 +2538,6 @@ güvenlik
 görmek
 tohum
 tohumlar
-seei
 görme
 aramak
 arayan
@@ -2835,10 +2548,7 @@ görüldü
 görüyor
 bölüm
 kaçırmamak
-ele geçirildi
-el koyma
 öz
-selfevident
 satmak
 satış
 kenarın
@@ -2855,9 +2565,7 @@ ciddi
 cidden
 ciddiyet
 vaaz
-hizmet etmek
 hizmet
-set
 ayarı
 yerleşmek
 yerleşik
@@ -2867,10 +2575,8 @@ Elliiki
 birkaç
 ağır
 seks
-eski püskü
 gölgeler
 sallamak
-shall
 şekil
 hisse
 köpekbalığı
@@ -2878,9 +2584,6 @@ keskin
 bilenmiş
 o
 koyun
-sheepif
-sheeps
-sheepthe
 levha
 kabuk
 kabuklar
@@ -2914,7 +2617,6 @@ gösteren
 gösterilir
 küçültmek
 funda
-omuz silkme
 silkme
 kapamak
 kapanır
@@ -2923,8 +2625,6 @@ hasta
 hastalıklı
 hastalık
 yan
-iç çekiş
-içini çekti
 işaret
 işaret
 sessizlik
@@ -2939,12 +2639,10 @@ basitleştirilmiş
 sadece
 beri
 samimi
-şarkı söylemek
 şan
 tek
 lavabo
 efendimiz
-sireover
 kardeş
 oturmak
 yer
@@ -2971,9 +2669,7 @@ hafifçe
 kayma
 yavaş
 yavaş
-yavaş yavaş
 küçük
-en küçük
 akıllı
 şangırtı
 koku
@@ -2986,12 +2682,9 @@ pürüzsüz
 salyangoz
 yılan
 yılan
-snakesthey
 kar
 sokulmak
-bu yüzden
 sabunlu
-hıçkıra hıçkıra
 futbol
 sosyal
 toplum
@@ -3007,10 +2700,8 @@ bazı
 biri
 birisi
 birileri
-bir şey
 bazen
 biraz
-bir yerde
 oğlum
 şarkı
 yakında
@@ -3051,7 +2742,6 @@ delikanlı
 bahar
 yaylar
 tutam
-sprinklingcan
 filiz
 filizi
 kekeledi
@@ -3065,14 +2755,12 @@ sahne
 merdiven
 durmak
 ayakta
-star
 baktı
 hayalci
 yıldız
 başlangıç
 başladı
 başlangıç
-açlıktan ölmek
 devlet
 görkemli
 devletler
@@ -3107,9 +2795,7 @@ düz
 garip
 Garip
 kayış
-strategems
 strateji
-straying
 sokak
 stresli
 esneme
@@ -3120,7 +2806,6 @@ atılımlar
 grev
 dizi
 şerit
-bebek arabası
 gezinme
 güçlü
 yapı
@@ -3137,14 +2822,12 @@ madde
 vekil
 banliyö
 yıkılma
-başarılı olmak
 başarılı
 başarı
 başarılı
 böyle
 ani
 aniden
-acı çekmek
 acı
 acı
 şeker
@@ -3156,9 +2839,7 @@ yaz
 toplamlar
 güneş
 Pazar
-güneş ışığı
 gündoğumu
-gün batımı
 günbatımı
 güneş
 denetlemek
@@ -3175,21 +2856,17 @@ sürpriz
 şaşırmış
 teslim
 kuşatma
-hayatta kalmak
 şüpheli
-askıya almak
 şüphe
 yutmak
 yutma
 Yemin
 tatlı
-tatlı tatlı
 tatlılık
 kabarma
 yüzmek
 yüzme
 makasçı
-switchmans
 hece
 hece
 sembol
@@ -3206,12 +2883,9 @@ masal
 konuşma
 konuştuk
 konuşma
-uzun boylu
 yüksek
 evcilleştirmek
-tamed
 Tames
-tank
 gecikmiş
 hedef
 tarife
@@ -3249,26 +2923,18 @@ müthiş
 bölge
 terör
 terörist
-test
 göre
-thank
 minnetle
 teşekkürler
 o
-thatin
-thatlook
 şu
 tiyatro
 onların
 onları
 tema
 kendilerini
-o zaman
-thenthe
 teori
 orada
-bu nedenle
-therehappy
 bunlar
 onlar
 kalın
@@ -3282,10 +2948,8 @@ düşünme
 susuzluk
 susamış
 otuz
-thirtyone
 bu
 dikenler
-thornswhat
 iyice
 Bu
 gerçi
@@ -3293,7 +2957,6 @@ düşünce
 düşünceler
 bin
 binlerce
-tehdit etmek
 üç
 attı
 gelişmek
@@ -3303,7 +2966,6 @@ sayesinde
 atmak
 Yaşasın
 yumruk
-gök gürültüsü
 gürledi
 Perşembe
 böylece
@@ -3313,11 +2975,8 @@ kaplan
 kaplanlar
 zaman
 kez
-timewell
 ürkek
-cicili bicili
 küçücük
-tipler
 akşamcı
 akşamcılar
 lastik
@@ -3325,9 +2984,7 @@ yorgun
 lastikler
 yorucu
 karşı
-ekmek kızartma makinesi
 bugün
-ayak parmakları
 birlikte
 zahmet
 tuvalet
@@ -3336,8 +2993,6 @@ tolere
 yarın
 ton
 dil
-bu gece
-tonightyou
 bademcik
 çok
 aldı
@@ -3376,9 +3031,7 @@ seyahat
 seyahat
 gezginler
 seyahatleri
-vatan hainliği
 hazine
-tedavi etmek
 tedavi
 tedavi
 antlaşma
@@ -3406,18 +3059,14 @@ gerçek
 denemek
 çalışıyor
 tüp
-tundra
 Türk
 dönüş
 dönük
 çevirme
 kaplumbağa
-özel öğretmen
 oniki
 yirmi
-iki kere
 tan
-twined
 iki
 tip
 çirkin
@@ -3430,7 +3079,6 @@ anlamak
 anlayış
 anlar
 anladım
-ne yazık ki
 mutsuz
 benzersiz
 birim
@@ -3443,7 +3091,6 @@ olmadıkça
 olası
 şanssız
 gereksiz
-vidalarını sökmek
 kadar
 yalan
 yukarı
@@ -3466,10 +3113,9 @@ aşı
 vadi
 değerli
 değer
-vanitywhich
+kibir
 sebze
 araç
-venusto
 fiil
 karar
 meyletmek
@@ -3477,14 +3123,9 @@ gerçek
 versiyon
 tepe
 çok
-veto
-canı sıkkın
 kurban
 zafer
-video
 köy
-üzüm bağları
-ihlal etmek
 şiddet
 vize
 vizyon
@@ -3507,13 +3148,12 @@ bekleyin
 bekledi
 bekleme
 bekler
-wakened
 yürümek
-walkand
 yürüdü
+yürüteç
 yürüyüş
+yürüyor
 duvar
-Walland
 Duvarlar
 dolaşmak
 gezinmeye
@@ -3550,13 +3190,9 @@ silahlar
 giymek
 yorgunluk
 giyme
-hava durumu
 Rüzgargülü
-web
 ot
-matem elbisesi
 hafta
-hafta sonu
 ağlayan
 tartmak
 karşılama
@@ -3574,15 +3210,11 @@ tekerlek
 tekerlekler
 zaman
 nereli
-her ne zaman
 nerede
-her nerede
-olup olmadığını
 hangi
 süre
 beyaz
 kim
-her kim
 bütün
 kime
 kişiye
@@ -3590,10 +3222,8 @@ neden
 geniş
 eş
 vahşi
-söndürülmesi güç ateş
 irade
 istekli
-win
 rüzgâr
 pencere
 pencereler
@@ -3607,20 +3237,17 @@ diledi
 dilek
 zekâ
 ile
-geri çekmek
 içinde
 olmadan
 tanık
 uyandım
 kurt
 kadın
-won
 merak
 harika
 merak
 alışkanlık
 ahşap
-ormanda yaşayan
 kelime
 sözler
 giydi
@@ -3632,12 +3259,9 @@ dünyalar
 yıpranmış
 endişeli
 endişe
-endişe verici
 kötü
-en kötüsü
 değer
 -cekti
-wouldnt
 yara
 enkaz
 yıkıntı
@@ -3662,14 +3286,10 @@ henüz
 sen
 genç
 senin
-sen
 seninki
+sen
 kendiniz
 kendiniz
 gençlik
-youthe
-yüklediğin
 zelanda
-zebra
 sıfır
-hayvanat bahçesi

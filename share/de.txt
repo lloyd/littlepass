@@ -1,16 +1,13 @@
 verlassen
 beschämt
 fähig
-in Blüte
 Wohnstätten
 über
 oben
 plötzlich
-abruptlyas
 Fehlen
 geistesabwesend
 absolut
-absurd
 reichlich
 Missbrauch
 Abgrund
@@ -72,10 +69,8 @@ Alter
 Agentur
 Aggression
 vor
-agoyou
 zustimmen
 Landwirtschaft
-ah
 voraus
 Hilfe
 Ziel
@@ -99,8 +94,6 @@ Verbündete
 Almanach
 fast
 allein
-aloneall
-alonewill
 entlang
 spröde
 bereits
@@ -116,7 +109,6 @@ Amerika
 Munition
 unter
 Menge
-amuse
 amüsant
 analysieren
 Anarchie
@@ -129,13 +121,11 @@ Winkel
 wütend
 Tier
 Tiere
-animalsi
 Knöchel
 Jubiläum
 verkünden
 ärgern
 verärgert
-ein anderer
 Antwort
 beantwortet
 Ameise
@@ -147,7 +137,6 @@ etwas
 sowieso
 irgendwo
 auseinander
-sich entschuldigen
 offensichtlich
 Erscheinung
 Beschwerde
@@ -277,7 +266,7 @@ da
 werden
 wird
 Werden
-becuase
+da
 Bett
 Biene
 gewesen
@@ -322,7 +311,6 @@ Vögel
 Geburtstag
 Bit
 beißen
-bject
 schwarz
 Schuld
 Decke
@@ -330,7 +318,6 @@ Bleicher
 trübe
 bluten
 gesegnet
-blind
 blinzelte
 Block
 Blut
@@ -422,7 +409,6 @@ beschäftigt
 aber
 Schmetterlinge
 Schmetterling
-butwhat
 kaufen
 Kauf
 von
@@ -449,7 +435,6 @@ Krebs
 Kandidat
 Kerze
 Kanone
-kann nicht
 Baldachin
 kippen
 fähig
@@ -479,8 +464,8 @@ Katastrophe
 Verschluss
 Fänger
 ansteckend
+Raupe
 Raupen
-caterpillarswho
 gefangen
 Ursache
 Waffenruhe
@@ -491,10 +476,12 @@ Zentrum
 Zentimeter
 zentral
 Jahrhundert
+Jahrhunderte
 Zeremonie
 sicher
 sicher
 Stuhl
+Stühle
 Vorsitzende
 Kammer
 Champion
@@ -503,16 +490,16 @@ Veränderung
 änderbar
 geändert
 Änderungen
-chap
 Kapelle
 Charakter
 Kohle
-chare
 aufladen
 charmant
 Tabelle
+Charts
 Verfolgungsjagd
 betrügen
+Cheats
 überprüfen
 geprüft
 jubeln
@@ -522,6 +509,7 @@ Chemikalien
 Chemie
 Cherub
 kauen
+kaut
 Kauen
 Huhn
 Hühner
@@ -531,23 +519,28 @@ Kinder
 Schornstein
 Schimpanse
 Porzellan
-Pommes frites
 Wahl
+Entscheidungen
 erstickt
 wählen
+gewählten
 wählte
 Weihnachten
 Lachen
+kichert
 Kirche
+Kirchen
 Zigarette
 Kreis
+Kreise
 Schaltung
+Schaltungen
 Umfang
 umschiffen
-Zirkus
 Bürger
 Staatsbürgerschaft
 Stadt
+Städte
 zivil
 Zivilist
 Mantel
@@ -556,16 +549,19 @@ klatschen
 klatschte
 klären
 Zusammenstoß
+Zusammenstöße
 Klasse
+Unterricht
 klassifizieren
+Klaue
 Krallen
 reinigen
+reinigt
 gereinigt
 Reinigung
 klar
 Lichtung
 deutlich
-hellsichtig
 Klerus
 Schreiber
 Klima
@@ -689,7 +685,6 @@ konvertieren
 überzeugt
 Köchin
 Grillparty
-cool
 kooperieren
 Koordinaten
 Kopie
@@ -704,7 +699,6 @@ Baumwolle
 Husten
 hustete
 könnte
-könnte nicht
 Rat
 zählen
 Land
@@ -737,7 +731,6 @@ Krokodil
 Kulturen
 überqueren
 gekreuzt
-crossexamine
 verärgert
 Menschenmenge
 überfüllt
@@ -780,7 +773,6 @@ Datum
 Tochter
 Dämmerung
 Tag
-dayagain
 Tagesanbruch
 Tage
 tot
@@ -816,7 +808,6 @@ zeigen
 Demonstration
 denunzieren
 Dichte
-dental
 leugnen
 Abfahrt
 abhängen
@@ -831,7 +822,6 @@ beschreiben
 beschrieben
 Wüste
 Wüsten
-desertwhat
 Design
 Wunsch
 Schreibtisch
@@ -889,7 +879,6 @@ Krankheit
 entmutigt
 entlassen
 Ungehorsam
-nicht gehorchen
 Zerstreuung
 Wegwerf-
 Streit
@@ -898,7 +887,6 @@ Dissident
 Abstand
 unterscheiden
 vornehm
-distributive
 Bezirk
 gestört
 störenden
@@ -918,17 +906,13 @@ Puppe
 Dollar
 Delphin
 spenden
-done
 nicht
 Tür
 doppelt
 Zweifel
-doubtit
 Zweifel
 Tauben
-nach unten
 Dame
-draftsthat
 Drachen
 Drama
 trank
@@ -940,9 +924,7 @@ gezogen
 schrecklich
 träumen
 träumen
-dreamthis
 gekleidet
-drew
 Getränk
 Trinken
 Antriebs
@@ -954,7 +936,6 @@ Droge
 betrunken
 trocken
 Ente
-dug
 Düne
 während
 Staub
@@ -991,24 +972,19 @@ Wirkung
 Anstrengung
 Ei
 Eier
-eh
 acht
 achte
-eis
 entweder
-elect
 Wahl
 elektrisch
 Elektriker
 Strom
 Eleganz
 Element
-elephans
 Elefant
 Elefanten
 elf
 sonst
-embarassed
 verlegen
 Botschaft
 Embryo
@@ -1029,7 +1005,6 @@ Energie
 erzwingen
 Motor
 Ingenieur
-enginegrease
 Englisch
 genießen
 genug
@@ -1102,7 +1077,6 @@ existieren
 bestanden
 Existenz
 existiert
-exp
 erweitern
 ergänzt
 erwarten
@@ -1127,7 +1101,6 @@ erweitern
 ausgestorben
 Aussterben
 löscht
-extra
 außerordentlich
 Extrem
 äußerst
@@ -1167,7 +1140,6 @@ Hof
 weiter
 Mode
 schnell
-fasten
 Fett
 tödlich
 Vater
@@ -1198,8 +1170,6 @@ Felder
 heftig
 fünfzehn
 fünfte
-fiftyfour
-Fiftythree
 Streit
 Abbildung
 Zahlen
@@ -1222,7 +1192,6 @@ Feuerwerk
 Firma
 fest
 erste
-firstto
 Fisch
 passen
 fünf
@@ -1246,7 +1215,6 @@ Mehl
 fließen
 Blume
 Blumen
-flowerthe
 geflogen
 fließend
 Flüssigkeit
@@ -1280,7 +1248,6 @@ Stirn
 fremd
 Wald
 Wälder
-für immer
 vergessen
 Vergessen
 vergeben
@@ -1291,8 +1258,7 @@ Form
 früher
 Formen
 verlassen
-zum Glück
-fortyfour
+vierzig
 vorwärts
 gefunden
 Brunnen
@@ -1301,7 +1267,6 @@ vier
 vierte
 Fuchs
 Füchse
-foxhis
 Fraktion
 brechen
 zerbrechlich
@@ -1332,7 +1297,6 @@ voll
 Fumble
 Spaß
 Funktion
-im Grunde
 Beerdigung
 lustig
 liefern
@@ -1344,7 +1308,7 @@ Spiel
 Spiele
 Müll
 Garten
-gardenand
+Gärtnerei
 Gas
 sammeln
 gesammelt
@@ -1357,7 +1321,6 @@ Generation
 Völkermord
 sanft
 Gentleman
-gentlemans
 sanft
 Geograph
 Geographen
@@ -1395,12 +1358,10 @@ Gott
 geht
 Gehen
 Gold
-golden
 Goldfisch
 Golf
 weg
 gut
-Auf Wiedersehen
 Güte
 Waren
 Gans
@@ -1454,8 +1415,6 @@ Lebensraum
 Wohnen
 Haar
 Hälfte
-halfconfidence
-halfsmile
 Flur
 Stillstand
 Hammer
@@ -1481,14 +1440,11 @@ schädlich
 hart
 Ernte
 hat
-hat nicht
 beeilte
 hastig
-hasyes
 Hut
 hassen
 haben
-havent
 mit
 Kopf
 kopfüber
@@ -1526,7 +1482,6 @@ Häute
 versteckt
 hoch
 höchste
-hijack
 Hügel
 ihm
 sich
@@ -1591,7 +1546,6 @@ identifizieren
 Identität
 untätig
 ignorieren
-illegal
 unleserlich
 illegal
 Analphabet
@@ -1620,7 +1574,6 @@ beeindruckend
 unwahrscheinlich
 verbessern
 verbessert
-in
 ungenau
 Zoll
 Zoll
@@ -1629,7 +1582,6 @@ aufzuhetzen
 umfassen
 inkonsistent
 erhöhen
-in der Tat
 Einzug
 Unabhängigkeit
 unabhängig
@@ -1661,7 +1613,6 @@ Insekt
 unsicher
 untrennbar
 innen
-bestand darauf,
 prüfen
 Inspektion
 inspirierend
@@ -1674,9 +1625,7 @@ Instrumentarium
 Aufsässigkeit
 Isolator
 Beleidigung
-ganze Zahl
 Intelligenz
-intelligent
 intensiv
 Interdependenz
 Interesse
@@ -1684,7 +1633,6 @@ interessiert
 interessant
 Interessen
 einmischen
-international
 Internet
 unterbrochen
 schneid
@@ -1703,10 +1651,7 @@ unsichtbar
 laden
 betreffen
 Eisen
-irr
-irrational
 unversöhnlich
-irrelevant
 irreparabel
 irreversibel
 gereizt
@@ -1723,8 +1668,6 @@ Ausgabe
 es
 seine
 selbst
-iv
-ix
 Gefängnis
 zuckte
 Juwel
@@ -1769,11 +1712,8 @@ Messer
 klopfen
 Knoten
 wissen
-knowa
-knowi
 wissend
 Wissen
-knowmy
 bekannt
 weiß
 Knöchel
@@ -1816,7 +1756,6 @@ sprang
 lernen
 gelehrt
 Lernen
-am wenigsten
 Leder
 verlassen
 Austritt
@@ -1836,11 +1775,9 @@ lassen
 können
 Schreiben
 Ebene
-liberal
 Lüge
 Lügen
 Leben
-lifefor
 Aufzug
 Licht
 beleuchtet
@@ -1853,7 +1790,6 @@ gefallen
 wahrscheinlich
 Grenze
 Linie
-linger
 Link
 Löwe
 Lippen
@@ -1899,13 +1835,11 @@ schön
 Liebe
 niedrig
 untere
-loyal
 Loyalität
 Glück
 glücklich
 schwermütig
 lau
-lunar
 Mittagessen
 liegend
 Maschine
@@ -1959,11 +1893,8 @@ Bürgermeister
 mir
 Mahlzeit
 bedeuten
-meanadmire
-meanephemeral
 Bedeutung
 Weise
-meantame
 messen
 Messung
 Fleisch
@@ -1974,7 +1905,6 @@ Meditation
 Medow
 treffen
 Treffpunkt
-melike
 Schmelz
 Mitglied
 Mitglieder
@@ -1996,7 +1926,6 @@ metallisch
 m
 Verfahren
 Mikroskop
-der Luft
 Mitte
 Mitternacht
 Macht
@@ -2004,7 +1933,6 @@ wandern
 Migration
 Meile
 Meilen
-militant
 Militär
 Miliz
 Milch
@@ -2031,7 +1959,6 @@ Rakete
 vermisst
 Fehler
 Fehler
-mistook
 Missverständnisse
 mischen
 Mischung
@@ -2040,9 +1967,7 @@ Mob
 Handy
 Modell
 mäßig
-modern
 bescheiden
-modestbut
 bescheiden
 ändern
 angefeuchtet
@@ -2067,8 +1992,6 @@ Moral
 Moralist
 mehr
 Morgen
-morninggood
-am meisten
 Motel
 Mutter
 Bewegung
@@ -2081,10 +2004,8 @@ Bewegung
 gerührt
 Bewegung
 Bewegungen
-bewegt sich
 Film
 Kino
-movingand
 viel
 Muffin
 Schalldämpfer
@@ -2099,7 +2020,6 @@ Muss
 Maulkorb
 meine
 mich
-myselfone
 Geheimnisse
 geheimnisvoll
 Geheimnis
@@ -2107,18 +2027,14 @@ Name
 namens
 Namen
 eng
-nasal
 Nation
-national
 Ureinwohner
 natürlich
 natürlich
 Natur
 Schiff
-navely
 Navigation
 Marine
-in der Nähe von
 erforderlich
 Notwendigkeit
 Hals
@@ -2132,7 +2048,6 @@ Neger
 Nachbar
 Nachbarschaft
 weder
-neutral
 nie
 dennoch
 neu
@@ -2141,13 +2056,10 @@ nächste
 schön
 Nacht
 niemand
-noeaten
 Lärm
 nominieren
-nicht erneuerbare
 Mittag
 noch
-normal
 Norden
 Nase
 Nasen
@@ -2163,7 +2075,6 @@ Nomen
 Nahrung
 jetzt
 nirgends
-nowthat
 Atom-
 Anzahl
 Ziffer
@@ -2190,7 +2101,6 @@ besetzen
 aufgetreten
 Ozean
 Ozeane
-oclock
 Achteck
 Krake
 ungerade
@@ -2208,7 +2118,6 @@ Allesfresser
 einmal
 ein
 diejenigen
-sich selbst
 nur
 offen
 geöffnet
@@ -2219,7 +2128,6 @@ Meinung
 ablehnen
 Gegenteil
 bedrücken
-orange
 Orbit
 bestellen
 bestellt
@@ -2236,10 +2144,8 @@ unsere
 verdrängen
 aus
 Ergebnis
-im Freien
 haarsträubend
 außerhalb
-oval
 über
 überwinden
 übermächtig
@@ -2269,7 +2175,6 @@ Papier
 Fallschirm
 Parade
 Absatz
-parallel
 Parallelogramm
 Verzeihung
 Elternteil
@@ -2322,7 +2227,6 @@ vielleicht
 Umfang
 Zeit
 umkommen
-permanent
 Erlaubnis
 Erlaubnis
 senkrecht
@@ -2351,15 +2255,12 @@ rosa
 Pionier
 Rohr
 Mitleid
-pityyou
 Ort
 deutlich
 Plan
 Flugzeug
 Planet
 Planeten
-planetsgood
-planetssuch
 Pläne
 Anlage
 Pflanzung
@@ -2373,8 +2274,6 @@ spielend
 Plädoyer
 Bitte
 zufrieden
-pleasedraw
-pleasetame
 Vergnügen
 reichlich
 Grundstück
@@ -2391,7 +2290,6 @@ Punkt
 spitz
 Gift
 Pol
-poleonly
 Pole
 Polizei
 Politik
@@ -2518,7 +2416,6 @@ verfolgt
 Druck
 geschoben
 setzen
-puts
 Putten
 verwirrt
 Pyramide
@@ -2556,7 +2453,6 @@ Regenwald
 erhöhen
 angehoben
 Ramme
-ran
 zufällig
 Vergewaltigung
 schnell
@@ -2572,9 +2468,7 @@ erreicht
 reagieren
 Reaktion
 lesen
-readercom
 bereit
-real
 realistisch
 realisieren
 realisiert
@@ -2600,7 +2494,6 @@ Rekord
 erzählen
 gewinnen
 rot
-redfaced
 reduzieren
 Kokons
 Reflexion
@@ -2612,10 +2505,8 @@ verweigern
 verweigert
 Bezug
 Region
-regional
 registrieren
 bedauern
-Bedauern darüber,
 regelmäßig
 geregelt
 herrschen
@@ -2633,7 +2524,6 @@ blieb
 bemerkte
 merken
 Erinnerung
-rememberhow
 erinnert
 Reue
 entfernen
@@ -2659,11 +2549,9 @@ Rettungs
 Forschung
 Ähnlichkeit
 ähneln
-resentfulness
 Reserve
 Reservoir
 kündigen
-Widerstand leisten
 entschlossen
 Auflösung
 hallte
@@ -2705,7 +2593,6 @@ Grate
 lächerlich
 Gewehr
 Recht
-mit Recht
 Rechte
 Ring
 Aufruhr
@@ -2742,7 +2629,6 @@ Rotation
 rau
 Runde
 königlich
-rub
 Gummi
 Ruine
 Regel
@@ -2776,7 +2662,6 @@ salutiert
 gleich
 Sand
 Sand
-sank
 sa
 Satellit
 Satin
@@ -2789,7 +2674,6 @@ Rettung
 Säge
 sagen
 Spruch
-saynot
 sagt
 Maßstab
 ungleichseitig
@@ -2838,7 +2722,6 @@ ergreifen
 beschlagnahmt
 Anfall
 selbst
-selfevident
 verkaufen
 Verkauf
 Kanten
@@ -2878,9 +2761,7 @@ scharf
 zugespitzt
 sie
 Schaf
-sheepif
 Schafe
-sheepthe
 Blatt
 Schale
 Schalen
@@ -2944,7 +2825,6 @@ Gesang
 Single
 Waschbecken
 Vater
-sireover
 Schwester
 sitzen
 Standort
@@ -2986,10 +2866,8 @@ glatt
 Schnecke
 Schlange
 Schlangen
-snakesthey
 Schnee
 Kuschel
-so
 seifig
 Schluchzen
 Fußball
@@ -3006,7 +2884,6 @@ lösen
 einige
 jemand
 jemand
-someones
 etwas
 manchmal
 etwas
@@ -3051,7 +2928,6 @@ Zweig
 Frühling
 Federung
 bestreuen
-sprinklingcan
 sprießen
 Sprossen
 zerstäubt
@@ -3107,7 +2983,6 @@ gerade
 seltsam
 seltsamsten
 Gurt
-Strategeme
 Strategie
 verirrt
 Straße
@@ -3137,7 +3012,6 @@ Substanz
 Ersatz
 Vorort-
 Subversion
-Erfolg haben
 gelungen
 Erfolg
 erfolgreich
@@ -3189,7 +3063,6 @@ Wellengang
 Schwimmen
 Schwimmen
 Weichensteller
-switchmans
 Silbe
 Silben
 Symbol
@@ -3252,12 +3125,8 @@ Terrorist
 Test
 als
 Dankeschön
-Gott sei Dank
 Dank
 dass
-dassin
-thatlook
-das ist
 die
 Theater
 ihre
@@ -3265,11 +3134,9 @@ sie
 Thema
 sich
 dann
-thenthe
 Theorie
 da
 deshalb
-therehappy
 diese
 sie
 dick
@@ -3283,10 +3150,8 @@ dritte
 Durst
 durstig
 dreißig
-thirtyone
 dies
 Dornen
-thornswhat
 gründlich
 diejenigen
 obwohl
@@ -3298,7 +3163,6 @@ bedrohen
 drei
 warf
 gedeihen
-throbs
 Thron
 durch
 werfen
@@ -3314,7 +3178,6 @@ Tiger
 Tiger
 Zeit
 mal
-timewell
 schüchtern
 Lametta
 winzig
@@ -3337,8 +3200,6 @@ toleriert
 morgen
 Ton
 Zunge
-heute Abend
-tonightyou
 Mandel
 zu
 nahm
@@ -3440,18 +3301,15 @@ vereint
 Universal-
 Universum
 Universität
-es sei denn
 unwahrscheinlich
 unglücklich
 unnötig
 schrauben
 bis
 Unwahrheit
-nach oben
 auf
 aufrecht
 Verstimmung
-nach oben
 Stadt-
 drängen
 dringend
@@ -3461,16 +3319,14 @@ gebraucht
 nützlich
 Platzanweiser
 üblich
-in der Regel
 Urlaub
 Impfstoff
 Tal
 wertvoll
 Wert
-vanitywhich
+Eitelkeit
 Gemüse
 Fahrzeug
-Venusto
 Verb
 Urteil
 Rand
@@ -3510,11 +3366,11 @@ Warten
 wartet
 geweckt
 gehen
-walkand
 ging
+Wanderer
 Wandern
+Spaziergänge
 Wand
-Walland
 Mauerwerk
 wandern
 wandert
@@ -3523,7 +3379,6 @@ wollte
 will
 Krieg
 Krieg
-warm
 warnen
 war
 Wasch
@@ -3569,28 +3424,22 @@ Westen
 nass
 Feuchtgebiet
 was
-was auch immer
 Weizen
 Rad
 Räder
 wenn
 woher
-wann auch immer
 wo
-wo auch immer
 ob
 die
 während
 weiß
 die
-wer auch immer
 ganze
 wem
-wem auch immer
 warum
 breit
 Frau
-wild
 Lauffeuer
 werden
 bereit
@@ -3619,7 +3468,6 @@ Won
 Wunder
 wunderbar
 fragen
-wont
 Holz
 Wald
 Wort
@@ -3638,7 +3486,6 @@ schlimmer
 schlechteste
 wert
 würde
-wouldnt
 Wunde
 Wrack
 Wrackteile
@@ -3663,13 +3510,11 @@ drüben
 Sie
 jung
 Ihre
-youre
 Ihre
+Sie
 sich
 euch
 Jugend
-youthe
-Sie über
 neuseeland
 Zebra
 Null

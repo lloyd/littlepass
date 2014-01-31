@@ -1,12 +1,10 @@
 abandonado
 avergoñado
 capaz
-en flor
 enderezos
 sobre
 anterior
 abruptamente
-abruptlyas
 ausencia
 distraído
 absoluto
@@ -31,8 +29,6 @@ acción
 accións
 activo
 activista
-actor
-na realidade
 agudo
 adaptarse
 adaptación
@@ -72,10 +68,8 @@ idade
 axencia
 agresión
 atrás
-agoyou
 acordo
 agricultura
-ah
 adiante
 axuda
 obxectivo
@@ -86,7 +80,6 @@ aeroporto
 alarma
 ai
 álbum
-alcohol
 alxébrico
 algoritmo
 Acceso
@@ -99,8 +92,6 @@ aliado
 almanaque
 case
 só
-aloneall
-alonewill
 xunto
 indiferente
 xa
@@ -127,9 +118,7 @@ rabia
 ángulo
 ángulos
 anoxado
-animal
 animais
-animalsi
 nocello
 aniversario
 anunciar
@@ -144,8 +133,6 @@ calquera
 alguén
 calquera
 nada
-de calquera xeito
-en calquera lugar
 aparte
 desculparse
 aparente
@@ -172,7 +159,6 @@ Arizona
 brazo
 escudo
 exército
-en torno a
 despertado
 prender
 preso
@@ -180,12 +166,10 @@ chegada
 chegar
 chegou
 arte
-artificial
 artillaría
 como
 gris
 avergoñado
-de lado
 preguntar
 Pregunta
 torto
@@ -219,7 +203,6 @@ asistir
 atención
 atributos
 auditar
-aurora
 Australia
 autor
 autoridade
@@ -235,14 +218,12 @@ premio
 lonxe
 torpe
 bebé
-de volta
 malo
 crachá
 equilibrio
 equilibrado
 disparate
 balón
-ballet
 globo
 cédula
 prohibir
@@ -251,13 +232,11 @@ base
 banquete
 baobá
 baobás
-bar
 barbeiro
 nu
 barganha
 barril
 barreira
-base
 béisbol
 cesta
 fornada
@@ -272,12 +251,9 @@ bater
 malleira
 fermoso
 beleza
-converteuse en
 porque
 facer-se
-pasa a ser
-converténdose no
-becuase
+porque
 cama
 abella
 ser
@@ -303,9 +279,6 @@ flexión
 beneficioso
 dobrado
 baga
-xunto con
-ademais de
-o mellor
 traizoar
 mellor
 entre
@@ -314,15 +287,12 @@ ademais
 gran
 máis
 bicicleta
-proxecto de lei
-mil millóns
 bioloxía
 paxaro
 aves
 aniversario
 bocado
 morder
-bject
 negro
 culpa
 pegada
@@ -340,8 +310,6 @@ soprado
 golpes
 azul
 torpe
-boa
-boas
 alardeada
 barco
 corpo
@@ -358,7 +326,6 @@ fronteira
 aburrido
 buratos
 nacido
-pedir prestado
 tanto
 incomodar
 botella
@@ -422,7 +389,6 @@ ocupado
 pero
 bolboretas
 bolboreta
-butwhat
 mercar
 compra
 por
@@ -449,11 +415,9 @@ cancro
 candidato
 vela
 canón
-non pode
 dossel
 hipocrisía
 capaz
-capital
 captura
 coche
 caravana
@@ -477,24 +441,23 @@ castelos
 gato
 catástrofe
 captura
-catcher
 atractivo
+lagarta
 eirugas
-caterpillarswho
 capturados
 causa
-cesamento do fogo
 celebrar
 adega
 células
 centro
 centímetro
-central
 século
+séculos
 cerimonia
 seguro
 seguramente
 materia
+cadeiras
 presidente
 cámara
 campión
@@ -507,20 +470,20 @@ amigo
 capela
 carácter
 carbón
-chare
 cobrar
 encanto
 gráfico
+gráficos
 persecución
-facer trampa
+fraude
 comprobar
 Comprobarase
 alegría
 alegre
 leopardo
-produtos químicos
 química
 querubín
+mastigar
 mastigar
 mastigación
 polo
@@ -531,24 +494,29 @@ nenos
 cheminea
 chimpancé
 China
-patacas fritas
 elección
+opcións
 embargada
 escoller
+escollido
 escolleu
 Nadal
 cacarejo
+risadas
 igrexa
+igrexas
 cigarro
 círculo
+círculos
 circuíto
+circuítos
 circunferencia
 circunnavegar
-circo
 cidadán
+cidadáns
 cidadanía
 cidade
-civil
+cidades
 civil
 vestido
 reivindicación
@@ -556,16 +524,19 @@ gonorrea
 aplaudiu
 aclarar
 choque
+enfrontamentos
 clase
+aulas
 clasificar
+garra
 poutas
 limpo
+limpa
 limpo
 limpeza
 claro
 clareira
 claramente
-clarividente
 clero
 escriturário
 clima
@@ -574,8 +545,6 @@ subiu
 reloxo
 preto
 pechado
-de cerca
-máis próximo
 peche
 folla
 roupa
@@ -594,7 +563,6 @@ colección
 universidade
 colonia
 cor
-de memoria
 cor
 combinación
 combinar
@@ -616,7 +584,6 @@ compañeiros
 compañía
 comparar
 compás
-compatible
 compensación
 competencia
 competición
@@ -662,14 +629,11 @@ conexión
 consecuencia
 conservador
 considerar
-considerable
 constitución
 constritor
-constrictors
 construción
 consultou
 consumidor
-consumingly
 contacto
 conter
 recipiente
@@ -681,7 +645,6 @@ seguir
 continuo
 continuidade
 contrario
-control
 conveniente
 convenio
 conversación
@@ -704,7 +667,6 @@ algodón
 tose
 tossiu
 podería
-non podería
 consello
 contar
 país
@@ -729,7 +691,6 @@ obras
 crédito
 tripulación
 chorou
-crime
 penal
 crise
 criticar
@@ -737,7 +698,6 @@ crocodilo
 culturas
 atravesar
 cruzado
-crossexamine
 anoxado
 multitude
 lotado
@@ -750,7 +710,6 @@ cubo
 cultura
 pesado
 cura
-toque de queda
 curiosidade
 curioso
 enrolado
@@ -780,7 +739,6 @@ data
 filla
 madrugada
 día
-dayagain
 madrugada
 días
 morto
@@ -788,11 +746,9 @@ xordo
 acordo
 caro
 morte
-debate
 débeda
 decidir
 decidido
-decimal
 declarar
 decorado
 diminuír
@@ -808,7 +764,6 @@ grao
 abatimento
 atraso
 delegado
-delta
 demanda
 petición
 democracia
@@ -816,7 +771,6 @@ demostrar
 manifestación
 denunciar
 densidade
-dental
 negar
 partida
 depender
@@ -831,7 +785,6 @@ describir
 descritos
 deserto
 desertos
-desertwhat
 proxecto
 desexo
 secretaria
@@ -851,7 +804,6 @@ diamante
 ditador
 dicionario
 fixo
-Non está
 morrer
 dieta
 diferenza
@@ -910,7 +862,6 @@ facer
 médico
 documento
 fai
-non fai
 can
 cans
 facendo
@@ -923,14 +874,11 @@ non
 porta
 dobre
 dúbida
-doubtit
 dúbidas
 pombas
 abaixo
 borradores
-draftsthat
 dragón
-drama
 bebeu
 deseñar
 caixón
@@ -940,7 +888,6 @@ deseñado
 terriblemente
 soñar
 soñar
-dreamthis
 vestido
 Drew
 bebida
@@ -962,7 +909,6 @@ deber
 moribundo
 cada
 aguia
-máis antiga
 cedo
 gañar
 seriamente
@@ -991,7 +937,6 @@ efecto
 esforzo
 ovo
 ovos
-eh
 oito
 oitavo
 velaí
@@ -1003,7 +948,6 @@ electricista
 electricidade
 elegancia
 elemento
-elephans
 elefante
 elefantes
 once
@@ -1022,14 +966,11 @@ baleiro
 encantamento
 encontros
 final
-en perigo de extinción
 soportar
 inimigo
 enerxía
-facer cumprir
 motor
 enxeñeiro
-enginegrease
 Inglés
 gozar
 suficiente
@@ -1072,10 +1013,7 @@ noite
 evento
 Sempre
 cada
-todo o mundo
-todo o mundo
 todo
-en todas partes
 evidencia
 mal
 exacto
@@ -1127,7 +1065,6 @@ ampliar
 extinguido
 extinción
 extinguido
-extra
 extraordinario
 extremo
 moi
@@ -1147,18 +1084,15 @@ desmaios
 feira
 moi
 fadas
-contos de fadas
 fiel
 caer
 caído
 caída
 caídas
 teito
-familiar
 familias
 familia
 famoso
-fan
 fantasía
 lonxe
 Facenda
@@ -1174,12 +1108,10 @@ pai
 fatiga
 fallo
 favorecer
-favorable
 favorito
 favorito
 medo
 característica
-federal
 alimentación
 sentir
 pés
@@ -1189,7 +1121,6 @@ sentido
 feminino
 preto
 fértil
-festival
 febre
 febril
 poucos
@@ -1198,15 +1129,12 @@ campos
 feroz
 quince
 quinto
-fiftyfour
-fiftythree
 loita
 figura
 figuras
 cubrir
 cuberto
 película
-final
 finalmente
 financeiro
 atopar
@@ -1218,11 +1146,9 @@ acabado
 acabado
 lume
 incendios
-fogos artificiais
 empresa
 firmemente
 primeiro
-firstto
 peixe
 caber
 cinco
@@ -1230,7 +1156,6 @@ fixar
 accesorios
 bandeira
 chama
-flash
 brillou
 pisca-pisca
 apartamento
@@ -1246,7 +1171,6 @@ fariña
 fluír
 flor
 flores
-flowerthe
 voado
 fluentemente
 fluído
@@ -1280,7 +1204,6 @@ examina
 estranxeiro
 bosque
 bosques
-para sempre
 esquecer
 esquecendo
 perdoar
@@ -1292,16 +1215,13 @@ antigo
 formas
 abandonado
 sorte
-fortyfour
-para adiante
+corenta
 atopado
 fonte
-fountainpen
 catro
 cuarto
 raposo
 raposos
-foxhis
 fracción
 fractura
 fráxil
@@ -1333,7 +1253,6 @@ inépcia
 Diversión
 función
 fundamentalmente
-funeral
 divertido
 proporcionar
 mobiliado
@@ -1344,8 +1263,7 @@ xogo
 xogos
 lixo
 xardín
-gardenand
-gas
+xardinería
 reunir
 collido
 deu
@@ -1357,7 +1275,6 @@ xeración
 xenocidio
 suave
 cabaleiro
-gentlemans
 suavemente
 geógrafo
 geógrafos
@@ -1365,7 +1282,6 @@ xeografías
 xeografía
 xeométrico
 gerânio
-gerbil
 xesto
 obter
 fica
@@ -1383,7 +1299,6 @@ dá
 dando
 feliz
 relance
-brillo intenso
 vidro
 brillar
 brillos
@@ -1397,7 +1312,6 @@ ida
 ouro
 dourado
 peixe-dourado
-golf
 desaparecido
 bo
 adeus
@@ -1410,13 +1324,11 @@ Goberno
 graza
 grao
 gran
-grainfields
 gramática
 gran
 granito
 gráfico
 herba
-grave
 gravemente
 gris
 gran
@@ -1440,7 +1352,6 @@ crece
 resmungou
 garantía
 garda
-guerrilla
 adiviñar
 adiviñou
 Esoterismo
@@ -1454,8 +1365,6 @@ hábitat
 vivenda
 pelo
 metade
-halfconfidence
-halfsmile
 entrada
 parada
 martelo
@@ -1464,31 +1373,25 @@ man
 pano
 manexar
 mans
-máis bonito
 pendente
 enforcamento
 pasar
 pasou
 acontecemento
-máis feliz
 alegremente
 feliz
 difícil
 lebre
 dano
 prexudicial
-harmfully
 áspero
 colleita
 ten
-non ten
 apresurouse
 apresuradamente
-hasyes
 sombreiro
 odio
 ter
-havent
 tendo
 cabeza
 precipitadamente
@@ -1516,7 +1419,6 @@ rabaño
 aquí
 eremita
 heroe
-ela mesma
 dúbida
 dubidou
 Hexágono
@@ -1526,7 +1428,6 @@ peles
 ocultación
 alto
 máis
-hijack
 outeiro
 el
 se
@@ -1537,39 +1438,31 @@ historia
 acadar
 izada
 soster
-terra arrendada
 burato
 buratos
 vacacións
 santo
 casa
-con saudades de casa
 honesto
 mel
 honra
 esperanza
 cornos
-horrible
 terror
 cabalo
-hospital
 refén
 hostil
 quente
-hotel
-máis quente
 hora
 horas
 casa
 como
-con todo
 enorme
 abrazou
 zumbido
 humano
 humanidade
 humilde
-humor
 cen
 centos
 fame
@@ -1585,8 +1478,6 @@ home
 hipótese
 xeo
 sorbete
-idea
-ideas
 identificar
 identidade
 inactivo
@@ -1609,7 +1500,6 @@ imigrar
 inmoble
 inmoral
 inmoble
-impenetrable
 importación
 importancia
 importante
@@ -1617,7 +1507,6 @@ imposible
 inexpugnable
 impresionar
 impresionante
-improbable
 mellorar
 mellorado
 en
@@ -1629,14 +1518,11 @@ incitar
 incluír
 inconsistente
 aumentar
-de feito
 entalhe
 independencia
 independente
 indio
-indies
 indiferenza
-individual
 indulgentemente
 industria
 ineficiente
@@ -1659,7 +1545,6 @@ enquisa
 insano
 insectos
 inseguro
-inseparable
 dentro
 insistiron
 inspeccionar
@@ -1668,13 +1553,11 @@ inspirado
 instancia
 instante
 inmediatamente
-en vez
 instrumento
 instrumentos
 insubordinación
 illante
 insulto
-número enteiro
 intelixencia
 intelixente
 intenso
@@ -1699,7 +1582,6 @@ invención
 inverso
 investir
 investigar
-invisible
 invitar
 implicar
 ferro
@@ -1707,8 +1589,6 @@ IRR
 irracional
 irreconciliável
 irrelevante
-irreparable
-irreversible
 irritada
 irritar
 irritada
@@ -1716,16 +1596,13 @@ irritación
 é
 illa
 illote
-non é
 illado
 isósceles
 cuestión
 el
 súa
 se
-iv
-ix
-cadea
+prisión
 empurrou
 xoia
 traballo
@@ -1769,11 +1646,8 @@ coitelo
 bater
 nó
 saber
-knowa
-knowi
 coñecemento
 coñecemento
-knowmy
 coñecido
 sabe
 xunta
@@ -1782,12 +1656,9 @@ laboratorio
 falta
 lago
 lámpada
-lamplighter
-lamplighters
 lámpadas
 terra
 aterrado
-landform
 paisaxe
 lingua
 gran
@@ -1797,8 +1668,6 @@ lazo
 duraron
 dura
 tarde
-máis tarde
-latitude
 risada
 risível
 riu
@@ -1822,7 +1691,6 @@ deixar
 partida
 charla
 esquerda
-legal
 lenda
 lexislativo
 lexislatura
@@ -1836,11 +1704,9 @@ deixar
 permite
 carta
 nivel
-liberal
 mentira
 mentiras
 vida
-lifefor
 ascensor
 luz
 iluminado
@@ -1871,7 +1737,6 @@ carga
 vadiando
 préstamo
 lagosta
-local
 localización
 frear
 peches
@@ -1889,12 +1754,9 @@ afrouxou
 perder
 perdido
 lote
-gran cantidade
 alto
-máis alto
 amor
 amado
-máis linda
 encanto
 amores
 abaixo
@@ -1905,7 +1767,6 @@ sorte
 afortunado
 lúgubre
 morno
-lunar
 xantar
 deitado
 máquina
@@ -1945,10 +1806,8 @@ marte
 marabilla
 masa
 mestre
-obra mestra
 fósforo
 compañeiro
-material
 matemático
 Matemáticas
 asunto
@@ -1956,14 +1815,10 @@ temas
 madura
 poder
 alcalde
-me
 comida
 significar
-meanadmire
-meanephemeral
 significado
 medios
-meantame
 medir
 medición
 carne
@@ -1971,19 +1826,13 @@ mecánico
 medios
 medicina
 Meditación
-medow
 atender
-meetingplace
-melike
 derreter
 membro
 membros
-memorial
 memorias
 memoria
 homes
-mental
-menthat
 comerciante
 misericordia
 mero
@@ -1991,7 +1840,6 @@ só
 mérito
 mensaxe
 coñeceu
-metal
 metálico
 metros
 método
@@ -2015,7 +1863,6 @@ millóns
 mimetismo
 mente
 mina
-mineral
 miniatura
 ministro
 menor
@@ -2042,7 +1889,6 @@ modelo
 moderado
 moderno
 modesto
-modestbut
 modestamente
 modificar
 humedecida
@@ -2058,18 +1904,13 @@ monotonía
 monstro
 mes
 meses
-mal humor
 lúa
 luar
 enxugou
 morena
-moral
 moralista
 máis
 mañá
-morninggood
-a maioría
-motel
 nai
 movemento
 inmoble
@@ -2084,7 +1925,6 @@ movementos
 movementos
 película
 películas
-movingand
 moi
 bolinha
 silencioso
@@ -2098,8 +1938,6 @@ mosquete
 necesario
 fociño
 meu
-eu mesmo
-myselfone
 misterios
 misterioso
 misterio
@@ -2107,15 +1945,11 @@ nome
 nomeado
 nomes
 estreito
-nasal
 nación
 nacional
 nativo
-natural
 naturalmente
 natureza
-nave
-navely
 navegación
 mariña
 preto
@@ -2128,26 +1962,21 @@ agullas
 necesidades
 neglixenciadas
 negociar
-negro
 veciño
 barrio
 nin
 neutro
 nunca
-non obstante
 novo
 noticia
 seguinte
 agradable
 noite
 ninguén
-noeaten
 ruído
 nomear
-non renovable
 mediodía
 nin
-normal
 norte
 nariz
 narices
@@ -2162,11 +1991,7 @@ entendendo
 substantivo
 nutrición
 agora
-sitio ningún
-nowthat
-nuclear
 número
-numeral
 numérico
 enfermería
 nutrientes
@@ -2190,7 +2015,6 @@ ocupar
 ocorreu
 océano
 océanos
-oclock
 octógono
 polbo
 estraño
@@ -2236,7 +2060,6 @@ noso
 expulsar
 fóra
 resultado
-ao aire libre
 escandalosamente
 fóra
 oblongo
@@ -2263,7 +2086,6 @@ pintores
 pintura
 par
 pálido
-panda
 arquexou
 papel
 paracaídas
@@ -2305,7 +2127,6 @@ paz
 pacificamente
 picos
 repique
-peevishly
 lapis
 Lapis
 pingüín
@@ -2314,7 +2135,6 @@ centavo
 pentágono
 persoas
 por
-por cento
 perfecto
 realizar
 perfumado
@@ -2325,7 +2145,6 @@ perecer
 permanente
 permiso
 autorización
-perpendicular
 perplexo
 persoa
 persuadir
@@ -2351,16 +2170,11 @@ rosa
 pioneiro
 tubo
 pena
-pityyou
 lugar
 claramente
-plan
 avión
 planeta
 planetas
-planetsgood
-planetssuch
-plans
 planta
 plantación
 plantas
@@ -2371,18 +2185,13 @@ brincallón
 recreo
 xogar
 chamamento
-por favor
 satisfeito
-pleasedraw
-pleasetame
 pracer
 abundancia
 enredo
 coraxe
 arrincado
 mergullou
-plural
-pocked
 peto
 poema
 poeta
@@ -2391,7 +2200,6 @@ punto
 pontudo
 veleno
 polo
-poleonly
 polos
 policía
 política
@@ -2405,7 +2213,6 @@ ponderou
 piscina
 pobre
 papoulas
-popular
 poboación
 mingau
 porto
@@ -2416,7 +2223,6 @@ posuír
 possesso
 posible
 cargo
-postal
 retrasar
 libra
 libras
@@ -2484,7 +2290,6 @@ promesa
 pronto
 proba
 probas
-propaganda
 axeitado
 correctamente
 propiedade
@@ -2518,7 +2323,6 @@ proseguindo
 pulo
 empurrado
 poñer
-puts
 poñendo
 intrigado
 pirámide
@@ -2537,10 +2341,8 @@ cociente
 coello
 guaxinim
 carreira
-radar
 esplendor
 radiación
-radio
 rabanete
 raio
 balsa
@@ -2551,12 +2353,9 @@ reixa
 ferrocarril
 ferrocarril
 choiva
-Arco da Vella
-bosque tropical
 levantar
 levantado
 carneiro
-ran
 acaso
 violación
 rapidamente
@@ -2572,9 +2371,7 @@ alcanzar
 reaccionar
 reacción
 ler
-readercom
 preparado
-real
 realista
 entender
 realizado
@@ -2600,7 +2397,6 @@ rexistro
 reconto
 recuperar
 vermello
-redfaced
 reducir
 bobinado
 reflexión
@@ -2633,7 +2429,6 @@ restos
 comentou
 recordar
 Remember
-rememberhow
 lembrados
 remorso
 eliminar
@@ -2659,10 +2454,8 @@ rescate
 investigación
 semellanza
 asemellar
-resentfulness
 reserva
 depósito
-dimitir se
 resistir
 resoluto
 resolución
@@ -2696,14 +2489,11 @@ rebobinar
 reumatismo
 arroz
 rico
-máis rico
-máis rico
 librar
 enigmas
 paseo
 cume
 ridículo
-rifle
 dereito
 acertadamente
 dereitos
@@ -2721,7 +2511,6 @@ estradas
 ruxido
 ruxido
 roubo
-robe
 rocha
 balanceaba
 foguete
@@ -2746,13 +2535,11 @@ fregar
 goma
 ruína
 regra
-rumor
 amarrotado
 realizar
 funcionamento
 rons
 ruptura
-rural
 arremetida
 apresurado
 apresurando
@@ -2761,7 +2548,6 @@ enferrujado
 sabotar
 sacrificio
 triste
-máis triste
 tristemente
 tristeza
 seguro
@@ -2777,7 +2563,6 @@ mesmo
 area
 areas
 afundiu
-sat
 satélite
 cetim
 satisfeito
@@ -2789,7 +2574,6 @@ economía
 serra
 dicir
 proverbio
-saynot
 di
 escala
 escaleno
@@ -2824,7 +2608,6 @@ seguridade
 ver
 semente
 sementes
-seei
 visto
 buscar
 buscando
@@ -2838,10 +2621,8 @@ aprehender
 incautados
 aprehensión
 eu
-selfevident
 vender
 venda
-selvedge
 senado
 enviar
 envía
@@ -2852,7 +2633,6 @@ separado
 secuencia
 serie
 serio
-en serio
 seriedade
 sermón
 servir
@@ -2863,7 +2643,6 @@ resolver
 establecido
 sete
 sétimo
-seventytwo
 varios
 grave
 sexo
@@ -2878,15 +2657,12 @@ forte
 afiada
 ela
 ovella
-sheepif
 ovellas
-sheepthe
 folla
 cuncha
 cunchas
 abrigo
 abrigado
-luz difusa
 brillo
 brilla
 barco
@@ -2914,8 +2690,6 @@ mostrando
 mostra
 encoller
 arbusto
-encoller de ombreiros
-encollendo os ombros
 pechar
 pecha
 Siberia
@@ -2932,19 +2706,15 @@ silencioso
 seda
 parvo
 prata
-similar
-simple
 simplicidade
 simplificada
 simplemente
 desde
 sincero
 cantar
-de canto
 único
 pía
 pai
-sireover
 irmá
 sentir-se
 local
@@ -2970,11 +2740,9 @@ leve
 levemente
 deslice
 lento
-o máis lento
 lentamente
 pequeno
 menor
-máis intelixente
 rompe
 cheiro
 cheiraba
@@ -2986,14 +2754,12 @@ suave
 caracol
 cobra
 cobras
-snakesthey
 neve
 aconchegar
 así
 ensaboado
 saloucando
 fútbol
-social
 sociedade
 suave
 suavemente
@@ -3008,9 +2774,7 @@ alguén
 alguén
 alguén
 algo
-ás veces
 algo
-nalgún lugar
 fillo
 canción
 pronto
@@ -3041,30 +2805,24 @@ espírito
 despeito
 espléndido
 división
-spoke
 Deportes
 local
-spray
 propagación
-os spreads
 Raminho
 primavera
 resortes
 borrifar
-sprinklingcan
 brote
 brotes
 balbuciou
 espía
 cadrado
 prazas
-squatter
 esquilo
 facada
 etapa
 escaleira
 soporte
-en pé
 estrela
 mirou
 Stargazer
@@ -3072,7 +2830,6 @@ estrelas
 comezo
 comezara
 comezando
-morrer de fame
 Estado
 impoñente
 estados
@@ -3090,7 +2847,6 @@ pasos
 vara
 aínda
 revolto
-stock
 estómago
 pedra
 pedras
@@ -3103,11 +2859,9 @@ historias
 tempestade
 historia
 cociña
-en liña recta
 estraño
 estraña
 cinta
-estrataxemas
 estratexia
 desviando
 rúa
@@ -3143,7 +2897,6 @@ sucedeu
 exitoso
 tal
 repentino
-de súpeto
 sufrir
 sufriu
 sufrimento
@@ -3156,11 +2909,6 @@ verán
 sumas
 sol
 Domingo
-luz solar
-nacer do sol
-pór do sol
-sunsets
-luz do sol
 supervisar
 subministración
 apoio
@@ -3189,7 +2937,6 @@ inchar
 natación
 natación
 manobreiro
-switchmans
 sílaba
 sílabas
 símbolo
@@ -3207,7 +2954,6 @@ conversación
 Falamos
 falante
 alto
-a máis alta
 domar
 domesticado
 Tames
@@ -3244,10 +2990,8 @@ tenrura
 tenso
 prazo
 terrario
-terrible
 terriblemente
 territorio
-terror
 terrorista
 proba
 que
@@ -3255,9 +2999,6 @@ agradecemento
 agradecidamente
 grazas
 que
-thatin
-thatlook
-iso é
 o
 teatro
 seu
@@ -3265,15 +3006,11 @@ eles
 tema
 se
 despois
-thenthe
 teoría
 alí
-polo tanto
-therehappy
 estes
 eles
 groso
-máis groso
 fino
 cousa
 cousas
@@ -3283,10 +3020,8 @@ terceiro
 sede
 sedento
 trinta
-thirtyone
 este
 espinhos
-thornswhat
 minuciosamente
 aqueles
 aínda
@@ -3314,13 +3049,11 @@ tigre
 tigres
 tempo
 veces
-timewell
 tímido
 ouropel
 minúsculo
 Tipler
 borracho
-tipplers
 pneumático
 canso
 pneumáticos
@@ -3328,7 +3061,6 @@ cansativo
 para
 torradeira
 hoxe
-dedos dos pés
 xuntos
 labuta
 baño
@@ -3337,8 +3069,6 @@ tolerado
 mañá
 ton
 lingua
-esta noite
-tonightyou
 tonsila
 tamén
 tomou
@@ -3350,7 +3080,6 @@ tormento
 rasgado
 tortura
 lanzadas
-total
 Preme
 tocados
 excursión
@@ -3389,13 +3118,11 @@ tremía
 trémulo
 tremendo
 xuízo
-tribal
 tribo
 truco
 probado
 viaxe
 tropas
-tropical
 dificultade
 tregua
 camión
@@ -3407,7 +3134,6 @@ verdade
 tentar
 intentando
 tubo
-tundra
 turco
 vez
 virado
@@ -3416,7 +3142,6 @@ tartaruga
 titor
 doce
 vinte
-dúas veces
 solpor
 retorcido
 dous
@@ -3426,7 +3151,6 @@ ultrasóns
 incerta
 incómoda
 en
-por baixo
 entender
 comprensión
 enténdese
@@ -3437,10 +3161,8 @@ infeliz
 unidade
 unir
 unido
-universal
 Universo
 Universidade
-a non ser que
 improbable
 azaroso
 innecesario
@@ -3467,10 +3189,9 @@ vacina
 vale
 valioso
 valor
-vanitywhich
+vaidade
 vexetal
 vehículo
-Venusto
 verbo
 veredito
 bordo
@@ -3478,7 +3199,6 @@ certo
 versión
 vértice
 moi
-veto
 vèxado
 vítima
 vitoria
@@ -3491,7 +3211,6 @@ visto
 visión
 visita
 visitante
-vocal
 voz
 volcánico
 volcán
@@ -3510,11 +3229,11 @@ espera
 espera
 despertado
 andar
-walkand
 camiñou
+andador
 Rutas
+anda
 parede
-Walland
 paredes
 vaguear
 Wanders
@@ -3550,14 +3269,10 @@ arma
 armas
 desgaste
 cansazo
-levar posto
 tempo
 Cata
 tea
-herba herbas
-herbas daniñas
 semana
-fin de semana
 choro
 pesar
 Benvido
@@ -3568,26 +3283,19 @@ foron
 oeste
 mollado
 pantanal
-o que
-Sexa o que sexa
 trigo
 roda
 rodas
 cando
-de onde
-sempre que
 onde
-onde queira que
 se
 que
 mentres
 branco
 que
-quenquera que
 enteiro
 quen
 quen
-por que
 gran
 muller
 salvaxe
@@ -3615,7 +3323,6 @@ testemuña
 acordou
 lobo
 muller
-won
 marabilla
 marabilloso
 pregunta
@@ -3635,10 +3342,7 @@ preocupado
 preocupar-se
 preocupante
 peor
-o peor
-que paga a pena
 faría
-wouldnt
 ferida
 naufraxio
 restos
@@ -3663,14 +3367,9 @@ ademais
 ti
 nova
 seu
-your
 seu
-vostede mesmo
-vostedes mesmos
+está
 xuventude
-youthe
-youve
+tes
 Celandia
-zebra
 cero
-zoo

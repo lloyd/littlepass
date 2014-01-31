@@ -1,13 +1,10 @@
 opuštěný
-v rozpacích
 schopný
 kvetoucí
 příbytky
 o
 výše
 náhle
-abruptlyas
-absence
 roztržitý
 absolutní
 absurdní
@@ -32,7 +29,6 @@ akce
 aktivní
 aktivista
 herec
-ve skutečnosti
 akutní
 přizpůsobit
 adaptace
@@ -57,7 +53,6 @@ výhoda
 dobrodružství
 inzerovat
 radit
-v dálce
 záležitost
 postihnout
 náklonnost
@@ -72,10 +67,8 @@ věk
 agentura
 agrese
 před
-agoyou
 souhlasit
 zemědělství
-ah
 dopředu
 pomoc
 cíl
@@ -85,7 +78,6 @@ letadla
 letiště
 poplach
 běda
-album
 alkohol
 algebraický
 algoritmus
@@ -99,8 +91,6 @@ spojenec
 kalendář
 téměř
 sám
-aloneall
-alonewill
 podél
 rezervovaný
 již
@@ -129,7 +119,6 @@ hněv
 rozzlobený
 zvíře
 zvířata
-animalsi
 kotník
 výročí
 oznámit
@@ -144,17 +133,12 @@ každý
 někdo
 někdo
 něco
-v každém případě
 kdekoli
 odděleně
-Omlouvám se
 zřejmý
 zjevení
 odvolání
-se objeví
 vzhled
-objevil se
-Zobrazí se
 jablko
 jmenovat
 přístup
@@ -168,7 +152,6 @@ jsou
 plocha
 argumentovat
 aritmetický
-arizona
 paže
 zbraně
 armáda
@@ -186,39 +169,30 @@ jak
 popel
 zahanbený
 stranou
-zeptat se
-zeptal se
 nakřivo
 žádat
-ptá se
 spící
 montáž
 pomáhat
 pomoc
 asociativní
 zajistit
-asteroid
 asteroidy
 užaslý
 údiv
 ohromený
 astrologie
-astronaut
 astronom
 astronomický
 astronomie
-od sebe
 azyl
 jedli
 atmosféra
-atom
 připojit
 útok
 pokus
-zúčastnit se
 pozornost
 atributy
-audit
 jitřenka
 Austrálie
 autor
@@ -227,9 +201,7 @@ automobil
 podzim
 dostupný
 průměr
-vyhnout se
 probudit
-probudit se
 probudil
 cena
 pryč
@@ -249,16 +221,13 @@ zákaz
 obvaz
 banka
 banket
-baobab
 baobaby
-bar
 holič
 nahý
 smlouvat
 sud
 bariéra
 základna
-baseball
 košík
 dávka
 baterie
@@ -272,12 +241,9 @@ porazit
 bití
 krásný
 krása
-se stal
 protože
-stát se
-se stává
 slušivý
-becuase
+protože
 postel
 včela
 byl
@@ -320,9 +286,7 @@ biologie
 pták
 ptactvo
 narozeniny
-bit
 skus
-bject
 černý
 vina
 deka
@@ -340,7 +304,6 @@ foukané
 rány
 modrý
 klopýtat
-boa
 hroznýši
 chlubil
 loď
@@ -353,19 +316,16 @@ kostnatý
 kniha
 knihovna
 knihy
-boomtown
 hranice
 znuděný
 otvory
 narozený
-půjčit si
 oba
 obtěžovat
 láhev
 láhve
 spodní
 koupil
-box
 boxy
 chlapec
 bojkot
@@ -402,7 +362,7 @@ pupen
 rozpočet
 vybudovat
 budova
-postavený
+stavěný
 objemný
 kulka
 svazky
@@ -422,7 +382,6 @@ zaneprázdněný
 ale
 motýli
 motýl
-butwhat
 koupit
 nákupy
 podle
@@ -477,13 +436,11 @@ hrady
 kočka
 katastrofa
 úlovek
-catcher
 nakažlivý
+housenka
 housenky
-caterpillarswho
 chytil
 příčina
-zastavení palby
 oslavovat
 sklep
 buňky
@@ -491,9 +448,11 @@ centrum
 centimetr
 centrální
 století
+století
 obřad
 jistý
 určitě
+židle
 židle
 předseda
 komora
@@ -506,13 +465,13 @@ změny
 chlap
 kaple
 charakter
-dřevěné uhlí
-chare
 poplatek
 okouzlující
 graf
+grafy
 honit
 podvést
+cheaty
 zkontrolovat
 kontrolovány
 potěšit
@@ -522,6 +481,7 @@ chemikálie
 chemie
 cherubín
 žvýkat
+žvýká
 žvýkání
 kuře
 kuřata
@@ -533,21 +493,27 @@ komín
 Čína
 pomfrity
 volba
+volby
 udusil
 vybrat
+Zvolená
 vybral
 Vánoce
-potlačovaný smích
+smích
 kostel
+kostely
 cigareta
 kruh
+kruhy
 obvod
+obvody
 obvod
 obeplout
-cirkus
 občan
+občané
 občanství
 město
+města
 civilní
 civilní
 oblečený
@@ -556,16 +522,18 @@ tleskání
 zatleskal
 objasnit
 srážka
+střety
 třída
+vyučování
 klasifikovat
+dráp
 drápy
 čistý
+čistí
 vyčistit
 čištění
 jasný
-clearing
 jasně
-clearsighted
 duchovenstvo
 úředník
 podnebí
@@ -591,7 +559,6 @@ kolaps
 kolega
 sbírat
 sbírka
-vysoká škola
 kolonie
 barva
 barevný
@@ -643,7 +610,6 @@ chování
 vodič
 kužel
 konference
-přiznat se
 Přiznal
 přiznání
 svěřil
@@ -665,11 +631,9 @@ zvážit
 značný
 ústava
 svěrač
-constrictors
 konstrukce
 konzultace
 spotřebitel
-consumingly
 kontakt
 obsahovat
 kontejner
@@ -688,7 +652,6 @@ konverzace
 konvertovat
 přesvědčený
 kuchař
-cookout
 chladný
 spolupracovat
 souřadnice
@@ -704,7 +667,6 @@ bavlna
 kašel
 zakašlal
 mohl
-couldnt
 rada
 počítat
 země
@@ -737,7 +699,6 @@ krokodýl
 plodiny
 kříž
 přešel
-crossexamine
 mrzutě
 dav
 přeplněný
@@ -750,7 +711,6 @@ kostka
 kultura
 těžkopádný
 lék
-zákaz vycházení
 zvědavost
 zvědavý
 zvlněné
@@ -770,17 +730,14 @@ nebezpečí
 nebezpečný
 nebezpečně
 visící
-odvážit se
 odvážil
 tmavý
 potemněly
 tma
-data
 datum
 dcera
 svítání
 den
-dayagain
 svítání
 dny
 mrtvý
@@ -802,13 +759,11 @@ hluboce
 jelen
 porážka
 bránit
-deficit
 definovat
 stupeň
 sklíčenost
 zpoždění
 delegát
-delta
 poptávka
 požadoval
 demokracie
@@ -831,12 +786,8 @@ popsat
 popsáno
 poušť
 pouště
-desertwhat
-design
 touha
-psací stůl
 zničit
-detail
 detaily
 zajistit
 určit
@@ -845,7 +796,6 @@ rozvíjet
 rozvinutý
 zařízení
 věnovat
-diagram
 průměr
 diamant
 diktátor
@@ -864,7 +814,6 @@ kopání
 číslice
 důlek
 večeře
-diplomat
 přímý
 režie
 směr
@@ -875,7 +824,6 @@ zmizení
 zmizel
 zklamaný
 odzbrojit
-disarranged
 katastrofa
 disciplína
 odradit
@@ -919,18 +867,14 @@ dolar
 delfín
 darovat
 hotový
-dont
 dveře
 dvojitý
 pochybovat
-doubtit
 pochybnosti
 holubice
 dolů
 dáma
-draftsthat
 drak
-drama
 pili
 kreslit
 zásuvka
@@ -940,7 +884,6 @@ tažené
 hrozně
 sen
 snění
-dreamthis
 oblečený
 kreslil
 nápoj
@@ -979,7 +922,6 @@ jíst
 jedl
 stravování
 sní
-echo
 ozvěnou
 echolokace
 ekologie
@@ -994,30 +936,23 @@ vejce
 co
 osm
 osmý
-eis
 buď
 zvolit
 volby
 elektrický
 elektrikář
 elektřina
-elegance
 prvek
-elephans
 slon
 sloni
 jedenáct
 jiný
 Embarassed
-v rozpacích
 velvyslanectví
-embryo
-vynořit se
 pohotovostní
 emoce
 zaměstnat
 vyprázdnit
-prázdné obaly
 prázdný
 okouzlení
 setkání
@@ -1029,7 +964,6 @@ energie
 prosadit
 motor
 inženýr
-enginegrease
 angličtina
 těšit
 dost
@@ -1066,7 +1000,6 @@ etiketa
 Evropa
 evropský
 posoudit
-vypařovat se
 dokonce
 večer
 událost
@@ -1100,17 +1033,13 @@ vyčerpaný
 vyhnanství
 existovat
 existovaly
-existence
 existuje
-exp
 rozšířit
 rozšířený
 očekávat
 očekáváním
 vyloučit
 zkušenost
-experiment
-expert
 odborníci
 vysvětlit
 vysvětlil,
@@ -1120,7 +1049,6 @@ explodovat
 prozkoumat
 badatel
 průzkumníci
-export
 vyjádřit
 výraz
 rozšířit
@@ -1189,7 +1117,6 @@ plst
 žena
 plot
 úrodný
-festival
 horečka
 horečný
 málo
@@ -1198,14 +1125,11 @@ Pole
 divoký
 patnáct
 pátý
-fiftyfour
-fiftythree
 boj
 číslo
 čísla
 vyplnit
 plněné
-film
 poslední
 konečně
 finanční
@@ -1222,9 +1146,7 @@ ohňostroj
 firma
 pevně
 první
-firstto
 ryba
-fit
 pět
 opravit
 upínač
@@ -1246,7 +1168,6 @@ mouka
 průtok
 květina
 květiny
-flowerthe
 letět
 plynně
 kapalina
@@ -1260,7 +1181,6 @@ složit
 folklór
 sledovat
 následující
-fond
 jídlo
 blázen
 hloupý
@@ -1292,16 +1212,14 @@ bývalý
 formuláře
 opuštěný
 naštěstí
-fortyfour
+čtyřicet
 vpřed
 nalezeno
 kašna
-fountainpen
 čtyři
 čtvrtý
 liška
 lišky
-foxhis
 zlomek
 zlomenina
 křehký
@@ -1332,19 +1250,17 @@ plný
 šmátrat
 zábava
 funkce
-v podstatě
 pohřeb
 legrační
 vybavit
 zařízený
 budoucnost
-gadget
 získat
 hra
 hry
 odpadky
 zahrada
-gardenand
+zahradnictví
 plyn
 shromáždit
 shromáždili
@@ -1356,7 +1272,6 @@ obvykle
 generace
 genocida
 jemný
-gentleman
 pánové
 jemně
 geograf
@@ -1372,13 +1287,11 @@ dostane
 závratný
 dárek
 dárky
-hihňat se
 zázvor
 žirafa
 dívka
 holky
 dát
-vzhledem k
 dává
 dávat
 rád
@@ -1396,8 +1309,6 @@ jde
 děje
 zlato
 zlatý
-zlatá rybka
-golf
 pryč
 dobrý
 sbohem
@@ -1450,12 +1361,9 @@ vinen
 pistole
 zbraně
 zvyk
-habitat
 bydlení
 vlasy
 polovina
-halfconfidence
-halfsmile
 chodba
 zastavit
 kladivo
@@ -1467,8 +1375,6 @@ ruce
 nejhezčí
 pověsit
 závěsný
-stát se
-se stalo
 dění
 šťastnější
 šťastně
@@ -1484,14 +1390,11 @@ má
 nemá
 spěchal
 spěšně
-hasyes
 klobouk
 nenávidět
 mít
-havent
 s
 hlava
-po hlavě
 ústředí
 léčit
 zdraví
@@ -1519,7 +1422,6 @@ hrdina
 sebe
 váhavost
 zaváhala
-hexagon
 přezimovat
 schovat
 kůže
@@ -1534,7 +1436,6 @@ náznak
 hroch
 jeho
 historie
-hit
 zvedl
 držet
 držení
@@ -1556,7 +1457,6 @@ nemocnice
 rukojmí
 nepřátelský
 horký
-hotel
 teplejší
 hodina
 hodin
@@ -1569,7 +1469,6 @@ hučení
 člověk
 lidstvo
 pokorný
-humor
 sto
 stovky
 hlad
@@ -1599,18 +1498,15 @@ nelogický
 ilustrovat
 obraz
 představivost
-představit si
 nezralý
 nesmírný
 bezprostřední
 nesmírnost
 přistěhovalec
-přistěhovat se
 nehybný
 nemorální
 pevný
 neproniknutelný
-import
 význam
 důležitý
 nemožný
@@ -1624,17 +1520,14 @@ v
 nepřesný
 palec
 palců
-incident
 podněcovat
 obsahovat
-v rozporu
 zvýšení
 opravdu
 odsazení
 nezávislost
 nezávislý
 indický
-indies
 lhostejnost
 individuální
 shovívavě
@@ -1654,31 +1547,25 @@ zranit
 inkoust
 nevinný
 neúčinný
-zeptal se
 dotaz
 šílený
 hmyz
 nejistý
 nerozlučný
 uvnitř
-trval na tom,
 prohlédnout
 kontrola
 fascinující
-instance
 instantní
 okamžitě
-místo toho
 nástroj
 nástroje
 neposlušnost
 izolátor
 urážka
-celé číslo
 inteligence
 inteligentní
 intenzivní
-vzájemná závislost
 zájem
 zájem
 zajímavý
@@ -1723,8 +1610,6 @@ problém
 to
 jeho
 sám
-iv
-ix
 vězení
 prudce
 šperk
@@ -1769,11 +1654,8 @@ nůž
 zaklepat
 uzel
 vědět
-knowa
-knowi
 věděl,
 znalost
-knowmy
 známý
 ví
 koleno
@@ -1798,12 +1680,10 @@ trvalo
 trvá
 pozdě
 později
-zeměpisná šířka
 smích
 směšný
 zasmál
 smavý
-směje se
 smích
 spuštění
 prádlo
@@ -1813,7 +1693,6 @@ líný
 vést
 únik
 Vyskočil
-učit se
 učený
 studium
 nejméně
@@ -1825,9 +1704,7 @@ vlevo
 právní
 legenda
 zákonodárný
-zákonodárný sbor
 nohy
-volný čas
 půjčit
 délka
 méně
@@ -1840,7 +1717,6 @@ liberální
 lež
 lži
 život
-lifefor
 výtah
 světlo
 osvětlené
@@ -1851,9 +1727,7 @@ sympatický
 jako
 rád
 pravděpodobně
-limit
 linka
-loudat se
 odkaz
 lev
 rty
@@ -1880,8 +1754,6 @@ logický
 osamělý
 dlouho
 delší
-zeměpisná délka
-dívat se
 Podíval
 hledáte
 volný
@@ -1929,7 +1801,6 @@ výroba
 muž
 zlomyslný
 muž
-manhe
 skrýt
 výroba
 hnůj
@@ -1959,11 +1830,8 @@ starosta
 mě
 jídlo
 střední
-meanadmire
-meanephemeral
 Význam
 prostředek
-meantame
 opatření
 měření
 maso
@@ -1971,7 +1839,6 @@ mechanik
 média
 medicína
 rozjímání
-medow
 splňují
 MeetingPlace
 Melike
@@ -1983,20 +1850,17 @@ vzpomínky
 paměť
 muži
 duševní
-menthat
 obchodník
 soucit
 pouhý
 pouze
 hodnota
 zpráva
-se setkal
 kov
 kovový
 m
 metoda
 mikroskop
-midair
 střední
 půlnoc
 síla
@@ -2010,7 +1874,6 @@ milice
 mléko
 milimetr
 milión
-millioni
 miliony
 mimikry
 mysl
@@ -2026,7 +1889,6 @@ minut
 zázračný
 zrcadlo
 neštěstí
-miss
 střela
 chybějící
 chyba
@@ -2038,17 +1900,14 @@ směs
 zasténal
 dav
 mobilní
-model
 mírný
 moderní
 skromný
-modestbut
 skromně
 upravit
 navlhčeným
 vlhkost
 roztavený
-moment
 monarcha
 peníze
 opice
@@ -2060,19 +1919,15 @@ měsíc
 měsíců
 náladový
 měsíc
-měsíční svit
 otřel
 moréna
 morální
 mravokárce
 více
 ráno
-morninggood
 většina
-motel
 matka
 pohyb
-bez hnutí
 hora
 hory
 truchlit
@@ -2084,9 +1939,7 @@ pohyby
 pohybuje
 film
 filmy
-movingand
 hodně
-muffin
 tlumič
 násobení
 maminka
@@ -2098,8 +1951,6 @@ mušketa
 mošt
 náhubek
 můj
-já sám
-myselfone
 tajemství
 tajemný
 tajemství
@@ -2115,9 +1966,7 @@ přírodní
 přirozeně
 příroda
 náboj
-navely
 navigace
-válečné loďstvo
 poblíž
 nutný
 nutnost
@@ -2141,7 +1990,6 @@ další
 pěkný
 noc
 nikdo
-noeaten
 hluk
 nominovat
 neobnovitelný
@@ -2158,12 +2006,9 @@ zápisník
 poznámky
 nic
 oznámení
-si všiml,
-podstatné jméno
 výživa
 nyní
 nikde
-nowthat
 nukleární
 číslo
 číslice
@@ -2190,7 +2035,6 @@ obsadit
 došlo
 oceán
 oceány
-oclock
 osmiúhelník
 chobotnice
 zvláštní
@@ -2203,7 +2047,6 @@ oficiální
 často
 olej
 starý
-oldfashioned
 všežravec
 jednou
 jeden
@@ -2212,7 +2055,6 @@ sám
 pouze
 otevřeno
 otevřeno
-opera
 pracovat
 operace
 názor
@@ -2263,7 +2105,6 @@ malíři
 barvy
 pár
 bledý
-panda
 funěl
 papír
 padák
@@ -2273,15 +2114,12 @@ paralelní
 rovnoběžník
 milost
 rodič
-kulaté závorky
-park
 parlament
 petržel
 část
 částečný
 částice
 strany
-partner
 koroptev
 díly
 strana
@@ -2294,7 +2132,6 @@ průkazy
 přechod
 pas
 kolem
-patent
 cesta
 trpělivost
 pacient
@@ -2310,7 +2147,6 @@ tužka
 tužky
 tučňák
 haléře
-penny
 pětiúhelník
 lidé
 na
@@ -2329,7 +2165,6 @@ kolmý
 pomatený
 osoba
 přesvědčit
-okvětní lístky
 petice
 Uf
 fotografie
@@ -2346,43 +2181,33 @@ prase
 hromadí
 pilulka
 prášky
-pilot
 růžový
 průkopník
 trubka
 lítost
-pityyou
 místo
 jasně
 plán
 rovina
 planeta
 planety
-planetsgood
-planetssuch
 plány
 rostlina
 plantáž
 rostliny
-umělá hmota
 hrát
 hrál
 hravý
-dětské hřiště
 hrát
 námitka
 prosím
 spokojený
-pleasedraw
-pleasetame
 potěšení
 spousta
 parcela
 trhat
 trhal
 vrhl
-množné číslo
-pocked
 kapsa
 báseň
 básník
@@ -2391,7 +2216,6 @@ bod
 špičatý
 jed
 pól
-poleonly
 póly
 policie
 politika
@@ -2399,15 +2223,12 @@ zdvořile
 politika
 opylovač
 znečišťovat
-polygon
 rybník
 uvažoval
 kaluž
 špatný
-vlčí máky
 populární
 populace
-ovesná kaše
 přístav
 portrét
 portréty
@@ -2427,7 +2248,6 @@ síla
 mocný
 prérie
 chvála
-modlit se
 kazatel
 předchozí
 vzácný
@@ -2477,14 +2297,12 @@ produkty
 povolání
 profesor
 zisk
-program
 pokrok
 projekt
 slib
 ihned
 důkaz
 důkazy
-propaganda
 vlastní
 správně
 vlastnost
@@ -2493,7 +2311,6 @@ navrhované
 chránit
 ochrana
 ochrana
-protest
 hrdý
 dokázat
 poskytnout
@@ -2518,7 +2335,6 @@ pokračování
 tlačit
 tlačil
 dát
-puts
 uvedení
 zmateně
 pyramida
@@ -2537,7 +2353,6 @@ podíl
 králík
 mýval
 závod
-radar
 záře
 záření
 rádio
@@ -2552,11 +2367,9 @@ zábradlí
 železnice
 déšť
 duha
-deštný prales
 zvednout
 zvýšil
 beran
-ran
 náhodný
 znásilnění
 rychle
@@ -2572,12 +2385,10 @@ dosáhl
 reagovat
 reakce
 číst
-readercom
 připravený
 skutečný
 realistický
 realizovat
-si uvědomil,
 opravdu
 důvod
 rozumný
@@ -2585,7 +2396,6 @@ rozumný
 důvody
 uklidnit
 uklidnil
-rebel
 odvolání
 přijmout
 obdržel
@@ -2598,9 +2408,7 @@ uznává
 vzpomínky
 záznam
 vyprávět
-zotavit se
 červený
-redfaced
 snížit
 navíjení
 odraz
@@ -2631,9 +2439,7 @@ zůstat
 zůstal
 zbytky
 poznamenal:
-pamatovat si
 vzpomněl
-rememberhow
 Připomněl
 lítost
 odstranit
@@ -2654,11 +2460,9 @@ reprodukovat
 pověst
 žádost
 vyžadovat
-vyžaduje, aby
 záchrana
 výzkum
 podobnost
-podobat se
 naštvanost
 rezerva
 nádrž
@@ -2685,13 +2489,11 @@ udržet
 odejít
 odsekl
 návrat
-k opakovanému použití
 ukázalo,
 snění
 oživující
 vzpoura
 revoluce
-revolver
 vzad
 revmatismus
 rýže
@@ -2722,7 +2524,6 @@ silnice
 řvoucí
 okrást
 roucho
-rock
 otřáslo
 raketa
 skály
@@ -2734,8 +2535,6 @@ kořen
 kořeny
 lano
 růže
-růžový keř
-růžové keře
 růže
 růžový
 rotace
@@ -2765,7 +2564,6 @@ Nejsmutnější
 Smutně
 smutek
 bezpečný
-sahara
 uvedený
 plachta
 námořník
@@ -2777,7 +2575,6 @@ stejný
 písek
 písky
 potopila
-sat
 satelit
 atlas
 spokojený
@@ -2789,7 +2586,6 @@ spoření
 pilka
 říci
 rčení
-saynot
 říká
 stupnice
 Scalene
@@ -2824,21 +2620,16 @@ zabezpečení
 vidět
 semínko
 semena
-seei
 vidění
 hledat
 hledání
 připadat
-Zdálo se
-Zdá se,
 vidět
 vidí
-segment
 chytit
 chytil
 záchvat
 já
-selfevident
 prodávat
 prodejní
 lem
@@ -2863,13 +2654,10 @@ usadit
 usadil
 sedm
 sedmý
-seventytwo
 několik
 těžký
-sex
 ošumělý
 stíny
-chvět se
 musí
 tvar
 podíl
@@ -2878,9 +2666,7 @@ ostrý
 naostřený
 ona
 ovce
-sheepif
 ovce
-sheepthe
 list
 skořápka
 skořápky
@@ -2890,7 +2676,6 @@ lesk
 lesk
 svítí
 loď
-shipwrecked
 košile
 otřes
 šokován
@@ -2903,19 +2688,15 @@ nakupování
 obchody
 krátký
 Nejkratší
-shot
 by
 ramena
 křičet
-show
 ukázal,
 sprcha
 představení
 zobrazeno
-scvrknout se
 keř
 pokrčit
-pokrčil rameny
 zavřít
 zavírá
 sibiř
@@ -2944,7 +2725,6 @@ zpěv
 jednolůžkový
 dřez
 zplodit
-sireover
 sestra
 sedět
 místo
@@ -2959,7 +2739,6 @@ skica
 dovednost
 kůže
 sukně
-soklová podlažní lišta
 obloha
 otrok
 otroctví
@@ -2979,16 +2758,12 @@ smeč
 vůně
 cítit
 úsměv
-usmál se
-s úsměvem
 kouřit
 hladký
 hlemýžď
 had
 hadi
-snakesthey
 sníh
-přitulit se
 tak
 mýdlový
 vzlykající
@@ -3006,7 +2781,6 @@ vyřešit
 někteří
 někdo
 někdo
-someones
 něco
 někdy
 poněkud
@@ -3022,7 +2796,6 @@ typ
 druhy
 zvuk
 zdroj
-na jih
 místo
 mluvit
 mluvení
@@ -3042,7 +2815,6 @@ zášť
 skvělý
 rozdělit
 paprsky
-sport
 místo
 sprej
 rozšíření
@@ -3051,7 +2823,6 @@ ratolest
 jaro
 pružiny
 posypat
-sprinklingcan
 výhonek
 klíčky
 vyprskl
@@ -3069,7 +2840,6 @@ hvězda
 zíral
 hvězdář
 hvězdy
-start
 začal
 začíná
 hladovět
@@ -3095,7 +2865,6 @@ sklad
 kámen
 kameny
 Stál
-stop
 Zastavil
 obchod
 uloženy
@@ -3107,7 +2876,6 @@ rovný
 zvláštní
 Nejpodivnější
 popruh
-strategems
 strategie
 bloudění
 ulice
@@ -3156,11 +2924,6 @@ léto
 částky
 slunce
 neděle
-sluneční světlo
-východ slunce
-západ slunce
-západy slunce
-sluneční svit
 dohlížet
 dodávka
 podpora
@@ -3173,7 +2936,6 @@ chirurg
 přebytek
 překvapení
 překvapený
-vzdání se
 orámování
 přežít
 podezřelý
@@ -3189,10 +2951,8 @@ prima
 plavat
 plavání
 výhybkář
-switchmans
 slabika
 slabiky
-symbol
 symetrický
 symetrie
 sympatie
@@ -3249,26 +3009,20 @@ strašně
 území
 teror
 terorista
-test
 než
 děkuji
 naštěstí
 díky
 že
-thatin
-thatlook
-to je
 divadlo
 jejich
 je
 téma
 sami
 pak
-thenthe
 teorie
 tam
 proto
-therehappy
 tyto
 oni
 tlustý
@@ -3282,13 +3036,10 @@ třetí
 žízeň
 žíznivý
 třicet
-thirtyone
 tento
 trní
-thornswhat
 důkladně
 ty,
-i když
 myšlenka
 myšlenky
 tisíc
@@ -3313,7 +3064,6 @@ tygr
 tygři
 čas
 doba
-Timewell
 plachý
 pozlátko
 maličký
@@ -3325,7 +3075,6 @@ unavený
 pneumatiky
 únavný
 na
-opékač topinek
 dnes
 prsty
 spolu
@@ -3336,21 +3085,17 @@ tolerováno
 zítra
 tón
 jazyk
-dnes večer
-tonightyou
 mandle
 příliš
 se
 nářadí
 nářadí
 zub
-top
 trápení
 roztrhaný
 mučení
 hodil
 celkový
-dotýkat se
 dojatý
 prohlídka
 k
@@ -3397,7 +3142,6 @@ vojsko
 tropický
 problémy
 příměří
-nákladní auto
 plahočil
 skutečný
 skutečně
@@ -3406,13 +3150,11 @@ pravda
 zkusit
 snaží
 trubka
-tundra
 turečtina
 zatáčka
 obrátil
 soustružení
 želva
-tutor
 dvanáct
 dvacet
 dvakrát
@@ -3466,10 +3208,9 @@ vakcína
 údolí
 cenný
 hodnota
-vanitywhich
+marnost
 zeleninový
 vozidlo
-venusto
 sloveso
 verdikt
 okruh
@@ -3477,11 +3218,9 @@ opravdový
 verze
 vrchol
 velmi
-veto
 rozmrzelý
 oběť
 vítězství
-video
 obec
 vinice
 porušit
@@ -3509,11 +3248,11 @@ počkejte
 čeká
 probudil
 chodit
-walkand
 šel
+chodec
 chůze
+procházky
 zeď
-Walland
 stěny
 putovat
 Wandersem
@@ -3536,7 +3275,6 @@ voda
 napojena
 zalévání
 vody
-watt
 vlna
 zamával
 vlny
@@ -3551,7 +3289,6 @@ oblečení
 únava
 nošení
 počasí
-weathervane
 pavučina
 plevel
 plevele
@@ -3582,7 +3319,6 @@ který
 zatímco
 bílý
 kdo
-ten, kdo
 celý
 koho
 koho
@@ -3603,7 +3339,6 @@ drát
 moudrost
 moudrý
 přání
-si přál,
 přání
 vtip
 s
@@ -3614,7 +3349,6 @@ svědek
 Probudil
 vlk
 žena
-won
 divu,
 úžasný
 přemýšlel,
@@ -3623,7 +3357,6 @@ dřevo
 zálesí
 slovo
 slova
-na sobě
 práce
 pracoval
 práce
@@ -3637,7 +3370,6 @@ horší
 nejhorší
 hodnota
 by
-Nechtěl bych
 rána
 vrak
 vrak
@@ -3662,14 +3394,10 @@ onde
 vy
 mladý
 tvůj
-youre
 tvůj
 si
 sami
 mládí
-youthe
-youve
+jste
 zéland
-zebra
 nula
-zoologická zahrada
