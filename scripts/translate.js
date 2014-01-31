@@ -1,12 +1,14 @@
 // Given a google translation key in the environment, and
 // a wordlist in ../wordlist.txt, use the google translation
 // engine to translate into all available languages.
+//
+// (careful dude, running this with a GOOG api key costs you about 40$)
 
 var googleTranslate = require('google-translate')(process.env.GOOGLE_API_KEY),
     path = require('path'),
     fs = require('fs');
 
-var resPath = path.join(__dirname, '..', 'resources');
+var resPath = path.join(__dirname, '..', 'share');
 
 var errors = [];
 
@@ -41,7 +43,12 @@ googleTranslate.getSupportedLanguages(function(err, languageCodes) {
         }
         var list = [];
         translations.forEach(function(x) {
-          if (x.translatedText.length > 0) {
+          // skip zero length translations,
+          // translations which are identical to source text
+          // and translations with spaces.
+          if (x.translatedText.length > 0 &&
+              x.translatedText != x.originalText &&
+              x.translatedText.indexOf(' ') === -1) {
             list.push(x.translatedText);
           }
         });
