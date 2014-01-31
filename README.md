@@ -24,6 +24,7 @@ While we wait for the safer and easier world of tomorrow, maybe we can
 start by educating our little ones on how to cope with the world of today?
 This project, inspired by [dinopass][], is an experiment toward education.
 
+ [choose terrible passwords]: https://xato.net/passwords/more-top-worst-passwords/
  [dinopass]: http://http://www.dinopass.com/
 
 ## Usage
