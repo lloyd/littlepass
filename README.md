@@ -6,13 +6,16 @@ This is an experiment into helping little ones choose better passwords.
 
 Because most computer users repeatedly demonstrate that they [choose terrible passwords][], what is the best we can do to help the next generation do a little better?
 
-It seems like we've tried a hundred times *educating* the masses, and the results are unsatisfying.
+It seems like we've [tried][] a [hundred times][] *educating* the masses, and the results are unsatisfying.
 I don't think there's a nice clean answer how people will become safer online.
+
+  [tried]: http://www.youtube.com/watch?v=COU5T-Wafa4
+  [hundred times]: https://www.google.com/search?q=better+passwords
 
 Likely it will be a combination of things:
 higher visibility password compromise which will scare people,
-greater usage of federated identity which will reduce the number of passwords,
-increased use of password managers which will further reduces this number,
+greater usage of federated identity which will reduce the number of passwords we have to remember,
+increased use of password managers further reducing this number,
 better password hygiene by service providers which reduces the required complexity of a good password,
 and perhaps widespread adoption of password alternatives which rely on multiple authentication factors.
 
@@ -62,7 +65,7 @@ Will it ever work?
 For the english list, there are 3648 words, two are chosen, and a two digit number with
 90 possible values, placed at either the beginning, middle, or end.
 
-That's 3,593,134,080 possible passwords.  and `log<sub>2</sub>(3593134080)` is ~31 bits of entropy.  With great online brute force mitigation, and 1s of server-side key-stretching and random per-user salt... An online attacker is out of luck, and an attackers who can capture your server must invest 114 years to have a 100% probability of uncovering a user's password.
+That's 3,593,134,080 possible passwords.  and log<sub>2</sub>(3593134080) is ~31 bits of entropy.  With great online brute force mitigation, and 1s of server-side key-stretching and random per-user salt... An online attacker is out of luck, and an attackers who can capture your server must invest 114 years to have a 100% probability of uncovering a user's password.
 
 I think this is safe enough for my 7 year old daughter.  You?
 
@@ -95,10 +98,13 @@ This is far from optimal, but its a start!
 
 ## License
 
-Wordlists and code are covered by the ISC license.
+Wordlists and code are covered by the ISC license.  See `LICENSE`.
 
 ## Credits
 
 [dinopass][] for initial inspiration.
 
-For the initial wordlist: The Little Prince, Voice of America's "Special English" word list, [manythings.org][http://www.manythings.org] and [k12reader.com][http://www.k12reader.com].
+For the initial wordlist: The Little Prince, Voice of America's "Special English" word list, [manythings.org][] and [k12reader.com][].
+
+ [manythings.org]: http://www.manythings.org
+ [k12reader.com]: http://www.k12reader.com
