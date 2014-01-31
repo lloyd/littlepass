@@ -2,27 +2,23 @@
 
 ## Passwords for little ones
 
-This is an experiement into helping little ones choose better passwords.
+This is an experiment into helping little ones choose better passwords.
 
-Because most computer users repeatedly demonstrate that they
-[choose terrible passwords][], what is the best we can do to help the next
-generation do a little better?
+Because most computer users repeatedly demonstrate that they [choose terrible passwords][], what is the best we can do to help the next generation do a little better?
 
-It seems like we've tried a hundred times *educating* the masses, and
-the results are unsasitfying.  I don't think there's a nice clean
-answer how people will become safer online.
+It seems like we've tried a hundred times *educating* the masses, and the results are unsatisfying.
+I don't think there's a nice clean answer how people will become safer online.
 
-Likely it will be a combination of things: higher visibility password
-compromise which will scare people, greater usage of federated
-identity which will reduce the number of passwords, increased use of
-password managers which will further reduces this number, better
-password hygeine by service providers which reduces the required
-complexity of a good password, and perhaps widespread adoption of
-password alternatives which rely on multiple authentication factors.
+Likely it will be a combination of things:
+higher visibility password compromise which will scare people,
+greater usage of federated identity which will reduce the number of passwords,
+increased use of password managers which will further reduces this number,
+better password hygiene by service providers which reduces the required complexity of a good password,
+and perhaps widespread adoption of password alternatives which rely on multiple authentication factors.
 
-While we wait for the safer and easier world of tomorrow, maybe we can
-start by educating our little ones on how to cope with the world of today?
-This project, inspired by [dinopass][], is an experiment toward education.
+While we wait for the safer and easier world of tomorrow, maybe we can start by educating our little ones on how to cope with the world of today?
+
+This project, inspired by [dinopass][], is an experiment toward helping little ones choose better passwords.
 
  [choose terrible passwords]: https://xato.net/passwords/more-top-worst-passwords/
  [dinopass]: http://http://www.dinopass.com/
@@ -47,8 +43,7 @@ At time of writing, it speaks 71 language, in fact.
 
 ## Using this in a product
 
-The idea is simply, what if we design a sign up flow in products targetting little
-ones that goes like this:
+The idea is simply, what if we design a sign up flow in products targeting little ones that goes like this:
 
 1. The computer chooses a password for you.
 2. You can accept it, or get a new one.
@@ -58,10 +53,7 @@ ones that goes like this:
 6. If you can't type it twice, we start again.
 
 This, combined with collecting a parents email, hopefully gives the child a
-strong password that they have a good chance of remembering, and an easy
-way to reset it if they forget.  Combined with key stretching we probably end
-up with a system that is far more secure than most of the sites on the internet
-today.
+strong password that they have a good chance of remembering, and an easy way to reset it if they forget.  Combined with key stretching we probably end up with a system that is far more secure than most of the sites on the internet today.
 
 Will it ever work?
 
@@ -100,6 +92,4 @@ Wordlists and code are covered by the ISC license.
 
 [dinopass][] for initial inspiration.
 
-The Little Prince, Voice of America's "Special English" word list,
-[manythings.org][http://www.manythings.org] and
-[k12reader.com][http://www.k12reader.com].
+For the initial wordlist: The Little Prince, Voice of America's "Special English" word list, [manythings.org][http://www.manythings.org] and [k12reader.com][http://www.k12reader.com].
