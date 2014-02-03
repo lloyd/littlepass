@@ -10,6 +10,9 @@ description = "Create passwords appropriate for little ones"
 parser = OptionParser(description=description, version="0.1")
 parser.add_option("-l", "--language", dest="lang",
                   help="specify the language to use")
+parser.add_option("-i", "--interactive", action="store_true",
+                  dest="interactive", default=False,
+                  help="let the user pick the words used in their password")
 (options, args) = parser.parse_args()
 
 # get the user's language
@@ -64,4 +67,35 @@ def genPass():
     random.shuffle(pwelems)
     return ''.join(map(str,pwelems))
 
-print genPass()
+def getWordInteractive(wordlist):
+    choices = [ ]
+    for i in range(4):
+        word = random.choice(wordlist)
+        choices.append(word)
+        print str(i + 1) + ": " + word
+    choice = raw_input("Pick a word: ").strip()
+    if (choice in [ '1', '2', '3', '4']):
+        return choices[int(choice) - 1]
+    if (choice in choices):
+        return choice
+    print "Oops!  I don't know what '" + choice + "' means!"
+    print ""
+    print "Let's try again, pick a word by typing the number next to it:"
+    return getWordInteractive(wordlist)
+
+if options.interactive:
+    pwelems = [ random.randint(10,99) ]
+    wordlist = readWordList()
+    print "Let's create a secret password that only you know!"
+    print ""
+    print "First, pick one of these four words:"
+    pwelems.append(getWordInteractive(wordlist))
+    print ""
+    print "Great!  One more time, pick one of these four words:"
+    pwelems.append(getWordInteractive(wordlist))
+    random.shuffle(pwelems)
+    print ""
+    print "Awesome!  Your secret password is:"
+    print ''.join(map(str,pwelems))
+else:
+    print genPass()
